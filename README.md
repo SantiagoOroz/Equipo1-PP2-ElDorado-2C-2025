@@ -17,7 +17,6 @@ A short description of the project.
 ## Project Organization
 
 ```
-├── LICENSE              <- Licencia de código abierto del proyecto.
 ├── Makefile             <- Atajos para ejecutar tareas comunes (instalar, correr, etc.).
 ├── README.md            <- Documentación principal y guía de inicio rápido.
 │
