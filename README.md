@@ -7,5 +7,6 @@
 Couto Cristian -
 Villegas Oyarzo Valeria -
 Padron Belen -
-Oroz Santiago
+Oroz Santiago - 
+Stella Ventura
 
