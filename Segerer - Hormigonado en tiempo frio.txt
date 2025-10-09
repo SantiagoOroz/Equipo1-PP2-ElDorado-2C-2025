@@ -1,0 +1,446 @@
+
+===== Página 1 =====
+16.1. Defin
+rales
+
+ón de tiempo frío y conceptos gene-
+
+Debe prestarse especial atención cuando en el mismo
+día del hormigonado (o primeras noches) se puedan pre-
+sentar temperaturas menores a 0 C y riesgo de heladas
+en las inmediaciones del elemento estructural o cuan-
+do se pronostica que la temperatura media diaria de los
+3 días consecutivos pueda estar por debajo de los 5"C.
+
+En estas situaciones, que pueden preverse con la ayu-
+da de los pronósticos, no sólo basta con controlar que
+la temperatura del hormigón se encuentre por encima
+de cierto valor especificado en reglamentos, sino que
+hay que proteger la estructura durante los primeros días
+para que no pierda esta temperatura inicial, más la que
+puede incrementarse por las reacciones de hidratación.
+
+Sin embargo, existen varios prejuicios o “recetas” muy
+arraigadas en el medio que establecen que sólo puede
+hormigonarse cuando la temperatura es de 3a 4'C y en
+ascenso. Este criterio es completamente erróneo, ya que
+en condiciones de temperaturas muy bajas existen ex-
+periencias en nuestro país (por ejemplo en alta montaña
+o en minería) en que se lograron excelentes resultados,
+siempre y cuando se tomen las medidas de protección
+apropiadas. Estas disposiciones pueden ir en contra se-
+veramente de la productividad de cualquier proyecto.
+
+hora
+
+cualg
+Temperet::4 menor q "C por as de
+
+horas n cualquiar e lode de 74 hora
+
+Las medidas de protección ante bajas temperaturas que
+serán descritas deben realizarse hasta que el hormigón
+posea cierta resistencia, para que no sea dañado por las
+bajas temperaturas y/o las heladas. Si las temperaturas
+descienden por debajo de -2 C en el interior del hormi-
+gón, el daño será permanente, debiéndose por lo gene-
+ral reconstruir el elemento. Si el hormigón se congela a
+poco tiempo de colado y éste no alcanzó una resistencia
+de 5 a 10 MPa, su resistencia potencial puede reducirse
+hasta en un 50% o más. En estos casos se produce una fi-
+suración irreparable de la matriz de la pasta cementícea
+debido al aumento del volumen del agua contenida en
+el hormigón durante la congelación. Estos daños afectan
+principalmente el hormigón “de piel” o de recubrimien-
+to en contacto con el ambiente, el cual es el más relevan-
+te de la estructura ya que, por ejemplo, protegerá a las
+armaduras de la corrosión o brindará resistencia al des-
+gaste en pavimentos y canales.
+
+Reglamentariamente, se define como tiempo frío aque-
+llas condiciones en las cuales en las inmediaciones de la
+estructura la temperatura media es menor que 5C o
+cuando la temperatura ambiente es igual o menor que
+10“C durante medio día durante 3 o más días consecuti-
+vos. Las disposiciones y recomendaciones brindadas en
+
+el presente capítulo son de aplicación indispensable para
+que estas condiciones climáticas no dañen de forma per-
+manente la estructura ni alteren su funcionalidad.
+
+1ado cuando
+
+
+===== Página 2 =====
+Esta definición está relacionada con la temperatura a la
+cual se detienen o paralizan las reacciones de hidrata-
+ción, que según diversos estudios ronda los 3 a 4C. Sin
+embargo, y aunque no esté claramente previsto en los
+reglamentos, para condiciones de temperatura no tan
+exigentes —por ejemplo para temperaturas medias de 7
+a 10'C o temperaturas esperables de 0“C o inferiores de
+forma puntual en una sola jornada-, se retrasa notable-
+mente la velocidad de endurecimiento o ganancia de re-
+sistencias, aunque no exista ningún daño potencial para
+la resistencia final o durabilidad. Este aspecto toma ma-
+yor relevancia en aquellas estructuras en las cuales de-
+ban aplicarse tensiones antes de la edad de diseño (ha-
+bilitación rápida de pavimentos, movimiento de piezas
+premoldeadas, retiro de puntales). Para este tipo de ele-
+mentos, aunque no se encuentren en condiciones estric-
+tas de tiempo frío, serán aplicables las recomendacio-
+nes que se detallan, con el objetivo principal de agilizar
+la ganancia de resistencias. En estos casos y para habilitar
+tempranamente estructuras a determinada edad, se re-
+comienda realizar ensayos sobre el elemento (por ejem-
+plo, extracción de testigos) o sobre probetas moldeadas
+y curadas junto a la estructura, siendo mucho más prác-
+tica la segunda opción.
+
+16.2. Períodos de protección ante bajas tempe-
+raturas
+
+La protección efectiva del hormigón para defenderlo
+del frío consiste básicamente en mantenerlo a una tem-
+peratura y con un tenor de humedad que asegure el
+
+Edad (días)
+
+desarrollo de la resistencia y la durabilidad en las prime-
+ras edades. Según Reglamento CIRSOC 201, cuando se
+espera que la temperatura del ambiente descienda por
+debajo de +5C después de su colocación, el hormigón
+
+fresco será protegido y mantenido a temperaturas igua-
+les o mayores a 13C, para elementos con una mínima di-
+mensión de 30 cm y 10 C, para elementos con mínimas
+dimensiones entre 30 y 90 cm; mientras que para ele-
+mentos masivos los requisitos son más permisivos.
+
+También se establece que el período de protección míni-
+mo ante bajas temperaturas debe ser de 6 días para hor-
+migones con aire incorporado y de 12 días para H sin aire
+incorporado. Estos períodos, principalmente el segundo,
+son muy prolongados e influyen notablemente en la eco-
+nomía y productividad de la obra. Sin embargo, el mismo
+reglamento establece que el período de protección de las
+bajas temperaturas puede ser interrumpido cuando probe-
+tas curadas a un costado de la estructura arrojen resisten-
+cias de 7 MPa o más; siendo indispensable la realización de
+estos ensayos para disminuir los períodos arriba indicados.
+
+En la Figura 1 se presenta sólo como valores referenciales
+la evolución de resistencias de hormigones H-20 a H-35
+con cementos adicionados, para diferentes condiciones
+de temperatura. Apreciando estos gráficos, que deben
+ser corroborados con ensayos de obra, se aprecia cómo
+para categorías resistentes bajas de H-20 el período pue-
+de ser de 3 a 4 días, mientras que para H-30 se acorta el
+período a 2 días y con hormigones de más elevada re-
+sistencia a veces es necesario sólo tomar las medidas de
+
+
+===== Página 3 =====
+protección durante la primera noche. Este “incremen-
+to de costos” de categorías resistentes más elevadas de
+las requeridas por proyecto son casi siempre muy infe-
+riores a los costos asociados a los días adicionales de
+protección.
+
+Las medidas de protección deberán ser mantenidas
+cuando la temperatura ambiente sea inferior a 5C me-
+diante uno de los dos métodos generales durante el pe-
+ríodo antes consignado:
+
+* Protección pasiva: Evitar que el hormigón pierda su
+temperatura inicial, empleando materiales aislantes
+
+* Protección activa: Brindar al hormigón un
+“microclima”, con aporte externo de calor
+
+16.3. Temperatura inicial del hormigón fresco
+
+En condiciones de tiempo frío, es recomendable medir la
+temperatura del hormigón fresco como criterio de acep-
+tación, tal cual fue descrito en el Capítulo 9 del Manual.
+Los reglamentos establecen las temperaturas iniciales
+mínimas del hormigón a la salida de la planta elaborado-
+ra, las cuales deben cumplir con lo siguiente:
+
+* Para temperatura ambiente de -1a 7 “C, debe
+ser de al menos 16C para elementos de menos
+
+Figura 2
+
+Hormigonar 44 Abril|2018
+
+de 30 cm, 13C para espesores de 30 a 60 cm,
+10“C para espesores de 90 a 180 cm y de7
+para estructuras masivas de más de 180 cm de
+dimensión mínima
+
+* Para temperaturas ambientes de -18 a -1C, las
+temperaturas serán 3 C superiores a las arriba
+indicadas
+
+* Para temperaturas inferiores a -18C, las
+temperaturas serán 6 C superiores a las indicadas
+para-1a7C
+
+* Las temperaturas anteriores no deben superarse
+en más de 10'C para evitar gradientes térmicos
+considerables con la temperatura ambiente
+que puedan llegar a fisurar térmicamente el
+hormigón.
+
+La temperatura inicial del hormigón es el mayor de-
+safío del proveedor del hormigón elaborado en tiem-
+po frío, mientras que el período de protección co-
+rresponde a las medidas a tomar en obra.
+
+Para elevar la temperatura del hormigón fresco debe-
+rá tomar medidas para aislar térmicamente las mate-
+rias primas o equipos de mezclado y proteger la tem-
+peratura de los materiales o calentar los materiales
+
+
+===== Página 4 =====
+constituyentes del hormigón para que cumpla con
+los requisitos de temperaturas mínimas.
+
+En la Figura 2 se muestra una planta techada con
+caldera.
+
+Para temperaturas mayores a 0C generalmente es
+suficiente calentando el agua de mezclado a 60-70TC.
+Ejemplo: Para una temperatura de cemento y agregados
+de3a4T se eleva la temperatura del hormigón a 16a
+18T, sólo calentando el agua a 60 a 70'C; no debiendo
+calentarla a más de 80TC.
+
+En condiciones extremas, deberán calentarse los agregados,
+bien sea cubriéndolos por la noche con materiales aislantes,
+o mediante el empleo de resistencias eléctricas o tuberías
+por donde circulen fluidos calientes por su interior.
+
+Además, deberá preverse no trabajar con agregados
+congelados, reducir el empleo de agregados lavados,
+trabajar con cemento a la mayor temperatura posible o
+recién recibido, pudiendo ser factible aislar térmicamente
+algún silo en la planta cuando sea un requisito exigible la
+temperatura del hormigón.
+
+En casos de temperaturas muy bajas, podrán revestirse los
+trompos de los camiones hormigoneros con materiales
+aislantes, como espuma de poliuretano (Figura 3).
+
+16.4. Metodología de protec
+bajas temperaturas
+Generalmente es el medio más económico para estruc-
+turas y el menos conocido, ya que los recursos de pro-
+tección son siempre reutilizables. Conceptualmente con-
+siste en evitar que el hormigón pierda su temperatura
+inicial y aprovechar la temperatura desprendida en las
+primeras horas devenidas de las reacciones de hidrata-
+ción que son exotérmicas. Este método de protección
+se basa en colocar materiales aislantes como placas de
+poliestireno expandido, mantas térmicas, lana de vidrio,
+polietileno con burbujas o “pluribol”, paja o heno, o cu-
+biertas aislantes especiales sobre las superficies de las
+estructuras.
+
+Es recomendable que para evitar la pérdida de hume-
+dad de las estructuras se aplique otro método de cura-
+do como láminas plásticas, membranas de curado o en-
+cofrados dejados en el lugar, los cuales impiden pérdida
+de humedad pero no de temperatura. En las Figuras 4 y 5
+se muestran medidas de protección pasivas, las cuales en
+general son más económicas y merecen menor super
+sión, siendo más amigables con el ambiente ya que no se
+desperdicia energía.
+
+El control de esta metodología consiste en medir bajo el
+material aislante en contacto con la superficie del hor-
+migón que la temperatura no caiga por debajo de 7 a 13
+“C durante los días del período de protección, para ele-
+mentos masivos a elementos esbeltos respectivamente.
+Al cubrir el hormigón con capas de materiales aislantes,
+
+n pasiva de las
+
+
+===== Página 5 =====
+es muy importante el control de la temperatura inicial
+del hormigón fresco, ya que estos métodos no brindan
+más temperatura, sino que su objetivo es que se disipe
+muy lentamente la temperatura inicial.
+
+16.5. Metodología de protección activa ante las
+bajas temperaturas
+
+Existen diferentes métodos aplicables en función de la
+tipología del elemento estructural a proteger para brin-
+darle al hormigón un microclima apropiado, para que su
+temperatura no descienda por debajo de 10 C en pro-
+medio. Para ello, pueden acondicionarse:
+
+* Recintos aislados o semi-cubiertos, con cortavientos
+y calefaccionados con caloventores o quemadores
+
+* Ambientes al aire libre con quemadores u otros
+medios de calefacción
+
+La calefacción puede materializarse mediante quema-
+dores industriales de combustibles líquidos, ventilado-
+res calefactores con motor a explosión, estufas tipo sa-
+lamandra alimentadas con carbón de leña o mineral o
+con otros tipo de combustibles. Al usar cualquier tipo de
+calefactor debe prevenirse la posible pérdida de hume-
+dad del hormigón en su zona de acción. Varios calefacto-
+res producen dióxido de carbono, por lo que de usarlos
+
+Figura
+
+Hormigonar 44 Abril|2018
+
+debe protegerse la superficie del hormigón con láminas
+plásticas o similares, salvo que exista una buena ventila-
+ción que asegure la eliminación del gas. El dióxido de car-
+bono en contacto con el hormigón en sus primeras horas
+después de colado puede aparejar patologías superficia-
+les en pisos y pavimentos, como el empolvamiento.
+Otro cuidado a tener cuando se utilizan sistemas de ca-
+lefacción es que no se produzcan grandes variaciones de
+temperatura entre distintas zonas de la estructura, lo que
+puede producir daños a ésta. Una adecuada ventilación y
+circulación del aire en la zona caldeada soluciona el pro-
+blema. Otro aspecto a tener en cuenta es el relacionado
+con la potencial contaminación del medio ambiente en
+zonas urbanas o la imposibilidad de utilizarlos en ciertas
+obras que tienen uso restringido del fuego. En las Figuras
+6 y 7 se muestran ejemplos de protección activa.
+
+El control del método de curado consistirá en medir la
+temperatura en el punto más lejano de las fuentes de ca-
+lor durante los días que sea necesario el período de pro-
+tección y que ésta sea mayor a 7 a 13"C en función de la
+tipología del elemento estructural (masivo o de poco es-
+pesor respectivamente).
+
+16.6. Otras precauciones en tiempo frío
+
+El hecho de hormigonar en tiempo frío no siempre es si-
+nónimo de consecuencias desfavorables. En este senti-
+do, es conveniente hacer uso de las ventajas provistas por
+
+
+===== Página 6 =====
+el tiempo frío para colocar el hormigón en bajas tempe-
+raturas. El hormigón que es colocado en temperaturas de
+5a 137, siempre y cuando esté protegido contra el con-
+gelamiento y que recibe un curado prolongado, desarro-
+lla una resistencia última mayor y también una estructura
+más compacta que se traduce en mayor durabilidad final.
+Además del control de la temperatura inicial del hor-
+migón y de tomar medidas de protección pasiva o ac-
+tiva (no las dos superpuestas ya que no adicionan
+sus efectos), deben tenerse en cuenta las siguientes
+recomendaciones:
+
+No iniciar el hormigonado si no se cuenta en el lugar
+con los medios de protección aconsejables, como los
+elementos para cubrir, aislar, encerrar o calentar el
+ambiente del hormigón recién colado.
+
+Tener en cuenta que cuanto mayor sea la relación
+entre la superficie de evaporación y el volumen total
+de hormigón, será mayor la sensibilidad del elemento
+al tiempo frío (ejemplo: losas y pavimentos).
+
+No sólo prever medidas para controlar la
+temperatura, sino también aplicar un método de
+curado para evitar pérdidas de humedad.
+
+Controlar sistemáticamente la temperatura
+ambiente, de los materiales constituyentes y del
+hormigón fresco.
+
+No suspender la acción de los medios de protección
+hasta tanto no se tenga la certeza de que los valores
+de resistencias de probetas moldeadas y curadas
+con la estructura sean las apropiadas para liberar la
+estructura.
+
+Estudiar la factibilidad de aumentar la categoría
+resistente para reducir los períodos de protección.
+
+Agilizar la descarga y todas las tareas de colocación y
+compactación del hormigón.
+
+Descongelar la base de apoyo y encofrados
+en caso de que estén nevados o con escarcha,
+siendo necesario en algunos casos calentarlos,
+pero nunca en demasía porque puede resultar
+contraproducente.
+
+Utilizar materiales de adecuado desempeño en
+clima frío, como cementos de rápida ganancia
+de resistencias (si están disponibles en el
+mercado) y aditivos acelerantes de comprobada
+eficacia.
+
+No trabajar con asentamientos muy elevados ni
+excederse en aditivos superfluidificantes, ya que
+podrán retrasar el fragúe inicial del hormigón.
+
+Programar las tareas de llenado para las horas más
+favorables, que en tiempo frío suele ser el período
+entre las 10 y las 14 horas. Después de las 15 horas
+se corre el riesgo de que el fragúe coincida con el
+horario nocturno y hay que prestar mayor atención
+a las condiciones de protección.
+
+Respecto al tiempo de curado del hormigón, será
+más prolongado. Los días que el hormigón tenga
+temperaturas medias en su superficie de entre
+
+5 y 107€ deben ser considerados como 1/2 día,
+mientras que temperaturas medias menores a 4"C
+no deberían considerarse como computadas para
+el curado.
+
+Extender los tiempos de desencofrado, de ser
+posible dejarlos en el lugar. Los tiempos para
+desapuntalamiento se deben computar de la
+misma forma que para el curado, siendo también
+recomendable la realización de ensayos de probetas
+moldeadas y curadas al costado de las estructuras.
+
+En tiempo frío, el curado húmedo con agua es el
+menos recomendable, debido a que cuando los
+recintos de protección se encuentran mal aislados
+se puede producir el congelamiento de agua en su
+interior.
+
+Al finalizar el período de protección, deben evitarse
+gradientes de temperatura desfavorables, no
+debiendo ser sometido a cambios de temperatura
+mayores a 3"C/hora y sin sobrepasar 20€ en
+
+24 horas para hormigones convencionales. Para
+hormigones masivos, la caída debe ser más gradual
+e inferior a 1,5"C/hora.
+
+Es siempre recomendable realizar reuniones
+previas al hormigonado, como las detalladas en el
+Capítulo 1.
+
+Tomar las medidas de protección enunciadas en el
+capítulo 16 en condiciones climáticas adversas para
+prevenir la fisuración por contracción plástica. En
+casos de velocidades de viento mayores a 25 km/h
+y humedades relativas inferiores al 60% o sólo con
+velocidades de viento superiores a 40 km/h, existirá
+riesgo de fisuración plástica aún para temperaturas
+ambientes del orden de 5C. «
+

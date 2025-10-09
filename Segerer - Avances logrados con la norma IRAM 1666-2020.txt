@@ -1,0 +1,628 @@
+
+===== Página 1 =====
+28 NOTA TÉCNICA
+
+Avances logrados con la
+norma IRAM 1666:2020
+
+PRINCIPALES CAMBIOS INTRODUCIDOS A PARTIR DE LA NORMATIVA QUE SE APROBÓ ESTE AÑO.
+
+Por el Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+Wwww.cdhormigones.com.ar
+
+in lugar a dudas, la versión 2020 de IRAM
+
+1666 de hormigón elaborado viene a regu-
+
+lar una de las industrias más relevantes en la
+construcción. Entre los últimos 10 a 20 años se pro-
+dujo un crecimiento desmesurado y desregulado en
+el sector que generó una gran confusión entre los
+clientes que usan hormigón elaborado. Si bien resul-
+ta ampliamente positivo que cada vez existan más
+plantas y que el hormigón elaborado haya logrado
+una inserción exponencial en todas las ciudades y
+en todo tipo de obras, la confusión se debe a que el
+cliente piensa que el hormigón que le compre a cual-
+quier planta será de la calidad deseada, el volumen
+será el solicitado y contará con un servicio de en-
+trega acorde a lo esperado. Lamentablemente, esto
+no siempre es así, pero tampoco es culpa del cliente.
+El hormigón no es un material estático ni contro-
+lado por ningún ente. No se dosifica mediante fór-
+mulas que aparecen en un libro, ni sólo cargar datos
+en una planilla de cálculos arroja una dosificación,
+
+n Partes fundamentales para cumplimiento de IRAM 1666:20
+
+PERSONAL COMPETENTE
+
+« Responsable técnico.
++ Responsable calidad.
+
+« Líder asesoramiento.
+
+« Responsable logística.
+« Responsable H8S.
+
+* Laboratoristas.
+
+* Conductores de mixers.
+- Bombistas y ayudantes.
+« Fuerza de ventas.
+
+« Área administrativa.
+
+* Planta dosificadora.
+
+* Instrumental de planta.
+
+« Balanzas y caudalímetro.
+* Mixers.
+
+* Bombas móviles y fijas.
+
+* Tareas de mantenimiento.
+
+* Sistema de autocontrol.
+* Calibración de equipos.
+* Muestreo y seguimiento.
+* Laboratorio equipado.
+
+* Elementos necesarios.
+
+* Análisis de resultados.
+
+ni sirve “copiar” las fórmulas que hace otro. En ab-
+soluto, merece control continuo ya que es un ma-
+terial que debe prestar una seguridad estructural y
+una durabilidad determinadas y reducir el impacto
+ambiental mediante el uso racional de materiales.
+Este autocontrol -tan común, aceptado, necesario y
+regulado en una gran cantidad de industrias— has-
+ta la actualidad no está presente en todas las plantas
+de hormigón. Por ello no basta con tener una plan-
+ta y un par de equipos motohormigoneros para des-
+pachar hormigón. Hace falta el control y la mejo-
+ra continua de todo el proceso de modo constante.
+Entonces, ¿qué resulta mejor para ello que la gestión
+de calidad integral de la elaboración, transporte y
+entrega en obra del hormigón elaborado?
+
+Por otro lado, coexisten una gran variedad de cri-
+terios para controlar el hormigón en la Argentina,
+pero la nueva IRAM 1666 llega para unificarlos y
+hacerlos coincidentes con los de CIRSOC 201:05
+(tanto en Modo 1 como en Modo 2), desterrando
+otros criterios que —aunque a veces se exigen— son
+obsoletos. Asimismo, desde que comenzó a redac-
+tarse CIRSOC 201:05 ya pasaron dos décadas y a
+partir de entonces existe una gran cantidad de avan-
+ces tecnológicos y aplicaciones de obra que IRAM
+1666:20 tiene en cuenta.
+
+ACTUALIZACIÓN
+
+Uno de los conceptos más relevantes de IRAM
+1666:2020 que puede pasar inadvertido es que —al
+tener el mismo número que su predecesora (IRAM
+1666:1986)- la reemplaza y no puede hacerse valer
+una norma IRAM fuera de vigencia, o al menos no
+corresponde usar una normativa obsoleta.
+
+IRAM 1666:20 de hormigón elaborado obliga a las
+plantas a cumplir aspectos tan básicos como la rea-
+lización de controles de las materias primas y su
+muestreo; la determinación y el análisis estadístico
+de propiedades del hormigón fresco y endurecido;
+llevar a cabo una producción controlada y progra-
+mada con elementos de medición verificados; y —
+fundamentalmente— poseer recurso humano capa-
+citado en todas las áreas (figura 1). A partir de esta
+norma, para despachar hormigón elaborado se debe
+
+===== Página 2 =====
+cumplir con IRAM 1666:2020 y, quien no la cum-
+pla, puede despachar “mezclas” pero no hormigón
+elaborado.
+
+Así, con la implementación de simples medidas en
+órdenes de compra, pliegos de especificaciones y do-
+cumentos contractuales que exijan el uso de “hor-
+migón elaborado según norma IRAM vigente”, se
+marcará la diferencia ya que -si se verifica el cumpli-
+miento de la norma- esté o no certificada la planta
+es una mejora enorme para la calidad de la industria
+de la construcción.
+
+Aunque resulta inentendible, existen más de 100 em-
+presas “revolvedoras” (algunas con varias plantas)
+sin controles en absoluto, ni por parte de la hormi-
+gonera ni del cliente. Esta situación pone en riesgo
+la seguridad de las estructuras, la inversión de fon-
+dos públicos y privados, y el adecuado uso de las
+materias primas desde el punto de vista ambiental.
+La nueva norma fija reglas claras para que todas las
+empresas produzcan hormigones con mucha mayor
+confiabilidad (figura 2).
+
+29
+
+siendo compatible con el Modo 1 de Control de
+recepción de CIRSOC 201.
+
+* Se exige un laboratorio en planta para controles
+mínimos de recepción de hormigón fresco y
+determinación de humedades, así como la presencia
+de laboratoristas capacitados.
+
+* Se fija frecuencia de ensayos de agregados y que
+debe quedar a cargo del proveedor la caracterización
+íntegra, no sólo ensayos de rutina (como
+granulometría) sino también específicos (como
+ensayos de durabilidad y temática de RAS).
+
+* Se exige control de recepción documentado de
+materias primas y de producción de hormigones.
+
+* Se regula y estipula el uso de las adiciones como
+sustitución de cierto porcentaje del cemento, algo
+que se ha usado de forma bastante descontrolada en
+algunas plantas.
+
+* Se exige la verificación —al igual que CIRSOC
+201 (no calibración)- de elementos de medición
+en un período semestral (básculas, dosificadores,
+caudalímetros), que antes era anual. Se brinda una
+
+A Ventajas competítivas de Plantas en Modo 1 de Producción y de Control
+
+VENTAJAS DE HORMIGONERAS EN MODO 1
+
+PRODUCTIVIDAD
+
+N
+
+MAYOR CONFIABILIDAD
+(PRODUCTO Y SERVICIO)
+
+PROMOCIÓN
+DE LA EMPRESA
+
+No es sólo una actualización o una nueva versión de la
+norma, sino que se trata de una reformulación con el
+foco puesto principalmente en el cliente para darle ma-
+yor confianza sobre el producto comprado. Esto pue-
+de sonar contradictorio dado que la norma tiene como
+título “Hormigón elaborado: requisitos y control de
+producción” pero no lo es porque planificar y contro-
+lar una adecuada elaboración y despacho de los hormi-
+gones resulta en una mejora sustancial para el cliente.
+A continuación se mencionan sólo 20 de los cambios
+relevantes establecidos entre ambas versiones:
+
+* Se jerarquiza la certificación de calidad según ISO
+9001 para posicionarse en Modo 1 de Producción,
+
+cosms
+
+CAPACITACIÓN MEJORA CONTINUA
+
+Y RENDIMIENTO / x CON ANÁLISIS DE DATOS
+ALTERNATIVAS Ú SEGURIDAD
+Y SOLUCIONES Y DURABILIDAD
+REALES EN OBRA
+
+CAL|DAD RESPONSABILIDAD
+
+TRAZABILIDAD “——” DELCLIENTE
+
+AMBIENTAL
+
+INNOVACIONES Y
+/ HORMIGONES
+ESPECIALES
+SATISFACCIÓN REDUCCIÓN
+DE CONFLICTOS
+
+tabla de tolerancias de pesadas individuales y medias
+mucho más racional que tablas anteriores.
+
+* Se reafirma la relevancia de ajustes por
+contenido de humedad y formas de garantir la
+relación agua/mc.
+
+* La nueva norma expone que no sólo basa
+el seguimiento en resistencias sino que deben
+registrarse y analizarse variabilidades de consistencia,
+temperatura, peso unitario, aire u otros de pedidos
+por performance.
+
+* Se establece el uso de aditivos reductores de agua
+para asentamientos mayores a 10 cm, lo cual incluye
+a mucho más de la mitad de los hormigones colados
+
+© REVISTA HORMIGONAR DIGITAL 41
+
+===== Página 3 =====
+30 NOTA TÉCNICA
+
+en obra. CIRSOC 201:05 lo hacía obligatorio para
+asentamientos mayores a 15 cm.
+
+* Se brindan indicaciones de cómo controlar la
+documentación a solicitar para cemento y aditivos.
+
+* Se establecen frecuencias mínimas de muestreo
+de hormigón bien definidas (y no a juicio del
+proveedor).
+
+* Se adecua el concepto de resistencia especificada
+(fractil o cuantil 10%) según CIRSOC 201:05. La
+versión anterior de IRAM 1666 del año 1986 usaba el
+cuantil 5% con las normas DIN de la década del 70.
+* Cambia, actualiza y simplifica los criterios para
+verificar la homogeneidad del pastón, mediante
+IRAM 1876 y criterios CIRSOC 201, reemplazando
+la Parte III de IRAM 1666:86, mucho más tediosa.
+
+* La nueva versión acepta las probetas de
+10 x 20 cm, indica explícitamente que no debe
+aplicarse coeficiente de corrección alguno y brinda
+pautas de diferencias intraensayo admisibles, más
+racionales que las reglamentarias.
+
+* Se brinda una alternativa en lo que refiere a
+cloruros, basada en la sumatoria de cloruros de
+materiales constituyentes para compararlo con el
+umbral crítico según CIRSOC 201 (copiado en
+IRAM 1666:20), en lugar de realizar el ensayo según
+IRAM 1857 de cloruros en el hormigón endurecido.
+o Exige la obligatoriedad de que la organización
+cuente con un responsable técnico, lo cual es un gran
+avance.
+
+* Brinda en sus anexos un check list de aspectos a
+tener en cuenta y formularios tipo para el pedido o
+bien para que el proveedor del hormigón elaborado
+tenga una guía normalizada sobre qué consultarle al
+cliente.
+
+* Permite el pedido en base a otras propiedades
+diferentes de la resistencia a compresión,
+mencionando las normas para su caracterización,
+haciendo hincapié en el concepto de pedido por
+performance.
+
+* Sevalidan normas extranjeras parala especificación
+y uso de microsílice, fibras y pigmentos, entre otros
+materiales. Anteriormente, su empleo no tenía una
+clara legislación.
+
+* La nueva norma incluye la especificación
+de hormigones proyectados y hormigones
+no estructurales como HRDC. Esto permite
+considerarlos como hormigón elaborado y
+contribuye con muchas regiones del país en las
+cuales estos despachos son significativos, como
+también con las grandes obras que los usan
+masivamente.
+
+B Campo de aplicación de CIRSOC 201:05 e IRAM 1666:2020 (1)
+
+IRAM 1666:20
+PAVIMENTOS
+
+| DEHORMIGÓN -
+
+PROYECTADO
+
+PUENTES OBRAS
+Y VIADUCTOS HIDRÁULICAS
+Z OBRAS EDILICIAS X
+INFRAESTRUCTURA EN GENERAL
+URBANIZACIONES INDUSTRIALES
+T (<50% H? ELABORADO — —
+HRDCY H? EMPLEADO) FUNDACIONES
+ALIVIANADOS CIRSOC 201 ESPECIALES
+—
+CAWALES HORMIGONES
+NO ESTRUCTURALES
+Y ACUEDUCTOS HORMIGÓN FUIDOS
+
+h Ampliación de rangos de temperatura y tiempos de transporte
+
+13-16 %C (*) CIRSOC201:05
+
+«G
+
+10-13 *C (*) (X) IRAM 1666:20
+
+«G
+
+(*) SÓLO SI SE DAN CONDICIONES DE TIEMPO FRÍO SEGÚN CIRSOC 201:05
+(X) RANGOS 10 13 *CY DE32 A 35 *C SI SETOMAN MEDIDAS DE PROTECCIÓN EN OBRA
+
+30 %
+
+32-35 C (X)
+
+- AMPLIACIÓN DEL RANGO DE TIEMPOS DE TRANSPORTE EN MOTOHORMIGONERA -
+
+CIRSOC201:05 NN
+
+90 MINUTO | SI SE REQUIERE MÁS, DETERMINAR TIEMPO DE FRAGUE
+
+IRAM 1666:20 —
+
+120 MINUTO | DE LOS 120 MINUTOS, HAY 30 MINUTOS PARA DESCARGA EN OBRA.
+SI SE REQUIERE MÁS TIEMPO, EMPLEAR ADITIVOS ESTABILIZADORES DE HIDRATACIÓN
+
+MODO 1 DE PRODUCCIÓN
+
+IRAM 1666:20 establece que “con carácter
+voluntario, la planta de hormigón puede obtener
+una certificación de su proceso de producción
+por parte de un organismo de tercera parte. Las
+plantas que acceden a esta certificación reciben la
+denominación de plantas Modo 1 de producción.
+Las plantas que cumplen las disposiciones de esta
+norma pero carecen de una certificación por un
+organismo de tercera parte reciben la denominación
+de plantas Modo 2 de producción”. Esto quiere decir
+que no es obligatorio estar en Modo 1, pero hace
+la diferencia no sólo por la planta (estándares de
+aceptación de 5 MPa menos en resistencias medias
+que si se está en Modo 2) sino también para la
+obra, ya que según CIRSOC 201 baja la cantidad
+
+===== Página 4 =====
+de muestras de hormigón a tomar por el cliente y se
+reduce la potencial conflictividad en la evaluación
+más exigente de los resultados.
+
+La temática de Modo 1 y su vinculación con CIRSOC
+201 fue abordada en un artículo publicado en el número
+49 de la revista Hormigonar (diciembre de 2019).
+
+AVANCES TECNOLÓGICOS
+
+Entre algunos de los avances más relevantes en la
+parte estrictamente técnica, se mencionan:
+
+* Actualización y articulación con normas IRAM
+vigentes con cambios considerables desde 1986,
+como las de agregados finos y gruesos (IRAM 1520 y
+1533); las nuevas versiones de IRAM 50000, 50001,
+50002 y 50003 que se actualizan continuamente;
+agua de mezclado según IRAM 1601 y normativas
+de ensayos, casi todas actualizadas durante los
+últimos 20 años.
+
+* Compatibilidad con CIRSOC 201:2005 y con el
+dimensionamiento y cálculo actual de estructuras,
+en cuanto a categorías resistentes y criterios
+estadísticos de análisis, como así también en la
+categorización de Modo 1.
+
+31
+
+o Establecimiento de su validez para una gran
+cantidad de elementos estructurales con ejemplos
+de aplicación de éstos, siendo mucho más extendido
+que el mismo CIRSOC 201 en campo de acción
+(figura 3).
+
+o Vinculación del diseño por durabilidad y
+ambientes de CIRSOC 201 aplicable en principio
+a obras edilicias, a todo tipo de obras según IRAM
+1666, brindando condiciones específicas para que el
+proveedor tenga en cuenta este aspecto en el pedido
+(temática no contemplada en la versión de 1986).
+
+* Definición de hormigón elaborado como aquel
+que tiene estrictos controles de producción, y
+sustituye a la versión obsoleta de casi 35 años
+(durante este período hubo muchísimo más
+crecimiento de la industria que en los otros 70 años
+de historia del hormigón).
+
+* Incorporación de categorías resistentes superiores
+a las de IRAM 1666 (sólo regulaba hasta H-30, que
+era lo producible en la época) y CIRSOC 201:05
+(hasta H-60), llegando hasta H-100. Existen ya varios
+proyectos con resistencias superiores a 60 MPa en el
+país que estarían “fuera de norma”, así que con esto
+
+© REVISTA HORMIGONAR DIGITAL 41
+
+===== Página 5 =====
+32 NOTA TÉCNICA
+
+se regula este aspecto para dar mayor seguridad al
+cliente y a los profesionales de obra actuantes.
+
+* Especificación por performance para el uso
+de adiciones minerales activas por criterios de
+durabilidad (medidas para inhibir RAS, ataques de
+sulfatos, etc.).
+
+* Ampliación de rangos de temperaturas y tiempos,
+considerando los avances en aditivos y vasta geografía
+del país: se permiten ahora 120 minutos o más, si
+se emplean aditivos específicos para descargar el
+hormigón; y se amplía cerca de 5 “C, tanto para
+temperaturas bajas como para elevadas de lo indicado
+en CIRSOC 201, basado en experiencias favorables y
+vinculando a medidas de protección (figura 4).
+
+* Declaración de la relevancia de hacer pedidos a
+edades de diseño a 28 días (anteriores o posteriores).
+Por ejemplo, solicitando H-25 a las 48 horas para
+una habilitación temprana.
+
+* Criterios de especificación y aceptación de
+hormigones autocompactantes, validando estos
+hormigones innovadores y cada vez más empleados.
+Estos conceptos no figuran en CIRSOC 201:05.
+
+o Establecimiento del pedido por performance,
+con propiedades en estado fresco diferentes del
+asentamiento o el contenido de aire y propiedades
+en estado endurecido muy variadas, citando normas
+de aplicación (figura 5).
+
+* Ampliación del campo de aplicación a hormigones
+o morteros, como alivianados o HRDC e incluso
+hormigones proyectados, siendo aplicable la
+norma para el pedido, despacho y control de estos
+hormigones.
+
+* Aumento notable del alcance a todo tipo de
+plantas, mezcladoras o dosificadores, y medios de
+transporte con y sin agitación. Esto es aplicable no
+sólo para proveedores convencionales de hormigón
+sino también para cuando se instalan plantas dentro
+del recinto de la obra en emprendimientos públicos
+o privados de toda envergadura (figura 6).
+
+AVANCES MEDIOAMBIENTALES
+
+Curiosamente, el término “desarrollo sustentable”
+fue formalizado por primera vez en el documento
+conocido como Informe Brundtland de agosto de
+1987, fruto de los trabajos de la Comisión Mundial
+de Medio Ambiente y Desarrollo de las Naciones
+Unidas. Teniendo en cuenta que la versión anterior
+de IRAM 1666 es de diciembre de 1986, sólo exis-
+tió medio año de diferencia en la incorporación del
+concepto quizás más relevante del siglo pasado: el de
+desarrollo sostenible, que se define como satisfacer
+las necesidades del presente sin comprometer las ne-
+cesidades de las futuras generaciones.
+
+Considerando que después del consumo del agua
+para diversos usos la industria del hormigón elabo-
+rado es la que más recursos en peso extrae de la na-
+turaleza (comparado con cualquier otra industria),
+es indispensable su regulación y manejo ambiental.
+Aplicar actualmente una norma anterior a la apari-
+ción del concepto de sustentabilidad no es viable y
+esto debe ser consensuado.
+
+Así se incorporaron varios aspectos que hacen al
+hormigón elaborado mucho más amigable con el
+ambiente, entre los que pueden destacarse:
+
+B Pedidos por performance con propiedades distintas de la resistencia a compresión
+
+Wracción por compresión:
+Diametral 7IRAM 165
+
+Contraccionpor
+secado IRAM1597,
+
+DEISCEN| hnr_|&igón f
+EN 123607
+
+Penetración de agua
+IRAM554
+
+Succión capilar IRAM 1871
+Tempedetrgue
+A
+
+Módalo de
+Elaffitidad
+IRÁNE
+
+h Campo de aplicación de CIRSOC 201:05 e IRAM 1666:2020 (2)
+
+Diferentes métodos de colocación
+del hormigón (incluso no convencionales
+como proyectado o HRDC)
+
+IRAM 1666:20
+
+Plantas dosificadoras
+
+Plantas mezcladoras
+
+ELABORADO EXTERNO.
+
+APLICABLE A PLANTAS DE HORMIGÓN ELABORADO QUE
+VENDEN A MÚLTIPLES CLIENTES QUE TIENEN AUTOCONTROL.
+
+APLICABLE A PLANTAS INSTALADAS DENTRO DEL RECINTO
+DE LA OBRA, PERTENEZCAN A UNA EMPRESA CONSTRUCTORA
+CONVENCIONAL O A UN PROVEEDOR DE HORMIGÓN
+
+Hormigones
+
+Motohormigoneras — CIRSOC 201 -Camiones sin dispositivos
+(mixers) de agitación
+
+de plantas
+sin autocontrol
+
+“Hormigones”in-situ
+(hormigonera de obra)
+
+
+===== Página 6 =====
+* Permite el uso de agregados reciclados como
+establece IRAM 1531 vigente. El uso regulado
+de restos de demolición de estructuras existentes
+triturados, o bien de sobrantes de hormigón o
+elementos prefabricados defectuosos (en porcentajes
+estudiados), no sólo ahorra consumo de materias
+primas sino que también libera vertederos (o
+similares) de grandes volúmenes de materiales de
+desechos de la industria de la construcción.
+
+* Incluye la permisividad de utilizar agregados
+lavados y recuperados del hormigón fresco. Esta
+técnica (que es usada en varias plantas actualmente)
+consiste en pasar por una lavadora o tornillo los
+sobrantes para separar la pasta de cemento de los
+agregados, permitiendo así su posterior uso. Esto
+es valorado en aquellas plantas donde el costo de
+la piedra o sus distancias de transporte son muy
+importantes.
+
+* Articulación con IRAM 50000 vigente, que
+promueve el uso de adiciones (contrariamente con
+lo que ocurría en la década del 80). Esta medida es la
+que más reduce la emisión de gases que contribuyen
+al efecto invernadero.
+
+33
+
+* Aligual que IRAM 1601 actual, insta al uso del agua
+recuperada del lavado de los equipos. Al respecto hay
+que prestar atención a ciertos hormigones (como los
+HRDC o alivianados con perlitas de telgopor) que
+sean lavados en otros recintos.
+
+* Se promueve la mayor utilización de aditivos
+reductores de agua, no sólo para disminuir el agua
+(como lo dice su nombre) sino también para la
+reducción de cemento y el aumento de resistencias
+y durabilidad de los hormigones. Es altamente
+recomendable el uso de aditivos en planta y obra
+para mitigar el impacto ambiental.
+
+* Brinda condiciones específicas para uso racional
+de adiciones en planta, diferentes de las que ya trae
+el cemento. Establece mayores estándares de calidad
+y controles por tercera parte de éstas, pudiendo
+utilizarlas sólo las plantas en Modo 1 de producción,
+lo cual es consistente para no realizar un uso indebido.
+La regularización de las medidas enunciadas, y de
+otras, permite a las plantas utilizar una 0 más y po-
+der defender estas acciones ante el cliente, que debe
+entender que la preocupación ambiental es una tarea
+de todos en la industria de la construcción. o
+
+© REVISTA HORMIGONAR DIGITAL 41

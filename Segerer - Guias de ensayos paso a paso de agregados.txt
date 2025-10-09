@@ -1,0 +1,1877 @@
+
+===== Página 1 =====
+TECNOLOGÍA
+
+Ensayos paso a paso:
+Muestreo y contenido
+e humedad de
+
+agregados
+
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar
+
+En este número de Hormigonar comenzaremos con la Serie
+“Ensayos paso a paso”, en la cual se explicará, con procedimien-
+tos completos y sencillos, la forma de realizar los diferentes en-
+sayos de acuerdo con las normas de ensayo vigentes. Los pri-
+meros ensayos que se describirán serán los correspondientes
+a agregados para hormigones, ya que es la materia prima más
+crítica e influyente en la calidad de los hormigones. Además,
+como pocas veces poseen algún control previo, en las plantas
+de hormigón es de vital importancia caracterizar los agrega-
+dos finos y gruesos para que sus propiedades incidan positiva-
+mente en las dosificaciones propuestas, que en función de los
+resultados de ensayos de arena o agregado grueso podrán su-
+frir ajustes o modificaciones. Con excepción del muestreo de
+agregados, todas las fichas de ensayos de agregados se irán es-
+tudiando según el siguiente orden:
+
+1. Elementos necesarios para los ensayos: indicando tipo
+de instrumental con resolución y capacidad, necesidad o
+no de calibración, accesorios y cualquier elemento que se
+requiera según normas.
+
+2. Preparación de la muestra: los diferentes procesos
+necesarios para contar con una muestra representativa y
+apta para el ensayo en estudio.
+
+3. Procedimiento del ensayo: indicación paso a paso,
+acompañado por fotografías propias de cómo se realiza
+todo el ensayo.
+
+4. Cálculos: expresiones, unidades y determinaciones para el
+informe de resultados.
+
+Los ensayos de agregados que se describirán en esta serie de
+artículos son los más corrientes a realizar periódicamente en
+plantas hormigoneras:
+
+* Muestreo de agregados y contenido de humedad (en el
+presente número de Hormigonar).
+
+Densidades y absorción de agregados finos y gruesos.
+
+* Peso unitario y contenidos de finos pasa tamiz +t 200.
+
+Análisis granulométrico de agregados finos y gruesos.
+
+Índices de forma y resistencia al desgaste de agregados
+gruesos.
+
+Consideramos que brindará una herramienta muy útil
+para los laboratoristas y responsables de control de cali-
+dad, como así también medios para la capacitación conti-
+nua del personal y su evaluación, indispensable cuando se
+implementa un sistema de gestión de calidad en plantas
+hormigoneras. « »
+
+Hormigonar 35 abril 2015
+
+===== Página 2 =====
+TECNOLOGÍA
+
+Muestreo de agregados
+
+Según Norma IRAM 1509
+
+1-Elementos necesarios para el ensayo
+
+1Palas de acuerdo con el tipo de agregado a muestrear
+
+2 Bolsas de arpillera u otro material resistente de 50 kg de
+capacidad aproximadamente
+
+3 Para el cuarteo manual: lona de 2,5 x2,5 m; o superficie
+metálica lisa de apoyo, escoba o cepillo
+
+4 Parala partición mecánica: partidor de Jones de dimensiones
+adecuadas y bandejas metálicas
+
+5 Bolsas pequeñas que impidan la pérdida de humedad y
+puedan ser fácilmente identificadas
+
+6 Etiquetas autoadhesivas, precintos u otro método para la fácil
+identificación de las muestras
+
+2- Procedimiento para el muestreo de pilas de
+agregados de acopios
+
+1El procedimiento de muestreo debe asegurar que la muestra
+sea realmente representativa del acopio
+
+2 Debe identificarse la ubicación del acopio y nombre corriente
+de la facción de agregado a muestrear
+
+3 Las muestras de diferentes acopios o visualmente dispares en
+color o textura no deben ser mezcladas
+
+4 El procedimiento es aplicable a depósitos comerciales, acopios
+de obra y plantas de hormigón
+
+5 Muestreo del agregado grueso:
+
+5.1Se recomienda por algún medio mecánico (ej: cargadora frontal)
+formar una nueva pequeña pila
+
+5.2 Se compondrá al menos de agregados del tercio superior, la parte
+media y tercio inferior de la pila
+
+5.3 Al menos deben extraerse de 5 lugares diferentes, evitando siempre
+la segregación de las partículas
+
+5.4 Deben quitarse las partículas superficiales (capa de 4 piedras) y no
+formarán parte de la muestra
+
+55Siserealizan ensayos físicos o químicos, el peso mínimo de la
+muestra será de 100 kg
+
+5.6 Para estudio de dosificación de hormigones, al menos se deberán
+extraer 200 kg de cada fracción
+
+5.7 Sisólo se desea realizar un análisis granulométrico de rutina, con una
+muestra de 20 kg basta
+
+6 Muestreo del agregado fino:
+
+6.1Siempre que sea posible, las muestras de agregado fino deben ser
+tomadas en estado húmedo
+
+6.2 Al menos deben extraerse de 5 lugares diferentes, evitando siempre
+la segregación de las partículas
+
+63 Las muestras deberán ser extraídas quitando al menos los 30 cm
+superficiales del acopio de arena
+
+64Sise realizan ensayos físicos o químicos, el peso mínimo de la
+muestra será de 50 kg
+
+6.5 Para estudio de dosificación de hormigones, al menos se deberán
+
+extraer 200 kg de cada fracción
+
+66Sisólo se desea realizar un análisis granulométrico de rutina, con una
+muestra de 6 kg basta
+
+3- Obtención de la muestra de ensayo
+
+7 Los ensayos se realizan sobre pequeñas cantidades, por lo que
+las muestras deben reducirse
+
+8 La obtención de la muestra puede realizarse por un
+procedimiento mecánico u otro manual
+
+9 Partidor mecánico para agregado fino y agregado grueso:
+9.1Se coloca la muestra sobre la parte superior del partidor y éste la
+divide en dos partes
+
+92 Serepite la operación con la cantidad de agregado de una de las
+bandejas metálicas
+
+93El agregado de la otra bandeja puede desecharse o guardarse para
+otros ensayos
+
+94 Se repiten las operaciones hasta llegar a la cantidad de muestra
+necesaria para diferentes ensayos
+
+10 Cuarteo manual de agregados gruesos:
+
+10.1Se coloca la muestra sobre una superficie lisa y limpia que impida la
+pérdida de material
+
+10.2 Conel total del material, se forma una pila cónica dejando caer los
+áridos en su parte central
+
+10.3Se repite la operación anterior 3 veces y la pila se aplana con el
+reverso de la pala
+
+10.4 Conla ayuda de la pala, se divide y se parte en 4 la pila de agregado
+ya aplanada
+
+10.5Se eliminan dos cuartos opuestos con ayuda de la escoba,
+desechándolos
+
+10.6 El material de los cuartos sobre la superficie se remezcla y se
+procede como se describió
+
+107 Serepite el proceder hasta lograr un tamaño de la muestra
+adecuado para el ensayo a realizar
+
+T1 Cuarteo manual de agregados finos:
+
+111El agregado fino debe cuartearse en estado húmedo
+
+112 El procedimiento es el mismo que el descripto arriba, sólo que
+puede realizarse sobre una mesa
+
+113 Los cuartos opuestos se desechan y es necesario un cepillo para
+
+eliminar las partículas menores
+
+4- Identificación de la muestra
+
+12 Cada muestra será convenientemente identificada mediante
+un rótulo o tarjeta adherida a la bolsa:
+
+12.1 Designación del material yacimiento, cantera o identificación del
+acopio
+
+12.2 Masa de la muestra y cantidad de material aproximada que
+representa
+
+123 Fecha del muestreo, responsable y cualquier otro dato que se crea
+relevante
+
+Hormigonar 35 abril 2015
+
+===== Página 3 =====
+« — Pesaje aproximado de la muestra
+
+Hormigonar 35 - abirl 2015
+
+TECNOLOGÍA
+
+« Partidor en campaña para agregados gruesos
+
+« — Rotulado y embalaje
+
+»
+
+===== Página 4 =====
+TECNOLOGÍA
+
+Determinación del contenido de humedad de agregados
+
+Según Normas ASTM C566 y ASTM D4643
+
+1- Elementos necesarios para el ensayo
+
+1 Para ensayos de rutina de autocontrol de planta hormigonera:
+1.1 Balanza con resolución de 1 g y capacidad acorde al tamaño de
+la muestra (6 kg suele ser suficiente)
+
+1.2 Si sólo se posee balanza de resolución de 5 g, las muestras
+mínimas recomendadas serán de 5 kg
+
+13 Anafe (eléctrico o a gas) u horno microondas con ventilación
+(700 W aproximadamente) con función “Descongelar”
+
+2 Para ensayos específicos y cuando se requiera mayor
+precisión de resultados:
+
+2.1Balanza con resolución de 0,1 g para agregados finos y de 0,5 g
+para agregados gruesos
+
+2.2 Estufa u horno de secado con ventilación que pueda regularse
+a una temperatura de 110 + 5%C
+
+3 Bandejas metálicas para el anafe y hono y recipientes
+plásticos con tapa y ventilación para el microondas
+
+3.1El ancho y largo del recipiente será como mínimo 1/5 de la
+profundidad de la muestra
+
+4 Cucharas, palitas y agitador o espátula
+
+5 Es muy útil establecer los tiempos de secado mediante
+experiencias propias, presentando sólo ejemplos
+
+2- Preparación de la muestra
+
+1 Se toma la muestra y se la reduce, como se establece en la
+Norma IRAM 1509, alas siguientes cantidades:
+
+1.1 Recomendable para agregados gruesos: 2 kg TM 1/2”, 3 kg TM
+3/4”, 4 kg 1”, 6 kg 11/2" y 8 kg TM2"
+
+12 Recomendable para agregados finos 1kg (muestra de 5 kg si la
+balanza tiene resolución de 5 )
+
+2 Rápidamente y sin ser expuesta al ambiente más de un
+minuto, debe realizarse la pesada inicial
+
+2.1Muestras con estadías superiores a 5 minutos en laboratorio
+
+deberán guardarse en bolsas herméticas
+
+3- Procedimientos de ensayo
+
+3 Se pesa la bandeja o recipiente (si es con tapa, incluida la tapa)
+y se anotala tara (Tara)
+
+4 Se incorpora la muestra hasta tener cantidades próximas a las
+indicadas anteriormente
+
+5 Se espera hasta que se estabilice la lectura y se registra la masa
+húmeda (mh = Tara + material húmedo)
+
+6 Secado a estufa para ensayos específicos y que requieren
+mayor precisión:
+
+6.1Se prende el horno y se constata (termómetro de horno o
+infrarrojo) la temperatura de 105 a 115%C
+
+6.2 Se coloca la muestra, bien acondicionada y con altura
+
+uniforme, en una bandeja metálica
+
+6.3 Masa constante se alcanza cuando no hay pérdida de masa
+mayor al 0,1% entre dos pesadas
+
+6.4 Para contenidos de humedad del 5 al 10% para arenas, el
+tiempo mínimo es de 5 horas
+
+6.5 Para contenidos de humedad inferiores al 5% el tiempo
+mínimo recomendado es de 3 horas
+
+7 Secado a anafe a gas o eléctrico para ensayos de rutina:
+7.1Se coloca la muestra, bien acondicionada y con altura uniforme
+en una bandeja metálica
+
+7.2 Se va revolviendo cada 5 minutos la muestra con espátula
+metálica cuidando de no perder material
+
+7.3 Con una placa de vidrio, puede apreciarse si sigue
+desprendiendo humedad si se empaña
+
+7.4 Para contenidos de humedad del 5 al 10% para arenas, el
+tiempo mínimo recomendado es de 30 minutos
+
+7.5 Para contenidos de humedad inferiores al 5%, el tiempo
+mínimo recomendado es de 20 minutos
+
+7.6 Para humedades elevadas, debe cuidarse que no se pierda
+material por “estallidos” del agregado
+
+8 Secado rápido por método de microondas para ensayos de
+rutina:
+
+8.1La Norma ASTM recomienda masas de muestras de la mitad
+que las especificadas anteriormente
+
+8.2 Se recomienda recipiente plástico (tupper), apto para
+microondas con tapa plástica que tenga ventilación
+
+8.3 Se acondiciona la muestra y se coloca 3 minutos con la función
+“Descongelar” del microondas
+
+8.4 Se retira del microondas, se quita la tapa, se homogeneiza con
+espátula y se vuelve a colocar la tapa
+
+8.5 Se coloca 1 minuto adicional con la función “Descongelar” del
+microondas
+
+8.6 Repetir el remezclado y secado de un minuto hasta lograr masa
+constante
+
+9 Las partículas de 50 mm o mayores requieren tiempos
+generalmente más prolongados
+
+10 Seretira de la fuente de secado y se asegura que la superficie
+no esté caliente al apoyar en la balanza
+
+10.1Como alternativa, se puede apoyar otro elemento que aísle
+sobre la balanza y aplicar la función Tara
+
+11 Se pesa, se esperan unos segundos y se registra la masa seca
+(m=Tara + material seco)
+
+4- Cálculos
+
+x100 Redondear
+al 01%
+más próximo
+
+12 Humedad total del agregado Hog= "h=
+(%) m- Te
+
+Hormigonar 35 abril 2015
+
+===== Página 5 =====
+TECNOLOGÍA
+
+Secado con horno microondas (función “Descongelar”) Peso seco en balanza para agregados gruesos de 5 g
+
+Hormigonar 35 abril 2015
+
+===== Página 6 =====
+TECNOLOGÍA
+
+Ensayos paso a
+paso: densidades
+y absorción de
+
+agregados
+
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar
+
+La determinación de las densidades y absorciones
+essumamente útil, ya que ambos son parámetros
+empleados en la dosificación de hormigones y es-
+timación de la relación agua/cemento. Las densi-
+dades de los agregados deben determinarse:
+
+* Cuando se trabaja con agregados de una
+nueva cantera.
+
+* Cuando se plantean nuevas dosificaciones en
+una planta hormigonera.
+
+* Cuando existan dudas en general respecto de
+la calidad de los agregados, para descartarlo o
+no como causa de potenciales conflictos.
+
+* Cada 6 meses como máximo, como
+parámetro de control.
+
+Si bien las determinaciones de las densidades
+relativas del agregado fino y agregado grue-
+so se basan en el principio de Arquímedes, sus
+
+metodologías son bastante disímiles, tanto en el
+procedimiento como en el instrumental reque-
+rido. Los equipos e instrumentos no son onero-
+sos y en general se disponen en los laboratorios
+de autocontrol de plantas. Básicamente consiste
+en establecer el volumen de los agregados, por di-
+ferencia de pesadas, determinando el empuje del
+volumen del líquido desalojado. Además, deben
+llevarse los agregados a la condición SSS (satura-
+da y superficie seca) para determinar cuánta agua
+pueden absorber los agregados.
+
+Las Normas IRAM 1520 y 1533 son las que esta-
+blecen los procedimientos para determinar las
+densidades y absorción del agregado fino y agre-
+gado grueso respectivamente, ensayos que se
+realizan de forma independiente. Ambas Normas
+establecen expresiones de densidades relativas,
+es decir sin unidades y referidas a la densidad del
+agua a una temperatura determinada (en general,
+próxima a 20 *C). Una densidad relativa de 2,65
+indica que es 2,65 veces más pesada que el agua
+a cierta temperatura, no consignando unidades.
+Sólo como referencia, los valores de densidades
+relativas reales para agregados convencionales en
+nuestro país oscilan entre 2,55 y 2,80, mientras
+que para ciertos agregados basálticos puede su-
+bir hasta 2,95. « »
+
+Hormigonar 36 agosto 2015
+
+===== Página 7 =====
+TECNOLOGÍA
+
+Determinación de la densidad y absorción del agregado fino
+
+Según Norma IRAM 1520
+
+1- Elementos necesarios para el ensayo
+
+1 Balanza con una capacidad de 2 kg y precisión de 0,1g.
+
+2 Molde troncocónico metálico de 40 mm de diámetro
+superior, 20 mm de diámetro inferior y 75 mm de altura.
+
+3 Varilla metálica de 340 g con una superficie de compactación
+de 25 mm de diámetro.
+
+4 Estufa regulada a una temperatura de 105 +5 *C (110+ 5 *C
+según normas ASTM).
+
+5 Bandejas metálicas y espátulas de acero inoxidable.
+
+6 Ventilador o secador de cabello que proporcione una
+corriente de aire a velocidad moderada.
+
+7 Baño termostatizado de 20 + 2 *C y termómetro de
+resolución 0,5 “C.
+
+8 Para el método gravimétrico, un matraz aforado de 500 cm>.
+9 Para el método volumétrico, un frasco de Le Chatelier o un
+frasco de Chapman.
+
+2- Preparación de la muestra
+
+1Se tamiza en seco la muestra de agregado por el tamiz +t4.
+1.1Si el retenido en el tamiz 44 es superior al 10%, la fracción
+gruesa es ensayada según IRAM 1533.
+
+1.2 La fracción pasante tamiz 4 en este caso es la ensayada
+según el presente ensayo.
+
+13Si el retenido en el tamiz 4 es inferior al 10%, se ensaya toda
+la fracción de agregado fino.
+
+2 La cantidad de muestra debe estar constituida por 1 kg
+aproximadamente, no debiendo ser exactamente 1 kg.
+
+3 Se sumerge en agua toda la muestra de agregado fino y se
+deja estacionar durante 24 horas.
+
+4 Al día siguiente, se retira la muestra del agua y se extiende
+sobre una superficie plana no absorbente.
+
+5 Se la somete a una corriente suave de aire caliente,
+removiendo con frecuencia para que sea uniforme.
+
+6 Se prosigue el secado hasta que los granos del agregado fino
+no se adhieran marcadamente entre sí.
+
+7 Se coloca la arena en el molde troncocónico sin apretarla, se
+apisona con 25 golpes de varilla (1 capa).
+
+8 Los golpes se efectúan dejando caer la varilla desde una altura
+de 5 mm de la superficie de la arena.
+
+9 Se retira la arena del borde del cono y éste se levanta lentamente.
+10 Si cuando se desmolda se retiene la forma del molde, el
+agregado tiene todavía humedad superficial.
+
+11 En ese caso se continúa el secado, removiendo la muestra
+constantemente y se vuelve al punto 7.
+
+12 Cuando el cono se desmorone al sacar el molde y conserva
+una pendiente recta, se encuentra en SSS.
+
+13 Inmediatamente, se extrae una muestra del agregado en
+condición SSS evitando pérdida de humedad.
+
+14 Si el cono se desmorona en el primer intento, se sumerge en
+agua al menos 30 minutos y se vuelve al punto 5.
+
+3- Procedimientos de ensayo — Método gravimétrico
+
+15 Existen dos procedimientos: método gravimétrico y método
+volumétrico, explicándose el primero.
+
+16 La obtención de la muestra puede realizarse por un
+procedimiento mecánico u otro manual.
+
+17 Se pesan 500 g + 10 g de arena en estado saturado y
+superficie seca (ms) con precisión de 0,1 g.
+
+18 Se coloca en el matraz aforado y se registra la masa del
+conjunto (m”.
+
+19 Se llena con agua a temperatura de 20 “C hasta cerca de la
+marca de 500 cm*.
+
+20 Se mueve el matraz para eliminar las burbujas de aire y luego
+se lo coloca en un baño a 20 +2 “C.
+
+21 Después de 1 hora, se completa con agua hasta la marca de
+500 cm? y se seca cuidadosamente.
+
+22 Se determina la masa del matraz más el agregado (m?) con
+precisión de 0,1 g.
+
+23Si existe una cantidad importante de burbujas difíciles de
+eliminar, debe repetirse el ensayo.
+
+24 Se retira el agregado del matraz cuidadosamente, se seca a
+105 “C hasta masa constante y se pesa (m).
+
+25 Se mide la temperatura del agua y mediante tablas se
+determina la densidad del agua (da).
+
+4- Cálculos
+26 Densidadrelativa real (d1) di= m
+de agregado fino — da. V- (m?-m)-(ms-m)
+Redondear al 0,01
+27 Densidadrelativa aparente d2= m
+real del agregado seco (d2) _ V.da-(m*-m')
+Redondear al 0,01
+28 Densidadrelativa aparente da= ms
+real del agregado SSS (d3) " V.da-(m?-m')
+Redondear al 0,01
+29 Absorción del A= ms-m 400
+agregado fino (A) m
+Redondear al 0,01
+
+Hormigonar 36 agosto 2015
+
+===== Página 8 =====
+TECNOLOGÍA
+
+Muestra inmersa en agua 24 horas antes Secado de la muestra
+
+Muestra en estado SSS Vertido de muestra en bandeja y secado a masa constante
+
+Hormigonar 36 agosto 2015
+
+===== Página 9 =====
+TECNOLOGÍA
+
+Determinación de la densidad y absorción del agregado grueso
+
+Según Norma IRAM 1533
+
+1- Elementos necesarios para el ensayo
+
+1 Balanza con una capacidad de 10 kg y precisión de 0,5 g que
+cuente con un dispositivo hidrostático.
+
+1.1 Puede ser una balanza roverball, una balanza electrónica con
+dispositivo inferior o balanza digital “rromana”.
+
+2 Cesto de alambre de malla de 3,35 mm como máximo, con
+capacidad de 4 a7 litros hasta TM 11/2”.
+
+3 Tanque de agua, dentro del cual pueda sumergirse el cesto de
+alambre con la muestra (incluida la manija).
+
+4 Estufa regulada a una temperatura de 105 + 5 *C según
+normas ASTM.
+
+5 Bandejas metálicas.
+
+6 Tamiz IRAM 444, abertura de malla 4,75 mm.
+
+7 Tela o paño absorbente que no deje restos de tela en el
+agregado al secarlo.
+
+8 Baño termostatizado a 20 + 2 “C.
+
+9 Termómetro de precisión 0,5 *C para medir la temperatura
+
+del agua.
+
+2- Preparación de la muestra
+
+1Se toma la muestra y se la reduce tal como se establece en la
+Norma IRAM 1509.
+
+2 Se elimina todo el material pasante el tamiz *t4 por vía seca.
+
+3 Cuando el agregado contiene más del 2% que pasa el tamiz
++t4, debe ensayarse según IRAM 1520.
+
+4 Se debe poseer una muestra mínima de 2 kg TM 1/2”, 3 kg TM
+3/4", 4 kg 1, 5kg11/2" y 8kg TM2".
+
+5 Se pesa la muestra y se sumerge en agua a temperatura
+
+ambiente durante 24 horas aproximadamente.
+
+3- Procedimientos de ensayo
+
+6 Se coloca el cesto en el agua y se tara la balanza con el cesto
+
+vacío sumergido en el agua (no registrarlo).
+
+7 Se retira la muestra del agua (24 horas), se coloca en el cesto,
+se sumerge y se pesa en agua (ma).
+
+7.1 Para la masa del agregado en el agua (ma) se descuenta la
+tara del cesto sumergido totalmente en el agua.
+
+7.2 Debe tenerse en cuenta que el cesto no toque las paredes ni
+el fondo del recipiente con el agua.
+
+8 El material debe encontrarse a temperatura ambiente al
+comenzar su secado.
+
+9 Seretira la muestra del agua y se envuelve en una tela hasta
+que el agua visible es eliminada.
+
+10 Se secan las partículas hasta que la superficie se muestre
+húmeda pero no se adhieran entre sí.
+
+T1 Las partículas grandes deben ser secadas individualmente con
+un paño que no deje pelusas.
+
+12 Es necesario evitar la evaporación del agua de los poros del
+agregado durante estas operaciones.
+
+13 Se pesa la muestra de inmediato y se determina la masa
+saturada y de superficie seca SSS (ms).
+
+14 Se seca la muestra a 105 *C hasta masa constante, se deja
+enfriar de 1a 3 horas y se pesa (m).
+
+15 Si se considera conveniente, se puede fraccionar la muestra y
+ensayar cada fracción por separado.
+
+16 Se mide la temperatura del agua y, mediante tablas, se
+
+determina la densidad del agua (da).
+
+4- Cálculos
+17 Densidadrelativa real (d1) d1= m
+de agregado grueso m-ma
+Redondear al 0,01
+18 Densidadrelativa aparente d2= m
+real del agregado seco (d2) ms-ma
+Redondear al 0,01
+19 Densidadrelativa aparente da= ms
+real del agregado SSS (d3) " ms-ma
+Redondear al 0,01
+20 Absorción del A= ms-m 400
+agregado grueso (A) m
+
+Redondear al 0,01
+
+Hormigonar 36 agosto 2015
+
+===== Página 10 =====
+TECNOLOGÍA
+
+»
+
+Cesto sumergido sin tocar paredes ni fondos Taraje del cesto en el agua sin agregado
+
+Retiro del cesto del agua después de las pesadas
+
+Secado manual de partículas grandes Pesaje del agregado grueso en condición SSS
+
+Hormigonar 36 agosto 2015
+
+===== Página 11 =====
+TECNOLOGÍA
+
+nsayos paso a
+aso: peso unitario
+finos pasante
+
+tamiz 420
+
+de agregados
+
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar
+
+El ensayo de peso unitario o masa por unidad de volumen es
+sencillo para realizar (IRAM 1548) y brinda varias herramien-
+tasútiles:
+
+* - Sirve para determinar stocks en acopios de agregados,
+para convertir volúmenes en pesos.
+
+* Esun parámetro necesario para algunos métodos de
+dosificación de hormigones (Método ACI).
+
+9 - Sirve para componer curvas mezclas y optimizar su
+compacidad.
+
+No existe una periodicidad establecida para este ensayo, bien
+sea el peso unitario compactado o suelto, pero es conve-
+niente llevar un registro cada 3 a 6 meses de cada uno de los
+materiales.
+
+El ensayo según IRAM 1540 para determinar los finos pasan-
+te tamiz 200 debe ser un ensayo de rutina para toda planta
+hormigonera, ya que es indispensable para el caso de las are-
+nas antes de proceder a su análisis granulométrico. En varias
+regiones de nuestro país, en especial al oeste, se encuentran
+arenas con porcentajes de finos elevados que pueden incidir
+de manera negativa en las propiedades del hormigón, princi-
+palmente aumentando su demanda de agua. Este incremen-
+to de demanda de agua debe ser compensado mediante un
+aumento del cemento 0, como mejor alternativa, incremen-
+tando la dosis de aditivo reductor de agua. Elevados conte-
+nidos de finos que pasan el tamiz 4200 también reducen la
+exudación.
+
+El porcentaje de finos que fija el Reglamento CIRSOC 201
+para las arenas es del 5% como máximo y en algunas pro-
+vincias las arenas naturales sin lavar pueden presentar por-
+centajes aún más elevados. Este aspecto debe ser tenido
+en cuenta para realizar las correcciones de dosificaciones
+en función de la calidad de los materiales. Para el caso de
+fracciones de agregado grueso, el contenido máximo reco-
+mendable es de 1%, salvo para agregados provenientes de
+trituración donde los finos no son de origen limoso-arcillo-
+so, con lo cual los límites son más permisibles según varias
+recomendaciones.
+
+Hormigonar 37 diciembre 2015
+
+»
+
+
+===== Página 12 =====
+TECNOLOGÍA
+
+Determinación de la densidad a granel y espacios de vacíos
+
+Según Norma IRAM 1548
+
+1Elementos necesarios para el ensayo
+
+1Balanza con una capacidad de 50 kg y precisión de 50 g
+
+2 Varilla recta de acero de 16 mm de diámetro y 60 cm de
+largo con un extremo en forma de semiesfera
+
+3 Recipiente cilíndrico de capacidad mínima de 10 dm? para
+TM «a11/2" y 15 dm*hasta TM2”
+
+4 Palitas, bandejas metálicas, etc.
+
+5 Estufa regulada a una temperatura de 105 +- 5 *C
+
+6 Placa de calibración constituida por una placa de vidrio de
+6 mm de espesor
+
+2 Calibración del recipiente
+
+7 Se limpia cuidadosamente el recipiente metálico y se
+determina la masa del recipiente vacío (mr)
+
+8 Se llena el recipiente con agua, se cubre con la placa de
+calibración, se elimina el aire y se pesa (mra)
+
+9 Se determina la masa de agua (ma) del recipiente como
+(mra-mr)
+
+10 Se mide la temperatura del agua y se obtiene la densidad
+del agua (da) de tablas
+
+T1Se calcula el volumen V del recipiente dividiendo la masa
+del agua (ma) por su densidad (da)
+
+12 Losrecipientes se deben recalibrar una vez al año y cuando
+existan dudas para cuestionar la exactitud
+
+3Preparación de la muestra
+
+1El tamaño de la muestra será de aproximadamente el 150%
+de la cantidad requerida para llenar el recipiente
+
+2 Se seca la muestra en estufa durante 24 horas a 105 *C
+hasta masa constante
+
+4 Procedimientos de ensayo
+
+3 Para todos los métodos, en primer lugar se determina la
+masa del recipiente vacío (mr)
+
+4 Peso unitario compactado para TM igual o menor a 11/2"
+-Método A
+
+4.1Sellena el recipiente con la muestra hasta un tercio de su
+capacidad y se nivela con los dedos
+
+4.2 Se efectúa una compactación de la capa mediante 25
+golpes de la varilla distribuidos en la superficie
+
+43Al compactar la primera capa del agregado no debe
+rasparse con la varilla el fondo del recipiente
+
+4.4 Se continúa el llenado del recipiente hasta los dos tercios y
+se procede a compactar con 25 golpes
+
+45Finalmente se vuelve a llenar el recipiente hasta que
+desborde y se compacta con 25 golpes
+
+46 Al compactar la segunda y tercera capa se debe evitar
+que la varilla penetre en la capa ya compactada
+
+5 Peso unitario compactado para TM mayor a 11/2”
+
+- Método B
+
+5.1Se llena el recipiente con la muestra hasta un tercio de su
+capacidad y se nivela con los dedos
+
+52 Se efectúa una compactación elevando altemnativamente
+los lados opuestos 500 mm y dejándolo caer
+
+53 Se compacta la capa del agregado golpeando el recipiente
+50 veces (25 de cada lado)
+
+54 Se continúa llenando el recipiente hasta los dos tercios de
+su capacidad y se vuelve a compactar
+
+55 Finalmente, se vuelve a llenar el recipiente hasta que
+desborde y se compacta con 50 golpes
+
+6 Peso unitario suelto — Método C
+
+6.1Se llena el recipiente hasta que desborda con una pala con
+caídas del agregado no mayores a 50 mm
+
+7 Senivela la capa superficial en forma manual empleando la
+varilla y se enrasa con el borde superior
+
+8 Para todos los métodos, al final se determina la masa del
+recipiente más su contenido (mar)
+
+9 Se deben realizar 3 determinaciones con la misma muestra
+y obtener la desidad como su promedio
+
+10 Cada uno de las determinaciones no debe variar en más
+del 1% de los otros dos ensayos
+
+T1 Para el cálculo de espacios vacíos se debe conocer la
+densidad d según IRAM 1520 o IRAM 1533
+
+5 Cálculos
+
+12 — Densidadagranel (“ ap) mar - mr
+
+Fap=
+Redondear a 10 kg/m*
+
+3 Densidad a granel
+en estado SSS (“ as)
+
+Redondear a 10 kg/m*
+
+Tas= rap.(1+%)
+
+14 Contenido de espacios
+vacíos (Ev)
+
+- — d2.d9-ap — 100
+E d2.da
+
+Redondear al 1%
+
+Hormigonar 37 diciembre 2015
+
+===== Página 13 =====
++ — Enrasado de la superficie
+
+Hormigonar 37 diciembre 2015
+
+TECNOLOGÍA
+
+« - Colocación del material en recipiente
+
+»
+
+===== Página 14 =====
+TECNOLOGÍA
+
+Determinación del material pasante tamiz 4200 por lavado
+
+Según Norma IRAM 1540
+
+1Elementos necesarios para el ensayo
+
+1Balanza con una precisión de 0,1g o del 0,1% de la masa de
+muestra del ensayo
+
+2.1Ensayos específicos: Resolución de 0,1 g para agregados
+finos y de 0,5 g para agregados gruesos
+
+2.2 Ensayos de rutina: Resolución de 1g y capacidad acorde
+con el tamaño de la muestra (6 kg aprox.)
+
+3 Tamiz IRAM 44200 con abertura de malla 75 m y otro de
+malla 118 mm (para proteger *200)
+
+4 Recipiente de tamaño adecuado para contener la muestra
+sumergida en agua y permitir su agitación
+
+4.1Puede ser un recipiente plástico con tapa (frasco) que
+garantice cierre hermético
+
+42 Pueden ser bandejas metálicas con orificio de desborde
+o similar
+
+5 Estufa regulada a una temperatura de 105+- 5 *C
+
+6 Lugar adecuado para elimiar el agua de lavado de
+
+agregados (arrastra finos que pasan 4*200)
+
+2 Preparación de la muestra
+
+1Sereduce la muestra según la Norma IRAM 1509 hasta
+obtener la cantidad de muestra de ensayo
+
+2 La cantidad mínima de muestra es de 500 g para el
+agregado fino
+
+3 Las cantidades para el agregado grueso son para TM 3/8”
+1kg, TM3/4”2,5 kg y TM superiores 5 kg
+
+4El producto de la reducción será la muestra, no debiendo
+
+efectuarse hasta una masa predeterminada
+
+3Procedimiento de ensayo
+
+5 Se seca la muestra de ensayo hasta masa constante a una
+temperatura de 105 *C
+5.1Masa constante es cuando la D entre 2 pesadas tomadasa
+
+intervalos de 1hora es menor del 0,1%
+
+6 Se determina la masa seca de la muestra de ensayo al 0,1%
+más próximo (m)
+
+7 Se coloca la muestra en el recipiente y se agrega agua hasta
+cubrirla completamente
+
+8 Se agita la muestra con vigor para lograr la separación de la
+partículas más finas de 75 m
+
+9 Si existen partículas finas adheridas y de difícil remoción, se
+deja sumergida el tiempo necesario
+
+10 Inmediatamente, se vierte el agua de lavado que contiene
+los sólidos disueltos sobre los 2 tamices
+
+T1Se debe tener cuidado para que no se produzca la pérdida
+de las partículas gruesas fuera del tamiz
+
+12 Se agrega una segunda carga de agua a la muestra, se agita
+y se procede según 8
+
+13 Se debe recuperar toda partícula que quede retenida
+sobre el tamiz75m
+
+13.1Se inclina el tamiz y se moja para que las partículas se
+acumulen en un lugar y se retiran con espátula
+
+14 Esta operación se repite hasta que el agua de lavado que
+atraviesa los tamices sea límpida
+
+15 Se regresa todo el material retenido en los tamices,
+mediante la aplicación de un chorro de agua
+
+16 Se seca la muestra del agregado lavado a temperatura de
+105 *C hasta masa constante
+
+17 Se determina la masa al 0,1% más próximo de la masa
+original de la muestra (ml)
+
+18 Respecto de la obligatoriedad del ensayo:
+
+18.1Para agregados finos siempre debe realizarse el presente
+ensayo antes del análisis granulométrico
+
+18.2 Para agregados gruesos no es imprescindible realizar el
+
+ensayo antes del análisis granulométrico
+
+4 Cálculos
+
+21 Cantidad de material fino f m - ml 101
+pasante tamiz 11200 (mf) — "= m
+
+Redondear al 0,01
+
+Hormigonar 37 diciembre 2015
+
+===== Página 15 =====
+TECNOLOGÍA
+
+« — Pesoinicial seca a masa constante « Contacto de agua más el material
+
+« Materialretenido en tamiz 4200 « — Recolección del retenido en tamiz ?200
+
+Hormigonar 37 diciembre 2015
+
+===== Página 16 =====
+TECNOLOGÍA
+
+nsayos paso a
+aso: Análisis
+ranulométricos de
+
+agregados
+gruesos
+
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar
+
+El análisis granulométrico es el ensayo más comúnmente rea-
+lizado en plantas hormigoneras para inferir sobre la calidad de
+los agregados recibidos. El análisis granulométrico y la curva
+obtenida, junto con el contenido de finos pasante tamiz 4 200,
+son ensayos que deben ser rutinarios, ya que estos paráme-
+tros pueden influenciar de gran manera en las propiedades del
+hormigón fresco y endurecido.
+
+* Influye en la cohesividad de la mezcla y riesgo de
+segregación en estado fresco.
+
+* Pueden aumentar la demanda de agua (deficiencias
+granulométricas o contenido de finos elevado).
+
+* Inciden en la resistencia final del hormigón al poder variar
+la relación a/c y en la durabilidad resultante.
+
+* Si existen variaciones considerables de curvas y módulo de
+finura, deben corregirse las dosificaciones (proporciones
+de agregados, contenido de cemento, etc.) para obtener
+las propiedades deseadas.
+
+finos y
+
+No hay una periodicidad establecida para estos ensayos, pero
+para plantas hormigoneras medianas es recomendable que la
+frecuencia mínima sea semanal y para grandes plantas de hor-
+migón, dos veces por semana de cada fracción empleada en
+la producción.
+
+Para el caso de las arenas, es indispensable realizar el ensayo se-
+gún IRAM 1540 para determinar los finos pasante tamiz 4 200
+y sobre la muestra resultante del secado se procede a realizar
+la granulometría. En cambio, para agregados gruesos es opcio-
+nal, pero altamente recomendado para agregados triturados y
+para agregados rodados que visiblemente poseen un recubri-
+miento potencialmente nocivo.
+
+Para finalizar, cabe recordar que muchas veces se grafican las
+“curvas límites” en la misma plantilla que la curva del agregado
+fino o grueso, lo cual puede denotar una aparente no confor-
+midad del agregado. En más de la mitad de plantas de hormi-
+gón elaborado del país, se emplean “agregados fuera de cur-
+va” que, conociendo sus propiedades, pueden ser empleados
+sin ningún inconveniente en hormigones, siempre y cuando el
+comportamiento del hormigón fresco y endurecido no sea in-
+fluenciado negativamente por este alejamiento de curvas, las
+cuales fueron prescriptas para agregados de Estados Unidos
+hace casi un siglo. El Reglamento CIRSOC 201 acepta apar-
+tamientos de estas “curvas límites”, siempre y cuando se de-
+Muestre la aptitud del hormigón para su aplicación en particu-
+lar y se verifiquen sus propiedades. »
+
+Hormigonar 38 abril 2016
+
+===== Página 17 =====
+TECNOLOGÍA
+
+Análisis granulométrico de agregados finos
+
+Según Norma IRAM 1505
+
+1Elementos necesarios para el ensayo
+
+1 Balanza con una precisión de 0,1 g ó 0,1% de la carga de ensayo, la
+que sea mayor
+
+11 Para autocontrol en plantas hormigoneras, puede realizarse con
+balanzas de 1g, pero no de265g
+
+2 Tamices IRAM de tela de alambre tejido 3/8”, 4, 8, 16, 30, 50 y
+100, tapa y fondo
+
+3 Cuarteador de muestras o partidor de Jones
+
+4 Vibrador mecánico de tamices, no siendo imprescindible (siempre
+la verificación se realiza manualmente)
+
+5 Palitas, cepillos, bandejas metálicas o plásticas, etc.
+
+6 Estufa regulada a una temperatura de 105 +- 5”C
+
+6.1Para autocontrol en plantas hormigoneras, puede realizarse el
+secado en anafes o similares
+
+7 Elementos necesarios para el ensayo previo de tamizado húmedo
+según IRAM 1540
+
+2 Preparación de la muestra
+
+1Se realiza el ensayo de tamizado húmedo según IRAM 1540 antes
+del análisis granulométrico
+
+2 Una vez secada la muestra anterior, se reduce a una masa no
+predeterminada según IRAM 1509
+
+3 La masa mínima para el ensayo es 500 g, salvo para arenas finas
+(95% que pase +t8) que es de 100 g
+
+3.1En caso de no poseer balanza de 1g, es altamente recomendable
+una muestra de 1200 a 1400 g
+
+3 Procedimientos de ensayo
+
+4 Seutiliza la muestra seca en estufa del ensayo de contenido de
+finos pasa tamiz +200
+
+5 Se determina la masa de la muestra de ensayo (mt) al 0,5 g (a 1gsi
+no se posee balanza al 0,5 g)
+
+6 Se pesan individualmente los tamices a utilizar: 3/8”, 447 +t8, 116,
++t30, 450 y 4100 y fondo
+
+7 Se registran los valores como masas de los tamices vacíos (Tvi)
+
+8 Para el tamizado mecánico se debe proceder como sigue:
+
+8.1Se coloca el conjunto de tamices uno encima del otro en sentido
+de abertura decreciente
+
+82 Se enciende la máquina y se tamiza el conjunto de los tamices
+durante al menos 10 minutos
+
+83Se debe verificar que no exista pérdida de material durante el
+
+tamizado
+
+9 Para el tamizado manual:
+
+9.1 Alternativamente, puede emplearse el tamizado en forma
+manual, empleando uno o más tamices
+
+9.2 Se empieza con los tamices de mayor abertura, colocando tapa
+y fondo para el tamizado
+
+9.3 Se mueven los tamices en movimientos horizontales, verticales y
+de golpeteo sin perder materia
+
+10 Se pesa cada tamiz con su retenido parcial (Tti), verificando que
+no se ha superado la carga máxima
+
+T1La carga máxima admisible por cada tamiz es 200 g salvo para el
+tamiz 14 que es 300 g
+
+12 Sise supera se fracciona la muestra a partir del tamiz de abertura
+mayor y se continúa tamizando
+
+13 Luego se precede a la verificación de la efectividad del tamizado
+como se detalla (siempre manual)
+
+13.1Se separa el tamiz correspondiente con el material retenido,
+con la tapa y fondo correspondiente
+
+13.2 Se lo somete a un tamizado manual en posición ligeramente
+inclinada, realizando agitación manual
+
+13.3Se considera efectivo siluego de 1 minuto de agitación manual
+no pasa más del 1% de la masa retenida
+
+13.4Si el tamizado no ha sido efectivo, se continúa hasta cumplir
+con la condición anterior
+
+14 Luego de verificar la efectividad en todos los tamices, se pesa
+cada uno con el material retenido en él
+
+15 Se calcula la masa retenida parcial (Ri) como la diferencia (Tti —
+Tvi)
+
+16 Se determina la suma de las masas retenidas en todos los
+tamices y en el fondo
+
+17 Si difiere en más del 0,3% de la masa original, debe repetirse el
+ensayo con una nueva muestra
+
+18 En caso de que la diferencia sea inferior al 0,3% se considera el
+análisis granulométrico satisfactorio
+
+19 Se deben sumar las masas que pasen el tamiz IRAM 41200
+provenientes del ensayo según IRAM 1540
+
+4 Cálculos
+
+1 Retenidos parciales (Ri) Ri= Tti-Tvi Redondear al 01g
+
+2 Retenidos parciales (r %) r%= % -100 - Redondearal1%
+3 Porcentajes que pasan (p%) — Según tabla Redondear al 1%
+Retenidos acumulados (rac) — tipo de análisis
+granulométrico
+
+S ractt1004150,430,416,118, 1478
+
+4 Módulo de finura (MF) MF= 100
+Redondear al 0,01
+
+Hormigonar 38 abril 2016
+
+===== Página 18 =====
+TECNOLOGÍA
+
++ Secado de AF a masa constante después del lavado (IRAM 1540) “ — Pesado inicial de masa seca
+
+“ Tamices parala granulometría del agregado fino £ Tamizado manual
+
+« Verificacion del tamizado “ — Pesado individual de fracciones con tamiz
+
+835
+
+5
+
+s
+
+1
+5
+
+Porcentaje que pasa (%)
+=55
+
+3
+N
+N
+N
+
+o
+
+1100 150 mo 16 18 1a 3/8"
+Designación tamiz ——- Columna Q
+
+= Registro de valores £ Curvas granulométricas de una muestra de arena lavada
+»
+
+Hormigonar 38 abril 2016
+
+===== Página 19 =====
+TECNOLOGÍA
+
+Análisis granulométrico de agregados gruesos
+
+Según Norma IRAM 1505:05
+
+1Elementos necesarios para el ensayo
+
+1Balanza con una precisión de 0,5 g o 0,1% de la carga de ensayo, la
+que sea mayor
+
+11Para autocontrol en plantas hormigoneras, puede realizarse con
+balanzas de 1g, pero no de 5610 g
+
+2 Tamices IRAM de tela de alambre tejido 3”,2 1/2",2”, 11/2", ",
+3/4",1/2",3/8", +44, 48, tapay fondo
+
+3 Cuarteador de muestras o partidor de Jones, adecuado para el
+tamaño máximo nominal del agregado
+
+4 Vibrador mecánico de tamices, no siendo imprescindible (siempre
+la verificación se realiza manualmente)
+
+5 Palitas, cepillos, bandejas metálicas o plásticas, etc.
+
+6 Estufa regulada a una temperatura de 105 +- 5*C
+
+6.1Para autocontrol en plantas hormigoneras, puede realizarse el
+secado en anafes o similares
+
+7 Elementos necesarios para ensayo de tamizado húmedo según
+IRAM 1540, no siendo imprescindible
+
+2 Preparación de la muestra
+
+1Serecomienda realizar el ensayo de tamizado húmedo (IRAM 1540)
+antes del análisis granulométrico
+
+2 Una vez secada la muestra anterior, se reduce a una masa no
+predeterminada según IRAM 1509
+
+3 La masa mínima es para TM 1/2” 2 kg, TM3/4" 5kg, TM 1" 10 kg,
+11/2" 15kg2"20kg,21/2"351g
+
+4 En caso de presentarse un “agregado mezcla” es indispensable
+
+separar las fracciones por el tamiz ++4
+
+3 Procedimientos de ensayo
+
+5 Serecomienda secar en estufa 24 horas hasta masa constante, no
+siendo imprescindible
+
+6 Se determina la masa de la muestra de ensayo (mt) al 0,5 g (a1gsi
+no se posee balanza al 0,5 g)
+
+7 Enel caso de granulomertría del agregado grueso, no es
+indispensable pesar los tamices » 4,75 mm
+
+8 Para el tamizado mecánico se debe proceder como sigue:
+
+8.1Se coloca el conjunto de tamices uno encima del otro en sentido
+de abertura decreciente
+
+82 Se enciende la máquina y se tamiza el conjunto de los tamices
+durante al menos 10 minutos
+
+83Se debe verificar que no exista pérdida de material durante el
+tamizado
+
+9 Para el tamizado manual:
+
+9.1Alternativamente, puede emplearse el tamizado en forma manual,
+empleando uno o más tamices
+
+9.2 Se empieza con los tamices de mayor abertura, colocando tapa y
+fondo para el tamizado
+
+9.3Se mueven los tamices en movimientos horizontales, verticales y
+de golpeteo sin perder material
+
+94 Sin ejercer presión, es válido emplear los dedos sobre el agregado
+grueso para agilizar el tamizado
+
+10 Se coloca un recipiente contenedor limpio sobre la balanza y se
+tara
+
+Se retira manualmente el retenido parcial de cada uno de los
+tamices y se van pesando individualmente
+
+12La carga para 112 es 36 kg,11/2" 27 kg, 118 kg,3/4" 14 kg, 1/2
+09kg 3/807kg i403kg
+
+13Sise supera se fracciona la muestra a partir del tamiz de abertura
+mayor y se continúa tamizando
+
+14 Luego se procede ala verificación de la efectividad del tamizado
+como se detalla (siempre manual)
+
+14.1Se separa el tamiz correspondiente con el material retenido, con
+la tapa y fondo correspondiente
+
+142 Se lo somete a un tamizado manual en posición ligeramente
+inclinada, realizando agitación manual
+
+143 Se considera efectivo si luego de 1 minuto de agitación manual
+no pasa más del 1% de la masa retenida
+
+15 Luego de verificar la efectividad en todos los tamices, se pasa cada
+uno con el material retenido en él
+
+16 Se determina la masa retenida parcial (Ri) definitiva de cada tamiz
+17 Se determina la suma de las masas retenidas en todos los tamices y
+enel fondo (pasa tamiz +:8)
+
+18Si difiere en más del 0,3% de la masa original, debe repetirse el
+ensayo con una nueva muestra
+
+19 En caso de quela diferencia sea inferior al 0,3% se considera el
+análisis granulométrico satisfactorio
+
+20 Se deben sumar las masas que pasen el tamiz IRAM 4200
+provenientes del ensayo según IRAM 1540
+
+21Si el porcentaje pasante tamiz +i4 es superior al 2% se recomienda
+
+realizar su análisis granulométrico
+
+4 Cálculos
+
+1 Retenidos parciales (r %) r%= r':*¡t-1ºº Redondear al 1%
+
+q Porcentajes que pasan (p%) — Según tabla Redondear al 1%
+Retenidos acumulados (rac) — tipo de análisis
+granulométrico
+
+S racitB ?* 3/4,11?" y 3 +400
+100
+Redondear al 0,01
+31 Para la determinación de ME se suman 400 correspondientes a 100
+por cada tamiz del +100 al +6
+
+3 Módulo de finura (MF) MF=
+
+Hormigonar 38 abril 2016
+
+===== Página 20 =====
+TECNOLOGÍA
+
+« Tamices empleados para el agregado grueso
+
+« Tamizadora automática (siempre después realizar verificación
+
+« Tamizado manual manual)
+
+« Tamizado manualsin exceso por tamices « — Separación de retenidos por tamaños
+
+A Td 6
+£ 6 S 8 9
+mm L 6 1O £ SZ
+100 1a
+=3 %
+—33 80
+r
+E_ 70
+60
+El
+o 50
+o
+-
+g 30
+5 20
+10
+0 7
+48 EZ 3/8" 92 3/4 7 17 7 3
+Designación tamiz
+
+« Pesaje individual de cada fracción de AG (sin tamiz)
+
+* Curvas granulométricas de un agregado gruesto TMN 19 mm
+
+Hormigonar 38 abril 2016
+
+===== Página 21 =====
+TECNOLOGÍA
+
+Ensayos paso a paso:
+Resistencia al desgaste
+e Índices de forma de
+agregados gruesos
+
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar
+
+La determinación de índices de forma (lajosidad y elon-
+gación) según IRAM 1687 es una práctica muy sencilla y el
+equipamiento requerido (calibres específicos y balanzas)
+no es oneroso para que se disponga en los laboratorios
+de autocontrol de plantas hormigoneras. Básicamente, el
+ensayo, que es aplicable sólo al agregado grueso, consiste
+en separar granulométricamente distintas fracciones por
+tamices predefinidos y hacer pasar de manera individual
+las partículas por dos calibres diferentes, uno de lajosidad
+y otro de elongación, para determinar el porcentaje de
+partículas “planas” y “alargadas” respectivamente.
+Poseer más de la mitad de las partículas del agregado
+grueso lajosas y/o elongadas puede dificultar la traba-
+jabilidad del hormigón, y al orientarse las partículas pa-
+ralelamente entre sí pueden afectar las propiedades me-
+cánicas, como la resistencia a compresión. El Reglamento
+CIRSOC 201 limita al 40% las partículas lajosas y elonga-
+das del agregado grueso. De emplear porcentajes mayo-
+res, tendrá que demostrarse con experiencias completas
+de laboratorio y de obra que no afecten la trabajabilidad
+de las mezclas y garantizar que se alcancen las resisten-
+cias deseadas en probetas y testigos calados.
+
+El otro ensayo que se describe paso a paso en el pre-
+sente artículo es la metodología para determinar la
+
+resistencia al desgaste de los agregados con la máquina
+de Los Ángeles, según IRAM 1532. Es un ensayo muy re-
+levante para cuantificar la calidad del agregado grueso,
+ya que brinda parámetros de la resistencia al desgaste y,
+de manera indirecta, de su dureza y resistencia a com-
+presión. Agregados gruesos con pérdidas de masa su-
+periores al 50% pueden conllevar a limitaciones en la
+resistencia del hormigón o que los agregados sean des-
+menuzables, lo cual nunca es deseable. Para finalidades
+específicas de hormigones expuestos a la abrasión se-
+vera, el Reglamento CIRSOC 201 brinda valores límites
+de pérdida de masa del 30%. Si bien la máquina de Los
+Ángeles pocas veces se posee en plantas hormigoneras,
+es útil conocer la metodología del ensayo para poder
+interpretarlos.
+
+Muchos agregados de nuestro país, como los rodados de
+cauces aluvionales empleados en las provincias del oes-
+te, cumplen holgadamente los requisitos reglamentarios
+(pérdidas de masa menores al 20%); mientras que otros
+agregados triturados, en ciertos casos, arrojan valores
+mayores al 30% o aun al 40%, con lo cual es muy útil e in-
+dispensable su determinación.
+
+Respecto de la periodicidad de ambos ensayos, no está
+bien definida en normas o reglamentos, pero se reco-
+mienda realizar los ensayos semestrales o anuales para
+cada una de las fracciones del agregado grueso emplea-
+das en la planta hormigonera, o bien cuando se posean
+dudas, o la apariencia visual del agregado permita cues-
+tionarlos de manera preliminar a la espera de resultados
+de ensayos. « »
+
+Hormigonar 39 agosto 2016
+
+===== Página 22 =====
+TECNOLOGÍA
+
+Determinación de la resistencia al desgaste Los Ángeles
+
+Según Norma IRAM1532
+
+1)Elementos necesarios para el ensayo
+
+1Máquina de Los Ángeles según norma (tambor con pestaña interna,
+motor para regular 30 a 33 rev/min).
+
+2 Doce (12) bolas de acero o fundición (carga abrasiva) de entre 390
+y 445 g cada una.
+
+3 Balanza con resolución de 0,5 g y capacidad mínima de 6 kg (para la
+mayor parte de los ensayos).
+
+4 Estufa regulada a una temperatura de 107,5 + 2,5 “C.
+
+5 Cuarteador de muestras o partidor de Jones, adecuado para el
+tamaño máximo nominal del agregado.
+
+6 Tamices convencionales para granulometría del agregado grueso y
+Tamiz IRAM 17mm (4H2).
+
+7 Estufa regulada a una temperatura de 107,5 + 2,5 *C.
+
+8 Banderas, recipientes para el pesaje, cucharas, cepillo de cerdas para
+
+limpiar las bolas de acero, etc.
+
+2) Preparación de la muestra
+
+1La muestra inicial depende del TMN de la composición
+granulométrica, necesitando de 15 a 30 kg.
+
+11Antes del ensayo de desgaste, tiene que realizarse la granulometría
+del agregado según IRAM 1505.
+
+12 Se compara la granulometría y se escoge de la Tabla 2 de IRAM
+1532 a cuál se asemeja más.
+
+13 Estas granulometrías se denominan con letras de la “A” a “G”,
+siendo las más usuales “A”, "B” y "G”.
+
+14 Se tamiza toda la muestra hasta obtener pesos algo superiores a
+los indicados en la Tabla 2.
+
+2 Para cada fracción, se lava manualmente y se seca a masa constante,
+determinando el peso de cada una.
+
+3 Como guía para la elección de las granulometrías indicadas en IRAM
+1532, puede referirse:
+
+31La granulometría “A” se elige para agregados de granulometría
+desde 44 hasta 1 " (ej.6/30).
+
+32 La granulometría “B” se elige para agregados de granulometría
+desde 14 hasta 3/4” (ej. 6/20).
+
+33La granulometría "G” se elige para agregados de granulometría
+desde 3/4” hasta1 Y+” (ej. 10/30).
+
+34 La granulometría "C” es para granza y las “E” y “F” para TMN
+superiores a1 72” (poco empleados).
+
+4 La muestra total para TMN de hasta 1 %” es de 5.000 + 10 gy para
+TMN elevados es de 10.000 g.
+
+3) Procedimientos de ensayo
+
+5 Se componen as diferentes fracciones para completar el peso total.
+
+6 Se pesa al 1g más próximo la muestra seca ya clasificada y se
+registra la masa inicial (m).
+
+7 En función de la granulometría, se elige la carga abrasiva y N* de
+vueltas.
+
+7.1Para “A” y “G”, el N* de bolas es 12 (5.000 + 25 g) y revoluciones
+de 500 y 1.000 respectivamente.
+
+7.2 Para "B”, el número de bolas es 11(4.584 + 25 8) y revoluciones de
+500 (agregado 6/20).
+
+7.3 Para “C”, el número de bolas es 8 (3.300 + 20 9) y revoluciones de
+500 (granza o binder).
+
+7.4Se cuentan y se pesan las bolas y se verifica que estén dentro de
+las tolerancias de la Tabla 1.
+
+8 Se abre la puerta superior y se inspecciona que no tenga restos de
+otro material ni que esté húmeda.
+
+9 Se introduce en el tambor toda la cantidad de agregado grueso y la
+carga abrasiva.
+
+10 Se cierra herméticamente y se ajusta para garantizar que no exista
+pérdida de material en el ensayo.
+
+T1 Se enciende la máquina y se controla el tiempo o se coloca el
+cuentavueltas para 500 ó 1.000.
+
+111En caso de no poseer cuentavueltas, se determina previamente la
+velocidad (revoluciones por minuto).
+
+112 Para 500 vueltas y una velocidad medida de 33 rev/min, son
+aprox. 15 minutos de ensayo.
+
+113 Para 1.000 vueltas y una velocidad medida de 30 rev/min, son
+aprox. 33 minutos de ensayo.
+
+12 Seretira el material del tambor sin que exista pérdida y se tamiza
+por el tamiz IRAM 17 mm.
+
+13 Se lava la muestra retenida por el tamiz 17 mm y se secaa masa
+constante.
+
+14 Retirada de la estufa, se deja enfriar y se determina la masa final
+
+seca (m1).
+
+4) Cálculos y límites reglamentarios
+1Pérdida por abrasión(P) P == 100 Seteritaral
+2 El Reglamento CIRSOC 201 establece dos categorías y valores a
+cumplimentar para el agregado grueso:
+
+2.1Para agregados constituyentes de hormigones sometidos al
+
+desgaste y abrasión: P%=<30%
+
+2.2 Para todos los demás agregados que constituyan hormigones (no
+sometidos al desgaste): P%=<50%
+
+Hormigonar 39 agosto 2016
+
+===== Página 23 =====
+TECNOLOGÍA
+
+« Separación preliminar de muestras por tamaño « Pesado de muestra de ensayo seca
+
+»
+
+«
+
+4 Cargando de bolas la máquina de Los Ángeles + Carga de agregado de la máquina de Los Ángeles
+
+« Vista del material y bolas dentro de la máquina 4 Máquina de Los Ángeles rotando
+
+« Descarga de material y bolas en bandeja « Tamizado y pesado de material retenido
+
+Hormigonar 39 agosto 2016
+
+»
+
+===== Página 24 =====
+TECNOLOGÍA
+
+Determinación de índice de formas — Lajosidad y elongación
+
+Según Norma IRAM 1687 — Partes! y Il
+
+1)Elementos necesarios para el ensayo
+1Calibradores metálicos específicos para índices de forma de
+agregados:
+
+11Calibrador de lajosidad (orificios) según IRAM 1687 Parte |.
+12 Calibrador de elongación (barras) según IRAM 1687 Parte l.
+2 Estufa regulada a una temperatura de 110 + 5%C.
+
+3 Balanza con resolución de 0,5 g y capacidad mínima de 6 kg.
+4 Banderas recipientes para el pesaje, cucharas, etc.
+
+5 Cuarteador de muestras manual o partidor de Jones.
+
+6 Tamices de abertura 63,0 mm; 50,0 mm; 35,5 mm; 25,0 mm;
+
+20,0 mm; 12,5 mm; 10,0 mm y 6,3 mm.
+
+2) Preparación de la muestra
+
+1La muestra para ensayo se toma de acuerdo con lo indicado en
+Norma IRAM 1509.
+
+11El tamaño de la muestra inicial es muy variable y aumenta en
+función del TMN del agregado.
+
+12 Antes de ser ensayada, la muestra se seca hasta masa constante.
+2 Se tamiza la muestra según IRAM 1505 toda la muestra,
+determinando los % retenidos.
+
+2.1Para el ndice de lajosidad, se descarta el retenido en el tamiz 50,0
+mmy el pasante tamiz 6,3 mm.
+
+2.2 Para el índice de elongación, se descarta el retenido en el tamiz
+50,0 mmy el pasante tamiz 6,3 mm.
+
+23Seregistran los pesos parciales retenidos en cada uno de los
+tamices (Ri).
+
+2.4 Cada una de las fracciones se deja por separado en una bandeja
+independiente identificada.
+
+3 Se confecciona la curva granulométrica y se determinan los %
+retenidos en cada tamiz.
+
+3.1Si en un tamiz el retenido es inferior al 5% del peso total, no se
+realiza el ensayo para esta fracción.
+
+3.2Si en un tamiz el retenido está entre el 5 y 15%, con 100 partículas
+es suficiente para su ensayo.
+
+33De cada tamiz que retenga »15% individualmente, se emplean los
+pesos de Tabla 1 de IRAM 1687.
+
+34Si el tamaño de muestra de alguna fracción es excesiva, puede
+
+reducirse por cuarteo o partidor.
+
+3) Procedimientos de ensayo
+
+4 Para determinar el índice de Lajosidad:
+
+4.1Se selecciona en el calibrador la lajosidad la ranura apropiada para
+cada fracción (está marcada).
+
+4.2 Se va haciendo pasar cada partícula en su menor dimensión por
+los orificios que correspondan.
+
+4.3Se van separando aquellas partículas que pasan (lajosas) de
+aquellas que no pasan (no lajosas).
+
+4.4 Para cada fracción, se separan aquellas partículas lajosas (mli) y no
+lajosas (mnl) y se pesan.
+
+5 Para determinar el índice de Elongación:
+
+5.1Se selecciona el calibrador de elongación, la separación entre
+barras apropiada para cada fracción.
+
+52 Se va haciendo pasar cada partícula con su dimensión mayor entre
+las barras que correspondan.
+
+53Se van separando aquellas partículas que pasan (no elongadas) de
+aquellas que no pasan (elongadas).
+
+54 Para cada fracción, se separan aquellas partículas elongadas (mei)
+y no elongadas (mne) y se pesan.
+
+6 En ambos calibradores debajo de las barras o ranuras, deben estar
+
+marcados los tamices límites.
+
+4) Cálculos y límites reglamentarios
+1Para la determinación del índice de lajosidad del agregado grueso
+(partículas "chatas”):
+
+11 Índice de lajosidad indivudual (Li) ILi=__mli 100 Redondear al 1%
+mli+mnl
+
+12 Índice de lajosidad total (1) IL= S ILixRi 400 Se confecciona una
+SRI tabla específica
+Redondear al entero más próximo
+
+2 Para la determinación del índice de elongación del agregado grueso
+(partículas “alargadas”).
+21 Índice de elongación individual (Ei) ILi= _mei _. 100 Redondearal1%
+
+mli+mnl
+
+22 Índice de elongación total (E) ¡L= SIEixRi 100 Se confecciona una
+SRi tabla específica
+Redondear al entero más próximo
+
+3 El Reglamento CIRSOC 201 establece límites a cumplimentar para el
+
+agregado grueso:IL < 40, 1E < 40.
+
+Hormigonar 39 agosto 2016
+
+===== Página 25 =====
+TECNOLOGÍA
+
++ Calibres de lajosidad (inferior) y elongación (superior)
+
++ Partícula de agregado triturado no lajosa . Separación de partículas trituradas lajosas por fracción
+ewe Perriudas
+NAA NO FLOMIADAS
+
+4 Separación de partículas trituradas elongadas por fracción 4 Partícula de agregado rodado elongada
+
+Parmias
+
+Porticuias
+
+LAONAS
+
+4 Separación de partículas rodadas lajosas por fracción 4 Separación de partículas rodadas elongadas por fracción
+
+Hormigonar 39 agosto 2016

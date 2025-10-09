@@ -1,0 +1,781 @@
+
+===== Página 1 =====
+INFORME ESPECIAL
+
+Necesidad real de especificar
+contenidos mínimos y tipos
+de cemento
+
+< PorEL Ms. ING. MAXIMILIANO SEGERER, DE LA FIRMA CONTROL Y DESARROLLO DE HORMIGONES / WWwW.CDHORMIGONES.COM.AR
+
+recuentemente en muchas obras
+
+aparecen controversias por el
+
+sólo hecho de “copiar y pegar” un
+contenido mínimo de cemento (CmC)
+de tablas o de otros pliegos, por el faci-
+lismo de pensar que será mejor para la
+estructura esta receta, sin analizar todas
+las variables. Aún está muy arraigada en
+nuestro país la creencia de que "mientras
+más cemento, el hormigón es mejor”. En
+la actualidad y con los avances tecnológi-
+cos que se disponen, lo anterior es falso
+y suele traer inconvenientes y conflic-
+tividad real entre aquellos proveedores
+que cotizan con los requerimientos de
+los pliegos y aquellos que, a sabiendas de
+que “es casi imposible de demostrar en
+una obra convencional” tanto el conteni-
+do de cemento como el tipo de cemen-
+to empleado, sacan provecho de estas
+situaciones de forma ilegítima.
+Este artículo (que continúa la tenden-
+cia del publicado en Hormigonar 44 so-
+bre especificaciones por performance
+de agregados) tiene como objeto des-
+mitificar algunos aspectos importantes
+y entender de donde provienen estos
+limitantes en nuestro país, que no sólo
+son nocivos económica sino tecnoló-
+gicamente. Para ello, se empleará y se
+realizará una comparativa entre ambas
+versiones del reglamento CIRSOC 201
+de 1982 y 2015.
+Antes de comenzar la descripción, hay
+que entender que la política de sólo
+agregar más cemento para mejorar el
+hormigón, no es algo válido actualmen-
+te, por diversas razones:
+
+m Técnicamente, se dispondrá de hor-
+migones más susceptibles a la fisuración
+por contracción por secado y contracción
+térmica, muy relevante en obras masivas
+o en pavimentos. Resistencia no es sinóni-
+mo de contenido de cemento. La resisten-
+cia está fijada por la relación a/mc (agua/
+material cementíceo) y por la calidad de
+los materiales y el empleo de aditivos, en-
+tre otros aspectos. En algunos casos con
+cementos adicionados (ejemplo CPP), al
+incrementar el contenido de cemento
+por encima de 400 + 20kg/m, la suba de
+cemento trae aparejado un aumento no-
+torio de la demanda de agua, con lo cual
+la relación a/mc se mantiene constante o
+la misma cae, y en consecuencia su resis-
+tencia puede ser inferior para contenidos
+de cemento de 460 que de 410kg/m*.
+
+m Ambientalmente, considerando que
+sólo el impacto del cemento y la hue-
+lla de carbono asociada, contribuyen en
+más del 80% de la contaminación total
+por cada m? de hormigón elaborado, un
+aumento de 40kg de cemento/m? sin
+ningún argumento sólido, aumenta el im-
+pacto un 10% de ese hormigón, lo cual es
+injustificado. Para citar un ejemplo sen-
+cillo: si consideramos que un hormigón
+H-35 en ciertas provincias puede obte-
+nerse con 330kg/m y por alguna espe-
+cificación prescriptiva no fundamentada,
+deben emplearse 380kg/m?, se presen-
+tarán muchas más emisiones. Si la obra
+tiene 25.000m* de hormigón H-35, se
+consumirán 1200 toneladas adicionales
+de cemento, lo que equivaldría a 1.000 to-
+neladas de CO; emanado a la atmósfera,
+
+más la energía asociada, recordando que
+laindustria del cemento es una de las acti-
+vidades industriales que más cantidad de
+energía consume a nivel mundial. Por otro
+lado, existirán 50 viajes más de cemento
+para la obra sobrecargando rutas.
+
+mRespecto a la durabilidad, teniendo
+en cuenta que hormigones con mayor
+tendencia a la fisuración pueden traer
+mayores inconvenientes durante su vida
+útil, no existe una relación lineal en que
+siempre incrementando el contenido de
+cemento se tendrá mayor vida útil en
+estructuras; incluso varios estudios de
+las últimas dos décadas demuestran lo
+contrario. Por ejemplo, para inducción
+de cloruros hay teorías dispares sobre su
+influencia, sin embargo los reglamentos
+no especifican que con ciertos cemen-
+tos con elevado CA también mejoran la
+protección frente a ambientes marinos.
+No debe perderse de vista que muchos
+otros aspectos constructivos (como ga-
+rantizar recubrimientos o de diseño
+como limitar ancho de fisuras son mu-
+cho más efectivos por temas de dura-
+bilidad que el contenido de cemento),
+como así también ensayos específicos
+como difusión de cloruros, penetración
+de agua o succión capilar. Estos últimos
+parámetros se ha demostrado que están
+mucho más relacionados con la relación
+a/mc que con el contenido de cemento.
+En lo relacionado con la reacción álca-
+li-agregado, mientras mayor sea el con-
+tenido de cemento, mayor será el % de
+álcalis aportado. Para mayores detalles se
+referencian los artículos “Minimun cement
+
+Hormigonar 48 Septiembre 2019
+
+===== Página 2 =====
+content requirements: A must or a myth?” de
+
+Requerimientos de CUC mínimo de cemento según CIRSOC 201-05 Rina Wasserman y “Optimizing Concrete
+(H” Elaborado) Mixtures for Performance and Sustainability”
+515. Contenido unitario de cemento. de Karthik Obla y Colin Lobo.
+51.51El hormigón debe contener la cantidad de cemento que resulte necesaria para Según publicaciones de la NRMICA, el
+
+cumplir con los requisitos de resistencia y durabilidad establecidos en este Reglamento
+según el destino para el que se lo utilice.
+
+541.5.2. Alos efectos de proteger las armaduras contra la corrosión, el contenido mínimo de
+cemento debe ser igual a 280kg/m* de hormigón fresco compactado tanto en el hormigón
+
+46% de las especificaciones america-
+nas incluyen contenidos mínimos de ce-
+mento; mientras que en nuestro país con
+seguridad es superior al 65% en la actuali-
+
+armado como en el pretensado. . actua
+dad. De ellas, una mínima proporción tie-
+Requerimientos de CUC mínimo de cemento según CIRSOC 201-82 ne alguna justificación técnica y fundada
+(H* Elaborado) para defender la necesidad de su uso.
+
+El hormigón contendrá la cantidad de cemento que resulte necesaria para obtener las re-
+sistencias mecánicas o demás características especificadas, y para proteger a las armaduras
+contralos efectos de la corrosión. Se cumplirá lo especificado en el artículo 6.6.33.
+
+6.6.33. Contenido unitario mínimo de cemento normal del hormigón Reglamentariamente por aspectos de
+compactado: durabilidad, hay contadas especificacio-
+a) Sila composición del hormigón se establece en forma experimental, de acuerdo con nes del CmC:
+
+ensayo y estudios previos, en la forma establecida en el artículo 73.31, el contenido
+unitario de cemento en ningún caso será menor que el que se indica a continuación:
+
+- En estructuras de hormigón simple: 100kg/m*.
+
+- En estructuras de hormigón armado, a los efectos de proteger a las armaduras contra
+la corrosión: 280kg/m*.
+
+Según ambas versiones del Reglamento
+CIRSOC201, se limita el CmC de cemento
+a 280kg/mé para garantizar pasividad de
+
+FIGURA 1» ESPECIFICACIONES DE CONTENIDO MÍNIMO DE CEMENTO PARA HORMIGÓN ELABORADO
+
+DESARROLLAMOS HORMIGÓN ELABORADO
+
+PROYECTOS CON
+PESO PROPIO
+
+SERVICIO DE BOMBEO
+“LABORATORIO CENT! RAL
+PAVIMENTO
+
+CORDÓN CUNETA
+
+G materia
+
+€º
+
+Vby ¿ CONSTRUCCIONES
+) CIVILES E INDUSTRIALES *
+
+Jerónimo Marincovich 657 | Parque industrial Pesquero | Camino El Doradillo
+Telrax 0280-445 13 327445 16 991(91 20) Puerto Madryn - - Chubut
+
+infoEccimadryn.com.ar
+
+
+===== Página 3 =====
+INFORME ESPECIAL
+
+Requerimientos de CUC mínimo de cemento según CIRSOC 201-05
+
+(H?* in-situ)
+
+Tabla 5.7: Contenido mínimo de cemento para hormigones simples dosificados
+
+en forma empírica
+
+Clase de
+
+Contenido mínimo de cemento por m* de hormigón (kg) según
+la consistencia del hormigón
+
+hormigón — | Consistencia seca y
+
+plástica
+
+Consistencia muy
+
+plástica Consistencia fluida
+
+H-15 300
+
+350
+
+—
+
+Requerimientos de CUC mínimo de cemento según CIRSOC 201-82
+
+(H* In-Situ)
+
+b) Si la composición del hormigón se establece en forma empírica, de acuerdo con lo in-
+dicado en el artículo 7332, el contenido unitario de cemento en ningún caso será menor
+que el que, para cada resistencia característica y asentamiento, se indica en la Tabla 4.
+
+Tabla 4: Contenido unitario mínimo de cemento normal, para un tamaño
+máximo del agregado grueso de 25mm y para los asentamientos que se indican
+(proporciones establecidas en forma empírica)
+
+Resistencia
+característica a la
+edad de 28 días
+O r
+
+Clase de
+resistencia del
+
+Contenido unitario máximo de
+cemento (kg/m*) del hormigón
+compactado, para las consistencias
+(asentamientos) que se indican
+
+MN/m?
+(kgf/cm?)
+
+Hormigón H-1
+
+A-1 A2 A3
+(10a (50a (10,0a
+4,5em) 9,5em) 15,0em)
+
+4(40)
+
+a
+
+180 200
+
+8(80)
+
+230 250
+
+13 (130)
+
+20 | 30
+
+17 (170)
+
+310
+
+o
+
+FIGURA 2: ESPECIFICACIONES DE CONTENIDO MÍNIMO DE CEMENTO PARA
+
+HORMIGÓN IN-SITU
+
+armaduras y su protección contra la co-
+rrosión. Este límite es bastante discutido y
+enotras normativas baja hasta 260kg/m?,
+pero la realidad es que los cementos
+
+son diferentes, con lo cual no se discutirá
+en este artículo (ver FIGurA 1 con imagen
+de las especificaciones para contenidos
+mínimos de cemento).
+
+m Agresividad química muy fuerte:
+Para ciertos casos se solicita un CmC de
+380kg/m?, como un ataque de agresivi-
+dad Q3; lo cual representa una propor-
+ción ínfima de estructuras de hormigón.
+No obstante, estará además condicio-
+nado por una relación a/c baja de 0,40
+y compatible con ese contenido de
+cemento.
+
+m Otras especificaciones: El Regla-
+mento CIRSOC 201 vigente, especifica
+200kg/m? para hormigón armado masi-
+vo (exposición no masiva y recubrimien-
+to de 10cm). Por su parte, el Reglamento
+CIRSOC 201-82 solicita un CmC de
+100kg/m? para hormigón simple y un
+contenido máximo de 500kg/m*.
+
+Es muy amplio el tema, pero en varios
+reglamentos del mundo se usan más o
+menos criterios de contenidos unita-
+rios mínimos de cemento; incluso hay
+estándares que brindan también conte-
+nidos máximos de cemento (por ejem-
+plo, Indian Standard IS 456 fija para
+hormigones H-25 contenidos entre 280
+y 360kg/m>).
+
+LIMITACIONES REGLAMENTARIAS
+PARA HORMIGONES IN SITU
+
+Los hormigones in-situ actualmente
+son cuestionables en todos sus aspec-
+tos: seguridad, funcionalidad, econo-
+mía, ambiental y durabilidad, lo cual
+ha sido abordado en otros artículos. El
+Reglamento CIRSOC 201-05 limita en
+su Tabla 5.7 (ver FIGURA 2) el CmC por m?
+de hormigón para hormigones no es-
+tructurales H-15 a un valor de 320kg/m*.
+Este contenido de cemento del H-15 es
+coincidente con lo que figura en la ta-
+bla 4 del Reglamento CIRSOC 201-82,
+donde especifica para hormigones H-4a
+H-17, y tal como lo dice el título de su ta-
+bla para hormigones dosificados empí-
+ricamente, CmC en función del ámbito
+de consistencia. Actualmente el hormi-
+gón estructural mínimo es H-20 (equi-
+valente al H-17 del reglamento anterior)
+y se establecen muchos aspectos de im-
+posible cumplimiento en obras corrien-
+tes para dosificarlos in-situ (recipientes
+graduados, medición de agua en volu-
+men o peso, corrección por humedad
+de agregados, etcétera) con lo cual indi-
+rectamente el Reglamento prohíbe su
+uso en elementos de hormigón armado
+o que deban poseer cierta seguridad o
+durabilidad.
+
+La tabla del CIRSOC 201-82 hasido (y es)
+pésimamente empleada para especificar
+hormigones elaborados en planta cen-
+tral y dosificados racionalmente. Tal es el
+ejemplo de la tabla adjunta (FIGURA 3) de
+múltiples pliegos en nuestro país, donde
+“copia y pega” los contenidos de cemen-
+to para el ámbito de consistencia más
+empleado, mientras que para hormigo-
+nes H-21 y superiores se trunca esa ta-
+bla y no existen CmC. En la tabla adjunta
+no se ha borrado ningún valor, es tal cual
+figura en pliegos que solo regula CmC
+hasta H-17. Los contenidos de cemento
+citados en pliegos no son por coinciden-
+cia iguales que la tabla del Reglamento
+CIRSOC 201-82 para hormigones in-si-
+tu, son análogos y han sido copiados sin
+interpretar que no se trata de hormigo-
+nes elaborados. Así, en las obras en que
+se aplican estos pliegos, los hormigones
+H-17 con 340kg/m* dan más resistencia
+que los H-21 e incluso que los H-25, lo »
+
+Hormigonar 48 Septiembre 2019
+
+===== Página 4 =====
+ad E- = 1 .D 75 “
+A. SOCIEDAD ANÓNIMA
+.a mejor relacion ¡TQ4'5(:"¡:(5-——I;(:rd|f'íñí_"i.':'
+
+Estamos presentes en todos los terrenos.
+
+Te
+
+En REPAS S.A., usted encuentra un aliado que Es nuestro objetivo mantener el esfuerzo a paso
+lleva más de 50 años brindando Esfuerzo, firme y sin pausa, para lograr la satisfacción
+Fidelidad y Respaldo, en el rubro de Máquinas permanente de cada Cliente.
+
+y Servicios para la Construcción.
+
+Administración y Ventas: Reconquista 336 - piso 12 -C.A.B.A. — Tel.: [54 11] 4393-9243
+Post-Venta: Ruta Panamericana 28540 — Don Torcuato, Prov. Bs. As. — Tel.: 4846-1073.
+
+www.repas.com.ar
+
+
+===== Página 5 =====
+INFORME ESPECIAL
+
+Requerimientos de CUC mínimo en pliego de obra pública (ídem CIRSOC 201-82 para
+consistencia plástica que no debería aplicar al hormigón elaborado en planta central)
+
+Cuando en los planos Tipo u otra documentación del contrato se haga referencia a los hormigones tipo A,
+B,CD,EoFse tomarán como resistencias características para las condiciones de aceptación descritas en el
+apartado 6.6.31. del Reglamento CIRSOC 201, las que a continuación se indican. Así mismo se respetarán
+
+simultáneamente las exigencias referentes a la cantidad mínima de cemento.
+
+Resistencia Resistencia
+Hormigón característica a la media de c/serie Cantidad mínima Hormigón clase
+clase s/ edad de 28 días de 3 ensayos de cemento (kg/ S /g PV
+CIRSOC Otr consecutivos O tm m?) —
+(kg/cm?) (kg/cm”)
+H4 40 70 200 - F
+H-8 80 120 250 E
+H-13 130 175 320 D
+H-17 170 215 340 (el
+H-21 210 260 B
+H-25 250 300 A
+H-30 300 350
+
+o
+
+FIGURA 3: ESPECIFICACIONES ERRÓNEAS DE PLIEGOS DE ESPECIFICACIONES
+
+cual es una inconsistencia total que, por
+ejemplo, un cordón posea más resisten-
+cia que una alcantarilla.
+
+Muchas veces se defienden estos conte-
+nidos de cemento como que devienen
+de criterios por durabilidad pero lo mis-
+mo es completamente ilusorio y provie-
+nen de errores de copiar y pegar tablas sin
+tener en cuenta que las mismas, no son
+aplicables al hormigón elaborado y que el
+hormigón in-situ dosificado volumétrica-
+mente hay en día no está permitido para
+hormigones estructurales, desde el pun-
+to devista reglamentario. Estas tablas son
+uno de los principales problemas en las
+especificaciones. Difícilmente quien colo-
+cÓ esa tabla hace 40 años en el CIRSOC,
+criteriosamente y con el título correcto,
+pueda haber pensado el efecto nefasto
+que ha tenido décadas después.
+
+CASOS EN QUE PUEDE SER
+FACTIBLE ESPECIFICAR
+CONTENIDOS MÍNIMOS DE
+MATERIAL CEMENTÍCEO:
+
+La especificación de un CUC propiamen-
+tedicha es un arma de doble filo ya quea
+
+quien realiza el pliego tiende a darle cier-
+ta tranquilidad o garantías, pero la reali-
+dad es que no puede ser controlado de
+forma corriente el contenido de cemen-
+to, como así tampoco es práctico el con-
+trol de la muy relevante relación a/mc, la
+cualsí condiciona la durabilidad de las es-
+tructuras. Se enuncian aquellos aspectos
+en los cuales contenidos de material ce-
+mentíceo bajos, podrían traer inconve-
+nientes y la experiencia lleva a este tipo
+de especificaciones:
+
+= Hormigón visto arquitectónico.
+Las propiedades de las superficies vistas
+depende de una gran cantidad de varia-
+bles (ya se han publicado artículos sobre
+hormigón visto) y para lograr adecuadas
+terminaciones en ciertos casos es nece-
+sario emplear contenidos mayores a 300
+o 320kg/m* en función del tipo de ce-
+mento, arena y aditivos, con el objeto de
+lograr adecuadas terminaciones por cri-
+terios estéticos.
+
+m Hormigones para muros colados
+y similares. Existen especificaciones
+europeas (por ejemplo, EN 1538) por te-
+mas de cohesividad, muy relevante para
+
+desplazar el iodo bentonítico y evitar el
+deslave del hormigón, sumado a que el
+hormigón no será compactado; se exigen
+CmC, como por ejemplo 370kg/m? para
+TIMN 1" 0 385kg/m? para TMN 3/4". De
+todos modos, ese contenido de cemento
+total puede ser constituido por cemen-
+to y adiciones, es decir, finos que reduz-
+can notablemente la segregación de las
+mezclas.
+
+m Contenidos para terminación su-
+perficial de pisos. La recomendación
+ACI1301de hormigón estructural, especi-
+fica contenidos de material cementíceo
+mínimo por razones de terminabilidad,
+limitando para TMN de 1 y 1%” CmC
+de 320 y 280kg/m?. Estos aspectos están
+fijados por la experiencia pero, si no se
+poseen contenidos de finos adecuados,
+posiblemente se tengan defectos su-
+perficiales, finos que no necesariamen-
+te deben ser exclusivamente cemento
+portland.
+
+m Hormigones en ambientes de ex-
+posición severos. El CIRSOC 201-
+05 exige un contenido de cemento de
+380kg/m?* para ciertos casos de ataques »
+
+Hormigonar 48 Septiembre 2019
+
+===== Página 6 =====
+-| ) WWWFENOM.COM
+
+E - VENTASEFENOMIX.COM
+
+-- 4714-7400/ 7500
+—O - 15-3648-9536
+
+4 © H YRIGOYEN 5355, SAN FERNANDO -
+
+===== Página 7 =====
+INFORME ESPECIAL
+
+Agregando cemento... ¿solucionamos
+todo? Mientras más cemento... ¿mejor?
+
+R
+
+Mayor riesgo de
+
+fisuración
+y patologías
+
+Producción cemento
+7% contaminación mundial
+
+Reducción
+de durabilidad
+de estructuras
+
+químicos muy severos (Q3) y relacio-
+nes agua/cemento de 0,40; como así
+también una categoría mínima H-40.
+Cumplir con una a/c de 0,40, para
+una demanda de agua de 150litros/m>
+(mucho más baja a la de la mayor par-
+te de los hormigones en el país), exige
+emplear un contenido de cemento de
+380kg/m?; con lo cual para cumplir con
+a/c de 0,40 es indispensable usar con-
+tenidos de cemento iguales o supe-
+riores a 380. Algo similar sucede con
+normas europeas como la instrucción
+española EHE, donde se especifican
+CmC de 325 y a/c de 0,50 o para am-
+bientes de mayor agresividad 350 y a/c
+de 0,45. Para cumplir las relaciones a/c
+con demandas de agua de 160 litros/
+m (muy bajas) es necesario ya utilizar el
+contenido de cemento indicado al me-
+nos. De todos modos, este punto es dis-
+cutido actualmente y muchos estudios
+indican que mientras mayor contenido
+
+de pasta, se tendrá una peor perfor-
+mance en durabilidad (difusividad de
+cloruros acelerada, mayor absorción ca-
+pilar, mayor contracción y tendencia de
+fisuración, etcétera).
+
+m Hormigones autocompactantes:
+En general los HAC llevan un contenido
+elevado de aglomerante, que suele osci-
+lar entre 450 y 530kg/m*. El mismo está
+dado por cuestiones de cohesividad, vis-
+cosidad, fluidez y resistencia a la segre-
+gación de las mezclas en estado fresco,
+pero no son condicionantes reglamen-
+tarios o normativos. Incluso, estos con-
+tenidos de cemento van contra ciertas
+disposiciones que limitan el contenido
+de cemento a 500kg/m? (CIRSOC 201-
+82) u otras reglamentaciones extranjeras
+que lo limitan a 450 kg/m¿.
+
+Se desprende del análisis anterior, que
+los contenidos de cemento actual-
+mente se especifican más por crite-
+rios funcionales (estéticos, facilidad de
+
+Mayores
+costos de
+producción
+
+colocación, terminación superficial y
+cohesividad de mezclas) que por pres-
+cripciones atadas a la resistencia o dura-
+bilidad de estructuras, lo cual hoy en día
+es muy cuestionable.
+
+CEMENTOS CON PROPIEDADES
+
+ESPECIALES ¿CUÁNDO USARLOS?
+Si bien la norma IRAM 50.001 brinda las
+seis propiedades especiales que pue-
+den tener los cementos en la Argentina
+y el Reglamento es muy claro de cuán-
+do especificarlos, muchas veces en plie-
+gos de reparticiones públicas figuran,
+sin fundamentación alguna, exigencias
+de propiedades especiales en obras de
+toda envergadura. Demandar ciertos
+cementos sin la necesidad estricta de su
+uso condiciona fuertemente el merca-
+do o induce a comprarle a determina-
+da empresa. También en casos extremos,
+para canales de riego u obras hidráuli-
+cas aluvionales en contacto con aguas
+
+Hormigonar 48 Septiembre 2019
+
+===== Página 8 =====
+no nocivas, se exige el uso de cementos
+adicionados (CPP por ejemplo), existien-
+do el aval reglamentario del uso de cual-
+quier cemento de uso general según
+IRAM 50.000, si no hay requerimientos
+específicos. Este tipo de especificacio-
+nes pueden obstaculizar a hormigone-
+ras locales de participar en un proyecto
+de cualquier envergadura, ya que su pro-
+veedor de cemento puede no tenerlo.
+A continuación, se brindan algunos
+ejemplos en lo relacionado con malas
+prácticas de especificación de propieda-
+des especiales de cementos:
+
+m Cemento ARS: Es un cemento que
+muchas veces se recomienda sin tomar
+medidas preventivas adicionales (baja
+a/c y elevada categoría resistente como
+indican los Reglamentos) o bien sin rea-
+lizar ensayos sobre los suelos o aguas en
+contacto con la fundación. Hay ejem-
+plos de obras de tendidos eléctricos de
+miles de km en el país, en que se espe-
+cifican para todas las fundaciones ce-
+mentos ARS, lo cual no es probable que
+en miles y miles de bases siempre existan
+concentraciones de sulfatos elevados
+y presencia de agua casi permanente o
+napa freática alta. Es frecuente su espe-
+cificación en obras hidráulicas o de sa-
+neamiento, que en muchos casos no
+conducen o almacenan aguas agresivas
+contra el hormigón. También hay mu-
+chos ejemplos de pliegos que solicitan
+hormigones H-17 (con relación a/c real
+de 0,60 a 0,65) y cemento ARS; la conse-
+cuencia será un hormigón poroso y el ce-
+mento pasará a jugar un rol secundario
+
+en la estructura que, si está ante un am-
+biente agresivo y presencia de agua,
+seguramente se deteriorará, indepen-
+dientemente de la propiedad especial
+del cemento solicitada. La propiedad
+ARS es el ejemplo más corriente de es-
+pecificación errónea y direccionada.
+En grandes destilerías e industrias para
+obras edilicias, en los cuales los sulfatos
+no hay posibilidad alguna que estén en
+contacto con edificios en sus pisos su-
+periores, se sigue pidiendo cemento ARS
+sin fundamento alguno.
+
+m Cemento RRAA: Con las nuevas ver-
+siones de las normas IRAM 1512 y 1531
+de agregados, queda más claro el pano-
+rama de las diferentes opciones inter-
+medias, y muchas veces más viables, en
+función de la reactividad de los agrega-
+dos y condiciones del elemento estruc-
+tural y su exposición. Si bien un cemento
+RRAA tiene adecuadas propiedades de
+inhibición con cualquier agregado, hay
+otras alternativas como limitar el conte-
+nido de álcalis o emplear cementos con
+AMAs (Adiciones Minerales Activas)
+de eficiencia comprobada contra la re-
+acción. La especificación por pliego de
+cementos RRAA puede bloquear el es-
+píritu de las normas IRAM mencionadas,
+ya que al “figurar en el Pliego, contrac-
+tualmente hay que usarlo”.
+
+m Cemento BCH: En ciertas fundacio-
+nes u obras masivas se especifican ce-
+mentos que cumplan con la condición
+de bajo calor de hidratación y que no
+están disponibles en el mercado próxi-
+mo, lo cual traerá un flete considerable
+
+de otras regiones más la carga innece-
+saria de autopistas por ello. En muchas
+obras pueden emplearse cementos con
+altos contenidos de adiciones que sin
+ser BCH estrictamente, combinados
+con una adecuada modelación de la es-
+tructura y edades de diseño de 90 días
+O posteriores, en estructuras masivas
+pueden cumplirse satisfactoriamente
+todos los aspectos técnicos, sin emplear
+un cemento con propiedad especial de-
+clarada por el fabricante. Es un cemento
+que se produce en una o dos plantas ce-
+menteras actualmente, caso análogo al
+Cemento RRAA.
+
+m Cemento ARI. Los cementos de alta
+resistencia inicial se fabrican sólo en una
+planta de cada cementera de Buenos
+Ajres y eso logra una disponibilidad redu-
+cida para nuestro vasto territorio. Como
+alternativas, pueden emplearse aditivos
+acelerantes eficaces o bien incrementar
+las categorías resistentes para lograr una
+habilitación temprana de las estructuras
+o el empleo de ciclos de curado acelera-
+dos. Como en todos los casos, a veces es
+indispensable el uso de estos cementos
+pero en la mayoría de las obras existen
+alternativas viables para especificar por
+performance (resultado objetivo en la
+estructura) y no de forma prescriptiva
+que limita las alternativas o con las obras
+ya en ejecución es difícil cambiar.
+
+Las propiedades MRS (moderadamente
+resistente a los sulfatos) y B (blanco) son
+menos solicitadas en general en las obras
+y sus pliegos asociados, o al menos no sue-
+len ser especificados de forma antojadiza. «
+
+FIBRAS PARA HORMIGONES Y MORTEROS
+
+NUESTRAS FIBRAS son el resultado de la combinación de nuestra
+larga experiencia y tecnología de avanzada; característica que hace
+a nuestra identidad.
+
+MILFA
+
+HILADOS INDUSTRIALES
+PARA LA CONSTRUCCION
+
+E FIBRASI Ó LIGAMENTO O MICROFIL
+
+Planta industrial | Colectora Norte KM 50. Acceso Oeste | Gral, Rodriguez. Buenos Aires
+Atención al cliente TelFax 054-0237-4850508 | Ventas 011- 1567608498 | www.milfa.com.ar // infoSmilta.com.ar
+
