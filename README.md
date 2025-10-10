@@ -26,7 +26,7 @@ A short description of the project.
 │   └── vector_store/    <- Índices de la base de datos vectorial.
 │
 ├── docs/                <- Documentación, manuales, reportes y recursos visuales.
-│   └── assets/          <- Imágenes y diagramas para la documentación.
+│   └── images/          <- Imágenes y diagramas para la documentación.
 │
 ├── notebooks/           <- Notebooks de Jupyter para experimentación y prototipado.
 │
