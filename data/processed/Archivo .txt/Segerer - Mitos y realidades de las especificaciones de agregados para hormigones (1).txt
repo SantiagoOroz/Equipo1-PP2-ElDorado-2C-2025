@@ -1,0 +1,488 @@
+
+===== Página 1 =====
+NOTA DE TAPA - INFORME ESPECIAL
+
+Mitos y realidades de las
+especificaciones de agregados
+para hormigones
+
+Rodado 620
+
+Rodado 10/38
+Mentura Manzcas
+
+4 Agregados gruesos rodados de diferentes tamaños y procedencias
+
+Ms. ING. MAXIMILIANO SEGERER
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar
+
+1. Elagregado como material
+indispensable dentro del hormigón
+Losagregados finos y gruesos son uno delos
+materiales constituyentes de cualquier tipo
+de hormigón. Sin embargo, no tiene que
+perderse de vista que sus estudios y ensa-
+yos apuntan únicamente a que éstos tengan
+un adecuado desempeño dentro del hor-
+migón o bien que no vayan en detrimento
+de sus propiedades, tanto en estado fresco
+como endurecido. El agregado no debe ser
+juzgado o analizado como un material de
+construcción aislado, porque no lo es. Debe
+ser evaluado en función de las propiedades
+de los hormigones de los que forma parte
+importante, en el cual influirá fuertemente
+en sus propiedades ya que ocupa cerca de
+2/3 de su volumen. Sus tres funciones prin-
+cipales son:
+
+* Suministrar un material económico de
+relleno einerte
+
+Rodado 6/20
+p
+
+Triburado 8720
+perierie
+
+* - Localizar y reducir los movimientos por
+contracción derivados de la pasta de
+cemento
+
+* Mejorarlaresistencia al desgaste y
+abrasión
+
+Cada proveedor de hormigón elaborado es
+responsable de conseguir las mejores fuen-
+tes de agregados, para que su hormigón
+producido cumpla con las propiedades de
+resistencia, durabilidad, trabajabilidad, uni-
+formidad, economía y amistosidad con el
+ambiente, seempre demandadas por el clien-
+te. El balance que debe realizar no sólo par-
+te desde el punto de vista estrictamente
+técnico, sino también económico, ambien-
+tal y de disponibilidad. Por ejemplo, en cier-
+tas regiones se exigen arenas lavadas y para
+su proceso se emplea agua potable o de rie-
+go, que claramente tiene más valor agrega-
+do para consumo humano o para agricul-
+tura respectivamente, más aún en zonas
+donde el agua es un recurso valioso, escaso
+y estratégico. Al especificar agregados lava-
+dos en ciertas zonas, debe considerarse que
+a veces no hay agua disponible o que no es
+
+Triturado 10134
+Corarses
+
+Tritun
+mvinaie en Fanero
+
++ — Agregados gruesos triturados de diferentes tamaños y procedencias
+
+indispensable para lograr un hormigón de
+calidad.
+
+Los grandes y crecientes consumos de hor-
+migón y cantidades de agregado asociadas
+han ocasionado que las fuentes históricas
+próximas de agregados vayan agotándose
+obien degradando su calidad desde el pun-
+todevista técnico.La escasez e inconvenien-
+tes aparejados con la logística de los agrega-
+dos es un problema que en los últimos cinco
+años se va agravando y el futuro no es alen-
+tador en esta temática. Sin embargo, to-
+dos debemos coincidir en que necesitamos
+producir hormigón de calidad para generar
+obras y empleos. Es reconocido que exis-
+te una tendencia creciente a nivel mundial
+de emplear otras fuentes de agregados no
+convencionales, como agregados artificiales,
+bien sea de subproductos industriales y fun-
+damentalmente de restos de demolición de
+estructuras de hormigón. Estas tendencias
+provienen de Europa y ya se están estable-
+ciendo en plantas del Gran Buenos Aires con
+buenos resultados. El usuario del hormigón
+elaborado no debería especificar propieda-
+des de los agregados, con excepción del ta-
+maño máximo, ya que el cliente controla el »
+
+Hormigonar 44 Abril|2018
+
+===== Página 2 =====
+Representante Exclusivo en Argentina
+
+ARGENTINA:
+Ruta Panamericana Km 28.5, Colectora Ceste C P1611, Don Torcuato - Provincia de Buenos Aires, Argentina
+e1-011 4741 74007 474 J00 - Email: informcowdinsa com
+
+www cowWodinsa . com
+
+===== Página 3 =====
+NOTA DE TAPA - INFORME ESPECIAL
+
+hormigón en estado fresco y endurecido; es
+decir, el material compuesto que está com-
+prando. Sítiene el derecho de solicitar que el
+proveedor de hormigón le demuestre me-
+diante ensayos y experiencias que sus agre-
+gados cumplirán su función adecuadamente
+dentro del hormigón, sin restarle valor o pro-
+piedades a corto y largo plazo. Nunca debe
+perderse de vista que al estudiar las carac-
+terísticas de los agregados, la única finalidad
+buscada es que el agregado se comporte
+adecuadamente dentro del hormigón y que
+cumpla sus funciones principales de manera
+adecuada. Es decir, es mucho más relevan-
+te el estudio de los hormigones en el medio
+en el cual estarán expuestos (planteo holísti-
+co) que el control de las propiedades de los
+agregados individualmente. De nada sirven
+diferentes fracciones de agregado que cum-
+plan “perfectamente” con todos los requisi-
+tos establecidos por norma y reglamentos, si
+no se comprueba un comportamiento satis-
+factorio dentro del hormigón o bien si éstos
+no son económicos o son ambientalmente
+cuestionables. Ejemplos de estos impactos
+ambientales pueden ser la explotación de
+zonas con riesgos de desertificación, consu-
+mo de combustible y sobrecarga de rutas
+por transportar mayores distancias los agre-
+gados, mayor consumo de energía o com-
+bustibles para cierta explotación, entre otros.
+
+2.Especificaciones por performance
+aplicablesalos agregados
+
+Una especificación prescriptiva es aque-
+lla que induye cláusulas para métodos de
+construcción y composición de la mezcla de
+hormigón, la cual más que definir requisitos
+de performance fundamentalmente aplica
+“recetas estáticas”, citando como un clási-
+co ejemplo las curvas granulométricas lími-
+tes. En cambio, una especificación por per-
+formance es un conjunto de instrucciones
+que condicionan los requerimientos funcio-
+nales del hormigón endurecido dependien-
+do de la aplicación y en el ambiente en el
+cual se encontrará. Las instrucciones deben
+ser claras, alcanzables y mensurables. Estas
+especificaciones proveen flexibilidad al con-
+tratista y productor para proveer una mez-
+cla que llegue a los criterios de performan-
+ce en el modo que ellos elian con el mejor
+manejo de los recursos posible. Además, se
+tiene que trabajar para desarrollar mezclas
+
+Amu sinlavar —|
+Werdoza
+
+' Arena natural
+
+“ — Arenaspara
+hormigones
+de diferentes
+
+provincias
+
+con una correcta aptitud para ser coloca-
+das y terminadas, como por ejemplo fluidez
+y tiempo de fraguado, asegurando que los
+requerimientos de performance del hormi-
+gón endurecido no se vean comprometi-
+dos. En el ámbito científico y técnico a nivel
+local y mundial, se coincide que progresiva-
+mente se irán desplazando las disposiciones
+prescriptivas por las especificaciones basadas
+por performance, que realmente tienen en
+cuenta las necesidades de las estructuras y
+el resultado esperado, independientemente
+dela dosificación de la mezcla o característi-
+casindividuales de los materiales. En muchos
+reglamentos de vanguardia se incluyen estos
+conceptos y el Reglamento CIRSOC 201:05
+no es ajeno a ello, incorporando ciertos con-
+ceptos hace más de 10 años. En varios ca-
+sos no es posible económicamente obtener
+agregados que cumplan con todas las dispo-
+siciones reglamentarias o de pliegos de espe-
+cificaciones, pero ciertos reglamentos, como
+
+Arena Gruesa
+
+Aruua Gruesa
+Cómtcha
+
+A…l¡ F'N
+
+Sama Cruz
+
+el norteamericano y el argentino, admiten
+ciertas desviaciones en las propiedades de
+los agregados; siempre y cuando no perju-
+diquenal hormigón ni en estado fresco ni en
+estado endurecido. Los reglamentos y reco-
+mendaciones no son ajenos al hecho de que
+muchas veces no es posible obtener agrega-
+dos que cumplan con los requisitos granulo-
+métricos, con el espíritu de pensar al agrega-
+do dentro del hormigón. Por ejemplo, zonas
+límites granulométricas fueron ideadas hace
+casi un siglo en Estados Unidos y de alíí se
+fueron copiando y copiando estas especifi-
+caciones, entendiendo claramente que no
+todos los agregados pueden ser iguales en
+todo el mundo y con el paso de las décadas.
+Laindustria del hormigón es muy dinámica.
+
+En este hecho se basan las especificaciones
+por performance por sobre las especificacio-
+nesdlásicas prescriptivas. Esto quieresignificar
+que si el agregado se aparta de estos requisi-
+tos, pero se obtienen buenas propiedades en
+
+Hormigonar 44 Abril|2018
+
+===== Página 4 =====
+el hormigón fresco y hormigón endurecido,
+es perfectamente válido y viable emplear
+este agregado desde el punto de vista técni-
+co. En ciertos casos, se pueden obtener aún
+mejores resultados, con agregados que no
+cumplan ajustadamente con las granulome-
+trías impuestas por Pliegos y Reglamentos.
+Esto viene dado en que las propiedades del
+hormigón fresco y endurecido pueden ser
+muy similares para ambos tipos de agrega-
+dos, pero agregados que cumplan estricta-
+mente con los requisitos de Pliegos pueden
+ser antieconómicos o cuestionables desde el
+punto de vista ambiental en ciertas regiones,
+por lo que no se cumplimentarían dos de
+las propiedades que debe reunir todo hor-
+migón para que sea considerado un “buen
+hormigón”: economía y compatibilidad con
+el ambiente. El Artículo 3222.4. del CIRSOC
+201-05 establece: "Cuando os materiales dis-
+ponibles no cumplan con las condiciones es-
+tablecidas en este Reglamento, el Director de
+Obra podrá autorizar su utilización siempre
+que estudios completos de laboratorio, con-
+firmados con el análisis del comportamien-
+to de obras en servicio durante períodos de
+tiempo similares a los de la vida en servicio
+prevista para la obra en ejecución, demues-
+tren que pueden obtenerse hormigones de
+calidad adecuada para satisfacer los requisi-
+tos en el estado fresco y de resistencia, esta-
+bilidad volumétrica y durabilidad del hormi-
+gón y de las armaduras”.El Reglamento deja
+la puerta abiertaa agregados que escapenal-
+gunos de losrequerimientos, siempre y cuan-
+do elcomportamiento dentro del hormigón
+sea confirmado por ensayos de laborato-
+rio y observaciones de obra Indirectamente
+está mencionando que las especificacio-
+nes de durabilidad, como sales, temática de
+RAS oresistencia al desgaste, entre otros, con
+
+NOTA DE TAPA - INFORME ESPECIAL
+
+efectos difícilmente previsibles a corto plazo,
+sean respetados y que otras variables de im-
+pacto temprano en el comportamiento del
+hormigón fresco y endurecido puedan ser
+reconsideradas.
+
+Esto no es una interpretación imparcial del
+Reglamento, ya que de tener que cumplir
+estrictamente, por ejemplo, con los requisi-
+tos granulométricos y curvas límites, las are-
+nas de más de 2/3 del territorio nacional no
+se podrían usar y sí se usan con muy buenos
+resultados desde hace varias décadas, lo cual
+no puede negarse y debe reconocerse.
+
+3.Ejemplos de aplicación
+
+Porcentaje de arena de trituración.
+En ciertas regiones, como en Provincia y
+Gran Buenos Aires y otras ciudades como
+Comodoro Rivadavia, suelen usarse arenas
+de trituración que el Reglamento recomien-
+da limitar al 30%. Se cuenta con numerosas
+experiencias locales en las que porcentajes
+mayores al 40% o 50% pueden brindar ex-
+celentes resultados, aun en altas prestacio-
+nes como hormigones autocompactantes o
+para habilitación temprana. En Europa exis-
+ten ejemplos de obrasrealizadas sólo con are-
+na de trituración, lo cual aparentemente en
+Argentina estaría "prohibido” y no es así.
+Arenas fuera de curvas granulométri-
+cas. Quizás es el caso más frecuente y una
+“lucha constante” con inspecciones de repar-
+ticiones públicas. En las provincias del oeste
+del país, las arenas se presentan como natu-
+ralmente gruesas (por debajo de la Curva A)
+con módulos de finura de 31a36, y en algu-
+nos casos como Neuquén, con granulome-
+trías discontinuas (con muy poco material
+entre el tamiz 430 y +18). En estas regiones se
+elaboran hormigones de alta calidad, sin du-
+das. En otras áreas, como el Centro y Norte
+
+Hormigonar 44 Abril|2018
+
+de Santa Fe o la Mesopotamia, las arenas se
+presentan como finas (entre las Curvas B y C)
+y análogamente con lo nombrado para otras
+arenas entra en juego el diseño del hormigón
+y la habilidad del proveedor, más que la arena
+se escape un poco en diferentes tamices,
+Porcentaje de polvo de agregados. El
+Reglamento CIRSOC 201 limita el contenido
+de finos pasante tamiz 4200 a 5% para agre-
+gados finos y 1% para agregados gruesos. En
+muchas arenas no se suele cumplir y algunas
+de ellas contienen porcentajes de pasa 1200
+superiores al 10% y éstos no son nocivos. Un
+ejemplo son las arenas de trituración o pol-
+vo 0/6, el cual aporta finos muy útiles para la
+cohesividad de las mezclas que escasean en
+arenas de río lavadas naturalmente. No to-
+dos los finos son indeseables. En algunos ca-
+sos, trabajar con arenas lavadas con material
+pasante tamiz 50 menor al 15% suele traer
+mezclas ásperas, hormigones algo segrega-
+bles y desgaste en equipos de bombeo, por
+ejemplo, en contrapartida de arenas con gra-
+nulometrías más continuas y mayores por-
+centajes.El efecto secundario esaumento de
+la demanda de agua, contenido de cemento
+y susimpactos ambientales.
+
+Agregados rodados. Existe la creencia de
+que los agregados rodados no son de la mis-
+macalidad que los triturados o que con éstos
+noselogran buenasresistencias.En Malargiie,
+se cuenta con experiencias de una Antena
+Aerospacial donde se emplearon hormigo-
+nes H-70 uhormigonesresistentes a la flexión
+en la reciente remodelación del aeropuerto
+Francisco Gabrielli. En esos casos, se trabajó
+con agregados rodados convencionales. Sin
+embargo, en Buenos Aires, por ejemplo, está
+“casi vedado” su ingreso o bien se emplea
+para hormigones pobres o fines no estructu-
+rales el agregado grueso proveniente de Entre »
+
+===== Página 5 =====
+NOTA DE TAPA - INFORME ESPECIAL
+
+Ríos.Son barreras que debenir desaparecien-
+do sobre la base de experiencias.
+
+Agregados gruesos y curvas límites.
+Mutchas veces no existe un ajuste a las cur-
+vas límites de agregado grueso individual
+o del agregado total según IRAM 1627; sin
+embargo, se obtienen muy buenos hormi-
+gones. Otro ejemplo es que en muchas oca-
+siones se específica para pavimentos el uso
+de TMN de ?”, que no están casi disponibles
+en ninguna provincia, y la experiencia ha de-
+mostrado que no sólo desde el punto debili-
+talasresistencias a flexión, sino que trae com-
+plicaciones con terminadoras u otras técnicas
+constructivas. La tendencia es trabajar con
+agregados de 1"a1” y en muchasregiones, la
+fracción denominada 6/30 o bien 10/30 (1-3
+para provincias del Norte) combinada con
+
+6/20 no encuadra conlas curvas límites de 1
+ni de 1”, existiendo un TMN de 1”. Para este
+TMNintermedio, no existen curvas en IRAM
+y es sumamente empleado, con excelentes
+desempeños para hormigones descargados
+por canaleta.
+
+Agregados reciclados. Las normas eu-
+ropeas definen agregados como “Material
+granular empleado en la construcción.
+Puede ser natural, artificial o reciclado”.
+Esta definición abre las puertas y le da
+competitividad a agregados no convencio-
+nales que deben ser usados por un doble
+impacto positivo: reúso de restos de de-
+molición de alto valor y evitar escombre-
+ras o vertederos para obras de demolición
+de hormigón. Si bien grandes proporcio-
+nes de agregados reciclados pueden influir
+
+en alguna propiedad del hormigón, plan-
+tear objetivos de reemplazo parcial del 10
+020% del agregado total seríasumamente
+útil, aunque no existan menciones de ellos
+en Normas IRAM o Reglamento CIRSOC
+201.
+
+Todos estos ejemplos se solucionan crite-
+riosamente: si el hormigón presenta ade-
+cuadas propiedades en estado fresco (co-
+hesividad, trabajabilidad, bajo riesgo de
+fisuración plástica) y endurecido (resisten-
+cias mecánicas, estabilidad volumétrica y
+durabilidad), poco importa que el agrega-
+do se ajuste o no a “recetas” estáticas, ya
+que atentan contra otras de las propieda-
+des del hormigón: economía y amistosi-
+dad con el medio ambiente y sus recursos
+no renovables. «
+
+LA GRANULOMETRÍA DE LOS AGREGADOS...
+
+¿Es EL ASPECTO MÁS RELEVANTE?
+
+hormigón trabajable, resistente, durable y sin
+elevadoriesgo de fisuración.
+
+El agregado no es un material de construc-
+ción... es un constituyente de un material
+(hormigón). Debe “pensarse” dentro de éste
+y no individualmente. «
+
+En más de la mitad de las provincias — El Reglamento CIRSOC 201 permite y ava-
+no se dispone de agregados que “en- — la el empleo de agregados que no se ajus-
+tren” en Curvas y se obtienen hormi- — ten estrictamente a lo recomendado (cur-
+gones de muy buena performance, lo — vas límites, % polvo, etc) en éste, siempre y
+cual también es avalado por la durabi- — cuando se demuestre con ensayos de labo-
+lidad delas obras. ratorio y experiencias de obra quese lograun
+m — - S E 7 “ 4 a — bl
+10 — = -
+le r “
+En = o
+¡-.E:u . " - . - . P (¿
+. Dssgracce
+-——res aeb Di r
+
+« Arena gruesa San Luis
+
+“ ArenaMendoza
+
+« Arena Neuquén
+
+í
+
+Ea
+
++ Arenado Grueso Buenos Aires
+
+Hormigonar 44 Abril|2018

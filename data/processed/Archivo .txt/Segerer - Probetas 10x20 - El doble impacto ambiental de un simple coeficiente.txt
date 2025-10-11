@@ -1,0 +1,146 @@
+
+===== Página 1 =====
+EL DOBLE IMPACTO AMBIENTAL DE UN SIMPLE COEFICIENTE
+El origen del coeficiente de tamaño de probetas y su fundamentación
+
+Las probetas cilíndricas 10x20 en los últimos 15 años han tenido una inserción enorme en el control de los hormigones,
+pero esta mayor influencia se plasma el autocontrol de planta que en las obras; como así también son las preferidas para
+laboratorios externos que realizan controles en obra. Podemos asegurar que el control de hormigones en planta, en más
+de la mitad de los casos se realiza sobre probetas 10x20 y cuando la Dirección de Obras moldea sus probetas a pie de
+obra, sin intervención de moldeo de un laboratorio externo, suele existir aún preferencia de probetas 15x30. Todo esto está
+fundado en la mayor versatilidad de las probetas 10x20 para grandes cantidades de ensayo, acompañados de temas de
+espacio de curado, peso y mejora del ambiente laboral por reducción de levantamiento de pesos y sobre todo innovación
+y actualización normativa permanente. En paralelo, en otros países que utilizan probetas cúbicas, históricamente (hace un
+par de décadas) las probetas eran cubos de 20x20x20 cm y hoy en día se prefiere el control con cubos más pequeños,
+como los de 15x15x15 cm. Es tendencia no sólo en Argentina o en probetas cilíndricas.
+
+Quizás no parece perceptible el reducir el diámetro y la altura de la probeta un 50% o bien reducir un 25% del lado del
+Cubo, pero en realidad el volumen (y peso) de la muestra se reduce en 70% y 60% para probetas cilíndricas y cúbicas
+respectivamente. Son sólo cuentas geométricas con gran impactado para la mejora del control de los hormigones.
+
+Es conocido y aceptado, que las probetas 10x20 suelen brindar resistencias mayores a las probetas de 15x30,
+independientemente del encabezado utilizado. Salvo algunos conjuntos de materiales específicos, en los cuales las
+diferencias son mínimas, valores del 5 al 8% para bajas y elevadas resistencias respectivamente son esperables en función
+de muchas variables. Es más, los hormigones de alta resistencia cada vez más utilizados en el país y con varias
+experiencias de categorías resistentes H-80 y superiores, se controlan exclusivamente con probetas 10x20 y no con
+probetas 15x30 (temas operativos y de equipos y procedimientos de ensayos) y es posible que las diferencias puedan
+tomar un valor del 10% o algo superior si se hiciera la comparativa. Esto expresaría que directamente los H-110
+desarrollados en 2022, no sean H-110, sino inferior a H-100; siendo un freno tecnológico importante.
+
+En la bibliografía y ciertas normativas europeas como la española, existen coeficientes que tienden a “convertir” la
+resistencia de las probetas de 10x20 a probetas de 15x30 ¿La razón? Pensar que la probeta de 15x30 tiene la verdad y
+las probetas de 10x20 la exageran ¿No podría ser al revés?... es decir ¿qué las probetas de 10x20 declaren la verdad y
+las probetas de 15x30 subestimen y tomen coeficientes de seguridad?
+
+No obstante, no nos olvidemos que CIRSOC 201-05 y todos los modelos de cálculo empleados en Argentina desde el
+punto de vista reglamentario, apuntan al código ACI 318 en sus diferentes versiones, donde no sólo se emplean probetas
+cilíndricas sino también se utilizan probetas de 10x20 sin aplicar coeficiente de corrección alguno en sus resistencias. O
+se vislumbran cambios en este aspecto. Entonces, si la resistencia especificada y potencial de las estructuras, sirve
+directamente para resistir esfuerzos mecánicos que se calculan con códigos que no tienen en cuenta coeficientes... ¿cuál
+es el sentido? Consideramos que es un tecnicismo de ensayos de laboratorio sin tener en cuenta dos de las propiedades
+fundamentales del hormigón: Sustentabilidad y Economía.
+
+El tema del control de durabilidad por relación a/c es totalmente independiente a lo anterior, con lo cual sólo se expresan
+criterios mecánicos de cálculo y dimensionamiento de estructuras que Argentina copia íntegramente el código americano,
+el cual no hace corrección alguna si se controla con probetas 10x20. Algo similar ocurre con algunos coeficientes
+propuestos por encabezado, que se mencionan pero no aplican en el Proyecto CIRSOC 200. En caso de un segundo
+coeficiente minorador de neopreno a azufre, sería acumulativo; ya que la costumbre actualmente es realizar ensayos de
+autocontrol con probetas 10x20 y encabezado de placas elastoméricas.
+
+En el desarrollo del artículo se fundamentará cómo no sólo impactará sobre la industria del hormigón elaborado
+profesionalizada, sino también sobre las estructuras construidas; en ambos casos este impacto es altamente negativo.
+
+Primer Impacto: Aumento del contenido de cemento
+
+Los contenidos de cemento de las dosificaciones despachadas se basan en resultados de autocontrol, no los de aceptación
+de obra. Si realizamos autocontrol con probetas de 10x20, tenemos ligeros menores contenidos de cemento para las
+dosificaciones que si trabajáramos con probetas de 15x30. Así como las reducciones de resistencia propuestas en el
+Proyecto CIRSOC 200 son del 7%, no hay una linealidad absoluta con el aumento del contenido de cemento, pero
+considerando su eficiencia, puede estar en el orden del 5% al 6%. Es decir, que si aplicamos un coeficiente de tamaño (no
+es coeficiente de forma) de probetas y tenemos resistencias que cumplen con los requerimientos del cliente, sin regalar
+nada (que es lo que corresponde por criterio racional), automáticamente las hormigoneras conscientes y que realizan
+autocontrol, deberían aumentar el contenido de cemento de sus fórmulas en ese 5% a 6%. Esto, llevaría a que las
+hormigoneras mencionadas y tomando valores de contenido de cemento medio por diferentes regiones entre 290 y 330
+kg/m? en función de un promedio ponderado, deberían aumentar el cemento de sus dosificaciones entre 15 y 20 kg de
+cemento / m3. De forma aproximada, podría decirse que equivale a aumentar el precio en 1/2 categoría resistente la
+aplicación solo del coeficiente de probetas 10x20 (sin contemplar un posible coeficiente que castigue las resistencias
+obtenidas con encabezado de neopreno, el cual duplicaría el efecto y lo llevaría a 1 categoría resistente).
+
+===== Página 2 =====
+Este primer impacto en realidad tiene dos consecuencias como se mencionó:
+
+* La primera es el aumento de precios, ya que el contenido de cemento suele impactar entre el 35 y 45% en el costo de
+venta del hormigón elaborado, con lo cual sería previsible aumentos del 2,5 al 3,0%. Considerando una ganancia media
+de la industria del orden del 8-10%, claramente no puede absorber directamente la pérdida directa del orden de 1/3 de
+su ganancia, debiendo trasladarlo al mercado. No se está contemplando el precio de la tonelada del CO> el análisis,
+que de existir conciencia ambiental plena debería sumarse y el precio de la tonelada de CO2 es aún mayor a esa
+incidencia de sólo el costo del material, pero debería además considerarse la huella ambiental de carbono.
+
+* Lasegunda es que considerando un impacto ambiental del m3 del hormigón que el 80-90% está dado por la fabricación
+del cemento, este aumento de cemento aumentaría directamente en cerca del 4-5% la emisión de CO2 de hormigones
+a los cuales se les aplique este coeficiente de tamaño. Tanto se está haciendo desde la industria del cemento como
+abanderada para reducir el impacto ambiental que esto sería un fortísimo retroceso en sus objetivos. Sólo para graficar,
+si consideramos producciones en el país de hormigón elaborado que se controlan con probetas de 10x20 del orden de
+500 mil m* / mes, esto generaría consumos de 7 mil a 10 mil toneladas extras de cemento, que son cerca de 300 viajes
+más de cemento en el mes en camiones tolva y anualmente esto sería cerca de 100 mil toneladas de CO: emanadas
+más al ambiente, solo por aplicar un coeficiente sin tener en cuenta la sustentabilidad.
+
+Si se piensa en la neutralidad de carbono, en el costo del CO2 dentro de una ecuación sustentable, en cómo países de
+vanguardia expresan en CO hasta precios de tickets de tren... no se considera sustentable aplicar un coeficiente para ir
+en contra de tendencias mundiales totalmente aceptadas en cualquier industria.
+
+Segundo impacto: Reducción de la durabilidad y vida útil de las estructuras
+
+Si bien el título puede resultar extraño ya que “un poco más de cemento no dañará la durabilidad”, los invitamos a reflexionar
+sobre esta parte del artículo, que consideramos la más importante. Si bien los Reglamentos de estructuras de hormigón,
+son para aplicar a todo tipo de estructuras; es totalmente sabido que los controles de obras de hormigón no sólo no se
+realizan en la totalidad de las estructuras, sino que se controla menos de 1/3 de los hormigones colados despachados por
+proveedores de hormigón convencionales, teniendo en cuenta que en el interior del país el control es menor.
+
+Lo anterior conlleva que sí no hay controles, es muy difícil (0 imposible) poder realizar una compra basada en calidad. No
+hay dudas que los proveedores con certificación de calidad tenderían a adecuarse a utilizar estos coeficientes, pero no
+existiría razón para que no se traslade al cliente ese aumento de precio por lo expresado. Si fuera para todos parejos este
+aumento, no habría problemas, pero existen más de 300 hormigoneras en el país, sin estándares de calidad, sin autocontrol
+y sin conocimientos no sólo estadísticos, sino de qué es una resistencia a compresión o un Modo de Control reglamentario.
+Con lo cual, si estos proveedores de hormigón que existen por la falta de control (y son una parte relevante del mercado),
+no entienden de qué se trata una probeta o un ensayo a compresión, menos entenderán (o sabrán) que existen nuevos
+coeficientes. Pero sí, verán que los proveedores serios aumentan sus precios un 2-3%. Sean U$S 2 ó 4 / m3, generará aún
+mayor brecha entre las hormigoneras que realizan autocontrol a consciencia (muchas veces certificadas o en vías de
+certificación) y aquellos que no realizan ensayos (que debemos reconocer su existencia la cual no es marginal).
+
+Por ello, el proveedor desleal, tendrá mucho más margen para bajar precios, ya que claramente no cambiará nada en sus
+recetas. Si la diferencia actual de precios entre estas dos clases de hormigoneras está en el orden justamente de U$S 3 a
+5 / m5, esto duplicaría la diferencia y se tentaría aún más al cliente a ir a hormigoneras sin control. Y tiene que entenderse
+la realidad local y no cerrarse que todas las estructuras deben controlarse, porque se sabe que no es así y debe existir una
+adecuación y tender a que se trabaje con hormigoneras en Modo 1 de Control, donde la certificación es una de las
+condiciones necesarias pero no suficientes. Esto traerá como resultado la migración de parte del mercado aún más para
+obras corrientes a hormigoneras sin estándares de control, claramente afectará no solo la Economía de las obras, sino
+fundamentalmente su vida útil y Durabilidad, teniendo un impacto ambiental enorme en a mediano y largo plazo.
+
+10 Reflexiones finales
+
+¿Las probetas de 10x20 suelen dar algo más de resistencia que las de 15x30?
+
+SÍ, con pocas excepciones
+
+¿El resultado de probetas 15x30 tiene más validez que los valores de probetas 10x20? NO SE SABE
+¿Se ha demostrado que al usar en controles 10x20 las estructuras son más inseguras? NO
+¿Es justo castigar probetas 10x20, si no influye en el diseño estructural según ACI 318? NO
+¿Se deberá aumentar el tenor de cemento al aplicar este coeficiente en autocontrol? SEGURAMENTE
+¿Un simple coeficiente puede impactar de la sustentabilidad de la industria? MUY POSIBLEMENTE
+¿Vale la pena arriesgarse y esperar no menos de 10 años para ver el resultado? NO
+
+¿Seguirán existiendo hormigoneras sin estándares de control en todas las provincias?
+
+SÍ, están en auge
+
+¿Debemos hacer el hormigón más sustentable y reducir la brecha entre los proveedores
+calificados y aquellos que desconocen el autocontrol?
+
+TOTALMENTE, entre todos
+
+¿Es conveniente y hay consenso en reducir el 7% las resistencias de probetas 10x20?
+
+Resultará de la discusión
+pública de CIRSOC 200
+
