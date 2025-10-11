@@ -28,6 +28,8 @@ A short description of the project.
 ├── docs/                <- Documentación, manuales, reportes y recursos visuales.
 │   └── images/          <- Imágenes y diagramas para la documentación.
 │
+├── test/                <- Scripts y archivos python de prueba
+│
 ├── notebooks/           <- Notebooks de Jupyter para experimentación y prototipado.
 │
 ├── pyproject.toml       <- Archivo de configuración principal del proyecto.
