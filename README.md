@@ -12,7 +12,6 @@ Villegas Oyarzo Valeria -
 Padron Belen -
 Oroz Santiago - 
 Stella Ventura
-A short description of the project.
 
 ## Project Organization
 
