@@ -1,0 +1,1858 @@
+1) ENSAYOS DE RECEPCIÓN CONVENCIONALES
+DE HORMIGONES PROYECTADOS Y CONTENIDO 
+DE FIBRAS
+1. Previo a la inyección en boquilla del aditivo ace-
+lera
+nte, suelen realizarse ensayos convencionales de 
+recepción.
+2. Consistencia: suele usarse el cono de Abrams
+IRAM 1546 o
+, en casos más esporádicos, mesa de 
+Graf (IRAM 1690).
+2.1 Para proyección por vía húmeda suelen especificar-
+se valores de 15 a 20 cm. Para vía seca, es más variable.
+3. Contenido aire: en caso de llevar incorporador de
+a
+ire, el ensayo puede realizarse según IRAM 1602-2.
+3.1 Se suele incorporar 50-100% de aire extra que 
+para un hormigón convencional, por la pérdida por 
+la proyección posterior.
+4. PUV: el peso unitario según IRAM 1562 es un en-
+s
+ayo de control muy relevante para determinar cie-
+rre volumétrico.
+5. Temperatura: es aplicable IRAM 1893, pero no suele
+s
+er parámetro de aceptación o rechazo del hormigón.
+6. Determinación del contenido de fibras en estado
+f
+resco según EN 14488-7 (en estado endurecido es 
+más complejo).
+6.1 Es una técnica sencilla, que consiste en lavar el 
+hormigón fresco por un tamiz malla #4 o malla 3/8".
+6.2 Previamente se pesa (por ejemplo, el contenido del 
+recipiente del PUV) para determinar la masa inicial.
+6.3 Se separan las macrofibras (sintéticas por flota-
+ción con alcohol) y se pesan al 0,1 g metálicas y 0,01 
+g sintéticas.
+6.4 De esta manera se determina el % de fibras, bien 
+sea en peso o en volumen del hormigón para su 
+control.
+7. Moldeo de probetas (IRAM 1524): se recomien-
+da mo
+ldeo de 4 a 6 probetas 10 x 20 por muestra sin 
+el acelerante.
+2) RESISTENCIAS A EDADES MUY TEMPRANAS
+(V
+ALORES < 0,5 MPa DE RESISTENCIA A COM-
+PRESIÓN, 1 A 8 HORAS)
+1. En ningún caso es aplicable la extracción y rotu-
+ra de t
+estigos, ya que son edades inferiores a 8 ho-
+ras, en general.
+2. Método A según EN 14488-2: resistencia a la pene-
+tració
+n con penetrómetros de suelos u hormigones.
+2.1 Consiste en una metodología muy similar y con 
+los mismos equipos que los tiempos de fragüe según 
+IRAM 1662.
+2.2 Debido al bajo TMN del agregado, no se tamiza 
+la muestra. Y , en caso de valores anómalos, se repite.
+2.3 Se realiza en paneles o superficies proyectadas y 
+se mide la resistencia a la penetración para diferen-
+tes tiempos.
+2.4 La resistencia a la penetración es la carga leída en el 
+penetrómetro (res. 10 N) sobre la superficie de la aguja.
+2.5 Debe existir una correlación documentada entre la 
+resistencia a penetración y la resistencia a compresión. 
+Previamente, se realiza en probetas de laboratorio y se 
+establece una curva lineal de estimación de resistencias.
+3. Método B de EN 14488-2: "Stud Driving".
+3.1 Exist
+en dispositivos específicos para, luego, por 
+disparos, determinar resistencias (previa calibración).
+3.2 O puede aplicarse el método "pull-out" que con-
+siste en traccionar un testigo dejado y medir resis-
+tencia a tracción.
+4. Estos ensayos siempre son indirectos. Sirven por
+asp
+ectos de seguridad del túnel y de avance de los 
+trabajos.
+3) RESISTENCIAS A EDADES TEMPRANAS (HASTA
+4
+8-72 HS EN FUNCIÓN DEL TIPO DE CEMENTO Y 
+DE LA TEMPERATURA)
+5. Ensayo de pistola "hilti" (requiere previa calibra-
+ció
+n), válido para resistencias entre 2 MPa y 18 MPa.
+5.1 Se requiere un equipo específico y con calibra-
+ción previa para los materiales locales.
+5.2 El ensayo específico consiste en impactar una muni-
+ción con cierta energía sobre el hormigón proyectado.
+SEGÚN LAS NORMAS EN 14488-7, EN 14488-2 Y ASTM C1116 
+(ADAPTADA POR HEERE Y MORGAN).
+Ensayos a edades tempranas 
+de hormigones proyectados
+GUÍAS P ASO A P ASO
+Por el Ms. Ing. Maximiliano Segerer, 
+de la firma Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar
+TECNOLOGÍA38
+
+--- FIN DE PÁGINA ---
+
+5.3 En función de la penetración (y la calibración) 
+puede estimarse la resistencia a compresión efectiva.
+6. Ensayo de "viga abierta" (muy versátil). Es válido 
+para resistencias entre 0,5 MPa (3-8 horas) y 15 MPa 
+(48-72 horas).
+6.1 Es un ensayo implementado con éxito en varias obras 
+del país y es muy confiable para valores tempranos.
+6.2 Se cuenta con correlaciones con resistencias a testi-
+gos muy favorables, no requiriendo calibración previa.
+6.3 Equipamiento necesario para el ensayo de la 
+"viga abierta" (adaptación de ASTM C1116).
+6.3.1 Moldes de vigas: Generalmente son 3 vigas 
+abiertas de 75 x 75 mm de sección y 350 mm de largo.
+6.3.2 Los moldes deben ser desmontables y contar 
+con una base de medidas de 330 x 450 mm aprox.
+6.3.3 Prensa de ensayos a compresión (manual o di-
+gital) pero calibrada para cargas entre 5 y 80 kN.
+6.3.4 Pueden ensayarse con aros dinamométricos o 
+prensas digitales con calibración a baja carga específica.
+6.3.5 Dos placas metálicas cuadradas de 9-12 mm de 
+espesor y de 75 x 75 mm como apoyo de superficies.
+6.4 Se colocan los moldes en posición a 45 ºC y se 
+llenan durante la proyección del hormigón.
+6.5 Luego de la proyección, se procura enrasarlos ma-
+nualmente y se dejan en el lugar (representatividad).
+6.6 A la edad designada (puede ser 6 o 12 horas, por 
+ejemplo) se desmoldan con cuidado y se llevan pro-
+betas al laboratorio.
+6.7 Se colocan suplementos a la prensa y las dos placas 
+de 75 x 75 mm, en una zona no alterada de la probeta.
+6.8 Se realiza el ensayo a compresión convencional, 
+aplicando las cargas en las placas y rompiendo así 
+un cubo.
+6.8.1 Si la viga no posee muchos defectos de proyec-
+ción, pueden hacerse hasta dos ensayos por cada viga.
+6.9 El resultado del ensayo es la medición directa de 
+resistencia a compresión (carga máxima / 56,25 cm
+2).
+6.10 Es el único método eficaz para determinar de 
+manera directa, sin correlaciones, la resistencia del 
+hormigón proyectado.
+7. Es muy relevante desde el punto de vista técnico y 
+de seguridad, contar con valores a edades tempranas.
+7.1 Estos ensayos a veces se especifican y a veces no, 
+pero dan información muy valiosa en cuanto a avan-
+ce de obra.
+4) RESISTENCIAS A COMPRESIÓN MEDIANTE 
+TESTIGOS CALADOS DE PANELES (PRÓXIMA 
+PUBLICACIÓN)
+8.
+ Es de aplicación directa IRAM 1896, difícil en la 
+práctica a edades inferiores a 48-72 horas.
+9. Existe una muy buena correlación entre ensayos de 
+"viga abierta" y luego testigos calados a 7 y 28 días. ◉
+F1: Mezcla de 20 
+cm de hormigón 
+proyectado 
+fibroreforzado.
+F2: Resistencias 
+muy tempranas; 
+penetrómetro inicio 
+fragüe proyectado.
+F3: Resistencias 
+tempranas; pistola 
+HILTI.
+F4: Medidas 
+de moldes para 
+confeccionar el 
+método de viga 
+abierta.
+F5: Proyección en 
+obra de viga abierta 
+con macrofibras 
+sintéticas.
+F6: Desmolde de 
+probetas de viga 
+abierta proyectadas.
+F7: Ensayo a 
+compresión con placas 
+suplementarias de viga 
+abierta.
+F8: Roturas típicas 
+en cubos de ensayo 
+de viga abierta.
+‹
+‹
+‹
+‹
+‹
+‹
+‹
+‹
+39
+REVISTA HORMIGONAR  DIGITAL   # 6
+
+
+--- FIN DE PÁGINA ---
+
+SEGÚN LAS NORMAS IRAM 1896, 1551, 1546; EN 14488-5 Y 14651; Y ASTM C1609.
+HORMIGONES PROYECTADOS: 
+ENSAYOS A EDADES TARDÍAS (> 48-72 horas)
+1) TESTIGOS SOBRE PANELES PROYECTADOS DE 
+OBRA Y POSTERIOR ROTURA A COMPRESIÓN
+1 El moldeo (antes de la proyección) y rotura de probe-
+tas es poco representativo para el hormigón proyectado.
+1.1 De todos modos, como control de producción 
+del hormigón de planta es muy útil (previa adición 
+del acelerante).
+2 E n  t o d o  p r o y e c t o  q u e  e l  h o r m i g ó n  p r o y e c t a d o  
+sea estructural, deben proyectarse paneles y calar-
+se testigos.
+2.1 Deben construirse paneles (generalmente de 
+madera) con los cuatro bordes inclinados a 45º 
+(tema desmolde).
+2.2 Según IRAM 1896 las dimensiones mínimas inferio-
+res deben ser de 60 cm x 60 cm x 10 cm (altura).
+2.3 Se colocan en posición vertical (o a 45º) y se pro-
+yectan a la par que la estructura (misma temperatu-
+ra, sin inundación).
+2.4 Los paneles deben permanecer en condiciones de 
+curado no normalizado (en condiciones de obra).
+2.5 Se permite extraer todos los testigos en una jor-
+nada, pero deben dejarse al costado de la estructura.
+2.6 El diámetro de broca a utilizar es de 3” (recomenda-
+ble) o de 4” como máximo en líneas generales (esbeltez).
+2.7 Difícilmente el método sea confiable para resis-
+tencias a edades menores a 48 horas (calado, corte, 
+encabezado).
+2.8 Luego de la extracción y previo al ensayo, de-
+ben refrentarse con sierra sensitiva las dos caras de 
+los testigos.
+2.9 Se recomienda encabezar con mortero de azufre 
+(IRAM 1553) o yeso especial (ASTM C617), evitan-
+do el neopreno.
+2.10 El ensayo se realiza en prensas calibradas por 
+debajo de 200 kN y con cuidados específicos, según 
+IRAM 1546.
+2.11 L a s  e d a d e s  d e  e n s a y o  s e  f i j a n  e n  e l  p r o y e c t o ,  
+pero es recomendable 72 horas, 7 días y 28 días.
+3 Respecto a las cantidades de paneles y testigos por 
+panel, depende de las especificaciones de proyecto.
+3.1 Dependiendo el volumen, pueden proyectarse 
+uno a dos paneles por día en líneas generales.
+3.2 Suelen extraerse tres testigos por edad y un total 
+de nueve testigos por cada uno de los paneles.
+4 Se ha determinado una excelente correlación de tes-
+tigos calados de paneles con ensayos, de “viga abierta” .
+5 Es aplicable a todo tipo de hormigón proyectado, 
+sea o no sea fibro-reforzado.
+2) DETERMINACIÓN DE ESPESORES Y CALADO DE 
+TESTIGOS DEL HORMIGÓN PROYECTADO EN LA 
+ESTRUCTURA
+6 Estos controles son muy representativos del hor-
+migón, pero la extracción suele ser más compleja 
+que los paneles.
+6.1 La máquina en algunos casos va en posición casi 
+vertical, con lo cual debe cuidarse el tema de admi-
+sión de agua.
+6.2 En función de los espesores, en algunos casos 
+puede ser factible usar broca de 2” (preferible 3”).
+7 La determinación de espesores puede realizarse 
+con perforaciones con mecha de 19-25 mm o con 
+insertos especiales.
+8 Respecto a las cantidades de paneles y testigos de la 
+estructura, depende de las especificaciones de proyecto.
+8.1 Para resistencias, puede recomendarse la extracción 
+de dos testigos semanales o de un testigo cada 200 m
+2.
+8.2 Para medición de espesores, es recomendable 
+determinaciones del orden de superficies de 50 m2.
+9 Para el refrentado, encabezado y ensayo, es aplica-
+ble lo indicado en el punto anterior (azufre o yeso, 
+no neopreno).
+3) ENSAYOS ESPECÍFICOS PARA DETERMINAR 
+TENSIONES RESIDUALES Y TENACIDAD DE 
+HORMIGONES FIBRO-REFORZADOS
+1 Para medir tensiones residuales y la tenacidad que 
+aportan las macrofibras, existen varios ensayos en 
+normas extranjeras.
+1.1 La experiencia demuestra que los ensayos des-
+criptos, son válidos tanto para macrofibras sintéti-
+cas como metálicas.
+1.2 Para los ensayos se necesitan instrumentos muy 
+precisos para medir cargas y deformaciones en todo 
+momento.
+1.3 En todo proyecto debe existir al menos un crite-
+rio y especificar una tensión (o energía) a una defor-
+mación especificada.
+GUÍAS PASO A PASO
+Por el Ms. Ing. Maximiliano Segerer,
+de la firma Control y Desarrollo de Hormigones / www.cdhormigones.com.ar
+TECNOLOGÍA44
+
+--- FIN DE PÁGINA ---
+
+2 Ensayo panel EFNARC EN 14488-5 “Determination 
+of energy absorption capacity of fiber reinforced slab 
+specimens”.
+2.1 Es posiblemente el ensayo más representativo 
+para hormigones proyectados en el caso de túneles.
+2.2 Es un panel cuadrado de 60 cm x 60 cm x 10 cm 
+que apoya en un marco metálico de 50 cm x 50 cm x 
+10 cm (2 cm de chapa).
+2.3 La carga central se aplica con una celda de car-
+ga especial a una velocidad de descenso controlada 
+(1 mm / min).
+2.4 Por debajo del panel con dispositivo LVDT o si-
+milar, se va midiendo el descenso del panel durante 
+todo el ensayo.
+2.5 En general, se lleva hasta 30 mm de descenso, aun-
+que la especificación suele ser cierta energía a 25 mm.
+2.6 Se grafica, mediante sistema de adquisición de datos, 
+la curva carga-descenso del panel en sus fibras inferiores.
+2.7 El gráfico anterior se integra obteniendo curvas 
+energía (Joules) – descenso (mm), siendo el resulta-
+do del ensayo.
+3 Ensayo de Viga Entallada EN 14651 “Test method for fi-
+bered concrete – Measuring the flexural tensible strength”.
+3.1 Previo al ensayo, al centro de la viga debe reali-
+zarse una entalla de 6 mm de ancho y 25 mm de al-
+tura en el centro.
+3.2 Siguiendo normas europeas, el ensayo se realiza 
+con una carga centrada (opuesta a la cara entallada).
+3.3 Se deben medir y registrar cargas y deformacio-
+nes (apertura de entalla CMOD) en todo momento 
+y hasta 3,5 mm.
+3.4 Se grafican tensiones en MPa y apertura de fisura 
+en mm (CMOD – crack mouth opening displacement).
+4 Ensayo de Viga ASTM C 1609 “Flexural 
+Performance of Fiber – Reinforced Concrete (Bean 
+width 3rd point loading)”.
+4.1 En este caso, no se realiza entalla o preparación 
+alguna de la probeta (salvo fijación de instrumentos 
+de medición).
+4.2 Siguiendo normas americanas, el ensayo se realiza con 
+cargas en los tercios medios (mismo criterio IRAM 1547).
+4.3 Se deben medir cargas y deformaciones (descen-
+so o flecha) en todo momento y hasta 5,0 mm aprox.
+4.4 Se grafican tensiones (calculadas por resistencia 
+de materiales) y flechas en el centro de la viga.
+5 Se requieren al menos tres vigas por cada ensayo 
+(recomendable cuatro) y la edad de ensayo conven-
+cional es a 28 días.
+6 La frecuencia de estos ensayos debe ser fijada en las 
+especificaciones del proyecto (no habiendo reglas fijas).
+6.1 Es recomendable realizar estos ensayos cada seis 
+meses o bien ante cambio de materiales (acelerante, 
+fibras, etc.). 
+◉
+◉◉
+Testigos calados de paneles de 
+hormigón proyectado.‹
+Extracción de testigos del túnel.‹
+Panel EFNARC ensayado con 
+rotura típica. ‹
+Refrentado y encabezado de 
+testigos. ‹
+Ensayo de panel EFNARC en 
+curso. ‹
+Sistema de adquisición de datos 
+en panel EFNARC (carga y 
+descenso). ‹
+Gráfico integrado de energías de panel EFNARC 
+comparando fibras. ‹
+Curvas comparativas según ensayo de viga con 
+entallada (norma europea) con macrofibras metálicas 
+y sintéticas ‹
+45
+
+--- FIN DE PÁGINA ---
+
+SEGÚN LAS NORMAS EN 1 538, 1235011 E IRAM HORMIGONES  CIRSOC 201.
+ENSAYOS PARA HORMIGONES 
+COLADOS EN MEDIOS LÍQUIDOS 
+1) PARÁMETROS FUNDAMENTALES DE LA 
+DOSIFICACIÓN DE HORMIGONES A COLAR BAJO 
+AGUA/LODO BENTONÍTICO
+1 La categoría resistente elegida suele ser H30 (míni-
+mo) hasta H40 en ambientes marinos muy agresivos.
+1.1 En casos de categorías resistentes H35 y superiores, 
+puede diseñarse el hormigón a 56 o 90 días.
+1.2 La relación a/c mínima de 0,45 (CIRSOC 201) sue-
+le garantizar H30. Para H40 es usual utilizar a/c 0,35 
+a 0,40.
+2 Deben utilizarse aditivos incorporadores de aire y re-
+ductores de agua de modo obligatorio.
+2.1 El aire incorporado mejora enormemente la co-
+hesividad del hormigón fresco (contenidos de 4,0 a 
+5,0%).
+2.2 En casos de clima caluroso y/o colados extensivos, 
+suelen recomendarse estabilizadores de hidratación.
+3 La norma EN 1538 establece CUC mínimos 
+de 370 y 385 kg/m para TMN 25 mm y 20 mm, 
+respectivamente.
+4 La consistencia especificada suele ser de 18 o 19 ± 2 cm, 
+aunque se recomiendan extendidos de 40 ± 5 cm.
+4.1 No son aconsejables HAC con extendidos > 50 cm 
+ya que no poseen buena resistencia al deslave.
+5 Es muy recomendable tener una adecuada resisten-
+cia a segregación según EN 12350-11 con valores < 7%.
+6 Hormigones con microfibras plásticas han demos-
+trado eficiencia ante la segregación/deslave.
+7 Contenidos de arena del agregado total del 44 ± 4% 
+suelen ser deseables para obtener mezclas compactas.
+2) CONSISTENCIA DEL HORMIGÓN FRESCO Y SU 
+MANTENIMIENTO EN EL TIEMPO
+8 Los hormigones deben tener consistencia muy 
+fluida, pero diferente a los hormigones autocom-
+pactantes en general.
+8.1 El cono de Abrams según IRAM 1536 no es re-
+presentativo para valores > 21 cm (muy usuales en 
+estos H˚).
+8.2 Asentamiento 21 a 23 cm tienen fuertes cambios 
+en consistencia y segregabilidad, no detectables con 
+IRAM 1536 (ver foto 1).
+8.3 Es altamente aconsejable el control por extendi-
+do de flujo libre (IRAM 1890-1), como parámetro de 
+aceptación.
+9 En estos hormigones resulta crítico el manteni-
+miento de la trabajabilidad en el tiempo, lo cual debe 
+modelarse:
+9.1 Una técnica propuesta es medir cada 30 minutos 
+el asentamiento con velocidad de agitación del mixer.
+9.2  En laboratorio, mezclar 1 minuto cada 10 minutos 
+y devolver el hormigón a la mezcladora de laboratorio.
+9.3 Es recomendable que los parámetros de consis-
+tencia estén dentro del rango en períodos de al me-
+nos 2 horas.
+3) COHESIVIDAD Y OPOSICIÓN A LA SEGREGACIÓN/
+DESLAVE EN ESTADO FRESCO
+10 Si bien existen varios ensayos de segregación, 
+el que se considera más práctico y útil es el de EN 
+12350-11 (ver fotos 2 y 3):
+10.1 Se toma una muestra de 10 litros de hormigón y se 
+deja en reposo durante 15 minutos en un balde tapado.
+10.2 Se coloca un conjunto balanza + recipiente conte-
+nedor + tamiz #4 para registrar sus pesos.
+10.3 Se vierte desde 50 cm sobre un tamiz #4 de 30 cm 
+de diámetro, una cantidad de 4,8 ± 0,2 kg de hormigón.
+10.4 En caso de no disponer de un tamiz de 30 cm, po-
+dría usarse 2,1 ± 0,1 kg de hormigón con tamiz #4 de 
+20 cm.
+10.5  A los 2 minutos y posicionado en una balanza 
+(1 g), se determina el peso del material pasante por el 
+tamiz #4.
+10.6   El porcentaje de segregación es el cociente en-
+tre la masa que pasa el tamiz #4 y la inicial sobre 
+el tamiz. Es recomendable tener valores de segrega-
+ción menores al 5%, aunque pueden ser admisibles 
+hasta el 7%.
+11 Para casos específicos, se aplican ensayos como 
+el del Cuerpo de Ingenieros de los Estados Unidos 
+CRD-C 61-89A (ver fotos 4 y 5):
+11.1 Se requiere un caño de 20 cm de diámetro y 1,7 
+m de altura con agua, sellado en su parte inferior.
+11.2  Con un cesto similar al de la densidad del AG 
+y atado, se va soltando el cesto y 2,1 kg de hormigón.
+11.3  Se deja en reposo 15 s, se levanta en 5 s y se 
+repite la caída en agua tres veces, midiendo pérdi-
+da de masa.
+GUÍAS PASO A PASO
+Por el Ms. Ing. Maximiliano Segerer,
+de la ﬁrma Control y Desarrollo de Hormigones / www.cdhormigones.com.ar
+TECNOLOGÍA28
+028 029 Paso a paso HD8.indd   28 10/5/23   16:35
+
+--- FIN DE PÁGINA ---
+
+11.4  Es un ensayo muy útil y comparativo, para apre-
+ciar el comportamiento de aditivos y/o fibras en el 
+deslave.
+11.5  Se ha implementado con éxito para reparaciones 
+submarinas, trabajando con buzos.
+12 El contenido de aire intencionalmente incorpora-
+do debe ser controlado según IRAM 1602 (tolerancia 
+± 1,5%).
+4) OTROS ENSAYOS PARA HORMIGÓN FRESCO
+13 Los ensayos de tiempos de fragüe según IRAM 
+1662 son fundamentales por la trabajabilidad abier-
+ta del hormigón.
+13.1  Son recomendables inicios de fragüe mayores a 
+6 a 8 horas, dependiendo las aplicaciones.
+14 La determinación de capacidad y velocidad de exu-
+dación según IRAM 1604 es muy recomendable en el 
+diseño.
+14.1  Los parámetros de aceptación pueden ser los 
+propuestos según CIRSOC 201 para capacidad y 
+velocidad.
+15 El control de temperatura según IRAM 1893 
+no suele ser crítico, salvo caídas de consistencia o 
+trabajabilidad.
+15.1  Los límites de aceptación de CIRSOC 201 en tiem-
+po frío pueden reducirse a 7 ˚C de hormigón fresco.
+15.2  L o  a n t e r i o r  e s  d e b i d o  a l  c o n t a c t o  d e l  h o r m i -
+gón con una temperatura inferior, no nociva para la 
+hidratación.
+16 El peso unitario según IRAM 1562 es muy útil, 
+como en todo hormigón (control indirecto de agua y 
+aire).
+5) ENSAYOS DEL HORMIGÓN EN ESTADO ENDURECIDO
+17 Los ensayos mecánicos (compresión, tracción 
+por comp. diametral y módulo de elasticidad) son 
+convencionales.
+17.1 Suelen ser aplicables por TMN ≤ 25 mm, probe-
+tas 10 x 20 según IRAM 1524 sin recaudos específicos. 
+17.2 La rotura de las mismas puede realizarse a diferen-
+tes edades según IRAM 1546 e IRAM 1709 (neopreno).
+18 En obras de envergadura, es muy útil la realización de 
+pilotes/muros de prueba y extraer testigos calados (ver 
+fotos 6 y 7).
+18.1 La observación de testigos a profundidades > 5 
+metros, permite optimizar las dosificaciones de forma 
+integral.
+18.2 Pueden detectarse canales de exudación, fal-
+ta de compacidad o segregabilidad de mezclas en 
+profundidad.
+19 Según las especificaciones de obra, luego se reali-
+zan ensayos eco-sónicos o tipo cross-hole de integridad 
+(ver foto 8). ◉
+F1. Hormigones con 
+asentamientos dentro de un 
+rango de 2 cm, pero extendidos y 
+segregabilidad muy diferentes.
+‹
+F2. Ensayo de segregabilidad 
+según norma EN 12350-11 en 
+tamiz de 30 cm de diámetro.
+‹
+F3. Pesaje de segregación estática 
+según norma EN 12350-11.
+‹
+F4. Preparación de muestra y 
+pesaje anterior y posterior, según 
+el Cuerpo de Ingenieros de los 
+Estados Unidos.
+‹
+F5. Resistencia al deslave, según 
+el Cuerpo de Ingenieros de los 
+Estados Unidos.
+ 
+‹
+F6. Extracción de testigos a más 
+de 10 metros de profundidad en 
+muros colados de prueba.
+‹
+F7. Estudio de perfiles de 
+testigos extraídos y optimización 
+de fórmulas a partir de las 
+observaciones.
+‹
+F8. Ensayo de integridad de 
+pilotes con modalidad 
+eco-sónica.
+‹
+29
+028 029 Paso a paso HD8.indd   29 10/5/23   16:35
+
+--- FIN DE PÁGINA ---
+
+SEGÚN VARIAS NORMAS IRAM DE HORMIGONES CONVENCIONALES.
+PARTICULARIDADES Y ADAPTACIÓN DE ENSAYOS 
+ESPECIALES PARA HORMIGONES MASIVOS
+1) ASPECTOS DISTINTIVOS DEL HORMIGÓN MASIVO (POR 
+LOS QUE ES NECESARIO ADAPTAR ENSAYOS)
+1 Los hormigones masivos tienen diferentes particularidades, 
+entre las que se destacan:
+1. 1 Pueden generar temperaturas que lleven a fisurar el hormi-
+gón por gradiente de superficie o gradiente de masa.
+1.2 Se intenta reducir al mínimo el contenido de cemento y que 
+sea compatible con trabajabilidad, resistencia y durabilidad.
+1.3 Se procura maximizar el TMN para disminuir la demanda 
+de agua y el contenido de pasta de la mezcla.
+1.4 Para bajos contenidos de cemento, suele utilizarse aire in-
+corporado por cohesividad (diferente a durabilidad).
+1.5 Las edades de diseño suelen ser superiores a 28 días, con 
+valores típicos de 90 días hasta 180-360 días.
+1.6 La reducción de temperaturas iniciales de colocación son 
+críticas para reducir potenciales problemas térmicos.
+1.7 Las técnicas de protección y colocación deben ser especial-
+mente cuidadas; duran más que en hormigones convencionales.
+2 Los ensayos de aceptación de hormigones frescos conven-
+cionales son de hasta TMN 38 mm o 50 mm, según el caso.
+2. 1 En ciertos ensayos, las muestras deben tamizarse por malla 
+1 1/2" o por malla 2", según corresponda.
+3 Si el TMN es mayor a 50 mm, las probetas se moldean en 
+obra tamizando las partículas sobre malla 50 mm.
+3. 1 Por lo anterior , es importante determinar la correlación con 
+otros tamaños de probetas (coeficientes reductores).
+4 Se requieren -en general- modelaciones térmicas y la evolu-
+ción de parámetros mecánicos con materiales locales.
+4. 1 Se necesitan ensayos adiabáticos o semiadiabáticos y, luego, 
+instrumentar estructuras para seguimiento térmico.
+4.2 Es sumamente importante llegar a correlacionar por 
+TMN, los parámetros mecánicos a la resistencia a compresión.
+4.3 Con el criterio de madurez se estiman propiedades mecá-
+nicas, en función del tipo de hormigón y de la historia térmica.
+ 
+2) ENSAYOS CONVENCIONALES DE CARACTERIZACIÓN 
+DEL HORMIGÓN FRESCO Y APLICACIÓN A HORMIGONES 
+MASIVOS
+5
+ Para consistencias muy secas (como, por ejemplo, la del 
+Hormigón Compactado a Rodillo) se usa IRAM 1767 (dispo-
+sitivo V ebe).
+5. 1 Para de hasta 50 mm incluido, no se realiza tamizado; en 
+cambio para TMN › 50 mm se tamiza por #2".
+6 Para consistencias secas a muy plásticas (sería raro tener 
+consistencias fluidas o muy fluidas) se usa IRAM 1536.
+6. 1 Previo a realizar el ensayo de asentamiento, se debe tamizar 
+el hormigón por malla 1 1/2" (38 mm).
+6.2 Se realiza el ensayo con el Cono de Abrams convencio-
+nal, sin cuidados o correcciones específicas.
+7 Respecto al ensayo del peso unitario (IRAM 1562), se 
+realiza sobre hormigón integral con recipientes más 
+grandes.
+GUÍAS PASO A PASO
+Por el Ms. Ing. Maximiliano Segerer, de la ﬁrma Control y Desarrollo de Hormigones / www.cdhormigones.com.ar
+F .1: Correlaciones 
+de parámetros 
+mecánicos (módulo 
+elasticidad) con 
+la resistencia a 
+compresión.
+‹
+F .4: Moldeo de probetas 
+de 25 x 50 cm para 
+comparativas de 
+propiedades mecánicas.
+‹
+F .2: Tamizado por 
+malla 38 mm y 
+cono de Abrams 
+para consistencia.
+‹
+F .3: Realización de 
+ensayo de peso unitario 
+con hormigón integral 
+(ejemplo: volumen del 
+recipiente, próximo 
+a 30 litros).
+‹
+TECNOLOGÍA32
+032 033 Paso a paso HD9.indd   32 5/8/23   20:35
+
+--- FIN DE PÁGINA ---
+
+F .7: Cajas térmicas 
+semiadiabáticas 
+e instrumentación.
+‹
+F .8: Conductividad 
+térmica de 
+hormigones 
+masivos.
+‹
+F .5: Comparativa de parámetros 
+mecánicos (tracción y módulo) 
+con probetas de mayor tamaño 
+que 15 x 30 cm.
+‹
+8 Sobre el contenido de aire (IRAM 1602-1), se tamiza la 
+muestra por malla 38 mm (ídem Cono de Abrams).
+8. 1 Luego se aplican coeficientes correctores al aire medi-
+do, ya que se sacó un X% de agregado grueso de 0% aire.
+8.2 De esta manera, los contenidos reales de aire, son menores 
+a los medidos en el Aparato de Washington.
+9 Con respecto al ensayo de temperatura (IRAM 1893), 
+no hay diferencias entre hacerlo con hormigón integral o 
+tamizado.
+9. 1 Si se realiza sobre hormigón integral, el largo del pinche 
+del termómetro requerido puede ser de 150 a 200 mm.
+3) MOLDEO DE PROBETAS Y ENSAYOS DE
+C
+ARACTERIZACIÓN DEL HORMIGÓN MASIVO 
+ENDURECIDO
+10 Para el moldeo de probetas -hasta TMN de 50 mm- 
+pueden utilizarse moldes convencionales de 15 x 30 cm.
+10. 1 Para TMN mayores a 50 mm deben tamizarse las partí-
+culas superiores a 50 mm y allí moldear las probetas.
+10.2 Por el bajo asentamiento y hormigones tamizados, a ve-
+ces es necesario compactarlas en mesas vibratorias.
+10.3 Los valores a compresión de probetas más grandes, sue-
+len dar valores entre un 5 y 15% inferior que para las de 15 x 
+30.
+10.4 Se aplican coeficientes de 0,90 ± 0,05 a las resistencias a 
+compresión en probetas 15 x 30, por efecto de escala.
+11 La resistencia a tracción (causante de la fisuración) es muy 
+relevante para los hormigones masivos a todas las edades.
+11. 1 Se suele escoger la resistencia a tracción indirecta por com-
+presión diametral (IRAM 1658) más que la de flexión (IRAM 
+1547), debido a que es más próxima a la tracción directa.
+11.2 Salvo estudios puntuales, estos coeficientes toman valo-
+res de (R trac dir = 0,70 ± 0,05 R trac ind comp diam).
+12 El módulo de elasticidad (IRAM 1865) no se ve tan afecta-
+do por la escala (a veces sí se realizan correlaciones).
+13 Es recomendable realizar ensayos de contracción por 
+secado (IRAM 1597) en prismas de hormigón (ciclo de 7 + 
+56 días).
+14 Para casos específicos, pueden realizarse ensayos poco fre-
+cuentes de extensibilidad y/o fluencia lenta de hormigones.
+4) ENSAYOS PARA MEDIR COMPORTAMIENTOS
+TÉRMIC
+OS SOBRE HORMIGÓN INTEGRAL SIN TAMIZAR
+15 Un ensayo muy representativo y útil en los ini-
+cios, es el moldeo de un cubo (1 x 1 x 1 m en general) e 
+instrumentación.
+15. 1 Resulta importante el material y el espesor de los enco-
+frados, la separación o no del piso y la disipación superior 
+del calor.
+15.2 Se miden temperaturas en el centro, a 5-10 cm las caras 
+encofradas y en caras superior e inferior (10-14 días).
+15.3 De las temperaturas anteriores y pérdidas, puede extra-
+polarse la elevación adiabática de temperatura.
+16 Para presas, pueden instrumentarse en obra ensayos casi 
+adiabáticos (con poca pérdida de temperatura).
+16. 1 Consistente en cubos de 40 x 40 cm muy aislados (va-
+rias capas de poliestireno o poliuretano expandidos).
+16.2 Se realiza el seguimiento de temperaturas internas, de 
+superficies, entre aislantes y ambiente.
+16.3 Las mediciones se introducen en modelos computacio-
+nales para determinar la elevación adiabática del hormigón.
+17 Si se dispone del equipamiento, puede emplearse el 
+método de EN 12390-15 para la elevación adiabática.
+18 T ambién suele ser útil medir conductibilidad y difusi-
+vidad térmica y el coeficiente de dilatación térmico lineal.
+19 Para corroborar cualquiera de los ensayos anteriores, es indis-
+pensable instrumentar y medir hormigones masivos colados.
+19. 1 El seguimiento de los bloques masivos, sirve para re-
+troalimentar y ajustar variables en los modelos térmicos.
+19.2 La lenta disipación de las temperaturas y prolongar la 
+protección y el curado, son claves para reducir riesgos de 
+fisuración. ◉
+F .6: Cubos de hormigón 
+para elevación de 
+temperatura con 
+materiales locales.
+‹
+33
+032 033 Paso a paso HD9.indd 33 5/8/23 20:35
+
+--- FIN DE PÁGINA ---
+
+GUÍAS PASO A PASO
+Por el Ms. Ing. Maximiliano Segerer, de la ﬁrma Control y Desarrollo de 
+Hormigones / www.cdhormigones.com.ar.
+C
+on miras a evaluar la compatibilidad de los 
+aditivos Reductores De Agua (RDA) y el ce-
+mento, se aconseja realizar una serie de en-
+sayos, entre ellos Cono de Marsh, que se seleccionó 
+para ser explicado en el presente trabajo.
+EQUIPAMIENTO NECESARIO Y USO
+• Cronómetro: que pueda al menos registrar al 0,1
+s
+egundo más próximo.
+• Cono de Marsh (Marsh Funnel): de una capacidad 
+t
+otal de 1,5 litros (aunque las mediciones se hacen 
+con 1 litro o ¼ galón, que equivale a 0,95 litros). Es 
+muy importante el diámetro de la boquilla inferior, 
+que se recomienda esté en el rango de 4,75 ± 0,25 mm. 
+Como el Cono de Marsh (figuras 1 y 2) se usa para 
+muchas otras aplicaciones de lechadas o slurrys, viene 
+con diferentes boquillas, pero para compatibilidad de 
+aditivos y aglomerante se recomienda la indicada.  
+La verificación del instrumento debe realizarse 
+periódicamente (se recomienda antes de cada 
+campaña de ensayos, ya que es rápida y útil). Esta 
+consiste en colocar ¼ galón de agua destilada 
+(previamente pesada a 20 ºC) en el Cono de Marsh 
+e impedir su salida (generalmente se realiza con el 
+dedo índice bajo el cono). El tiempo de escurrimiento 
+debería arrojar un valor de entre 26 y 27 segundos. Se 
+recomienda hacer tres series y promediar.
+PRIMERA PARTE DE ESTE INFORME EN EL QUE SE DETALLAN LOS ELEMENTOS 
+NECESARIOS, LOS PARÁMETROS Y PROCEDIMIENTOS PARA REALIZAR PRUEBAS QUE 
+MIDAN LA COMPATIBILIDAD CEMENTOADITIVO, BAJO EL ENSAYO CONO DE MARSH. 
+LA INTERPRETACIÓN DE LOS RESULTADOS SE PUBLICARÁ EN LA PRÓXIMA EDICIÓN 
+DE HORMIGONAR DIGITAL .
+ESTUDIO DE COMPATIBILIDAD DE 
+ADITIVOS REDUCTORES DE AGUA 
+Y AGLOMERANTES
+F1. Medidas referenciales del 
+Cono de Marsh. ‹
+F2. Escurrimiento a diferentes 
+volúmenes con Cono de Marsh. ‹
+TECNOLOGÍA30
+030 035 Tecnolgia - Paso a Paso MAXI HD10.indd 30 21/11/23 10:36
+
+--- FIN DE PÁGINA ---
+
+• Malla de tamiz #10 a #16, que puede venir
+inco
+rporada al Cono de Marsh o utilizar un tamiz 
+comercial.
+• Balanza digital calibrada al 0,1 gramo. Si bien agua
+y cemen
+to podrían medirse a 1 gramo más próximo, se 
+recomienda la medición a 0,1 gramo. Para dosis muy 
+pequeñas de aditivos y bajos volúmenes de lechadas, 
+podría ser necesaria una balanza de 0,01 gramo y 
+capacidad de 300 gramos para el pesaje del aditivo.
+ 
+• Recipientes/bandejas varias para medir el
+cemen
+to, el agua y los aditivos (vasos o probetas de 
+material no absorbente).
+• Mezcladora mecánica a paletas de morteros o,
+en su def
+ecto, alguna bandeja o bowl para mezclado 
+manual con espátulas. Si bien se recomienda la 
+primera, no es indispensable.
+ 
+• Probeta graduada o vaso de precipitados de
+1 li
+tro graduado al menos a 300-600-900 ml. Se 
+recomienda que sea de vidrio (y no de plástico), ya 
+que las lecturas son más precisas por el espesor de 
+línea y la traslucidez del recipiente. Para el caso de 
+realizar el ensayo de decantación/sedimentación, 
+es indispensable una probeta de 1.000 ml de vidrio, 
+no es aplicable el vaso de precipitados para este 
+ensayo.
+• Aparato    de Vicat convencional    con   aguja de Vicat  
+d
+e  1  m m   d e  d i á m e t r o   p a r a   d e t e r m i n a r   t i e m p o   d e   f r a g ü e .   
+Los tiempos de fragüe iniciales son generalmente 
+más extendidos que para ensayos de cementos 
+convencionales debido al uso de los aditivos. Los 
+iniciales pueden estar entre 2 y 4 horas. Esto se 
+realiza para una consistencia seca, con una relación 
+agua/cemento (a/c) 0,33 ± 0,03 (denominado agua 
+de pasta de consistencia normal), mientras que para 
+lechadas las relaciones a/c suelen estar en el rango de 
+0,45 a 0,55 y, al llevar aditivos, son de esperarse fragües 
+iniciales más extendidos (que pueden ser superiores a 
+8 horas y caer fuera de la jornada laboral).
+31
+REVISTA HORMIGONAR  DIGITAL   # 10
+030 035 Tecnolgia - Paso a Paso MAXI HD10.indd 31 21/11/23 10:42
+
+--- FIN DE PÁGINA ---
+
+• Dos juegos de tres probetas 5x5x5 cm bien
+her
+méticas y de caras paralelas, para determinar 
+evolución de resistencias a la compresión.
+En tanto, debe prestarse especial atención al lavado 
+de todos los elementos luego de cada ensayo. 
+PARÁMETROS Y PLANIFICACIÓN
+• Volumen de la lechada a preparar: dependerá
+de los en
+sayos a realizar, de la capacidad de la 
+mezcladora y del moldeo de probetas cúbicas o no. 
+Los volúmenes varían entre 1,5 y 4 litros.
+• Relación agua/cemento  (o agua/cemento +
+adiciones): dependerá del tipo de cemento y aditivos 
+u
+tilizados y de la finalidad del ensayo. Las adiciones 
+(microsílice, por ejemplo) se reemplazarán un X% 
+del peso del cemento para su ensayo, pesándolas 
+de forma independiente (por ejemplo, si se pesarán 
+3.000 kg de aglomerante compuesto por cemento 
+y 12% de microsílice, se deberán pesar 2.640 
+gramos de cemento y 360 gramos de microsílice). 
+Es recomendable realizar ensayos previos para que 
+los tiempos de escurrimiento y una a/c dada arrojen  
+valores de 50 y 150 segundos para una lectura de 600 
+ml. Si resulta en menos de 50 segundos, se recomienda 
+bajar la relación a/c en 0,05 unidades y volver a 
+intentar; mientras que si los valores son mayores a 
+150 segundos, se sugiere subir a/c en el mismo rango.  
+Es recomendable que la relación a/c sea múltiplo 
+de 0,05 unidades para comparativas, aunque puede 
+definirse alguna intermedia.
+• Dosis de aditivos: tal como se expresó, se miden y 
+p
+esan en función del % del peso del aglomerante, y la 
+dosis del/los aditivo/s dependerá inicialmente de lo 
+indicado por cada fabricante. En general, se propone 
+trabajar con las dosis propuestas y establecer dos 
+puntos de dosis intermedias. Por ejemplo, si la dosis 
+de la ficha técnica recomienda entre 0,5% y 1,4%, 
+se recomienda trabajar con 0,5%-0,8%-1,1%-1,4%.  
+Los aditivos pueden utilizarse fuera de las dosis 
+recomendadas si se demuestra una adecuada 
+performance en hormigones (resistencias, fragües, 
+cohesividad, etc.). Si se tienen puntos erráticos 
+pueden repetirse, recomendando hacerlo en la 
+misma jornada (mismas condiciones ambientales, 
+mismos operarios, etc.). Tal como se mencionó, 
+también pueden mezclarse dos o tres aditivos con 
+dosis a definir.
+PREP
+ARACIÓN Y MEZCLADO DE LECHADAS
+Tanto el agua como el cemento y los aditivos deben 
+medirse en peso, no admitiendo mediciones volumé-
+tricas (por ser poco precisas, aun para líquidos). Debe 
+recordarse siempre descontar la tara a los recipientes. 
+Además, no hay correcciones por humedad ni simi-
+lares, ya que no se trabaja con agregados o arena. Es 
+recomendable que el día anterior los materiales estén 
+en un ambiente interior con temperatura de 20 a 25 
+°C para reducir variables. En caso de que el cemento 
+al tacto presente pequeños grumos, se recomienda ta-
+mizar por vía seca cemento por malla #50 y desechar 
+este retenido. 
+Respecto de la incorporación de los materiales, es 
+conveniente introducir toda el agua previa al cemento 
+para mejorar el mezclado mecánico o manual. El mo-
+mento de agregar los aditivos dependerá del criterio y 
+del tipo de aditivo, pero pueden ser ya incorporados 
+F3: Mezclado mecánico de 
+lechadas e incorporación gradual 
+de agua(recomendable). ‹
+F4. Ensayo de densidad y 
+decantación (exudación) de 
+lechadas. ‹
+TECNOLOGÍA32
+030 035 Tecnolgia - Paso a Paso MAXI HD10.indd 32 21/11/23 11:02
+
+--- FIN DE PÁGINA ---
+
+(pesados de forma independiente) con el agua de 
+mezclado o bien como adición retardada (por ejem-
+plo, para aditivos acelerantes de fragüe). Debido a que 
+las cantidades de aditivos son bajas y puede quedar 
+algo en el recipiente, siempre se aconseja enjuagarlo 
+con parte del agua de mezclado para evitar que quede 
+adherido a las paredes. 
+Durante el mezclado, siempre el cemento se va aña-
+diendo de a poco (figura 3), en un tiempo próximo 
+a un minuto. Si es mecánico, se considera mejor ha-
+cerlo a alta velocidad durante dos minutos (luego de 
+incorporar todos los materiales) y, luego, otro minuto 
+adicional a baja velocidad. Si es manual, este debe rea-
+lizarse hasta lograr una mezcla homogénea, sin gru-
+mos y apretando los eventuales grumos contra las pa-
+redes del recipiente hasta que se obtenga una masa 
+constante. Previo a cada medición de fluidez, debe 
+realizarse un remezclado de un minuto con todo el 
+material remanente.
+EJECUCIÓN DE LOS ENSAYOS CARACTERÍSTICOS
+Es recomendable realizar todas las series para un 
+aditivo y a/c en una misma jornada, para reducir 
+variables. Esta es una de las claves para las consis-
+tencias. Luego de la elección de los parámetros, que 
+posiblemente lleven algunos pastones de prueba sin 
+mediciones, y el mezclado de estas, se procede a rea-
+lizar los diferentes ensayos.
+• Fluidez (viscosidad):  e s  e l  e n s a y o  m á s
+ca
+racterístico y consiste en verter la lechada sobre 
+el cono en un volumen predeterminado (puede 
+ser 1 o 0,95 litros, pero siempre constante), 
+con una marca o aforo del cono, tapando la 
+salida inferior (generalmente con el dedo).  
+Se coloca el vaso de precipitados de 1 litro o la 
+probeta graduada bajo la boquilla. Un segundo 
+operario activa el cronómetro justo cuando se 
+retira el dedo de la boquilla, se considera como 
+tiempo “cero” . Luego, con la visión a nivel de los 
+33
+REVISTA HORMIGONAR  DIGITAL   # 10
+030 035 Tecnolgia - Paso a Paso MAXI HD10.indd 33 21/11/23 11:03
+
+--- FIN DE PÁGINA ---
+
+diferentes aforos y siempre sin mover el Cono 
+de Marsh, se registran los tiempos en segundos 
+cuando atraviesan marcas predeterminadas (por 
+ejemplo, se proponen 300, 600 y 900 ml, aunque 
+pueden ser variables). En caso de no escurrir, se 
+registra “NO ESCURRE”; no se dan movimientos ni 
+vibración alguna al cono. Si surgen dudas o grumos 
+que puedan tapar la boquilla, remezclar y repetir.  
+Estas operaciones se realizan a tiempos 
+predeterminados y definidos. Por ejemplo, pueden 
+ser 10, 30, 60, 90 y, eventualmente, 120 minutos. 
+Cada vez que se realiza el ensayo, la lechada vuelve 
+al recipiente y se remezcla un minuto (el resto sigue 
+en reposo) previo al nuevo ensayo.
+• Decantación (o exudación) y densidad:  es un
+en
+sayo que puede hacerse a la par del anterior y suele 
+ser muy útil. Consiste en colocar hasta 1.000 ml exactos 
+de lechada de forma estática (sin movimientos ni 
+vibraciones) en una probeta graduada de vidrio de 1 
+litro (figura 4). Es conveniente tarar la probeta en una 
+balanza al 0,1 gramo y luego pesarla con el litro de 
+lechada (justamente el peso es el valor de la densidad). 
+Se retira la balanza y se la coloca en una mesa lejos 
+de vibraciones (de la mezcladora, por ejemplo). A 
+continuación se tapa superiormente con una bolsa 
+y elástico o similar. A los tiempos de 30, 60, 90, 120 y 
+eventualmente 150 minutos, se miden las divisiones del 
+descenso. Valores recomendables de decantación son 
+iguales o menores al 2% (dos divisiones de la probeta 
+graduada) a los 120 minutos aunque en algunos casos 
+pueden admitirse valores mayores. Sin embargo, si 
+existen valores superiores al 4% debe considerarse como 
+inestable y, eventualmente, ensayar con una a/c menor.
+• Inicio de fragüe:  por la consistencia del material
+(m
+uy fluído) a veces no puede hacerse con el 
+cono normalizado, entonces lo mejor es tener un 
+recipiente plástico cilíndrico de cerca de 50 a 70 mm 
+de diámetro y altura de 40 a 45 mm con tapa. Se 
+coloca el material (lechada), se tapa (no puede entrar 
+en contacto con la parte superior de la lechada) y 
+luego, a partir de los 120 minutos (salvo que se 
+utilice acelerante de fragüe), se empiezan a realizar 
+las mediciones con el aparato de Vicat. Cuando se 
+detiene a 5 mm del fondo (o tiempo interpolado), 
+es el inicio de fragüe. Puede continuarse el ensayo 
+de fin de fragüe pero no suele aportar demasiados 
+datos, ya que se superpone con las resistencias 
+tempranas.
+• Moldeo y ensayo a compresión de probetas
+cúbicas: los moldes deben ser bien estancos (si no 
+es
+curre la lechada, eventualmente pueden sellarse 
+con leves cantidades de grasa). Se recomienda 
+llenarlos en una capa y tras 15 minutos (sin haber 
+aún enrasado) volver a llenar sobre la misma 
+probeta. En caso de ser necesario, repetir esto 
+para luego enrasar, no antes de los 60 minutos 
+de moldeo (figura 5). Esto es porque suele haber 
+un descenso (decantación o fuga por las uniones 
+de los moldes) y para reducir la incertidumbre 
+(aunque después deban medirse las probetas 
+previo al ensayo) que tengan las dimensiones más 
+próximas a 5x5 cm de sección transversal a ensayar 
+(justamente, una de ellas es la altura inicial). 
+Luego de realizado esto, se enrasa y se coloca 
+un paño húmedo o similar. Es recomendable 
+el desmolde al día siguiente y, si hay dificultad 
+para realizarlo, se indicará un retraso de fragüe y 
+posibles inconvenientes de ese aditivo a esa dosis 
+con el aglomerante, lo cual no es buen indicio. 
+Resistencias muy bajas a 48 horas indicarían lo 
+F5. Moldeo de probetas cúbicas 
+de lechadas.‹
+F6. Tiempo de fragüe para 
+lechadas ‹
+TECNOLOGÍA34
+030 035 Tecnolgia - Paso a Paso MAXI HD10.indd 34 22/11/23 08:53
+
+--- FIN DE PÁGINA ---
+
+mismo y se debería probar con dosis más bajas.  
+Siempre la protección y el curado de estas probetas 
+se realizan a temperatura de laboratorio de 20 a 25 
+°C. Al menos se recomienda moldear seis probetas 
+para ensayar de a pares a las 48 horas (o 24 horas 
+si se usa acelerante de fragüe), 2 a 7 días y 2 a 28 
+días o a otras edades por aplicaciones específicas.  
+El curado y ensayo según ASTM C-109 y si se utiliza 
+una prensa convencional (figura 8) de ≥ 1.000 kN, 
+debe poseer una calibración específica a baja carga 
+y cuidar el centrado de las probetas (recordar que 
+la cara rugosa no es de apoyo y tiene que “apuntar” 
+hacia el operario). La tensión se calcula como la carga 
+máxima dividida la sección transversal, previamente 
+medida. Es muy relevante la medición de las 
+probetas, ya que pequeños desvíos no apreciables 
+a simple vista pueden traer grandes cambios. 
+En el próximo número de la revista Hormigonar 
+Digital se expondrá el análisis de los resultados. ◉
+F7. Ensayo de expansión de 
+lechadas (aditivos expansivos).‹
+F8. Rotura de probetas cúbicas 
+de lechadas a diferentes edades ‹
+35
+REVISTA HORMIGONAR  DIGITAL   # 10
+030 035 Tecnolgia - Paso a Paso MAXI HD10.indd 35 22/11/23 08:54
+
+--- FIN DE PÁGINA ---
+
+GUÍAS PASO A PASO
+Por el Ms. Ing. Maximiliano Segerer, de la ﬁrma Control y Desarrollo de 
+Hormigones / www.cdhormigones.com.ar.
+A
+continuación se procede a exponer el desarro-
+llo final de este artículo cuyo capítulo inicial fue 
+publicado en esta misma sección del número 
+anterior de Hormigonar Digital. 
+Comenzamos por compartir un registro típico de valo-
+res para ensayos de lechadas (Cuadro 1), con la finalidad 
+de determinar compatibilidad entre aditivos y aglome-
+rantes para hormigones (registro diferente de otro tipo 
+de lechadas). Cabe aclarar que, en caso de no realizar al-
+gún ensayo (por ejemplo, tiempo de fragüe), puede cru-
+zarse el campo correspondiente respetando un formato 
+tipo e indicar que no se llevó a cabo.
+CURVAS CARACTERÍSTICAS DE COMPATIBILIDAD 
+CON EL CONO DE MARSH
+En función de este registro, variables como la densidad, 
+la decantación (se toma el valor a 120’) y el inicio de 
+fragüe (se interpola para una penetración de 5 mm) no 
+suelen graficarse ya que solo son importantes los valores 
+puntuales. En general, los gráficos de compatibilidad 
+tienen dos ejes y se grafican los valores de fluidez:
+• Eje de abscisas (X): porcentaje de aditivo (para un
+ag
+lomerante dado y una relación a/c determinada). 
+Si son dos aditivos, pueden diferenciarse o utilizarse 
+como suma, pero deben ser bien interpretados. Es 
+usual realizar divisiones verticales cada 0,1% a 0,2% de 
+aditivo en peso, para poder interpolar gráficamente los 
+diferentes puntos y comportamientos.
+• Eje de ordenadas (Y): tiempo de escurrimiento en
+s
+egundos. La escala será desde 0 segundos hasta el valor 
+máximo registrado, que es muy variable (según el tipo de 
+aditivo, el diámetro de la boquilla del Cono o la relación a/c). 
+Luego pueden graficarse tres curvas a los puntos de 300 
+ml, 600 ml y 900 ml de escurrimiento, para determinar 
+si existe o no linealidad. En el apartado siguiente se 
+presentan ejemplos de cómo estas se interpretan y 
+diferentes casos reales (sin mención del tipo de cemento 
+ni de las marcas comerciales de aditivos). 
+INTERPRETACIÓN DE CURVAS Y REGISTROS
+1. Caso de incompatibilidad y pérdida de
+asentamiento: en el ejemplo CURV AS 1 se aprecia 
+có
+mo las curvas de 5 a 20 minutos están próximas 
+pero luego, a 60 minutos, pierde fluidez de manera 
+sistemática. Este alejamiento de curvas indicará una 
+pérdida de asentamiento importante en la obra. 
+Además, se aprecia que para rangos altos de aditivo 
+existe un mayor tiempo de escurrimiento, con lo cual 
+la forma de “U” de la curva indica compatibilidad y 
+rangos muy acotados de uso, mientras que la separación 
+de las curvas señala pérdida de consistencia.
+2. Caso de compatibilidad aglomerante y aditivos: 
+esto se cumple en el gráfico CURV AS 2, donde se observa 
+q
+ue las curvas de 5, 20 y 60 minutos están próximas. 
+Ello implica que no hay pérdida de asentamiento o de 
+consistencia. Además, se aprecia que para cerca del 0,8% 
+del aditivo se obtiene el punto de saturación, a partir 
+del cual la fluidez no aumenta de forma considerable 
+(menores tiempos).
+3. Caso de decantación excesiva o inestabilidad de
+la lechada: esto sucede cuando no hay una linealidad 
+en
+tre 300, 600 y 900 ml. Es decir, cuando se aleja mucho 
+del doble o del triple del tiempo de escurrimiento 
+de 300 ml (o eventualmente no escurre a 900 ml) es 
+un síntoma de segregación excesiva o de mezcla con 
+escasa fluidez.
+4. Otras curvas ejemplo (solo para un volumen de
+escurrimiento de 600 ml): 
+• CURV A 3: buena compatibilidad, con ligera pérdida
+de as
+entamiento y lineal. El punto de saturación estaría 
+entre 0,7% y 0,8% (usar más aditivo no tendría sentido y 
+podría retrasar el fragüe).
+ANÁLISIS DE LOS RESULTADOS DE LAS PRUEBAS QUE MIDEN LA COMPATIBILIDAD 
+CEMENTOADITIVO, BAJO EL ENSAYO CONO DE MARSH. 
+SEGUNDA PARTE DEL ESTUDIO DE COMPATIBILIDAD 
+DE ADITIVOS REDUCTORES DE AGUA 
+Y AGLOMERANTES
+TECNOLOGÍA30
+030 033 Tecnolgia - Paso a Paso HD11.indd 30 29/2/24 10:55
+
+--- FIN DE PÁGINA ---
+
+• CURV A 4: en este ejemplo se presenta una curva
+co
+n excelente compatibilidad y nula pérdida de 
+asentamiento. El punto de saturación estaría entre 
+0,5% y 0,6% (usar más aditivo no tendría sentido y 
+podría retrasar el fragüe). Al comparar con la Curva 
+1, se mantiene más estable y una dosis del 0,8% del 
+aditivo de la Curva 1 (tiempo de escurrimiento de 
+80 a 30 segundos) reduciría menos agua que una 
+dosis del 0,5% del aditivo de la Curva 2 (tiempo de 
+escurrimiento de 60 a 30 segundos). No hay linealidad 
+directa en la reducción, pero reducirá más agua para 
+igual asentamiento/extendido.
+• CURV A 5: presenta nula compatibilidad, con gran
+p
+érdida de asentamiento. Se podría definir un punto 
+de saturación de 0,8% (o próximo) pero no hay 
+compatibilidad ya que a 60 minutos no escurre.
+• CURV A 6: refleja una comparativa de tres aditivos
+(mismo co
+no, mismo cemento, misma a/c) para un 
+volumen dado y a 30 minutos de escurrimiento. Se 
+aprecia que el aditivo 2 es mucho más eficiente que los 
+otros dos, ya que requiere menos dosis y tiene mayor 
+fluidez. Las marcas punteadas permiten apreciar cómo 
+con el aditivo 1 y el aditivo 3 al 0,80% se reduciría una 
+cantidad de agua (misma fluidez) que para 0,35% a 
+0,40% del aditivo 2.
+• CURV A 7: se observa una muy baja pérdida de fluidez,
+p
+ero entre 0,35 y 0,90% de aditivo la fluidez no aumenta. 
+Así, si su ficha técnica recomienda hasta 1%, no tendría 
+mucho sentido su uso, además de no presentar punto de 
+s
+aturación.
+5. Registros-Tablas ejemplo:
+• En la Tabla 1, se aprecia que existe una baja pérdida de 
+consistencia para una dosis de 0,80%, pero una enorme 
+caída de resistencias a 72 horas, fundamentalmente 
+para dosis del 1,0%. Por más que las curvas muestren 
+compatibilidad, es posible que sea un problema (salvo 
+estructuras masivas).
+• Tabla 2: existe una muy baja pérdida de consistencia
+para todos los casos. Además, al aumentar el aditivo se 
+reduce el tiempo de escurrimiento y la resistencia a 72 
+horas sube, encuentra un máximo y luego baja (pero 
+con desvíos aceptables del 10%), lo que indicaría que el 
+31
+REVISTA HORMIGONAR  DIGITAL   # 11
+030 033 Tecnolgia - Paso a Paso HD11.indd 31 28/2/24 19:21
+
+--- FIN DE PÁGINA ---
+
+aditivo mantiene bien el asentamiento y no demora el 
+endurecimiento.
+• Tabla 3: se aprecia que existe una enorme pérdida
+de consistencia para todos los casos hasta no escurrir 
+(posible segregación). Además, caen las resistencias 
+para dosis de aditivo del 1,0%.
+• Ejemplo Tabla 4: hay buena linealidad y reducción
+de agua pero pérdida de resistencia excesiva al 
+sobrepasar 0,60%. Esto indicaría enormes riesgos de 
+que, si se superase una dosis establecida, se retrasarían 
+o inhibirían los fragües en obra.
+P
+ASTONES DE PRUEBA EN HORMIGONES DE  
+LABORATORIO Y A ESCALA INDUSTRIAL
+Tal como se explicó en detalle anteriormente, se escogen 
+los dos o tres mejores aditivos o los de mejor desempeño 
+en función de los criterios mencionados (de una dosis 
+próxima a la saturación o algo inferior, en líneas genera-
+les). De allí, se planifican ensayos y pastones sobre hor-
+migones para determinar parámetros en fresco conven-
+cionales (asentamiento/extendido, temperatura y peso 
+unitario) y, de ser posible, contenido de aire y tiempo 
+inicial de fragüe. En caso de no poder establecerse con-
+tenido de aire, es útil la comparativa con otro hormigón 
+de la misma categoría y, si no difiere en demasía (± 1%), 
+significa que el aditivo reductor de agua no ha incorpo-
+rado aire de forma significativa (podría correlacionar un 
+problema de segregación o de caídas de resistencias). 
+Si no es posible determinar el tiempo inicial de fragüe 
+(puede ser con penetrómetro de bolsillo), se sugiere rea-
+lizar pastones por la tarde (luego del mediodía) y des-
+moldarlos tras 16 horas (a primera hora del día siguien-
+te) para apreciar si existe o no algún retraso de fragüe.
+Se recomienda moldear no menos de ocho probetas 
+(pueden ser de 10 x 20 cm) y someterlas a curado nor-
+malizado, ensayando dos a 48 horas (o 72 horas para 
+cementos más lentos como CAH), tres probetas a siete 
+días y tres probetas a 28 días. Esto se debe a que las varia-
+bles comparativas para el estudio de aditivos son bastan-
+te finas y una probeta extra ayuda mucho a tener un pro-
+medio más certero (más aún con probetas 10 x 20 cm, 
+criterio ASTM y ACI 318). Luego, con estas resistencias 
+a 48 horas, se determina si ha existido un retraso de fra-
+güe (comparando pastones del mismo día con el nuevo 
+aditivo o mezcla de aditivos o mayor dosis, y la dosifi-
+cación de referencia) y se esperan resultados a siete y 28 
+días posteriores.
+También puede realizarse la modelación de pérdida de 
+asentamiento, pero es más subjetiva, y con las herra-
+mientas anteriores es posible llevar a cabo pruebas (a 
+despachos de obras) a escala industrial, realizando un 
+muestreo más intensivo en las primeras jornadas de des-
+pacho y un seguimiento a obra por si han existido in-
+convenientes (leve retraso de fragüe, mezcla más áspera 
+por tener menos cemento, constancia de asentamientos 
+o necesidad de redosificación de aditivos, etcétera). ◉
+TECNOLOGÍA32
+030 033 Tecnolgia - Paso a Paso HD11.indd 32 28/2/24 19:21
+
+--- FIN DE PÁGINA ---
+
+33
+REVISTA HORMIGONAR  DIGITAL   # 11
+030 033 Tecnolgia - Paso a Paso HD11.indd 33 28/2/24 19:21
+
+--- FIN DE PÁGINA ---
+
+GUÍAS PASO A PASO
+ENSAYOS DE CONTRACCIÓN Y ESTABILIDAD 
+VOLUMÉTRICA
+Por el Ms. Ing. Maximiliano Segerer, de la ﬁrma Control y Desarrollo de Hormigones / www.cdhormigones.com.ar
+1)  ESTABILIDAD VOLUMÉTRICA EN LAS PRIMERAS 
+24 HORAS DE LECHADAS, GROUTS Y HORMIGONES 
+CONVENCIONALES:
+1 Los ensayos convencionales de contracción se desmoldan a 
+24 hs, no pudiendo medir el comportamiento anterior .
+1. 1 Además, en el caso de expansiones están restringidas por 
+los moldes metálicos, por lo cual es imposible que mesuren.
+2 Para el caso de lechadas y grouts cementícios, aplica la meto-
+dología del artículo 23.14 de CIRSOC 201:05 (ver fotos 1 y 2).
+2. 1 Son útiles para medir expansiones/contracciones (relacio-
+nadas con exudación inicial) con apreciación ± 0,5%.
+2.2 Se usan recipientes plásticos transparentes cilíndricos de 
+cerca de 100 mm de diámetro y 120 mm de alto.
+2.3 Además, se debe tener placas transparentes 2 mm meno-
+res al diámetro (98 mm) con pequeños orificios.
+2.4 Se colocan los moldes sobre superficie nivelada y se llenan 
+sin dar compactación (si son mezclas autonivelantes).
+2.5 Se coloca la placa superior y los orificios despedirán el aire, 
+previamente marcando 6 a 10 puntos de referencia.
+2.6 Se toman lecturas (con un plano de referencia fijo) de esos 
+6 a 10 puntos de referencia iniciales.
+2.7 Se tapa con un paño húmedo y a diferentes horas (24 hs es 
+indispensable) se va midiendo desde el mismo plano.
+2.8 Las mediciones se hacen desde un plano de referencia ex-
+terno y se miden contracciones/expansiones.
+2.9 El % de contracción/expansión es el promedio de las dife-
+rencias entre lecturas, dividido la altura inicial (100 mm).
+3 Para morteros y hormigones de carácter no expansivo, la va-
+riación volumétrica debe medirse con otra metodología (ver 
+fotos 3 y 4).
+3. 1 Son útiles para medir expansiones/contracciones de forma 
+precisa con alcance de ± 0,02% a toda edad.
+3.2 Pueden usarse preservativos para pequeñas muestras (pe-
+queñas porciones de mortero o llenos de mezcla).
+3.3 Para hormigones se usan membranas de hule (ensayos 
+triaxiales suelos) de 50 a 100 mm de diámetro y 200 mm de 
+largo.
+3.4 Se requieren balanzas hidrostáticas (con gancho inferior) 
+de precisión en función del peso determinado.
+3.5 Se determina en diferentes horas (puede ser antes de inicia-
+do el fragüe), Peso en aire (Pa) y Peso sumergido (Ps).
+3.6 El hilo del cual penden los preservativos o membranas de 
+hule debe ser muy fino y no elástico con un nudo.
+3.7 Es relevante que el agua y el ambiente estén a una tempera-
+tura muy controlada, sin corriente alguna de aire.
+3.8 Siempre las determinaciones (peso en el aire y peso sumer-
+gido) se realizan con el gancho inferior de la balanza.
+3.9 El volumen se determina por principio de Arquímedes y 
+la masa, como el peso en el aire (V = (Pa - Ps)/densidad H2O).
+3. 10 Se pueden determinar variaciones de forma muy precisa 
+con este método a edades muy tempranas y tardías.
+2)  ENSAYOS DE CONTRACCIÓN POR SECADO CON
+VENCIONAL O LIBRE NO RESTRINGIDA DE HORMI
+GONES CONVENCIONALES: 
+1
+ Cada vez se solicita más, ya que es muy útil para la modela-
+ción en una gran cantidad de proyectos.
+1. 1 En algunos reglamentos (México y Canadá) es indispensa-
+ble para muchos casos, incluso para el pedido del hormigón 
+elaborado.
+2 En primer lugar , debe definirse el ciclo deseado de curado hú-
+medo y, luego, de estancia en el aire (HR 50%); (ver fotos 5 y 6).
+2. 1 Para hormigones convencionales puede ser ciclo 7d + 
+56d (7 días sumergido y 56 días aire HR 50%).
+2.2 Para hormigones masivos puede ser ciclo 14d + 90d (14 
+días sumergido y 90 días aire HR 50%).
+3 El procedimiento de moldeo y mediciones se realiza siguien-
+do IRAM 1597/ASTM C157 (similares).
+3. 1 El largo de moldes suele ser de 25 a 30 cm de largo (en 
+función del comparador que se disponga).
+3.2 Las dimensiones transversales están en función del 
+TMN (7,5 x 7,5 cm hasta 1" o 10 x 10 cm hasta TMN 2").
+3.3 Se deben colocar pernos específicos según norma, y 
+compatibles con el comparador de longitudes a utilizar .
+3.4 Salvo HAC, se compacta en dos capas cuidando una 
+buena vinculación con los pernos insertos.
+3.5 Las primeras 23,5 hs están en el molde en cámara hú-
+meda o con paños húmedos a temperatura controlada.
+3.6 A media hora del desmolde, en ambiente controlado, se 
+toman las medidas iniciales de los tres moldes por ensayo.
+3.7 Previo a toda medición, se realiza el contraste barra pa-
+trón y el ambiente siempre permanece en 23 +/- 2˚ C.
+3.8 Luego, se colocan en curado el tiempo definido en el ci-
+clo (sumergidos en agua saturada con cal).
+3.9 Se van midiendo inicialmente a 3 y 7 días, y mínimo cada 
+7 días, hasta pasar a la parte seca del ciclo.
+TECNOLOGÍA32
+032 033 Tecnolgia - Paso a Paso HD12.indd   32 25/6/24   10:49
+
+--- FIN DE PÁGINA ---
+
+3. 10 Al pasar a la parte seca del ciclo, debe circular aire por 
+todas las caras y mantener HR 50% en la cámara.
+3. 11 Se toman medidas, luego del ciclo húmedo, cada 7 días, 
+al menos tres veces; después se aconseja cada 14 días.
+3. 12 Siempre las lecturas son relativas respecto a la de la ba-
+rra patrón previa a la medición específica.
+3. 13 Luego se grafican las diferencias respecto a la medida 
+inicial, expresada en % (longitud inicial entre pernos).
+4 Los gráficos son útiles para ver la tasa inicial de contracción 
+(luego del curado húmedo) y la contracción final.
+4. 1 A los 60-90 días ya las curvas tienden a ser asintóticas a la 
+contracción final (rango esperable 0,04% a 0,12%).
+5 Es recomendable también la medida de la masa de las pro-
+betas, siempre con la misma balanza al 0,1 g.
+3)  ENSAYO PARA DETERMINAR LA CONTRACCIÓN 
+AUTÓGENA DE HORMIGONES EXISTEN OTROS 
+MÉTODOS:
+1
+ En casos especiales, puede ser importante determinar solo 
+la contracción autógena (sin intercambio de humedad); (ver 
+foto 7).
+1. 1 En la mayor parte de los hormigones, es despreciable y, al 
+medir contracción por secado total, se incluye a la autógena.
+1.2 El estudio es útil, fundamentalmente en hormigones con 
+relaciones a/c ‹ 0,42 y en especial a/c ‹ 0,35.
+2 El ensayo es similar al anterior , pero debe aislarse muy bien la 
+probeta e impedir toda pérdida de humedad.
+2. 1 Suelen darse manos de pinturas de epoxi bituminoso al 
+desmolde (16-18 hs) y, luego, envolverse con film plástico.
+2.2 En este caso, se toman las lecturas iniciales de -mínimo- 
+tres probetas por juego, siempre comparando la barra patrón.
+2.3 Nunca ingresan a curado (el agua no ingresaría) y no es tan 
+importante la HR de la sala, pero sí la temperatura.
+2.4 Las mediciones aún deben ser más precisas que para con-
+tracción por secado y es indispensable medir masas.
+2.5 Si hay condensaciones o variaciones de masas y tenden-
+cias, indica que no se ha aislado bien la probeta.
+2.6 Es útil tomar lecturas a diario hasta el día 7 y luego cada se-
+mana. A partir de los 28 días puede ser cada 14 días.
+3 Se debe graficar la variación dimensional porcentual y la de 
+masas (también de forma independiente).
+4)  ENSAYOS PARA DETERMINAR LA CONTRACCIÓN 
+POR SECADO RESTRINGIDA DE HORMIGONES:
+1  Es un ensayo muy útil para el diseño de pisos sin juntas y se 
+realiza según IRAM 1895/ASTM C878 (similares); (ver foto 8).
+1. 1 Es similar al de contracción, solo que en el eje de la probe-
+ta (previo al moldeo) va una varilla roscada 3/16".
+1.2 Los moldes son de 7,5 x 7,5 cm de lado y 25,4 cm de largo 
+y el comparador es el mismo que para otros ensayos.
+1.3 Deben realizarse ciertas medidas de rigidez y deformabi-
+lidad de la varilla roscada según norma.
+1.4 El ciclo a modelar suele tener 7 días de curado húmedo y, 
+luego, en ambiente a la HR, próxima a la del proyecto.
+F .7: Particularidades para 
+la contracción autógena.
+^
+F .1: Acondicionamiento de 
+probetas para variaciones 
+volumétricas precisas.
+^
+ F .2: Pesaje hidrostático en 
+el aire y en el agua.
+^
+F .3: Moldes empleados de 
+variaciones volumétricas 
+de grouts y lechadas.
+^
+F .4: Mediciones de 
+variaciones volumétricas 
+de grouts y lechadas.
+^
+F .5: Moldes empleados 
+para contracción por 
+secado libre de 3 y 4 
+pulgadas.
+^
+F .6: Mediciones de 
+contracción por secado 
+libre.
+^
+F .8: Moldes específicos 
+para contracción 
+restringida.
+^
+NOTA DEL AUTOR:  En este informe no se incluyen ensa-
+yos de cambio de largo por durabilidad (ejemplo: reacción 
+álcali-agregado) ni aquellos para determinar coeficiente de 
+dilatación térmica del hormigón, por su enorme especifici-
+dad. En tanto, los lineamientos de ensayos de contracción 
+térmica se compartieron en el artículo Paso a Paso publica-
+do en la revista Hormigonar Digital N ˚ 9.
+33
+REVISTA HORMIGONAR  DIGITAL   # 12
+032 033 Tecnolgia - Paso a Paso HD12.indd   33 25/6/24   10:49
+
+--- FIN DE PÁGINA ---
+
+ENSAYOS PARA LA DETERMINACIÓN DE LA 
+DEMANDA DE AGUA REAL Y LA RELACIÓN EFECTIVA 
+ENTRE AGUA Y CEMENTO EN EL HORMIGÓN
+NECESIDAD DE CONTROL DE LA DEMANDA DE AGUA EN 
+EL HORMIGÓN FRESCO
+1 El contenido de agua es muy relevante en varias pro-
+piedades del hormigón y tiene mayor incertidumbre 
+asociada:
+1 .1 Participa activamente en la relación agua/material cementi-
+cio, que define resistencia y durabilidad. 
+1.2 Los caudalímetros muchas veces tienen errores mayores al 
+±1% indicado en normas y reglamentos.
+1.3 Los ajustes de humedad en tiempo real con ensayos de seca-
+do de agregados no siempre se hacen.
+1.4 La humedad de los agregados, independientemente de me-
+dirla dos veces al día, suele variar bastante.
+1.5 El equipo motohormigonero puede venir con algo de agua y 
+puede implicar variaciones.
+2 La determinación de la demanda de agua y relación a/c 
+efectiva en hormigones es muy útil, por ejemplo, para:
+2 .1 Controles de rutina de hormigones despachados con crite-
+rios de a/c máxima por durabilidad.
+2.2 Contralor de plantas e instrumentos de medición (indepen-
+diente de su verificación) y controles de humedad.
+2.3 Determinar las incidencias de cambios de ciertos factores (al-
+tas temperaturas o agregados más sucios).
+2.4 Consistencias secas y muy secas, es un ensayo muy relevante 
+para la compactabilidad de la mezcla.
+DATOS A DISPONER EN LA PLANTA, OTROS ENSAYOS 
+NECESARIOS E INSTRUMENTAL DE ENSAYOS 
+3 En lo que respecta a producción de hormigones y otros 
+ensayos, debe disponerse información confiable de:
+3 .1 Básculas de cemento y agregados, caudalímetro y dosifi-
+cador de aditivos verificados periódicamente.
+3.2 Impresión del remito maestro de los hormigones des-
+pachados con sus errores característicos de carga.
+3.3 Determinación del PUV (IRAM 1562) obligatorio y se 
+sugiere consistencia y temperatura.
+3.4 Tipos y origen de los agregados utilizados, absorciones 
+de estos y dosificación teórica del hormigón.
+3.5 Porcentaje de sólidos de aditivos empleados (solicitud 
+al proveedor).
+4 Para el ensayo propiamente dicho de determinación de 
+humedad del hormigón fresco se requiere:
+4 .1 Hornallas a gas tipo anafe (placas eléctricas no funcionan 
+bien) u horno microondas (potencia ≥ 900W).
+4.2 Recipientes metálicos (si es a llama directa) o  plásticos con 
+tapa que tenga respiradero (que sea apto microondas).
+4.3 Elementos varios como palas, espátulas, placa de vidrio, ba-
+lanza de 3 kg x 0,1 kg, o de 30 kg x 1 g.
+4.4 Instrumentos para determinar PUV (recipiente calibrado, 
+balanza, varilla y martillo) y otros ensayos.
+ 
+DETERMINACIÓN DEL CONTENIDO DE HUMEDAD DEL 
+HORMIGÓN FRESCO
+5 Debe realizarse un muestreo representativo según IRAM 
+1541 vigente, y ensayos de PUV según IRAM 1562.
+6 Secado en hornalla a gas: Muestra de 6-7 kg para TMN 
+hasta 38 mm y de 15 kg para TMN > 50 mm.
+6 .1 Para mayor precisión puede usarse 8-9 kg hasta TMN 19 mm 
+y 12-13 kg para TMN 19 a 38 mm.
+6.2 La bandeja metálica tiene que estar bien limpia y se pesa (Pt) 
+previamente (no usar taras anotadas).
+6.3 Se pesa el hormigón fresco más la bandeja (no usar taras) y se 
+registra el peso inicial (Ph) al 1 g más próximo.
+6.4 Con una espátula con sumo cuidado y sin perder material, se 
+va revolviendo el material.
+GUÍAS PASO A PASO
+Por el Ms. Ing. Maximiliano Segerer, de la firma Control y Desarrollo de Hormigones / www.cdhormigones.com.ar
+CRITERIOS GENERALES SEGÚN IRAM 1666:2020, IRAM 1879, AASHTO T318 Y NBR 9605
+Foto 1: 
+Muestreo y 
+moldeo de PUV 
+en hormigones 
+masivos.
+‹
+Foto 2: 
+Ensayo de peso 
+unitario (pesaje 
+en balanza 
+de precisión 
+y recipiente 
+calibrado).
+‹
+Foto 3: Pesaje 
+de la muestra 
+de hormigón 
+fresco con la 
+tara incluida.
+‹
+Foto 4: 
+Secado para 
+hormigones 
+masivos en 
+hornalla a gas.
+‹
+TECNOLOGÍA
+36
+036 037 Paso a paso HD13.indd   36036 037 Paso a paso HD13.indd   36 7/10/24   10:337/10/24   10:33
+
+--- FIN DE PÁGINA ---
+
+6.5 Llega un momento en el cual el hormigón se seca y hay 
+que romper con cuidado distintos terrones.
+6.6 A los 10-15 minutos, el hormigón suele disgregarse y apa-
+rentar que no tiene más humedad.
+6.7 Continuar por 15 minutos adicionales y dejar reposar con 
+la hornalla apagada 15 minutos.
+6.8 Homogeneizar la muestra de forma adecuada, rompien-
+do y disgregando pequeños terrones.
+6.9 Luego, se coloca en horno de secado durante 2 horas o se 
+continúa durante 30-45 minutos en la hornalla.
+6. 10 A continuación, se deja enfriar , al menos, durante 30 mi-
+nutos, y se registra el peso de la bandeja y del hormigón seco 
+(Ps).
+7 Secado microondas (AASHTO): Muestra de 1,5 a 2,0 kg 
+para TMN hasta 38 mm, no es útil para TMN mayores.
+7.1 El recipiente plástico (sin la tapa y bien limpio) se pesa (Pt), 
+previamente.
+7.2 Puede ser necesario envolver en tela de fibra de vidrio al 
+hormigón (considerando su peso dentro de Pt).
+7.3 Nunca debe agregarse mortero para lograr una masa es-
+pecífica o redondeada.
+7.4 Se pesa el hormigón fresco más el recipiente (no usar taras) 
+y se registra el peso inicial (Ph) al 0,1 g más próximo.
+7.5 Se le coloca la tapa (con respirador) al recipiente y se lo ca-
+lienta a potencia máxima durante 5 minutos en el microondas.
+7.6 Se retira el material y se rompen los grumos o similares; se 
+repiten tres ciclos de 5 minutos.
+7.7 Luego se pesa el material y se continúan ciclos de 2 minu-
+tos hasta que el peso no varíe más de 0,5 gramos.
+7.8 Se deja reposar 10 minutos y luego se hace un último ciclo 
+de 2 minutos de verificación.
+8 Se mantiene en reposo durante 15 minutos y se regis-
+tra el peso de la bandeja/recipiente y hormigón seco (Ps).
+9 El contenido de humedad total del hormigón es de 
+Hh%=(Ph-Ps)/(Ph-Pt) x 100, expresado en % a un decimal.
+Ejemplo: Ph=10,092 kg - Ps=9,579 kg - Pt=3,520 kg; 
+(10,092-9,579)/(10,092-3,520)x100=7,8%.
+CIERRE POR PUV Y AJUSTE POR HUMEDAD DE 
+AGREGADOS
+10 Se realiza el cierre por PUV de todos los materiales 
+constituyentes del hormigón.
+10. 1 Del remito maestro se suman todos los materiales in-
+gresados al pastón y se dividen por los m3 (PUV teórico).
+Ejemplo: Sumatoria carga total (remito maestro) 16.591 kg 
+en carga 7,0 m3, se tiene PUV teórico=2.370 kg/m3
+10.2 Se calcula el cociente (FC=PUV medido/PUV teórico) 
+- Deseable 1,010 y 0,990; y extremo 1,020 y 0,980.
+Ejemplo: Si el PUV real medido es de 2.344 kg/m 3, el fac-
+tor de cierre es FC=2.344/2.370=0,989.
+10.3 Las cantidades de materiales se multiplican por el FC 
+para determinar el contenido real de cada material.
+Ejemplo: Cemento teórico 2584 kg (remito) en 7,0 m3 (369 
+kg/m3), Cemento real (369 x 0,988=365 kg/m3 .
+Ejemplo: AG teórico 7.701 kg (remito) en 7,0 m3 (1.100 kg/
+m3), AG real (1.100 x 0,988=1.087 kg/m3).
+11 Cada contenido de agregado real unitario (kg/m3) cargado 
+(remito maestro) se multiplica por FC (factor de cierre).
+11. 1 Luego, cada uno de estos valores se multiplica por 
+la absorción (dato de laboratorio) de cada fracción de 
+agregados.
+Ejemplo: Para 553 kg de arena mayoritaria real y absorción 
+del 1,1%, se obtiene un valor de absorción de 6,1 litros.
+Ejemplo: Para 176 kg de arena minoritaria real y absorción 
+del 1,7%, se obtiene un valor de absorción de 3,0 litros.
+Ejemplo: Para 1.087 kg de AG real y absorción del 0,7%, se 
+obtiene un valor de absorción de 7,6 litros.
+Para agregados livianos o artificiales, la absorción a tomar 
+debe ser ensayada a 1 hora de sumergirlos.
+12 Puede determinarse la incidencia por porcentaje de sóli-
+dos de los aditivos utilizados (información del fabricante).
+Ejemplo: Si el aditivo se emplea en 3,0 l/m3 y tiene un % de só-
+lidos del 40%, aporta 3,0 x (1-0,40) = 1,8 l/m3.
+13 Se determina el contenido de agua real del hormigón, 
+como Hh% x PUV real (medido según IRAM 1562).
+Ejemplo: Si se obtuvo Hh% del 7,8% y un PUV medido de 
+2.344 kg/m3, el contenido de agua es 182,8 kg/m3.
+14 Al valor de agua real, se le resta el valor de absorción de 
+todos los agregados y el aporte de aditivos, obteniendo Hl%.
+Ejemplo: Al valor 182,8 kg/m3 se le restan los valores 6,1 - 3,0 - 
+7,6 - 1,8 litros, se tiene Hl=164 l/m3 de agua libre.
+15 Con el valor de agua libre y contenido real de cemen-
+to, se puede calcular la relación a/c efectiva del hormigón.
+Ejemplo: Con 164 l/m3 de agua libre (Hl%) y 365 kg/m3, se ob-
+tiene una relación a/c 0,45.
+Puede compararse este valor con el indicado como real (con 
+FC) en el remito maestro y analizar diferencias.
+La precisión del método suele estar en el rango de ± 0,02 o 
+incluso algo inferior , lo cual es aceptable. ◉
+37
+Foto 4: 
+Secado para 
+hormigones 
+masivos en 
+hornalla a gas.
+Foto 6: Secado 
+final en horno 
+hasta masa 
+constante.
+‹
+Foto 7: 
+Recipiente, 
+pesaje y secado 
+en horno 
+microondas.
+‹
+Foto 5: 
+Secado en 
+hornalla para 
+hormigones 
+convencionales
+‹
+Foto 8: Pesaje 
+final del 
+hormigón 
+seco a masa 
+constante.
+‹
+036 037 Paso a paso HD13.indd   37036 037 Paso a paso HD13.indd   37 7/10/24   10:337/10/24   10:33
+
+--- FIN DE PÁGINA ---
+
+GUÍAS PASO A PASO
+ENSAYOS PARA LA DETERMINACIÓN DE LOS 
+VOLÚMENES DE HORMIGÓN DESPACHADOS
+Por el Ms. Ing. Maximiliano Segerer, de la firma Control y Desarrollo de Hormigones / www.cdhormigones.com.ar
+NECESIDAD DE CONTROL DE LOS VOLÚMENES DE LOS 
+HORMIGONES
+1 El hormigón tiene la particularidad que se carga en peso y se 
+comercializa en volumen, necesitando su conversión.
+1 .1 Es indispensable contar con base de datos y ensayos de plan-
+ta/obra del PUV (densidad de hormigón fresco).
+1.2 Como autocontrol, es recomendable realizar no menos de 
+dos ensayos de PUV (IRAM 1562) semanales.
+1.3 Para el control del PUV , no intervienen densidades individua-
+les de los constituyentes (criterio Dosificación).
+1.4 Es necesario poseer todos los instrumentos de pesaje verifi-
+cados, con trazabilidad y confiabilidad.
+1.5 Es importante el cumplimiento de las pautas indicadas en 
+IRAM 1666 vigente para despachar hormigones.
+1.6 El remito maestro confiable y trazable es una herramienta re-
+levante para determinar volúmenes despachados.
+2 La cubicación de la obra, y posteriores reclamos 
+(muy habituales), puede estar influenciada por:
+2 .1 Estructuras con el terreno o fundaciones irregulares o mu-
+chas veces unificadas o con desmoronamientos.
+2.2 Pisos, losas o pavimentos con superficies desparejas y de es-
+pesores definitivos diferentes a los del proyecto.
+2.3 V olúmenes de material para realizar ensayos que pueden 
+quedar en el sistema de bombeo de hormigón.
+2.4 Medidas de encofrados diferentes a las plasmadas en los pla-
+nos, o bien sectores no considerados.
+2.5 Utilización de relleno para descontar directamente 
+volumen (ejemplo: 6 m3 "piedra bola" no sustituyen 6 m3 de Hº˚ ).
+RELEVANCIA DEL PUV ( peso unitario o densidad del 
+hormigón fresco) 
+3 Es indispensable y debe realizarse el ensayo según IRAM 1562 
+(incluye H ˚  livianos y pesados).
+3 .1 Es recomendable realizarlo en obra para afinar la metodolo-
+gía del ensayo.
+3.2 Nunca pueden obtenerse valores de libros, de especificacio-
+nes o de publicaciones, ya que puede variar › 5%.
+3.3 Los pesos unitarios de hormigones sin aire en Argentina 
+pueden variar de 2.280 a 2.500 kg/m3.
+3.4 El PUV de los hormigones varía en la planta según la ca-
+tegoría resistente y proporciones de materiales.
+3.5 Como excepción, pueden tomarse medias de resulta-
+dos de autocontrol con materiales locales.
+AL TERNATIVA 1: CUANDO SE DISPONE DE UNA 
+BÁSCULA DE CAMIONES CALIBRADA
+4 La báscula de camiones debe estar calibrada y tener una 
+resolución no mayor a 20 kg.
+4 .1 Debe poseerse el certificado de calibración anual del 
+INTI
+5 Se debe conocer el peso del camión vacío en las condi-
+ciones en las cuales se pesará con hormigón (Pv). 
+5 .1 No es recomendable usar taras por posibles variaciones 
+de combustible, canaletas, personal, agua en el tanque, etc.
+5.2 Para básculas en la planta hormigonera, es recomenda-
+ble pesar el camión vacío previo a la carga.
+5.3 Para básculas de obra o públicas, es recomendable pe-
+sar el camión luego de la descarga.
+5.4 En todos los casos se replicará con chofer arriba/abajo, 
+sin cambios de agua en tanque ni canaletas.
+6 El peso del camión con hormigón debe ser tomado con 
+todos los materiales ya ingresados (Pc).
+6 .1 Es recomendable pesar el camión cargado luego de la 
+carga, para básculas en la planta hormigonera.
+6.2 Para básculas de obra o públicas, es recomendable pe-
+sar el camión antes del ingreso y de la descarga.
+7 La carga de hormigón total con el método de la báscula 
+de camiones es PH=Pc-Pv, medido en kg.
+AL TERNATIVA 2: BASADA EN REMITOS MAESTROS 
+TRAZABLES (ANEXO E NORMATIVO DE IRAM 1666:2020)
+8 T odos los equipos de medición (caudalímetro de agua 
+y básculas de cemento, agregados y aditivos) deben estar 
+verificados.
+CRITERIOS GENERALES SEGÚN IRAM 1666:2020; APLICA TAMBIÉN A HORMIGONES 
+DE TODO PESO ESPECÍFICO.
+TECNOLOGÍA
+34
+034 035 Tecnolgia - Paso a Paso HD14.indd   34034 035 Tecnolgia - Paso a Paso HD14.indd   34 7/1/25   14:207/1/25   14:20
+
+--- FIN DE PÁGINA ---
+
+8 .1 La verificación debe poseer trazabilidad; se recomienda 
+una frecuencia máxima de 6 meses (IRAM 1666).
+9 Del remito maestro de la carga deben sumarse todos los 
+materiales cargados en kg (PH).
+9 .1 En caso de errores mayores a los permisibles de carga de 
+cada material, se analiza cada caso.
+9.2 En caso de incorporar aditivos, agua o hielo fuera del re-
+gistro automatizado de planta, deben escribirse a mano en el 
+remito y adicionar luego estas cantidades.
+9.3 Poseer cargas automatizadas confiables y con registros 
+trazables es indispensable, según IRAM 1666.
+CONVERSIÓN DE PESOS EN VOLÚMENES APLICANDO 
+EL PUV MEDIDO REAL DEL HORMIGÓN
+10 El volumen real despachado se calcula como Vr=PH/
+PUV y se expresa en m3 con dos decimales.
+11 Se compara el volumen así calculado (Vr) con el volu-
+men nominal (Vn) en el remito maestro de la carga.
+11. 1 Se calcula el cociente entre =Vr/Vn con tres decima-
+les para apreciar la diferencia existente.
+12 Aplicando lo siguiente para hormigones con-
+vencionales y hormigones pesados:
+12. 1 Si  está entre 0,990 y 1,010, la situación es totalmente 
+esperable; sin oportunidades de mejora.
+12.2 Si  está entre 0,980 y 1,020, la situación es aceptable, 
+normativa y reglamentariamente.
+12.3 Si  es ‹ 0,980, se está despachando menos volumen 
+del indicado nominalmente en los remitos.
+12.4 Si  es › 1,020, se está despachando más volumen y 
+puede afectar el rendimiento del cemento real.
+12.5 Ejemplo Báscula: Si Pc=29.080 kg - Pv=14.940 - PUV 
+medido=2.37 4 kg/m3 - Vr=5,96 m3.
+Si el volumen nominal (remito) es 6,0 m3 - =5,96/6,00=0,993 
+- ACEPT ABLE.
+12.6 Ejemplo Sumatoria: AF=6.630 kg; AG=8.779 kg; 
+Cem=2.933 kg; Agua=1.489 kg; Adit.=4,7 kg - PH=19.836 kg.
+PUV medido 2.312 kg/m3 - Si el volumen nominal (remito) 
+es 8,5 m3 - =8,58/8,50=1,009 - ACEPT ABLE.
+13 Aplicando lo siguiente para hormigones livia-
+nos (‹ 2000 kg/m 3) y HRDC (H ˚º resistencia y den-
+sidad controlada):
+13. 1 Si  está entre 0,975 y 1,025, la situación es totalmente 
+esperable; sin oportunidades de mejora.
+13.2 Si  está entre 0,950 y 1,050, la situación es aceptable 
+normativamente y está dentro del ±5% estipulado.
+13.3 Si  es ‹ 0,950, se está despachando menos volumen 
+del indicado nominalmente en los remitos.
+13.4 Si  es › 1,050, se está despachando más volumen y 
+puede afectar el peso específico del material.
+13.5 Además de lo anterior , el PUV medido puede ser emplea-
+do como criterio de aceptación con valor ± 5%.
+13.6 Ejemplo Sumatoria: AF1=3.871 kg; AF2=3.884 kg; 
+Cem=1.505 kg; 1.077 kg; Adit.=1,5 kg - PH=10.338 kg.
+PUV medido 1793 kg/m
+3 - Si el volumen nominal (remi-
+to) es 6,0 m 3 - =5,77/6,00=0,962 - SE ACEPT A.
+Ejemplo de Alternativa 1: Pesajes en báscula calibrada para verificar el 
+volumen real despachado: diferencia entre el camión antes y después de 
+la carga en báscula de camiones referido al PUV medido. ‹
+Ejemplo de Alternativa 2: Pesajes de planta para verificación de volúmenes 
+reales despachados: sumatoria de registro confiable (ticket de carga) de 
+todos los materiales cargados al viaje, referido al PUV medido (no al 
+teórico). Para aplicarlo tienen que estar todos los elementos verificados. ‹
+35
+REVISTA HORMIGONAR  DIGITAL   # 14
+034 035 Tecnolgia - Paso a Paso HD14.indd   35034 035 Tecnolgia - Paso a Paso HD14.indd   35 7/1/25   14:207/1/25   14:20
+
+--- FIN DE PÁGINA ---
+

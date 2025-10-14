@@ -1,0 +1,3078 @@
+NOT A TÉCNICA18
+Hormigonar 27    agosto 2012
+En este número comenzamos una nueva serie de artículos 
+orientados a la realización de un control de calidad de forma 
+ágil, práctica y segura. En el primero de la serie de 10 artícu-
+los describiremos cuáles son las tareas y controles previos a 
+tener en cuenta antes de recibir el hormigón elaborado. De 
+no tener en cuenta estos cuidados probablemente aparece-
+rán problemas que se traducirán en mayor probabilidad de 
+defectos y sus costos asociados, conflictos entre las partes 
+involucradas y retraso en el avance de nuestras obras. Se des-
+criben 13 ítems con recomendaciones en formato ‘check list’ 
+que pueden servir como guía para la redacción de especifi-
+caciones técnicas o para la confección de procedimientos de 
+inspección en todo tipo de obras civiles. T omarse el tiempo 
+para verificar todos estos aspectos redundará en ahorros de 
+tiempo y económicos, debiendo ser estrictos en el cumpli-
+miento de los requisitos. De no haber comprobado el ‘OK’ 
+de los requisitos se recomienda no autorizar el hormigonado 
+hasta que aquéllos cumplan lo requerido.
+1.  Dimensiones, niveles y condiciones de los encofrados 
+(figura 1)
+ t Los encofrados se deben limpiar , colocar , fijar y 
+apuntalar adecuada y precisamente según las 
+indicaciones del director de Obras y de la inspección. 
+Es recomendable, para mejorar las terminaciones del 
+hormigón y disminuir los costos de reparación, colocar 
+desmoldantes a la cara interna del encofrado, lo cual 
+también incrementará su vida útil y números de uso.
+ t La nivelación de los encofrados y moldes, tanto 
+para elementos estructurales como para pisos y 
+pavimentos, es de vital importancia para respetar 
+los espesores de proyecto y evitar deformaciones 
+excesivas en los elementos o elevar los consumos de 
+hormigón.
+ t Las precauciones anteriores deben extremarse y hay 
+que trabajar con desmoldantes específicos para el 
+caso del hormigón visto arquitectónico (Hormigonar 
+25 y 26).
+ t Es importante humedecer los encofrados antes de 
+la colocación del hormigón, fundamentalmente en 
+condiciones de clima caluroso, para evitar que el 
+CONTROL DE 
+CALIDAD EN OBRA: 
+CONTROLES Y 
+T AREAS PREVIAS AL 
+HORMIGONADO
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+7DUHDVSUHYLDVLQGG 30
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA 19
+Hormigonar 27    agosto 2012
+>
+Figura 1
+‹
+Figura 2
+‹
+encofrado absorbente de madera le ‘robe’ agua al 
+hormigón o que el encofrado metálico expuesto al 
+asoleamiento tienda a desecar la capa superficial del 
+hormigón de recubrimiento. El resultado de no realizar 
+esta tarea se traduce en un hormigón de recubrimiento 
+débil, conocido como ‘hormigón quemado’.
+ t Para losas alivianadas es indispensable humedecer 
+los cerámicos, siendo recomendable realizarlo el 
+día anterior y volver a mojarlos el día del colado, 
+disminuyendo así el riesgo de fisuras por contracción 
+plástica (Hormigonar 17).
+ t En todo tipo de obra es recomendable evaluar 
+diferentes alternativas de encofrados tradicionales 
+de madera, encofrados industrializados metálicos 
+o sistemas mixtos. Deben considerarse no sólo los 
+costos de los sistemas sino también la mano de obra, 
+la rapidez constructiva, la rotación de los mismos, la 
+seguridad de obra, el espacio disponible para trabajar y 
+el orden y la limpieza de obra, entre otros aspectos.
+ t T ambién es importante diagramar las áreas de 
+circulación durante las tareas de hormigonado y 
+brindarles las medidas de seguridad adecuadas a los 
+operarios que trabajen en altura.
+2. Diámetros, separaciones, recubrimientos y estado 
+superficial de las armaduras (figura 2)
+ t Debe asegurarse que los diámetros, separaciones y 
+recubrimientos que figuran en los planos sean plasmados 
+en la obra, lo que muchas veces no se cumple, debiendo 
+inspeccionar los elementos una vez encofrados. 
+ t Siempre debe verificarse antes del llenado que las barras 
+se encuentren en su posición según planos y que las tareas 
+normales durante el colado y el vibrado no muevan las 
+armaduras de su posición original. Si se hormigona un 
+elemento con las armaduras fuera de posición el defecto 
+quedará ‘oculto’ a los ojos y podrá traer problemas 
+considerables de seguridad estructural (no respetar los 
+planos y memorias de cálculo) o mayor probabilidad de 
+fisuras por asentamiento plástico (Hormigonar 16).
+ t Los recubrimientos deben ser bien materializados en obra 
+mediante separadores metálicos, plásticos o de mortero 
+(‘ravioles’), debiendo ser compatibles con los requisitos 
+funcionales de la estructura.
+ t En el caso de fundaciones especiales o elementos que posean 
+insertos o platinas deberá realizarse una adecuada nivelación 
+y posicionamiento de los mismos para evitar la salida de su 
+posición inicial o alineación durante las tareas de colado. 
+7DUHDVSUHYLDVLQGG 30
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA20
+Hormigonar 27    agosto 2012
+>
+Figura 3
+‹
+Figura 4
+‹
+ t El acero deberá estar limpio y libre de herrumbre suelto 
+y de cualquier otra sustancia extraña (aceites, grasas 
+o restos de morteros). Para acopios de acero que se 
+encuentren con óxidos superficiales, si los mismos están 
+bien adheridos y no superan más del 5% de la sección 
+transversal de las barras no hay que tomar ninguna 
+medida adicional. El ensayo se realiza cortando una barra, 
+pesándola y cepillándola enérgicamente con cerdas 
+metálicas, y en caso de que la pérdida de masa supere el 
+5% no pueden usarse.
+ t En el caso de pisos y pavimentos, barras de unión y 
+pasadores deben estar en la posición que indican los 
+planos y tratados según las especificaciones del proyecto 
+(por ejemplo, con el habitual engrasado previo u otra 
+rotura de adherencia).
+3. Capacidad soporte en el caso de pisos y pavimentos
+ t Una de las principales causas de deterioro prematuro en 
+pisos y pavimentos de hormigón es la falta de preparación 
+y/o compactación de la base de apoyo. Debe realizarse 
+siguiendo especificaciones particulares para cada caso, 
+requiriendo en algunas ocasiones la sustitución del 
+suelo del lugar , siendo muy relevante una compactación 
+adecuada.
+ t La capacidad soporte de la base de apoyo debe ser acorde 
+a las cargas previstas. Deben realizarse ensayos para 
+determinar la aptitud o no de la base de apoyo antes del 
+pedido de hormigón.
+ t Además de una adecuada compactación en valor 
+absoluto es primordial que exista uniformidad en todo 
+el pavimento, ya que de existir puntos de mayor o 
+menor densidad pueden aparecer problemas locales. El 
+material para la base de apoyo debe ser adecuadamente 
+seleccionado (material granular , grava, arena, 
+estabilizado, terreno del lugar , etc.) y uniformemente 
+compactado, evitando que el mismo se presente 
+como expansivo, susceptible a las heladas o al bombeo 
+(Hormigonar 24) .
+4. Estado de superficies en fundaciones, pisos y pavimentos
+ t En estructuras en contacto con el suelo es muy 
+importante humedecer la subrasante (principalmente 
+en condiciones de clima caluroso) para evitar que la 
+misma absorba agua de composición del hormigón. 
+Es recomendable humedecer abundantemente el día 
+anterior al colado y antes del colado repasar para que esté 
+húmedo pero no encharcado, ya que si existe exceso de 
+humedad podría incrementarse el riesgo de alabeo de 
+losas (Hormigonar 22) .
+7DUHDVSUHYLDVLQGG 30
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA22
+Hormigonar 27    agosto 2012
+Figura 5
+‹
+ t T al cual se destacó anteriormente, debe 
+aprobarse la nivelación del terreno antes del 
+colado.
+ t No debe colocarse el hormigón en subrasantes 
+congeladas, debiendo eliminar el hielo antes del 
+colado. Deben retirarse todos los escombros, 
+hojas, barro, agua estancada, etc., antes del 
+colado del hormigón.
+ t Cuando se emplean riegos de imprimación o se 
+coloca el hormigón directamente sobre láminas 
+de polietileno no es necesaria la humectación de 
+la base de apoyo, aunque esta última técnica no 
+es recomendable, ya que incrementa el riesgo de 
+patologías (Hormigonar 21 y 24).
+5. Seguridad de apuntalamientos de encofrados y 
+otros elementos de sostén (figura 3)
+ t Se debe exigir el diseño y cálculo de los 
+encofrados y apuntalamientos teniendo en 
+cuenta siempre la seguridad de los operarios. 
+Asimismo, deberán posicionarse en obra los 
+puntales y otros elementos de manera que 
+aseguren la estabilidad de los elementos, 
+minimizando así el riesgo de abertura de 
+encofrados o caída de los mismos durante el 
+colado, ya que involucra la seguridad de los 
+operarios.
+6. Disponibilidad suficiente en cantidad y calidad 
+de materiales, equipos y mano de obra para 
+la colocación, compactación, terminación de 
+superficies, protección y curado continuos
+ t Hay que prever que la mano de obra se encuentre 
+disponible a la llegada de los camiones a la obra 
+y en lo posible no realizar recesos, y en caso 
+de hacer una pausa (almuerzo, por ejemplo) 
+comunicarlo a la planta con suficiente antelación. 
+Los períodos de descanso no pueden nunca 
+coincidir con los tiempos de hormigonado. En 
+caso de no poseer una cuadrilla de un adecuado 
+número de operarios, esto resultará en demoras 
+en la descarga del hormigón y en potenciales 
+problemas con la calidad del mismo.
+ t Se deberá verificar la existencia y buen 
+funcionamiento de los equipos de compactación 
+del hormigón, tanto de los vibradores como 
+de las instalaciones eléctricas. Es recomendable 
+contar siempre con un vibrador de inmersión de 
+repuesto, ya que son equipos de rotura bastante 
+habitual en obra.
+ t Antes de comenzar el hormigonado se deberá 
+verificar la existencia de todos los medios para 
+proteger en estado fresco y curar el hormigón 
+recién colado. Estas técnicas tienden a prevenir 
+problemas como fisuras y otros daños del 
+hormigón endurecido que pueden disminuir la 
+vida útil de las estructuras. No sería admisible 
+esperar a comenzar a colar al hormigón para 
+que estos equipos lleguen a obra.
+ t Otros elementos específicos exigibles para 
+pavimentos son: reglas, fratachos, sierras y discos 
+de corte para juntas y otras herramientas, y para 
+el caso de pisos industriales deben sumarse 
+endurecedores superficiales en cantidad 
+suficiente y equipos para el llaneado del mismo.
+7. Medidas especiales en condiciones climáticas 
+adversas o para hormigonado nocturno 
+(figura 4)
+7DUHDVSUHYLDVLQGG 30
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA 23
+Hormigonar 27    agosto 2012
+>
+Figura 6
+‹
+ t Cuando existan condiciones de tiempo frío 
+o tiempo caluroso deberá contarse en obra 
+con las medidas especiales para la colocación, 
+protección y curado del hormigón en esas 
+condiciones antes de la recepción del hormigón 
+elaborado en obra. 
+ t El hormigonado al aire libre será detenido 
+cuando llueva fuertemente y cause charcos 
+en el hormigón, salvo que se improvise alguna 
+cubierta impermeable.
+ t En el caso de hormigonado nocturno, 
+deberán tomarse medidas de seguridad 
+adicionales y contar con la iluminación 
+suficiente para el normal desarrollo de las 
+tareas.
+8. Disponibilidad de elementos de ensayo y de 
+moldes de probetas según el volumen de 
+hormigón
+ t Es indispensable contar con los elementos 
+de ensayo antes de confirmar el pedido de 
+hormigón elaborado. Muchas veces se acepta 
+que “el camión viene con los moldes”, pero si no 
+fuese así no se podrá controlar eficientemente el 
+hormigón.
+ t Dependiendo de las necesidades de la obra, el 
+volumen de hormigón, el nivel de control y las 
+especificaciones deberán exigirse los elementos 
+para ensayos, incluidos moldes de probetas, en 
+cantidad suficiente antes de hormigonar . En 
+otro artículo de la serie “Control de calidad ” 
+se brindarán disposiciones prácticas de qué y 
+cuántos elementos de ensayo se debe disponer 
+en función de la obra.
+9. Condiciones de higiene y seguridad en las tareas 
+de hormigonado (figura 5)
+ t T odos los operarios deben contar con 
+elementos de seguridad adecuados, siendo 
+de extrema importancia la capacitación para 
+evitar todo tipo de riesgos. Debe cumplirse con 
+la legislación vigente en materia de H & S en la 
+industria de la construcción.
+ t Respecto a las bombas, deben tenerse en cuenta 
+potenciales problemas con bombas y líneas de 
+alta y media tensión para evitar que las plumas de 
+las mismas pasen cerca de las líneas, ya que podría 
+traer aparejada la electrocución del bombista. Al 
+circular bajo bombas o cintas transportadoras 
+deben utilizarse los EPP que correspondan.
+ t T odas las medidas de seguridad y elementos 
+de protección personal no sólo son aplicables a 
+los operarios de obra sino también deben ser 
+exigidos en obra a los mixeros y bombistas.
+10. Permisos y señalización para trabajos en la vía 
+pública (figura 5)
+ t Al trabajar en la vía pública debe señalizarse 
+adecuadamente la zona de estacionamiento 
+de bombas y de entrada, maniobra y salida de 
+camiones de acuerdo a la legislación aplicable en 
+la jurisdicción donde ubique la obra.
+ t Además, en varias ciudades es indispensable 
+contar con la autorización previa de la 
+municipalidad.
+11. Seguridad suficiente para el acceso de camiones 
+y bombas a la obra (figura 6)
+7DUHDVSUHYLDVLQGG 30
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA24
+Hormigonar 27    agosto 2012
+ t Entre otros aspectos, dentro de la obra y en sus accesos 
+para camiones debe tenerse en cuenta:
+ t Qué no esté demasiado húmedo el terreno (riesgo de 
+enterrarse)
+ t Caminos seguros y con pendientes acordes para la 
+maniobra de camiones
+ t Estabilidad de taludes en excavaciones y bien señalizadas 
+en zonas próximas a circulación
+ t Puentes de entrada adecuados (entre 25 y 35 toneladas 
+pesa un mixer)
+ t Zonas liberadas para el despliegue de las bombas y entrada 
+de mixers (gálibos, árboles, etc.)
+12. Volúmen cubicado con precisión y un adecuado pedido 
+del H E  
+ t Debe estimarse correctamente la cantidad necesaria 
+a hormigonar y tener siempre en cuenta pérdidas de 
+encofrados, irregularidad en fundaciones, sobre-espesores, 
+volumen sobrante en la bomba, etc. No deben emplearse 
+‘recetas’ como X m³/m² de losa ni cubicarse estrictamente 
+en base a las dimensiones de planos con programas 
+informáticos sin realizar observaciones en obra antes de 
+hormigonar .
+ t Habrá necesidad de una cantidad ligeramente mayor a la 
+que se mide o ‘cúbica’ geométricamente:
+ t 2 a 3% más en caso de elementos encofrados muy bien 
+definidos
+ t 3 a 5% más para la generalidad de casos
+ t 5 a 10% en caso de fundaciones o sub-bases irregulares
+ t En caso de irregularidades muy importantes es difícil la 
+determinación
+ t La cantidad mínima de pedido según IRAM 1666 es 1,0 m³ 
+y la fracción menor es 0,5 m³ tanto para el pedido inicial 
+como para el ‘corte’. 
+ t El ‘corte’ debe ser solicitado con una antelación suficiente 
+debido a que si se espera a descargar todo el volumen 
+despachado y recién pedirlo:
+ t Posibilidad de aparición de juntas frías, ya que desde que 
+se solicita, se  carga en planta, viaja a obra y se descarga 
+pasarán al menos 1 ó 2 horas.
+ t Dificultades en la logística y previsión del proveedor de 
+hormigón elaborado para otras obras.
+ t El pedido de hormigón elaborado debe realizarse en 
+base a las necesidades de la estructura, condiciones de 
+colocación y manipuleo y según las especificaciones y 
+planos de los elementos. 
+ t Cliente, datos y dirección de la obra y tipos de elemento a 
+hormigonar .
+ t Características del servicio, como día y hora, necesidad de 
+bomba, cinta u otro servicio, etc.
+ t Capacidad de descarga en obra (X m³/hora, un camión 
+cada Y minutos o Z horas para el trabajo).
+ t Características del hormigón (categoría resistente, 
+asentamiento, edad de diseño, tamaño máximo de agregados, 
+aditivos a incorporar en planta o a proveer en obra, etc.). 
+13. Contar con las aprobaciones previas de inspectores o 
+supervisores de obra
+ t En función del tipo de obra, bien sea pública o privada, 
+en muchos casos son exigibles inspecciones previas de la 
+supervisión de obra antes del colado del hormigón. Las 
+mismas tienen como objeto verificar varios de los aspectos 
+mencionados anteriormente, pero por profesionales 
+ajenos al constructor . 
+«
+7DUHDVSUHYLDVLQGG 30
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA24
+Hormigonar 28    diciembre 2012
+Figura 1 - Muestreo del hormigón fresco y homogeneización a pala
+‹
+Para llevar a cabo un eficaz control en obra, entre 
+otros aspectos, se debe:
+ t Conocer la importancia de la realización y la 
+metodología correcta de toma de muestras 
+y ensayos, es decir , según procedimientos y 
+normas.
+ t Capacitar laboratoristas de obra para la 
+realización de ensayos.
+ t Llevar registros para asegurar la trazabilidad 
+del Hormigón Elaborado colado en obra.
+ t Consultar al proveedor sobre cualquier duda 
+de cómo, cuándo y para qué realizar los 
+ensayos.
+De no realizar estas tareas, se corren múltiples 
+riesgos, como:
+ t Imposibilidad de conocer la calidad real del 
+Hormigón Elaborado.
+ t Mayor probabilidad de aceptación de 
+hormigones defectuosos.
+ t Incertidumbre de la calidad y seguridad de la 
+estructura terminada.
+ t Inconvenientes entre el proveedor de 
+Hormigón Elaborado y el cliente.
+CONTROL DE 
+CALIDAD EN OBRA: 
+TRAZABILIDAD Y 
+T OMA DE MUESTRAS
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones SA
+www.cdhormigones.com.ar 
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA 25
+Hormigonar 28    diciembre 2012
+>
+ t Dificultad de atribuir responsabilidades en 
+caso de conflictos.
+ t Incremento de costos en caso de ensayos 
+sobre las estructuras.
+Muestreo del hormigón fresco
+T odo ensayo parte del muestreo del hormigón, 
+y si éste no se realiza correctamente, los ensayos 
+no tendrán validez. Sin embargo, en una cantidad 
+considerable de obras, el muestreo no se lleva a 
+cabo de manera adecuada, probablemente por 
+desconocimiento de algunas disposiciones que se 
+brindarán a continuación, las cuales coinciden con 
+los criterios indicados en la Norma IRAM 1541.
+ t La muestra será representativa y deberá ser 
+siempre tomada después de descargar el 
+primer 1/4 m³ y antes de descargar el último 
+1/4 m³. T omar la muestra apenas comienza a 
+descargar el camión hormigonero es un error 
+muy frecuente debido a que esta muestra se 
+encuentra alterada por la propia segregación 
+al comienzo de la descarga (mayor cantidad 
+de agregado y, probablemente, agua) y el agua 
+que se coloca en la canaleta para facilitar la 
+descarga, entre otros factores. No hay que 
+realizar una medición exacta de los 250 
+litros descargados, sino que el concepto es 
+descargar “un poco” de hormigón y recién 
+tomar la muestra para ensayos de aceptación 
+(asentamiento, aire, temperatura) o para el 
+moldeo de probetas. Para este último caso, 
+puede ser más recomendable tomar la 
+muestra de la mitad de la descarga, para evitar 
+que se manipule de mala manera el hormigón 
+en la descarga (incorporación de agua), 
+después de la toma de muestras inicial.
+ t Muchas veces las muestras se toman en 
+carretillas por comodidad, pero también 
+pueden utilizarse baldes u otros recipientes 
+herméticos y limpios. Para el caso de 
+toma de muestras durante el bombeo, 
+es recomendable captar toda la vena de 
+descarga con el balde mientras se descarga 
+el hormigón, trasvasando la cantidad de 
+muestra suficiente a la carretilla (Figura 1); 
+esto tiene el objetivo de no entorpecer las 
+tareas corrientes de colocación del hormigón. 
+La muestra deberá ser tomada por al menos 
+dos pasajes a través del chorro de descarga 
+que lo capte totalmente, para lograr mayor 
+representatividad.
+ t Una vez transportada la muestra al lugar 
+donde se realizarán los ensayos, se remezclará 
+con pala para uniformarlo, aun cuando 
+presente agua de exudación en la superficie. 
+En condiciones climáticas adversas, se cubrirá 
+la muestra para que éstas no puedan alterarla.
+ t No es recomendable que transcurran más 
+de 15 minutos entre la toma de muestras y 
+los ensayos, salvo para el caso del moldeo 
+remoto de probetas (ver Revista Hormigonar 
+edición 25). De otra forma, los resultados 
+pueden ser alterados, como por ejemplo en 
+caso de clima caluroso que incide mucho en 
+el desecamiento de una muestra pequeña, 
+como la que se obtiene en carretillas.
+ t Por último, el volumen de la muestra será 
+al menos un 40% superior al necesario 
+para los ensayos. Por ejemplo, se deben 
+muestrear al menos 40 litros para un cono y 
+cuatro probetas de 15 x 30 cm, reduciendo el 
+volumen a menos de la mitad si se emplean 
+probetas de 10 x 20 cm.
+Cantidad de muestras recomendada en 
+función del volumen
+Un parámetro que rara vez figura en especificacio-
+nes es la cantidad de muestras a tomar . El control 
+de calidad del hormigón se basa en el muestreo al 
+azar; quiere decir que tomamos algunas unidades 
+de muestreo (pastones) y en función de ellas valo-
+ramos (aceptación o rechazo) el lote. Por ello, no es 
+necesario ni conveniente tomar muestras y probe-
+tas a todos los viajes que llegan a la obra. De reali-
+zarlo, nuestro control de calidad podrá verse costo-
+so y excesivo, además de los problemas asociados 
+con la cantidad importante de probetas tomadas 
+(pileta de curado, transporte al laboratorio central, 
+etc.). Por ello, presentamos en la T abla 1 una pro-
+puesta que es una envolvente de las disposiciones 
+de la Norma IRAM 1666 de Hormigón Elaborado y 
+del nuevo Reglamento CIRSOC 201-05.
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA26
+Hormigonar 28    diciembre 2012
+>
+Si se posee una planta en obra bajo el mando 
+del director de obras o una planta externa con 
+un SGC certificado (Modo 1), se puede reducir 
+a una muestra cada 40 m ³ (5 muestras por lote 
+de 200 m ³). En caso de que un conjunto de ele-
+mentos estructurales posea un volumen mayor a 
+200 m³ y que sean hormigonados durante la mis-
+ma jornada sin interrupciones mayores a 3 horas y 
+se realicen con el mismo tipo de hormigón y ma-
+teriales, se puede considerar: que para 300 m³ se 
+tome una muestra cada 60 m³; para 400 m³, una 
+muestra cada 80 m ³; y para 500 m ³ y más, una 
+muestra cada 100 m³ como máximo admisible.
+Cantidad de probetas por muestra y 
+edades de ensayo
+Otro aspecto que quita validez a los ensayos 
+de varias obras es que se moldea una probe-
+ta por muestra o a veces dos, y una se ensaya a 
+7 y la otra a 28 días. Este error muy corriente en 
+obra, que contradice normas IRAM de ensayo y 
+el Reglamento CIRSOC 201, conduce a que éstos 
+no pueden analizarse estadísticamente como co-
+rresponde (criterios de media móvil y del resulta-
+do individual). 
+T al como establece el Reglamento, por cada 
+muestra (cada camión muestreado) siempre de-
+ben moldearse dos probetas como mínimo para 
+ensayarlas ambas a la edad de diseño, que general-
+mente es de 28 días. En caso de que sea otra edad 
+de diseño (7 días para habilitar rápido un puente 
+de acceso o 90 días para el caso de plateas masi-
+vas), las dos probetas serán ensayadas a esta edad. 
+El promedio de la rotura de las probetas a la edad 
+de diseño (o similar) constituye un resultado de 
+ensayo y podrá analizarse si éste es válido o no, pu-
+diendo inferir estadísticamente sobre la adecuada 
+ejecución de varias de las tareas relacionadas con 
+el ensayo (moldeo, encabezado, rotura, etc.).
+Por especificaciones particulares (necesidad de 
+controlar a otras edades), sí pueden moldear-
+se probetas adicionales con la misma muestra 
+(Figura 2), extras a las dos “probetas gemelas” de 
+la edad de diseño. Se citan dos ejemplos de apli-
+cación para una edad de diseño de 28 días:
+ t Se desea controlar la resistencia también a 
+7 días: deberán moldearse 3 ó 4 probetas 
+por muestra, para ensayar 1 ó 2 probetas a 7 
+días (según la disponibilidad de moldes en la 
+obra) y 2 probetas a 28 días. Como la edad 
+de ensayo próxima a 7 días es sólo una “guía” 
+para pronosticar resistencias, sin validez para 
+tomar decisiones sobre aceptación o rechazo 
+de hormigones, puede ser recomendable 
+tomar 1 probeta para 7 días, para no 
+incrementar los costos asociados al control 
+de calidad.
+ t Se desea controlar a 7 días y reservar 
+probetas “testigo”: podrían moldearse 
+4 probetas por muestra, para ensayar 1 
+probeta a 7 días, 2 probetas a 28 días (edad 
+de diseño) y conservar una probeta por 
+cualquier resultado anómalo que pudiera 
+aparecer , para tenerla de “reserva”. En caso de 
+cumplimentar con los requisitos de resistencia 
+a 28 días, no es necesario ensayar esta 
+probeta testigo.
+T razabilidad y seguimiento de hormigones
+Otro aspecto muchas veces olvidado en obra es 
+llevar “Planillas diarias de seguimiento de hormi-
+gones”, en las cuales debe plasmarse la informa-
+ción justa y necesaria para lograr una trazabilidad 
+del hormigón. El director de obra tiene la respon-
+sabilidad de aplicar los resultados de ensayos y la 
+experiencia acumulada en la construcción de las 
+estructuras que aún falta realizar , con vistas a op-
+timizar la calidad de las estructuras o a mantener 
+el nivel de calidad aceptable que se hubiera alcan-
+zado. A continuación se brindará la información 
+mínima que deben comprender estas Planillas 
+de seguimiento de hormigones (Figura 3) con el 
+objeto de mejorar la calidad de los trabajos y, en 
+caso de algún inconveniente, poder inferir sobre 
+la causa o responsables y localizar dónde se en-
+cuentra el hormigón cuestionado.
+T abla 1
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA28
+Hormigonar 28    diciembre 2012
+ t Tipo de Hormigón (categoría resistente o 
+codificación propia de obra).
+ t Número de remito (y proveedor de 
+hormigón si se cuenta con más de uno).
+ t V olumen de hormigón del viaje según remito.
+ t Hora de llegada a obra y hora de salida de 
+obra del camión hormigonero.
+ t Tipo de elementos estructurales llenados 
+(losas, tabiques, fundaciones, pavimentos, 
+etc.).
+ t Designación (según el director técnico o 
+según planos) de los elementos. Por ejemplo, 
+tabique sur del segundo piso, progresiva 125 
+del canal, pavimento en calle San Martín al 
+520, etc.
+ t Aditivos incorporados en obra (tipo, marca y 
+dosis).
+ t Asentamiento del hormigón fresco (lugar 
+al menos para dos ensayos, ya que para 
+rechazar un camión hay que realizar dos 
+ensayos o para el caso de una segunda 
+medición al incorporar aditivos).
+ t T emperatura del hormigón fresco.
+ t Aceptación o rechazo del hormigón fresco 
+en función de los ensayos (asentamiento, 
+aire, etc.).
+ t Moldeo de probetas (número y/o 
+identificación precisa de las probetas).
+ t Edad a la que deben ensayarse las 
+probetas moldeadas, según se especificó 
+anteriormente.
+ t Otros ensayos u observaciones sobre el 
+hormigón fresco (por ejemplo, peso unitario 
+o aire incorporado).
+ t Condiciones meteorológicas a diferentes 
+horas del día y pronóstico para el día 
+siguiente.
+Estos datos, donde ninguno abunda, serán sufi-
+cientes para darle una adecuada trazabilidad al 
+hormigón de las estructuras. En caso de aparecer 
+algún resultado anómalo en las resistencias, po-
+drá verificarse si existió algún inconveniente en 
+obra en correspondencia con los bajos resultados, 
+como ser: elevado asentamiento, estadía excesiva 
+del camión en obra, bajas temperaturas, etc.
+Figura 2 - Diferentes criterios de número de probetas por muestra (tres, seis y cuatro respectivamente)
+‹
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA 29
+Hormigonar 28    diciembre 2012
+Figura 3 - Planilla Tipo Seguimiento hormigones
+‹ >
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA30
+Hormigonar 28    diciembre 2012
+Siguiendo los lineamientos de la planilla modelo 
+adjunta (Figura 3), es recomendable:
+ t Realizar una planilla por día (aunque sea un 
+solo viaje) para llevar un registro diario y 
+archivarlo.
+ t Si no se hormigona, no realizar una planilla 
+vacía, y en el caso de una jornada con mucho 
+volumen, completar más de una hoja, 
+numerándolas.
+ t Anotar los datos de todos los viajes que 
+llegan a la obra, aun aquellos a los que no se 
+les realicen ensayos de asentamiento y/o 
+moldeo de probetas.
+Es recomendable que el encargado de la confec-
+ción de la planilla sea la misma persona que reali-
+za los ensayos (salvo en obras de envergadura) y 
+que sea metódica, a la cual se le transmita la res-
+ponsabilidad e importancia que implica su traba-
+jo. Además, es muy importante brindarle fichas 
+de capacitación resumidas y bien gráficas, las cua-
+les serán presentadas en próximos artículos de 
+Hormigonar. No se considera indispensable trans-
+cribir o informatizar estas planillas, ya que las pla-
+nillas manuscritas dan mayor veracidad a los re-
+gistros, debiendo archivarlas consecutivamente 
+en orden cronológico.
+Otros registros de ensayo
+Las tareas faltantes en obras convencionales con-
+sisten en asegurar la protección y curado de las 
+probetas, su identificación y prever los días en 
+que deben llevarse las probetas a ensayar al la-
+boratorio. Para ello se recomienda llevar una se-
+gunda planilla paralela (en este caso, puede ser en 
+la computadora y con formato de planilla de cál-
+culo), relacionada con la rotura y resistencia de las 
+probetas a distintas edades.
+ t Fecha de moldeo, identificación de la probeta 
+y edad de ensayo (datos copiados de la 
+planilla anterior).
+ t Fecha de rotura teórica de la probeta (fecha 
+de moldeo + edad de ensayo).
+ t Fecha estimada de envío al laboratorio, 
+ya que muchas veces no es factible llevar 
+todos los días probetas al laboratorio, 
+sugiriendo en la generalidad de los casos ir 
+dos veces por semana al laboratorio en días 
+predeterminados (por ejemplo, los lunes y 
+los jueves) y llevar: probetas de 6, 7, 8 y 9 días 
+para el ensayo y probetas de 27, 28, 29 y 30 
+días para el ensayo.
+ t Al final, un lugar para copiar , cuando lo 
+comunique formalmente el laboratorio: 
+resistencia o tensión de rotura (MPa) y edad 
+real de ensayo (o fecha de rotura). El análisis y 
+procesamiento estadístico de los resultados 
+de resistencias a compresión será abordado 
+en un artículo independiente. 
+«
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA36
+Hormigonar 29    abril 2013
+Los criterios de conformidad son las disposi-
+ciones destinadas a establecer si el hormigón 
+colocado en una estructura cumple con los 
+requisitos establecidos en los reglamentos y 
+las especificaciones del proyecto. Estos crite-
+rios se refieren a las propiedades del hormi-
+gón fresco y el hormigón endurecido, estu-
+diándose en el presente artículo el primero de 
+los estados. El control de conformidad consti-
+tuye el conjunto de acciones, ensayos y deci-
+siones destinados a la recepción del hormigón. 
+Se basa en la realización de ensayos normaliza-
+dos que miden las propiedades del hormigón 
+especificadas, que generalmente figuran en 
+los remitos, debiendo realizarlos sobre mues-
+tras representativas del hormigón elaborado. 
+Con la medición de estos parámetros en esta-
+do fresco, considerando las tolerancias admiti-
+das por reglamento, se decide si se procede a 
+la aceptación (en caso de cumplir con las espe-
+cificaciones del pedido) o al rechazo del hor-
+migón fresco (si no cumple con los requisitos 
+solicitados por el cliente).
+Para finalizar esta introducción, hay que tener 
+en cuenta que, además de estos controles, de-
+ben realizarse ensayos sobre el hormigón en-
+durecido para la aceptación definitiva, entre 
+los que se destaca el moldeo y rotura de pro-
+betas (será estudiado en un artículo indepen-
+diente), constituyendo el principal criterio de 
+conformidad para hormigón endurecido en la 
+actualidad.
+Conformidad y aceptación 
+del hormigón fresco 
+en obra
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+Criterios generales de aceptación en obra
+El CIRSOC 201/05 establece que los ensayos de 
+aceptación del hormigón fresco deben realizarse 
+con la siguiente frecuencia diaria:
+ t Al comienzo de la jornada, al menos en los 5 
+primeros camiones recibidos consecutivos.
+ t Cuando hubiesen transcurrido 2 horas de la 
+última determinación.
+ t Cuando se efectúe la toma de muestras para 
+la confección de probetas (es indispensable).
+ t Al tener un resultado no conforme, al menos 
+en 3 pastones siguientes.
+ t Cuando existan dudas o visualmente se 
+aprecie una deficiencia del hormigón en 
+estado fresco.
+Como se estudiará, pueden determinarse una o 
+más propiedades del hormigón fresco, debiendo 
+seguir el diagrama de flujo de la Figura 1. T odos 
+estos valores de ensayo deben registrarse en la 
+planilla de trazabilidad de muestras diarias, cuyo 
+formato tipo fue presentado en el número ante-
+rior de Hormigonar .
+Algo poco conocido, pero establecido por el re-
+glamento, es que con un solo ensayo no confor-
+me no puede rechazarse el hormigón fresco. Esto 
+quiere decir que si tomamos una muestra repre-
+sentativa y realizamos un ensayo de asentamien-
+to y da 5 cm más de lo solicitado, el hormigón 
+con este único resultado no puede ser rechaza-
+do; siempre se requiere un nuevo ensayo defini-
+torio sobre una nueva muestra, desechando lo 
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA 37
+Hormigonar 29    abril 2013
+>
+Figura 1
+Figura 2anterior . Si este ensayo brinda un resultado con-
+forme, el camión debe aceptarse. Este aspecto 
+está relacionado con la notoria influencia de la 
+metodología de ensayo y muestreo del hormi-
+gón que puede brindar resultados erróneos, de-
+biendo ser confirmado con un segundo ensayo. 
+Desde el punto de vista práctico, es entendible 
+que para rechazar adecuadamente un camión 
+de 6 a 10 m ³ y demostrarle al proveedor que no 
+cumplió con lo solicitado, “no cuesta nada” to-
+marse de 3 a 5 minutos adicionales y realizar un 
+nuevo ensayo.
+Ensayos para determinar la consistencia 
+del hormigón fresco
+La determinación de la consistencia es el único 
+ensayo del hormigón fresco que CIRSOC 201 es-
+tablece que debe determinarse siempre, es decir , 
+en toda obra y con la frecuencia indicada ante-
+riormente. El ensayo de asentamiento es el mé-
+todo más empleado para valorar la consistencia y 
+la trabajabilidad del hormigón, y en función de su 
+resultado, se procede a aceptar o rechazar la to-
+talidad de la carga del camión hormigonero. Por 
+ello es de suma importancia realizarlo tal cual es-
+tablece la norma IRAM 1536. Para facilitar la ca-
+pacitación de los responsables de los ensayos de 
+aceptación en obra, se brinda en un diagrama en 
+la Figura 2 una forma gráfica y más amigable para 
+realizar el ensayo completamente de acuerdo con 
+la norma. Estas fichas de capacitación han aporta-
+do excelentes resultados; es diferente brindar una 
+cartilla a colores y con esquemas que una norma 
+de 7 a 10 páginas, la que muchas veces el labora-
+torista no dispondrá y resulta demasiado extensa 
+para leerla o quitarse alguna duda en el momen-
+to del ensayo.
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA38
+Hormigonar 29    abril 2013
+>
+Comparando el valor del asentamiento medido con 
+el especificado al proveedor de hormigón elaborado 
+que figura en el remito, se tienen tres posibilidades:
+ t Obtener asentamientos superiores al 
+especificado (incluidas tolerancias): deberá 
+rechazarse el hormigón debido a la presunción 
+de un exceso de agua en la mezcla.
+ t Obtener asentamientos similares al 
+especificado: se aceptará el hormigón, ya que 
+cumple con los requisitos del cliente, que es lo 
+que debe figurar en el remito de entrega. 
+ t Obtener asentamientos menores al 
+especificado (incluidas tolerancias): en 
+este caso, y de ser posible, se aumentará el 
+asentamiento mediante el empleo de un 
+aditivo superfluidificante en obra.
+Sin embargo, en ciertos casos especiales, el asen-
+tamiento no es representativo de la medida de la 
+consistencia del hormigón, por lo que se recurre a 
+otros tipos de ensayo para valorar la consistencia:
+ t Hormigones muy secos, con asentamientos 
+inferiores a 2 cm. Se emplea el dispositivo 
+V eBe y se mide la consistencia como el 
+tiempo de remoldeo en segundos (IRAM 
+1767), siendo principalmente aplicable 
+a hormigones compactados a rodillo u 
+hormigones muy secos para premoldeados.
+ t Hormigones muy fluidos no 
+autocompactantes, con asentamientos 
+superiores a 18-20 cm. Se emplea la mesa de 
+Graf (IRAM 1690) y se mide la consistencia 
+como el extendido en centímetros.
+ t Hormigones autocompactantes: existe 
+una gran diversidad de ensayos para la 
+cuantificación y calificación de la consistencia, 
+cohesividad, capacidad de pasaje y otras 
+propiedades de la mezcla fresca (Caja en L, 
+Anillo J, Caja en U, Extendido y T50, etc.).
+Aceptación o rechazo en función de la 
+consistencia
+Si bien se brindarán ejemplos para asentamien-
+to, que es el método más ampliamente utilizado, 
+la forma de tratar los resultados es extrapolable 
+a los otros métodos de consistencia descriptos. 
+La tolerancia del ensayo de asentamiento es de 
++2 cm para la generalidad de los casos, salvo para 
+hormigones secos (asentamiento de 2 a 5 cm), en 
+los cuales la tolerancia es de +1 cm, como hormi-
+gones para extrusoras de premoldeados o pavi-
+mentadoras donde la colocación y la calidad de 
+los hormigones son influenciadas fuertemen-
+te por pequeñas variaciones de consistencia. El 
+diagrama de flujo se presenta en la Figura 3. 
+ t Ejemplo 1: Hormigonado de un piso industrial. 
+El hormigón elaborado se solicita con un 
+asentamiento de 6 cm. Se realiza el ensayo de 
+asentamiento apenas comienza a descargar 
+el camión hormigonero y arroja un valor de 
+10 cm. Se realiza otro ensayo con la misma 
+muestra y da 11,5 cm. Se rechaza el camión. 
+¿Es correcto el proceder? No, para la toma 
+de la muestra debe descargarse al menos 1/4 
+m³ y los dos ensayos de asentamiento deben 
+realizarse sobre muestras diferentes.
+Figura 3
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA40
+Hormigonar 29    abril 2013
+ t Ejemplo 2: Hormigonado de pilas de un puente. El 
+hormigón elaborado se solicita con un asentamiento de 
+8 cm. Se descarga un 1/4 m³ aproximadamente del camión, 
+se toma una muestra, se realiza el ensayo y da 6,5 cm. Se 
+acepta el camión, incorpora aditivo superfluidificante y 
+se continúa con la descarga. ¿Es correcto el proceder? 
+Sí, ya que tanto la toma de muestra como el ensayo de 
+asentamiento se realizan adecuadamente, y su valor está 
+dentro de tolerancias admisibles.
+ t Ejemplo 3: Hormigonado por bombeo de una losa en un 
+local comercial. El hormigón elaborado se solicita con un 
+asentamiento de 12 cm. Se toma una muestra, se realiza 
+el ensayo de asentamiento y da 4,5 cm. El director acepta 
+el camión e incorpora aditivo superfluidificante para 
+llevar el asentamiento a 12 cm. ¿Es correcto el proceder? 
+Sí, ya que la consistencia (asentamiento) puede ser 
+incrementada mediante el empleo de superfluidificantes. 
+Los problemas aparecen con asentamientos superiores a 
+los especificados, ya que puede inferirse que existe algún 
+exceso de agua en el hormigón.
+ t Ejemplo 4: Hormigonado de vigas de un edificio. El 
+hormigón elaborado se solicita con 7 cm de asentamiento. 
+El camión llega a la obra y no se tienen los encofrados 
+listos, por lo que debe esperar 2 horas. Se descarga el 
+primer metro cúbico y se toma una muestra para el 
+ensayo de asentamiento. Se mide 11,5 cm. Se toma otra 
+muestra, se realiza el ensayo y da un resultado de 13 cm. 
+Se rechaza el camión. ¿Es correcto el proceder? No, ya 
+que las muestras para aceptación o rechazo deben ser 
+tomadas apenas llega el camión a obra. De todas maneras, 
+tiene que ser rechazado; es presumible que el camión 
+hubiese llegado a obra con un asentamiento excesivo o se 
+incorporó agua en la espera.
+Contenido de aire
+Es obligatoria su determinación según IRAM 1602 cuando 
+para la elaboración del hormigón se haya utilizado un aditivo 
+incorporador de aire con la finalidad de proveer durabilidad al 
+hormigón; por ejemplo, para ciclos de congelación y deshielo. 
+Los porcentajes de aire están determinados por el reglamento 
+y varían según el ambiente futuro de exposición (Ambiente C1 
+sin sales descongelantes y C2 si se emplearán sales desconge-
+lantes). En el caso de hormigones bombeados, es recomenda-
+ble determinar el aire a la salida de la bomba. Los valores de di-
+seño o a especificar para ambiente C1 varían entre 5% y 4,5% 
+para TMN de 3/4” a 1” respectivamente, aumentando una 
+unidad porcentual para el Ambiente C2. El contenido de aire 
+es un ensayo de aceptación corriente en nuestro país en climas 
+fríos o zonas de alta montaña.
+Los valores de aire incorporado presentan una tolerancia de 
++1,5% debido a la variabilidad propia del ensayo y a la dificul-
+tad de incorporar una cantidad exacta de aire, ya que influ-
+yen mucho el mezclado del hormigón y las características del 
+equipo. El hormigón será rechazado cuando dos ensayos so-
+bre muestras diferentes del mismo camión hormigonero den 
+resultados fuera de las tolerancias. Como ejemplo, si para un 
+TMN de 1” el requisito es de 4,5%, un resultado aceptable se 
+encuentra entre 3 y 6%, y los inferiores a 3% o superiores a 6% 
+son no conformes, no pudiéndose componer este hormigón 
+en obra en ninguno de los dos casos y ocasionando el rechazo.
+T emperatura 
+Es indispensable su determinación cuando se hormigone en 
+condiciones de tiempo frío, tiempo caluroso o cuando exis-
+tan requisitos de proyecto, siendo el ejemplo más frecuente 
+de este caso las estructuras masivas (ver artículo en Hormigonar 
+Nº 13). La determinación es muy sencilla y consiste en introdu-
+cir un termómetro tipo pinche (digital o analógico) al menos 
+7,5 cm en el hormigón fresco, esperando 2 minutos o hasta 
+que se estabilice la temperatura, registrando así la temperatura 
+al 0,5 °C más próximo (Figura 4). Debido a la facilidad y rapidez 
+del ensayo, es recomendable realizarlo al menos una vez al día 
+en cualquier condición climática y tipo de obra, ya que podría 
+detectarse algún problema con estas mediciones. Asimismo, 
+es útil registrar en la planilla de trazabilidad la temperatura am-
+biente en el momento de la toma de muestras, empleando el 
+mismo termómetro, sólo que en el aire y a la sombra.
+Para tiempo frío, como criterios de aceptación, el reglamen-
+to brinda una tabla que indica valores mínimos de tempera-
+tura inicial del hormigón en función de la temperatura del aire 
+y de la menor dimensión del elemento estructural. Para ele-
+mentos masivos, permite temperaturas menores debido a 
+Figura 4
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA 41
+Hormigonar 29    abril 2013
+la contribución del calor de hidratación y para temperaturas 
+muy bajas (-10  °C) exige temperaturas mayores por la pérdi-
+da de temperatura en contacto con el ambiente. Las tempe-
+raturas mínimas más corrientes de aceptación oscilan entre 13 
+y 16 °C para temperaturas ambiente de hasta -1 °C en el mo-
+mento del hormigonado. De no obtener estas temperaturas y 
+no proteger las estructuras durante las primeras 48 a 72 horas, 
+existirá un daño permanente en el hormigón y pérdida de su 
+seguridad, aptitud, durabilidad y/o funcionalidad.
+Para tiempo caluroso, la temática es mucho más discutida. Si 
+bien el CIRSOC 201/05 establece una temperatura máxima 
+de 30 °C, todas las demás recomendaciones a nivel mundial 
+especifican 32 °C (90 °F). Parece sutil la diferencia, pero estos 
+2 °C de diferencia significan muchos recursos a invertir en la 
+mayor cantidad de ciudades de nuestro país por sus condicio-
+nes climáticas. Cumplimentar estas temperaturas en muchas 
+obras trae aparejados gastos muy considerables que el cliente 
+no puede afrontar . La realidad es que el tiempo caluroso no le 
+trae problema alguno al hormigón como material, si se lo pro-
+tege y cura bien durante sus primeras horas. El inconveniente 
+en tiempo caluroso es que hay que controlar todas las tareas 
+de forma más directa, debido a que existe un mayor riesgo de 
+fragüe más rápido, pérdida de asentamiento, incorporación 
+de agua en obra, fisuración por contracción plástica y contrac-
+ción térmica, con lo cual pueden mitigarse estos grados centí-
+grados de más con medidas de puesta en obra adecuadas en 
+tiempo caluroso.  
+Otros ensayos para hormigón fresco
+A continuación se describen los otros parámetros de acep-
+tación del hormigón fresco que indica el reglamento 
+CIRSOC 201/05, definiendo sus aplicaciones y criterios de 
+conformidad.
+ t Masa por unidad de volumen: el ensayo de peso unitario 
+según IRAM 1562 (Figura 5) no es tan corriente en obra 
+y suele especificarse en alguno de los siguientes casos: 
+características particulares de la estructura, hormigones 
+especiales como RDC, hormigones livianos o pesados, 
+como medio de control para apreciar variaciones en 
+contenido de agua, aire y/o cemento, cuando se desea 
+controlar la uniformidad de mezclado de equipos o 
+cuando se requiere conocer el volumen real de hormigón 
+transportado por el camión. En este último caso, de 
+disponer una báscula puede pesarse el camión al ingresar 
+a la obra (con hormigón) y al salir (vacío, sin hormigón), 
+determinando el peso total del hormigón; con la ayuda del 
+ensayo del peso unitario, se puede determinar el volumen 
+transportado, siendo éste el único control admitido por 
+norma para las discrepancias por volumen despachado. La 
+tolerancia de los resultados más empleada es de +2% para 
+hormigones convencionales.
+ t Material pasante tamiz 300 m: propiamente no es un 
+ensayo, sino la determinación a modo de verificar la 
+dosificación de hormigones por criterios de cohesividad, 
+como la suma en peso del total del cemento y adiciones 
+más los finos de los agregados que pasan el tamiz # 50. 
+Esta verificación es más relevante cuando se detecta 
+segregación o variaciones importantes en los contenidos 
+de finos. El CIRSOC 201/05 brinda una tabla que 
+especifica un límite inferior para el contenido de finos que 
+pasan el tamiz # 50, que oscila entre 450 y 380 kg/m³ para 
+tamaños máximos de 3/4” y 1” respectivamente.
+ t Exudación: es un ensayo de diseño de mezcla y no de 
+aceptación en obra, salvo casos particulares. Este ensayo 
+es aconsejable en todos los hormigones, pero obligatorio 
+para los elementos que superen los 2 m de altura en el 
+mismo colado y para elementos sometidos a erosión, 
+abrasión o cavitación. El ensayo se realiza según IRAM 
+1604, determinando valores de capacidad de exudación 
+y velocidad de exudación, los cuales deben ser iguales o 
+menores al 5% y a 100 x 10-6 cm/s respectivamente. Estos 
+ensayos hay que realizarlos cuando se utilice por primera 
+vez la mezcla en obra, cuando se detecte una exudación 
+excesiva o cuando se cambie alguno de los componentes 
+o sus proporciones.
+ t Otros: en función de especificaciones particulares del 
+proyecto y sus condicionantes, pueden realizarse otros 
+ensayos de aceptación del hormigón fresco, como para 
+el caso de hormigones autocompactantes (estudiados en 
+detalle en otros artículos). Puede especificarse el ensayo 
+de tiempo inicial de fragüe según IRAM 1662, el cual es 
+de suma utilidad y se estudiará en el próximo número de 
+Hormigonar. 
+«
+Figura 3
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA28
+Hormigonar 30    agosto 2013
+El planeamiento de los medios de transporte y 
+colocación adecuados a cada obra es una de las 
+claves para su éxito. La mayor productividad será 
+lograda si se planea el trabajo para que se apro-
+vechen, al máximo, el personal y los equipos, y si 
+éstos se seleccionan para que se reduzcan los re-
+trasos. Además, en este planeamiento se deben 
+evitar todos los factores que puedan iniciar el 
+fragüe del hormigón antes de su compactación. 
+Como referencia y comenzando como “tiempo 
+cero” cuando el agua toma contacto con el ce-
+mento (en la práctica, materializado como el ho-
+rario de carga de camiones), todas las siguientes 
+tareas deben realizarse antes de que inicie el fra-
+güe del hormigón:
+ t Dosificación, carga completa y mezclado en 
+el camión hormigonero en planta.
+ t T ransporte del hormigón a la obra, llegada y 
+entrada del camión a la obra.
+ t Ensayos de aceptación del hormigón fresco 
+e incorporación eventual de aditivos en 
+obra. Manipuleo del hormigón a su posición 
+definitiva.
+CONTROL DE 
+CALIDAD EN OBRA: 
+TIEMPO INICIAL 
+DE FRAGÜE Y SU 
+APLICACIÓN EN OBRA
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+ t Superación de posibles imprevistos o retrasos 
+en la colocación del hormigón.
+ t Compactación del hormigón de cada 
+capa y compactación con otras capas de 
+hormigón (inferiores o laterales), provenientes 
+posiblemente de pastones (camiones) 
+diferentes.
+Para brindar una definición sencilla de fragüe, lo 
+podemos considerar el “período de transición 
+entre el estado fresco y el estado endurecido”, y 
+éste dura algunas horas. El inicio de fragüe corres-
+ponde al fin del estado fresco, y el fin de fragüe al 
+comienzo del período de estado endurecido (ver 
+Figura 1).
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA 29
+Hormigonar 30    agosto 2013
+>
+Ensayo para determinación de tiempos de fragüe en 
+el hormigón
+Muchas veces se confunde inicio de fragüe con pérdi-
+da de asentamiento o con el incremento de la temperatu-
+ra del hormigón fresco, aspectos independientes del fragüe. 
+Hormigones en tiempo caluroso que desprendan mucho ca-
+lor en fresco o que tengan asentamientos bajos no implican en 
+absoluto un inminente inicio de fragüe de éste, con lo cual no 
+pueden rechazarse camiones en estas circunstancias. El ensayo 
+para determinar el tiempo de fragüe del hormigón no impli-
+ca medición de variaciones de temperatura o de trabajabilidad 
+de la mezcla, debiendo realizarlo siguiendo los pasos indicados 
+en la Norma IRAM 1662, los cuales se resumen conceptual-
+mente a continuación:
+ t Se tamiza el hormigón fresco por el tamiz # 4, 
+desechando el agregado grueso retenido en el tamiz.
+ t Se acondiciona el mortero fresco en un recipiente y se 
+tapa para evitar la evaporación del agua.
+ t A partir de 2 horas, y cada 30 minutos, se van realizando 
+determinaciones para medir la resistencia a la penetración 
+en el mortero, retirando siempre el agua de exudación de 
+la superficie.
+Deben realizarse al menos 3 determinaciones por cada dosi-
+ficación y temperatura del hormigón. De esta manera, y con-
+vencionalmente a nivel mundial, se considera que los tiempos 
+de fragüe del hormigón son:
+ t Inicio de fragüe: cuando posee una resistencia a 
+la penetración de 3,5 MPa, que es el que tiene real 
+importancia práctica; se lo llama también “tiempo de 
+máximo vibrado”.
+ t Fin de fragüe: resistencia a la penetración de 28,0 MPa, 
+que no suele ser un parámetro tan importante.
+Factores que influyen en los tiempos de fragüe
+ t T emperatura del hormigón fresco (influenciada 
+directamente por la temperatura ambiente).
+ t Categoría resistente del hormigón (relación a/c), iniciando 
+el fragüe antes un H-30 que un H-20, a igualdad de 
+temperatura, ya que las partículas de cemento están más 
+próximas en el primer caso.
+ t Tipo de cemento (contenido y tipo de adiciones, finura).
+ t Empleo de aditivos retardadores de fragüe. 
+ t Empleo de otros aditivos; en general los 
+superfluidificantes, acelerantes de endurecimiento, 
+retrasan levemente el inicio del fragüe entre 15 y 60 
+minutos, para las demás condiciones constantes.
+ t Impurezas contenidas en el agua o agregados.
+ t Condiciones de mezclado, agitación y transporte en los 
+camiones hormigoneros.
+Tiempos en la industria del hormigón elaborado
+Según los remitos de hormigón elaborado, los proveedores 
+brindan un tiempo máximo de estadía en obra de los camio-
+nes de entre 45 y 60 minutos, desde su llegada a obra hasta la 
+finalización de su descarga. En este tiempo, deben realizarse 
+todos los ensayos, ya que el proveedor garantiza la calidad del 
+hormigón sólo en este período. Algunos datos informativos 
+respecto del giro de los dispositivos mezcladores:
+ t Durante el transporte y la estadía en obra, el camión 
+hormigonero siempre debe estar en velocidad de 
+agitación (2 a 6 revoluciones/minuto) para evitar 
+repentinas pérdidas de asentamiento.
+ t Antes de la descarga, si no se incorporan aditivos, debe 
+remezclarse el hormigón a velocidad de mezclado (12 a 16 
+revoluciones/minuto) durante al menos 25 revoluciones 
+(cerca de 2 minutos).
+ t Antes de la descarga, si se emplean aditivos o fibras en 
+obra, luego de su incorporación debe colocarse el trompo 
+a velocidad de mezclado, en un tiempo de 1 minuto por 
+m³ y no menos de 5 minutos.
+ t Cabe destacar que tanto el CIRSOC como la Norma IRAM 
+1666, y la mayor parte de las disposiciones en el mundo, 
+establecen que la descarga total del hormigón del camión 
+debe realizarse:
+ t Antes de que transcurran 90 minutos desde la carga en 
+planta, en condiciones normales o de tiempo frío, o de 
+que transcurran 60 minutos desde la carga del camión en 
+planta, en condiciones de tiempo caluroso.
+ t Antes de alcanzar los 300 giros del tambor mezclador 
+(difícilmente controlable en la práctica).
+ t Cuando se determine el tiempo inicial de fragüe, antes de 
+éste; contabilizando además el tiempo para la colocación y 
+compactación del hormigón en obra.
+El tiempo de 90 minutos, que es el que muchas veces en obras de 
+toda magnitud se confunde con el tiempo inicial de fragüe, no 
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA30
+Hormigonar 30    agosto 2013
+es tal: los hormigones no tienen un cronómetro in-
+corporado para que comience su fragüe justo a los 
+90 minutos. Es entendible el espíritu conservador 
+que nos expresa “descargue el hormigón en 1 hora 
+y media salvo que me demuestre que el hormigón 
+inicia su fragüe más tarde”. El Reglamento reconoce 
+con esta disposición que no es probable que el hor-
+migón comience su fragüe antes de este lapso, pero 
+brinda la libertad para demostrar mediante ensa-
+yos y poder transportar el hormigón más tiempo.
+Sin embargo, estos tiempos recomendados de 90 
+ó 60 minutos desde la carga del camión en planta 
+muchas veces no se cumplen en la obra, por dife-
+rentes causas: 
+ t Lentitud en la descarga del hormigón (Figura 
+2) y/o falta de planificación en obra.
+ t No poseer los elementos listos para 
+hormigonar , como por ejemplo los 
+encofrados.
+ t No haber previsto la adecuada accesibilidad 
+de los camiones y bombas a la obra.
+ t Medios de manipuleo incompatibles con el 
+hormigón elaborado (carretillas, por ejemplo).
+ t Inconvenientes en los equipos de manipuleo, 
+como las bombas o grúas.
+ t Paralización de la obra durante recesos, como 
+almuerzos o descansos.
+ t Imprevistos, como accidentes laborales u otros.
+En estos casos, lamentablemente muy corrientes en 
+obras en nuestro país, deben conocerse para hor-
+migones y condiciones climáticas similares valores 
+orientativos sobre el tiempo inicial de fragüe. Puede 
+asumirse, si no se cuenta con los elementos para el 
+ensayo del tiempo inicial de fragüe en obra (quizás 
+todos los casos en la práctica), extender estos 60 a 90 
+minutos al tiempo inicial de fragüe informado. De to-
+das maneras, estas demoras no deben ser frecuen-
+tes en la obra, ya que el hormigón elaborado “pierde 
+su garantía” y, en ciertos casos, debería solicitarse la 
+incorporación de retardadores de fragüe en planta.
+Es comprensible que los reglamentos sean conser-
+vadores con los tiempos de descarga si no se de-
+termina el tiempo inicial de fragüe; pero sólo como 
+guía y referencia, y basados en diferentes experien-
+cias con cementos y materiales de nuestro país, los 
+tiempos iniciales de fragüe varían según:
+ t Tiempo muy caluroso: entre 2 y 4 horas.
+ t Tiempo caluroso: entre 3  y 5  horas.
+ t Tiempo normal: entre 4 y 8 horas.
+ t Tiempo frío: entre 6 y 12 horas.
+Sin embargo, y aunque no esté establecido en el 
+Reglamento, nunca es recomendable llegar a es-
+tos tiempos, ya que existe un elevado riesgo de 
+formación de juntas frías. Se recomienda:
+ t Estructuras en general: considerar como 
+mínimo 1 a 2 horas menos del tiempo inicial 
+de fragüe como tiempo de máximo vibrado, 
+según se trate de tiempo caluroso y tiempo 
+frío, respectivamente.
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA 31
+Hormigonar 30    agosto 2013
+>
+ t Hormigón visto arquitectónico, pisos, pavimentos y 
+estructuras de contención: minimizar los tiempos lo 
+máximo posible, ya que pueden aparecer fisuras que 
+afecten la estructura o su aspecto estético.
+Previsión ante tiempos de transporte considerables
+En muchos casos, inspectores de obra o clientes solicitan que 
+el hormigón viaje “seco”, es decir , sin adición de agua en plan-
+ta, para que pueda realizarse el mezclado en obra después de 
+la incorporación de agua. Según relevamientos en varias pro-
+vincias, es una técnica que no trae aparejados buenos resulta-
+dos, debido principalmente a dos causas. En primer lugar , no se 
+puede medir de forma precisa como en planta la cantidad de 
+agua, y en segundo lugar , el mezclado se dificulta en demasía 
+debido a que por la humedad propia de los agregados, princi-
+palmente de la arena, se forman “pelotones” o “bolas” de are-
+na húmeda y cemento que ni un remezclado enérgico puede 
+romper , obteniendo un hormigón segregado y no uniforme. 
+Para solucionar esta situación, es altamente recomendable 
+cargar todas las cantidades en planta y estudiar el tiempo ini-
+cial de fragüe del hormigón en función del tipo de hormigón 
+y condiciones ambientales. Para viajes prolongados mayores 
+a 1 hora y media, puede ocurrir una pérdida de trabajabilidad 
+considerable en el tiempo, aspecto que se acentúa con ciertos 
+aditivos incorporados en planta. En estos casos es recomenda-
+ble que el conductor del mixer esté capacitado para detener el 
+camión y apreciar la trabajabilidad de éste a intervalos no ma-
+yores a 45 minutos. En caso de que esté cayendo la consisten-
+cia, ajustar de forma adecuada con aditivos superfluidificantes 
+para evitar que el hormigón baje de 2 a 3 cm de asentamiento 
+y después no sea posible hacerlo más fluido, aun con aditivos. 
+Además, salvo en condiciones de tiempo muy frío, para estos 
+casos siempre es recomendable el empleo de aditivos retarda-
+dores de fragüe en planta.
+T ratamiento de juntas no previstas
+Los hormigones de diferentes viajes de una jornada que con-
+formen el mismo elemento deben ser colados y compactados 
+solidariamente antes del inicio de fragüe de ambos. Es reco-
+mendable que entre la salida de obra de un camión y descarga 
+del próximo no transcurran períodos de más de 30 minutos. 
+Sin embargo, muchas veces no se cumplen en la obra por las 
+causas enunciadas anteriormente, a las que se le suman poten-
+ciales inconvenientes en la logística de la planta de hormigón 
+elaborado, rotura de sus equipos o demoras excesivas e inne-
+cesarias para el pedido del “corte”.
+El problema se presenta cuando en el mismo elemento estruc-
+tural debe colarse y consolidarse un nuevo hormigón solida-
+rio y que trabaje en conjunto con un hormigón colado previa-
+mente que ya ha iniciado su fragüe o está próximo a este inicio; 
+si esto ocurre, se forman en el elemento juntas frías no previs-
+tas, las cuales traen los siguientes inconvenientes:
+ t Si no son tratadas adecuadamente, pueden no transferir 
+esfuerzos, alterando la capacidad de transmitirlos 
+eficientemente en las zonas de juntas; sin embargo, 
+cuando existe continuidad de armaduras en los 
+elementos, éstas serán quienes transfieran los esfuerzos 
+(Figura 4 izquierda).
+ t Al desencofrar , sean bien tratadas o no, las juntas quedan 
+marcadas en los diferentes elementos, afectando 
+seriamente la estética, lo cual es crítico para elementos de 
+hormigón visto (Figura 4 derecha).
+ t Si las juntas no son tratadas, muchas veces se forman 
+fisuras que pueden alterar la durabilidad o funcionalidad 
+(por ejemplo, filtraciones de agua).
+Es recomendable contar en obra con los medios para tratar es-
+tas juntas imprevistas, que nunca son deseables, pero si éstas 
+ocurren, que al menos se garantice una adecuada transferen-
+cia de esfuerzos para no poner en juicio la capacidad resisten-
+te de la estructura. En todos los casos, cuando se esté próxi-
+mo al fragüe o transcurran más de 30 minutos entre diferentes 
+“El tiempo de 90 minutos, que es 
+el que muchas veces en obras de 
+toda magnitud se confunde con el 
+tiempo inicial de fragüe, no es tal: los 
+hormigones no tienen un cronómetro 
+incorporado para que comience su 
+fragüe justo a los 90 minutos”
+
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA32
+Hormigonar 30    agosto 2013
+camiones, debe vibrarse superficialmente el hormigón de la 
+capa anterior , para apreciar visualmente si éste se fluidifica mo-
+mentáneamente o directamente “no se mueve”. Si esto ocu-
+rre, es decir que, presionando con fuerza el vibrador para que 
+penetre en la superficie de forma perpendicular a la superfi-
+cie en algunos segundos, éste fluidifica aun el hormigón, no es 
+necesario ningún otro tratamiento más que consolidarlos en 
+conjunto. El caso anterior , que es el más frecuente, debe reali-
+zarse inmediatamente antes de recibir el viaje “retrasado” de 
+hormigón.
+En el caso de que con el vibrador de inmersión no se “mueva” 
+el hormigón, se está en presencia de una potencial junta fría. 
+Es conveniente preparar lechadas u otros productos que for-
+men “puentes de adherencia” (Figura 5) y que puedan ser apli-
+cados fácilmente. Una recomendación es preparar en un bal-
+de una lechada modificada con látex con una parte de agua, y 
+dos partes de látex para hormigones y cemento incorporados 
+con cuchara hasta lograr la fluidez requerida. Se mezcla ma-
+nual o mecánicamente y se vierte sobre el hormigón que inició 
+su fragüe, inmediatamente antes de colar el nuevo hormigón; 
+es decir , se realiza el tratamiento cuando el nuevo camión hor-
+migonero ya está en la obra. 
+«
+“Para viajes prolongados mayores 
+a 1 hora y media, puede ocurrir 
+una pérdida de trabajabilidad 
+considerable en el tiempo, aspecto 
+que se acentúa con ciertos aditivos 
+incorporados en planta. En estos 
+casos, es recomendable que el 
+conductor del mixer esté capacitado 
+para detener el camión y apreciar la 
+trabajabilidad de éste a intervalos no 
+mayores a 45 minutos”.
+
+--- FIN DE PÁGINA ---
+
+INFORME ESPECIAL44
+Hormigonar 31    diciembre 2013
+Podría parecer que una probeta de hormigón no tiene impor-
+tancia cuando está confeccionándose, pero si más tarde apa-
+recen dificultades con la resistencia o problemas en la obra, lle-
+ga a ser un factor crítico tanto para una obra pequeña como 
+para aquellas de elevadísimo costo. A todas las partes invo-
+lucradas en una obra siempre les conviene que las probetas 
+arrojen resultados favorables. En algunos casos, se ocasionan 
+serios conflictos entre proveedor de hormigón elaborado y 
+cliente, y de no realizar adecuadamente los ensayos, aparece 
+la imposibilidad de atribuir responsabilidades. Actualmente, 
+puede considerarse que el ensayo de probetas a compresión 
+es el único medio práctico en obra para controlar la calidad del 
+hormigón elaborado. Como se mencionó, si existe un aparta-
+miento en lo que respecta al muestreo, moldeo, protección, 
+curado, encabezado y/o rotura de las probetas, los ensayos no 
+son válidos y no servirán para aceptar o rechazar el hormigón. 
+De allí la importancia de respetar las normas, teniendo el do-
+ble objetivo de conocer la resistencia del hormigón y la posibi-
+lidad de establecer responsabilidades en caso de resultados no 
+satisfactorios. 
+Si se concurre a cualquier obra corriente y se consulta cómo se 
+hacen las probetas, probablemente la respuesta será: “Es muy 
+fácil, en 3 capas de 25 golpes cada una”. Se coincide en la pri-
+mera afirmación, es decir que moldear probetas en obra es 
+sencillo; pero no sólo consta de conocer cuántas varilladas de-
+ben darse por capas. Hay una gran cantidad de aspectos que 
+deben cuidarse en obra y que están implícitos e indicados en 
+la Norma IRAM 1524. Se muestra en la Figura 1 una ficha tipo 
+para el correcto moldeo de probetas, muy útil para la capaci-
+tación de todo el personal involucrado en la industria del hor-
+migón elaborado. En la mayor parte de las obras no se conoce 
+la influencia negativa en los resultados de ensayos de “peque-
+ños descuidos”, con los cuales las resistencias pueden caer no-
+tablemente y, como se mencionó al inicio, a nadie le conviene 
+que las probetas arrojen resultados negativos. 
+Errores frecuentes en el moldeo, protección y curado 
+de probetas
+A partir del relevamiento de una gran cantidad de obras, se 
+enuncian los 20 factores que más influyen negativamente en 
+la resistencia potencial de las probetas:
+ • Muestreo inadecuado del hormigón: en muchas obras se 
+procede de forma incorrecta al tomar la muestra al inicio 
+de la descarga; no homogenizar la muestra remezclándola 
+Control de calidad en 
+obra: errores frecuentes 
+relacionados con 
+probetas de hormigón 
+y su influencia en los 
+resultados de ensayos
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+
+--- FIN DE PÁGINA ---
+
+INFORME ESPECIAL 45
+Hormigonar 31    diciembre 2013
+>
+o esperando un tiempo prolongado para 
+moldear las probetas (mayor a 15 minutos). 
+Si se parte de una muestra que no es 
+representativa, el ensayo no es válido.
+ • Moldeo de probetas sin aditivos: es necesario 
+que las probetas sean lo más representativas 
+del hormigón de las estructuras, con lo 
+cual deben moldearse con los aditivos que 
+puedan haber sido incorporados en obra. En 
+caso de no realizarlo, no se conocerá el efecto 
+de los aditivos sobre las estructuras.
+ • Cantidad de probetas insuficiente: en varias 
+obras se continúa moldeando una sola 
+probeta por camión, o dos probetas: una se 
+ensaya a 7 días y la otra a 28. Por reglamento, 
+es obligatorio al menos moldear dos probetas 
+a la edad de diseño (generalmente 28 días), 
+y si son necesarias probetas a otras edades, 
+serán adicionales a estas dos. Es indispensable 
+para comparar la variabilidad intraensayo.
+ • Limpieza de moldes: es un factor crítico, 
+muchas veces descuidado. Los restos de 
+hormigón tienden a adherirse principalmente 
+en la parte superior de los moldes si no se 
+limpian de manera correcta. Para hormigones 
+con asentamientos mayores a 8 cm, puede 
+“quedar colgado” de la parte superior 
+sucia del molde y la porción inferior tiende 
+a asentarse plásticamente, con lo cual se 
+producen fisuras paralelas a la cara superior 
+que reducen de manera considerable las 
+resistencias (Figura 2). La limpieza de moldes 
+debe ser realizada siempre después del 
+desmolde y ser verificada periódicamente 
+deslizando el dedo en el interior del molde, 
+comprobando su lisura y que carezca de 
+irregularidades.
+ • Aplicación de aceites: es fundamental aplicar 
+una cantidad adecuada de aceite al molde, sin 
+que abunde. Los aceites no deben ser solubles 
+al agua y no es recomendable emplear 
+desmoldantes de encofrados. En caso de 
+exceso de estos últimos, pueden exponer el 
+agregado grueso en la probeta.
+ • Golpes con martillo de goma en cada capa: 
+muchas veces no se tiene en cuenta en obra 
+que deben realizarse por norma entre 10 y 
+15 golpes de martillo de goma luego de las 
+varilladas en cada capa y a la altura de la capa. 
+
+
+--- FIN DE PÁGINA ---
+
+INFORME ESPECIAL46
+Hormigonar 31    diciembre 2013
+Estos golpes cobran mayor importancia en 
+hormigones con asentamientos bajos, para 
+“borrar” la impronta de la barra en el varillado. 
+De no realizarlo, pueden quedar oquedades 
+del diámetro de la barra, ocasionando la 
+rotura prematura de la probeta en esa zona.
+ • Consolidación inadecuada: las probetas 
+pueden consolidarse en dos capas con 
+vibradores de inmersión, pero es aplicable 
+sólo a hormigones con asentamientos 
+inferiores a 7 cm, a probetas de 15 x 30 cm 
+y probetas para flexión; mientras que las 
+probetas de 10 x 20 cm se consolidan en dos 
+capas con 25 golpes. Respecto al varillado de 
+cada capa, hay que tener en cuenta que la 
+compactación es “por capa” y que la varilla no 
+debe penetrar las capas anteriores en más de 
+un par de centímetros, ya que desacomoda el 
+hormigón ya consolidado anteriormente.
+ • Varilla de compactación no adecuada: para 
+las probetas de 15 x 30 cm, las de flexión y la 
+mayor parte de los ensayos, se debe emplear 
+para la consolidación una varilla 16 lisa con 
+punta redondeada. Para las probetas de 10 
+x 20 cm se emplea una más pequeña de  
+10, también lisa y punta semiesférica. Este 
+tipo de varilla es indispensable respetarlo, 
+ya que se desliza entre los agregados, en vez 
+de empujarlos como lo hace una varilla de 
+corte recto en la punta, con la cual quedan 
+huecos al ser retiradas; ello no ocurre ya que 
+el hormigón se va cerrando tras la barra lisa y 
+con punta redondeada.
+ • Compactación deficiente de la última capa: 
+en la última capa del moldeo, siempre debe 
+“sobrar” hormigón cuando se está varillando. 
+En caso de que el laboratorista presuma que 
+faltará hormigón, deberá agregar más en la 
+superficie y seguir contando los golpes hasta 
+lograr los 25 de la última capa. En obra a veces 
+falta material y luego con una cuchara se 
+agrega a presión después de la consolidación, 
+lo cual genera marcadas fisuras paralelas a la 
+superficie, reduciendo la resistencia potencial 
+del hormigón.
+ • Excesiva falta de paralelismo entre las caras: 
+un grave inconveniente a la hora de ensayar 
+las probetas es cuando existe una marcada 
+falta de paralelismo entre ambas caras. Esto 
+suele ocurrir cuando se moldean probetas 
+con asentamientos superiores a 10 cm en 
+zonas con pendiente, siendo indispensable 
+por norma de ensayo realizarlo en un lugar 
+plano, horizontal y libre de vibraciones. Si al 
+ensayar las probetas no advertimos esta falta 
+de paralelismo –que no puede corregirse–, 
+podrán ocasionarse concentraciones de 
+tensiones en una zona puntual y roturas 
+de esquina de las probetas, ya que la rótula 
+esférica de toda prensa tiene un ángulo de 
+giro limitado.
+ • T erminación irregular en la superficie: es 
+quizás el error de confección más frecuente 
+y desconocido: las probetas no pueden 
+marcarse en relieve en la superficie de las 
+probetas y menos con otros métodos, 
+como introducir el precinto. Las normas de 
+ensayo indican claramente que deben ser 
+identificadas con algún marcador indeleble 
+al día siguiente, tanto en una de sus caras 
+planas como en la parte curva de la probeta. 
+Al finalizar el moldeo de la tercera capa, 
+la superficie debe ser enrasada con llana. 
+Para que no se “mezclen” o confundan las 
+probetas, pueden dejarse en el mismo orden 
+del muestreo o adherir con agua un papel 
+con la identificación en la superficie, hasta 
+marcarlas al día siguiente. Una terminación 
+irregular puede reducir en más de un 50% la 
+resistencia potencial de las probetas, aspecto 
+que se hace más notorio al trabajar con 
+encabezado de neopreno (Figura 3).
+
+
+--- FIN DE PÁGINA ---
+
+INFORME ESPECIAL 47
+Hormigonar 31    diciembre 2013
+>
+ • Moldes defectuosos: cuando moldes metálicos no 
+ajustan bien en el lateral, se unen mal con la base, están 
+excesivamente “ovalados” o la base está muy deformada y 
+presenta cierta concavidad; en estos casos, las probetas no 
+pueden encabezarse (no entran en los retenes metálicos 
+de los discos de neopreno o en las cavidades para 
+mantener el mortero de azufre fundido).
+ • “Moldes” no normalizados: en algunas obras se ha 
+relevado el moldeo de probetas en caños de PVC, en 
+botellas de gaseosa, en macetas y otros que claramente 
+impiden su encabezado y la determinación de la 
+resistencia, perdiendo la información del ensayo, al 
+igual que en el caso anterior . Asimismo, los moldes muy 
+flexibles impiden una adecuada consolidación externa 
+del hormigón por golpes con el martillo de goma, 
+indispensable según normas de ensayo.
+ • Movilización de probetas en las primeras horas: nunca hay 
+que moverlas en carretillas o medios que puedan vibrar 
+la masa de hormigón ya compactada. En el caso de que 
+no sean moldeadas en el lugar donde permanecerán las 
+primeras 24 horas, deberán ser transportadas a mano, 
+una a una, inmediatamente después del moldeo y no 
+a las horas de la confección. Es por ello que siempre 
+es preferible trasladar la muestra al lugar donde se 
+almacenarán las primeras 24 horas las probetas, debiendo 
+protegerlas con bolsas u otro medio en su parte superior 
+para que no pierdan humedad. 
+ • Falta de protección las primeras 24 horas: es uno de los 
+factores que más afecta la resistencia de las probetas, 
+principalmente si existe congelación de las probetas la 
+primera noche; ello puede reducir la resistencia potencial 
+del hormigón en más de la mitad. Debe contarse en 
+obra con algún lugar acondicionado para mantener las 
+probetas a una temperatura de entre 15 y 27 °C durante 
+este período. En tiempo frío, es recomendable, dentro 
+del obrador , contar con una pequeña estufa eléctrica u 
+otro medio en la sala donde están las probetas. Cuando 
+no se dispone de obrador o se está muy lejos del lugar 
+del hormigonado, puede acondicionarse una caja de 
+poliestireno expandido y/o recubierta con lana de vidrio 
+u otro aislante donde se dejen las probetas las primeras 24 
+horas. En tiempo templado y caluroso, por lo general es 
+suficiente dejarlas bajo techo y protegidas con una bolsa 
+plástica en su parte superior .
+ • Desmolde prematuro de probetas: si bien las normas 
+establecen que las probetas deben desmoldarse al día 
+siguiente (entre las 16 y 32 horas) y marcarse de manera 
+indeleble en esta etapa, en algunos casos las probetas se 
+encuentran “frescas” al día siguiente, siendo ampliamente 
+recomendado extender de 12 a 24 horas su desmolde. 
+Esto puede ocurrir en tiempo frío y/o con exceso de 
+aditivos, y si se retiran las probetas del molde en estas 
+condiciones, se dañarán los bordes y podrán fisurarse, 
+obteniendo resultados de ensayo completamente 
+anómalos.
+ • Instalaciones de capacidad de curado insuficientes: 
+debe contarse en obra con un lugar acondicionado para 
+el curado de las probetas de capacidad suficiente y a 
+temperatura de 23 + 2 °C. Podrán ser piletas, tachos u 
+otros recipientes estancos. El volumen de almacenamiento 
+será función del volumen de hormigón previsto y el 
+número de probetas a extraer por día. Para el caso de 
+insuficiencia de capacidad de piletas de curado, es muy 
+versátil el empleo de moldes de probetas de 10 x 20 cm 
+que ocupan la tercera o cuarta parte del espacio. Son 
+válidas cuando el TMN del agregado es de 1” o menos, 
+lo cual comprende la mayor parte de las aplicaciones del 
+hormigón elaborado.
+ • Período de curado insuficiente: una práctica errónea es 
+curar hasta los 7 días y retirarlas del agua. Las probetas no 
+deben extraerse a los 7 ó 28 días si serán ensayadas con 
+posterioridad, sino permanecer en la pileta de curado 
+hasta la edad de ensayo a compresión. En la Figura 4 se 
+presenta la influencia del curado húmedo normalizado y la 
+reducción de resistencias potenciales al colocar muestras 
+en contacto con un ambiente seco. En casos extremos se 
+deja el único juego de probetas moldeado por camión en 
+los moldes hasta que son ensayadas, lo cual es altamente 
+contraproducente.
+
+--- FIN DE PÁGINA ---
+
+INFORME ESPECIAL48
+Hormigonar 31    diciembre 2013
+ • T emperatura de pileta de curado baja: el curado del 
+hormigón, y de las probetas, es el período en el cual 
+deben brindarse condiciones de humedad y temperatura 
+adecuadas para el desarrollo óptimo de sus propiedades 
+(resistencia y durabilidad). El curado de las probetas 
+en obra debe iniciarse inmediatamente después de 
+desmoldadas y marcadas o rotuladas. Éste consiste en 
+sumergir las probetas en agua a una temperatura de 
+entre 21 y 25 °C hasta el mismo día de ensayarlas a 
+compresión o el día de traslado al laboratorio. Nunca 
+es recomendable que la pileta esté a la intemperie. En 
+caso de tiempo templado y caluroso, por lo general, 
+se deberán tomar pequeñas medidas para lograr la 
+temperatura indicada. En caso de tiempo frío, deberán 
+estar en piletas a temperatura controlada, la cual deberá 
+ser determinada diariamente, mediante dos opciones: la 
+primera es calefaccionar el agua a través de resistencias 
+eléctricas –no siendo muy recomendable por la poca 
+vida útil de éstas y los riesgos de electrocución–, o de 
+sistemas de recirculación de agua conectados a calefones; 
+la segunda es calefaccionar el ambiente, mediante estufas 
+eléctricas basculantes u otros medios que mantengan el 
+local a una temperatura de entre 23 y 26 °C, debiendo 
+estar encendidas toda la noche y regularse durante 
+el día (también pueden emplearse sistemas de aire 
+acondicionado o losas radiantes en la base de la pileta). 
+La notable influencia en la resistencia de diferentes 
+temperaturas se presenta en la Figura 5. Defectos varios en 
+instalaciones de curado se muestran en la Figura 6.
+ • Daños durante el transporte al laboratorio de ensayos: 
+cuando las probetas deban trasladarse antes de los 3 
+días de edad, bien sea para su curado o ensayo, deben 
+extremarse los cuidados. Es recomendable trasladarlas 
+en movilidades o camionetas con adecuada suspensión y 
+en cajas especialmente acondicionadas. Otra alternativa 
+es el transporte enterrándolas en arena húmeda. Si bien 
+puede no tener una influencia decisiva en el ensayo, no es 
+recomendable llevarlas sueltas en la parte trasera de una 
+camioneta, como muchas veces llegan al laboratorio.
+Detección de algunos errores durante el moldeo 
+y ensayo de las probetas
+En primer lugar , antes de ensayar a compresión las probetas és-
+tas deben inspeccionarse visualmente por si presentan algún 
+error de confección evidente. Como segunda instancia, puede 
+señalarse un método sencillo para evaluar si se ha cometido al-
+gún error durante el moldeo, encabezado o ensayo de las pro-
+betas: consiste en comparar los resultados de las dos probetas 
+de la misma muestra y ensayadas a la misma edad, tal cual es-
+tablecen los reglamentos de hormigón, y si se analizan varios 
+ensayos se infiere que:
+ • Si la diferencia entre ambas tensiones de rotura es inferior 
+al 7% de su promedio (resultado de ensayo), se considera 
+aceptable esta variabilidad, aunque lo óptimo sería que 
+estuviese por debajo del 4%.
+ • Si esta diferencia “intraensayo” está entre 7% y 15%, 
+algún inconveniente existe en una o más de las etapas, 
+debiendo revisar todos los procedimientos para reducir 
+esta variabilidad.
+>
+
+--- FIN DE PÁGINA ---
+
+INFORME ESPECIAL50
+Hormigonar 31    diciembre 2013
+ • Si la diferencia es superior a 15%, el ensayo directamente 
+no es válido según Reglamento CIRSOC 201, por lo 
+que existe claramente una falencia en alguna parte del 
+ensayo; esta deficiencia es independiente de la calidad del 
+hormigón elaborado.
+Sin embargo, ciertas falencias en la deficiente toma de mues-
+tras o en los períodos y temperaturas de protección y curado no 
+pueden detectarse mediante esta comparación, ya que si el cu-
+rado es a bajas temperaturas, ambas probetas presentarán una 
+reducción similar de la resistencia potencial a alcanzar . Por ello, 
+que se obtengan diferencias de probetas inferiores al 15% no in-
+dica siempre que todas las tareas del ensayo han sido correcta-
+mente realizadas, por lo cual siempre es útil aunar esfuerzos en-
+tre proveedor y cliente para cumplir las normas de ensayo. Es 
+recomendable que el proveedor visite las obras para constatar 
+que se está controlando el hormigón como se debe y que los 
+choferes de camiones y bombistas estén adecuadamente capa-
+citados para poder identificar en obra estas malas prácticas.
+Probetas moldeadas y curadas en las mismas 
+condiciones de la estructura
+Cuando se moldean probetas se controlan dos parámetros 
+muy relevantes, ya que, tal como especifican los reglamentos, 
+las probetas moldeadas y curadas de manera normalizada se-
+gún IRAM 1524 son las únicas válidas para:
+ • Controlar la resistencia de las estructuras, si se siguen de 
+forma adecuada las tareas de colocación, compactación, 
+protección y curado de los hormigones colados en las 
+estructuras.
+ • Controlar la calidad del hormigón elaborado.
+Sin embargo, sólo para ciertas aplicaciones específicas suele ser 
+útil moldear probetas y curarlas a un costado de una estructura 
+con sus mismos métodos de curado y temperatura, debiendo 
+moldear al menos 4 probetas adicionales por muestra. Pueden 
+servir para apreciar si se alcanza cierta resistencia para:
+ • Disminuir el período de curado mínimo según tablas de 
+reglamentos.
+ • Disminuir los tiempos de desencofrado y/o 
+desapuntalamiento. 
+ • Reducir el período de protección de bajas temperaturas 
+estipulado por Reglamento.
+ • Aplicar cargas o trasladar elementos a cierta edad (según 
+proyecto).
+ • Estructuras sometidas a ciclos de curado acelerado.
+En el caso de las dos primeras aplicaciones (detener el cura-
+do húmedo y poder retirar puntales), es necesario obtener 
+resistencias de al menos el 70% de la resistencia especifica-
+da (categoría de hormigón) en estas probetas curadas igual 
+que la estructura; caso contrario, deben aplicarse los perío-
+dos mínimos indicados en reglamentos. En otras aplicacio-
+nes, la resistencia a adquirir debe figurar en el proyecto, salvo 
+para reducir el tiempo de protección de tiempo frío, que es 
+cuando alcancen resistencias de al menos 7 MPa. Con estas 
+resistencias, el hormigón de las estructuras ya puede ser ex-
+puesto al ambiente y levantarse las medidas de protección 
+sobre aquéllas.
+Responsabilidad del laboratorio de ensayos
+Los laboratorios no deben ensayar probetas con defectos 
+marcados o, al menos, están obligados a remitir las falen-
+cias en sus informes. La combinación de estas deficiencias, 
+incluidos errores en el mismo ensayo a compresión, pueden 
+disminuir considerablemente la resistencia de las probetas. 
+Sin embargo, no todos los defectos son apreciables a “sim-
+ple vista”; por ejemplo, un curado deficiente no es detecta-
+ble. Los laboratorios no sólo deben contar con una prensa 
+calibrada, sino también poseer procedimientos por escrito 
+de inspección, encabezado y ensayo, calificación de siste-
+mas de encabezado según normas y operarios altamente 
+calificados en técnicas de ensayo con una evaluación conti-
+nua de sus capacidades.
+En muchas ocasiones se moldean, protegen y curan las pro-
+betas de manera adecuada (o muy próximo a lo indicado por 
+normas) y con pequeños descuidos en el laboratorio, como 
+descentrado en la prensa, empleo inadecuado del encabe-
+zado, velocidad no apropiada de la carga, falta de medición 
+precisa de las probetas antes del ensayo; pueden reducir en 
+más de dos categorías resistentes el “hormigón original” de 
+la probeta. Por ello, es muy recomendable hacer participar al 
+laboratorio de ensayos en la reunión previa a obra y concu-
+rrir a éste para verificar procedimientos y ver cómo se traba-
+ja. En caso de apartamientos con las normas de ensayo, tam-
+bién dejan de ser válidos y no puede conocerse la calidad real 
+del hormigón.
+T odos los cuidados descriptos no son opcionales: son in-
+dispensables, ya que si bien el hormigón no es infalible y 
+siempre debe ser controlado, muchas veces –por bajos re-
+sultados de probetas a raíz de alguno de los errores mencio-
+nados– se pone en tela de juicio la honestidad del provee-
+dor de hormigón, se deja de trabajar con él, se emplea como 
+medio para arreglos económicos o se pierde confiabilidad 
+en la industria en general. 
+Para concluir este artículo: bajos resultados de probetas de 
+obra no siempre son sinónimo de hormigón elaborado de 
+mala calidad; los reglamentos especifican claramente los me-
+dios a seguir para establecer responsabilidades y principal-
+mente cómo investigar sobre las estructuras ejecutadas. 
+«
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA12
+Hormigonar 32    abril 2014
+Uno de los conflictos más comunes en obra surge cuando se 
+comunican resultados bajos de probetas. Este problema se 
+agrava más aun debido a que el hormigón se controla mucho 
+tiempo después de colocado (en general, 28 días), y en algu-
+nos casos, como edificios, se tienen dos pisos por encima del 
+cuestionado. En primer lugar , cabe aclarar que resultados bajos 
+de probetas no son sinónimos de hormigón provisto de mala 
+calidad, de mala fe o insuficientes controles del proveedor , de 
+necesidad de demoler la estructura ni de un medio a emplear 
+para arreglos económicos. En cada caso en particular , deben 
+estudiarse los resultados y procedimientos empleados y rea-
+lizar ensayos sobre estructuras que serán definitivos, tal cual 
+se describirá en el próximo número de Hormigonar. Sin ahon-
+dar en detalles, existen tres grandes causas por las que pueden 
+aparecer resultados bajos en probetas:
+1. Errores o deficiencias en los ensayos, lo cual indica que 
+una o más de las siguientes tareas han sido realizadas 
+inadecuadamente (fuera de Normas IRAM y/o 
+Reglamento CIRSOC): muestreo, moldeo de probetas, 
+protección y curado de probetas, manipuleo, encabezado 
+y ensayo de probetas, siendo las dos últimas atribuciones 
+y responsabilidad del laboratorio de ensayos.
+2. Errores de producción en planta, es decir, se incumple 
+con la Norma de hormigón elaborado y con los 
+requerimientos del cliente, pudiendo ser error de planta o 
+humano, responsabilidades del proveedor.
+3. Mala manipulación del hormigón en obra, como adición 
+de agua, mal uso de aditivos o estadía excesiva de 
+camiones en obra, entre otros, que tienden a disminuir la 
+calidad del hormigón.
+El análisis estadístico de resultados de probetas de hormigón 
+es una práctica muy sencilla y, en algunos casos, poco conoci-
+da. Muchas veces se acepta o no el hormigón sobre la base del 
+cálculo de su resistencia característica. En otros casos, se consi-
+dera resultado de ensayo el valor de resistencia de una probe-
+ta; a veces sólo se promedian, y en otros casos, se descartan los 
+valores muy bajos porque “no convienen”. T odas las prácticas 
+anteriores son bastante habituales y completamente erróneas.
+Para finalizar esta introducción y sólo como mención, existen 
+en la actualidad una gran cantidad de otros ensayos sobre el 
+hormigón endurecido, como los de durabilidad, los cuales no se 
+describirán en el presente artículo, no porque no sean relevan-
+tes sino porque su uso aún no está tan difundido en el medio.
+Concepto de lote, muestra y ensayo 
+El concepto principal del análisis debe basarse en considerar un 
+volumen de hormigón como un lote, analizando así resistencias 
+individuales y promedios de tres ensayos válidos consecutivos. 
+Los cálculos engorrosos de resistencia característica sirven para el 
+autocontrol de planta, pero no para la aceptación del hormigón 
+con probetas moldeadas en obra. Con muy pocos pasos toda per -
+sona, aun con escasa práctica, puede determinar si un lote cum-
+ple o no con lo establecido por normas, pliegos y/o reglamentos. 
+En primer lugar , deben poseerse los informes con los resul-
+tados de resistencias emitidos por el laboratorio de ensayos. 
+A continuación, se deben agrupar los elementos estructura-
+les de igual f‘c (resistencia especificada) en conjuntos sucesi-
+vos y con orden cronológico, denominados lotes. No deben 
+Control de calidad 
+en obra: análisis 
+de resultados de 
+probetas de obra
+Ms. Ingeniero Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA 13
+Hormigonar 32    abril 2014
+>
+analizarse en forma conjunta hormigones de diferentes cate-
+gorías ni mezclar en el análisis probetas a 7 y 28 días. Los lotes 
+según Reglamento deben tener , como máximo, 100 m
+3 para 
+Modo 2, y admite en ciertas condiciones lotes de 200 m3 para 
+hormigones producidos por una planta en Modo 1. T al como 
+se describió en artículos anteriores de la serie “Control de cali-
+dad en obra”, el mínimo de muestras a extraer son 5 por cada 
+lote, y cada muestra se compone por 2 o más probetas, guar-
+dando al menos 2 “gemelas” para la edad de diseño.
+El criterio para conformar los lotes debe ser establecido con an-
+telación y dependerá del criterio del Director de Obras y de la 
+magnitud de la estructura. Pueden agruparse en edificios por 
+pisos, por volúmenes importantes como plateas, por progresi-
+vas o por tipología de elementos estructurales, entre otros.
+Criterios generales de análisis
+T anto para el control de hormigones como para casi todos los 
+materiales de construcción, se establecen dos criterios básicos 
+que conceptualmente pueden resumirse como:
+ t El promedio de una serie de ensayos de resistencias del 
+lote debe ser igual o mayor a cierto valor .
+ t Ningún valor individual de los resultados de ensayo debe 
+ser inferior a un valor mínimo determinado.
+Aplicado al control de resistencias en hormigones para probe-
+tas moldeadas de camiones hormigoneros:
+ t El promedio de una serie de tres ensayos de resistencias 
+de probetas del mismo lote debe ser igual o mayor a 
+cierto valor , el cual está relacionado con la resistencia 
+especificada.
+ t Ningún valor individual de los resultados de ensayo de 
+resistencias de probetas del mismo lote debe ser inferior 
+a un valor mínimo determinado (siempre inferior al del 
+primer criterio).
+Es indispensable conocer el reglamento, especificación o nor-
+ma de aplicación para cada obra en cuanto al análisis de los re-
+sultados de probetas. Si bien en nuestro país está en vigencia el 
+Reglamento CIRSOC 201:05, se presenta en la Figura 1 una ta-
+bla con los criterios que pueden encontrarse en especificaciones 
+particulares y en normas extranjeras. El objetivo de la tabla no 
+es confundir , sino establecer que todos los reglamentos y reco-
+mendaciones analizan los resultados de manera muy similar , con 
+el criterio de la media móvil y del resultado individual, además 
+de servir como guía para contar con los criterios más aplicados.
+Pasos simplificados para el análisis de resistencias
+Cualquier análisis de resultados de probetas sólo es aplicable 
+para probetas que hayan sido confeccionadas y curadas se-
+gún la Norma IRAM 1524 y ensayadas a compresión según 
+IRAM 1546. De otro modo, no es válido el análisis de resisten-
+cias de probetas de hormigón, y lo que trae aparejado una ma-
+yor cantidad de problemas es que para estos casos no pueden 
+determinarse responsabilidades. Ante cualquier desviación de 
+las normas de ensayo de las tareas de obra (muestreo, mol-
+deo, curado) o del laboratorio de ensayos (encabezado, en-
+sayo, informe), no serían aplicables los siguientes criterios. A 
+continuación se describirá en 7 pasos cómo realizar un análisis 
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA14
+Hormigonar 32    abril 2014
+completo de resistencias y determinar la acepta-
+ción del lote o, en caso negativo, si es necesario 
+someterlo a ensayos complementarios. Estos pa-
+sos se acompañan de 7 figuras con un ejemplo 
+real de aceptación de lote, para H-25 de una plan-
+ta en Modo 1:
+Paso 1: analizar las probetas de una sola categoría 
+resistente a la vez y con una edad igual o superior a 
+la edad de diseño (generalmente, 28 días). Además, 
+debe conocerse la Norma o Reglamento de aplica-
+ción y determinar , según sus reglas propias, los dos 
+criterios de aceptación. Para edades superiores a 
+28 días, no son aplicables bajo ningún concepto co-
+eficientes de regresión de resistencias.
+Paso 2: con los datos del Informe del Laboratorio 
+de Ensayos, ordenar cronológicamente (tanto en 
+fechas como muestras del mismo día) las probe-
+tas con su denominación, edad de ensayo y resis-
+tencia a compresión en MPa (redondeado al 0,1 
+MPa), verificando que pertenezcan al mismo lote.
+Paso 3: calcular el resultado de cada ensayo, 
+como el promedio aritmético de las probetas 
+“gemelas” o pertenecientes a la misma muestra 
+y ensayadas a la misma edad. Recordar que si se 
+tiene una sola probeta por muestra, ya pierde va-
+lidez el presente análisis.
+Paso 4: validar los ensayos si la diferencia de las 
+probetas extremas es menor al 15% de su prome-
+dio aritmético; en caso contrario, no son válidos. 
+Se calcula como la diferencia de las probetas ex-
+tremas de la misma muestra, dividido el prome-
+dio de éstas y expresado en porcentaje. Si se tiene 
+una sola probeta a la edad de ensayo, no se consi-
+dera válido el ensayo y deberá descartarse.
+Paso 5: calcular las medias móviles de todos los 
+conjuntos de tres ensayos válidos consecutivos 
+(en orden cronológico). Comparar el valor con 
+el especificado para el primer criterio de acep-
+tación, en función de verificar o no su cumpli-
+miento e indicarlo en la planilla. En caso de que 
+el resultado no sea válido (diferencia intraensayo 
+superior al 15% o al contar con una sola probeta), 
+no deben ser considerados y se saltean.
+Paso 6: copiar los resultados de ensayo (prome-
+dios) válidos (diferencia entre probetas de la misma 
+muestra inferior al 15%). V erificar si el resultado in-
+dividual cumple con el especificado para el segun-
+do criterio de aceptación e indicarlo en la planilla. 
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA 15
+Hormigonar 32    abril 2014
+>
+Paso 7 : analizar el cumplimiento de ambos requi-
+sitos simultáneamente, es decir que todos los ca-
+silleros deben tener un “SÍ” de forma simultánea, 
+pudiendo resultar en las siguientes posibilidades:
+ › Si todos los valores cumplen ambos criterios: 
+“Aceptación del lote”.
+ › Si ninguno de los valores cumple ambos criterios: 
+“Resultados no conformes”.
+ › Si hay valores que cumplen con ambos criterios y 
+otros no: “Acotar la fracción no conforme”; es decir, se 
+realizarán ensayos complementarios sobre las partes 
+de la estructura con resultados negativos para verificar 
+la resistencia del hormigón, y no sobre la totalidad del 
+hormigón colado en el lote.
+Además del ejemplo 1 de aceptación del lote, se pre-
+senta un segundo ejemplo en una sola figura para 
+un hormigón H-25 y planta en Modo 2, en el cual no 
+se cumplen los requisitos establecidos por el cliente.
+Escenarios posibles después del análisis 
+estadístico
+Al analizar las probetas, pueden existir tres esce-
+narios bien definidos: 
+ t Que las probetas arrojen resultados 
+satisfactorios. 
+ t Que las probetas no puedan analizarse por 
+una o más falencias en los ensayos. 
+ t Que las probetas brinden resultados por debajo 
+de lo especificado según el criterio de análisis.
+En la mayor parte de las obras, si los resultados de 
+probetas curadas de manera normalizada resultan 
+satisfactorios, son suficientes para garantizar la ca-
+lidad de las estructuras. Lo anterior es sólo válido 
+si las tareas de manipuleo, colocación, compacta-
+ción, acabado de superficies, protección y curado 
+se realicen tal como lo indican los Reglamentos. 
+Si hay dudas de estos procedimientos, aunque las 
+probetas arrojen resultados adecuados deben rea-
+lizarse estudios y ensayos complementarios. En al-
+gunos casos, como en pavimentos, existen dispo-
+siciones particulares que, independientemente 
+del resultado de las probetas, exigen que es indis-
+pensable extraer testigos para determinar la cali-
+dad real del hormigón en la estructura, lo cual es 
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA16
+Hormigonar 32    abril 2014
+completamente válido y aceptable como criterio 
+definitivo de aceptación.
+En el lado opuesto, y para el caso de resultados de 
+ensayo bajos, bien sea puntuales o generales, se 
+deben reunir todos los reportes o informes y anali-
+zar los resultados antes de tomar cualquier acción:
+¿Viola realmente la secuencia de conformidad 
+con las especificaciones?
+¿Dan los informes de ensayo alguna pauta sobre 
+las causas?
+¿Están bien realizados los cálculos y determinacio-
+nes por parte del laboratorio?
+¿Existen al menos dos probetas “gemelas” ensaya-
+das a la edad de diseño?
+¿El rango de resistencia de 2 ó 3 probetas de la 
+misma muestra excede reiteradamente un 8% o 
+un 10% del promedio, respectivamente? 
+Si existen probetas de la misma muestra ensaya-
+das a edades diferentes, aunque figuren en infor-
+mes distintos, ¿existe un crecimiento “normal” o 
+“esperado” de resistencias? ¿O es errático?
+En función de los registros de trazabilidad obliga-
+torios a poseer en obra, ¿las probetas bajas coin-
+ciden con elevados asentamientos, alto contenido 
+de aire o bajas temperaturas?
+Para validar los informes, debe verificarse que los 
+procedimientos empleados desde el muestreo 
+hasta el ensayo sean correctos. Si cualquiera de 
+las etapas del ensayo fue realizada de manera de-
+ficiente (fuera de norma), es información perdida 
+e imposible de recuperar , lo cual impide técnica-
+mente la determinación de responsabilidades in-
+volucradas, complicando un potencial conflicto. 
+Por ello, a todas las partes interesadas les “convie-
+ne” realizar los ensayos de acuerdo con procedi-
+mientos normalizados, ya que de esta manera se 
+bajará notablemente la probabilidad de obtener 
+resultados bajos y, de ocurrir , el responsable direc-
+to de los ensayos complementarios y costos aso-
+ciados será el proveedor de hormigón elaborado.
+T al como se expresó anteriormente, en caso de 
+validar los ensayos y haber corroborado la meto-
+dología, se podrán establecer responsabilidades 
+que le pueden competer al proveedor de hormi-
+gón elaborado, al Director de Obras o al labora-
+torio de ensayos. En estos casos, deberán extraer-
+se testigos de hormigón a costo del responsable, 
+pudiendo o no ser complementados con ensa-
+yos no destructivos, debidamente calibrados con 
+hormigones de obra, tal como será descripto en 
+el próximo número de Hormigonar. Debido a la 
+potencial ambigüedad en la interpretación de re-
+sultados de ensayos no destructivos, sus aplica-
+ciones y limitaciones, deberán ser consensuados 
+entre todas las partes involucradas. 
+Para finalizar , se debe reiterar que resultados bajos 
+de probetas, por más bajos que sean, no pueden 
+ser tomados como una decisión unilateral para 
+demoler una estructura o para cesar los pagos en-
+tre las partes. Si bien el hormigón posee intrínse-
+camente la debilidad de tener que ser controlado 
+muchos días después de colado, posee también 
+la fortaleza de “estar disponible” en la obra, y per-
+mitir ser ensayado para verificar su cumplimiento 
+con las especificaciones del cliente. 
+<
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA10
+Hormigonar 33    agosto 2014
+La temática de los Ensayos No Destructivos (END) siem-
+pre ha sido discutida y de interpretación controvertida. El 
+Reglamento CIRSOC 201 de 1982 admitía el empleo de los 
+ensayos no destructivos (como esclerometría y ultrasonido) 
+como complemento de la extracción de testigos. Sin embargo, 
+el CIRSOC 201 vigente no menciona en su texto el empleo de 
+END, probablemente debido a las diversas opiniones, al gran 
+número de veces que han sido interpretados por personal no 
+capacitado y, principalmente, a que en algunas ocasiones estos 
+ensayos se han empleado como único medio para dirimir la 
+aceptación o no de la estructura y juzgar sobre su seguridad y 
+aptitud en servicio. Es claro que los END no pueden emplearse 
+cómo único medio con aquella finalidad. Antes de comenzar 
+el estudio de los campos de aplicación y las limitaciones de los 
+END más empleados en nuestro medio, merecen destacarse 
+los siguientes puntos:
+ • Ningún END determina directamente la resistencia a 
+compresión del hormigón.
+ • En caso de bajas resistencias, los testigos calados no 
+pueden ser totalmente reemplazados por END.
+ • Los END siempre presentan una variabilidad e 
+incertidumbre apreciable y para tener en cuenta.
+1. Campo de aplicación de los END
+No obstante lo expresado anteriormente, en muchos casos 
+es necesario inferir sobre alguna de las propiedades del hor-
+migón endurecido sin dañar la estructura, como su resisten-
+cia a compresión, empleando para ello END. Hay que tener 
+presente las limitaciones de estos END, ya que no “pueden bo-
+rrar” totalmente resultados bajos de probetas y que éstos de-
+ben ser realizados e interpretados por personal muy capacita-
+do. T al como se afirmó, debe tenerse en cuenta que ninguno 
+de los END mide directamente la resistencia a compresión del 
+hormigón, sino que puede ser estimada mediante otra magni-
+tud física y luego correlacionarla, siempre con una calibración 
+previa con materiales locales. Por ejemplo, un error frecuente 
+es emplear el esclerómetro y utilizar las curvas impresas de fá-
+brica, o usar las curvas para estimación de resistencias con el 
+ultrasonido obtenidas de bibliografía especializada.
+En cualquier campaña de END, deben realizarse ensayos tan-
+to sobre los elementos cuestionados –por ejemplo, de baja re-
+sistencia en probetas– como en elementos con resultados sa-
+tisfactorios. Los ensayos no destructivos son muy útiles para 
+comparar resultados y estimar uniformidad. Por ejemplo, si en 
+una obra se tienen 10 resultados de probetas aceptables y 3 re-
+sultados bajos de probetas, se deberán realizar END (esclero-
+metría o ultrasonido) sobre aquellos elementos que arrojaron 
+resultados negativos y también sobre los sectores con resulta-
+dos positivos. A igualdad de condiciones (encofrados, tipo de 
+hormigón, curado) se marcará y apreciará una diferencia en-
+tre los resultados de las magnitudes medidas por END (dure-
+za o velocidad de onda). En caso de que arroje una marcada 
+uniformidad en los 13 resultados, podría existir un problema 
+en el ensayo de las 3 probetas que arrojaron un resultado ne-
+gativo. Si claramente hay una diferencia en el mismo sentido 
+entre ambos grupos de ensayos, casi con seguridad un hormi-
+gón tendrá menor resistencia que el otro. Pero si en una obra 
+contamos con 20 resultados y todos son bajos, no podrán em-
+plearse los END como único medio para inferir la calidad del 
+hormigón de las estructuras.
+Entre las principales aplicaciones de los END pueden señalar-
+se las siguientes:
+1. Estimación de uniformidad de hormigones de la misma 
+obra y con análogas técnicas constructivas.
+Control de calidad 
+en obra: limitaciones 
+y aplicaciones de los END
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA 11
+Hormigonar 33    agosto 2014
+>
+2. Si las probetas moldeadas al mismo tiempo 
+que la estructura arrojan una resistencia 
+inferior a la especificada, o si no se han 
+moldeado, siempre como complemento de 
+la extracción de testigos.
+3. Si la estructura muestra signos de debilidad, 
+como fisuración excesiva, por deficiencias de 
+proyecto, materiales o técnicas constructivas, 
+como complemento de otros ensayos.
+4. Estructuras con daños provocados por 
+sobrecargas, efectos climáticos, fuego, 
+ataques químicos o eventos extraordinarios, 
+como sismos.
+5. Diagnóstico de estructuras existentes y 
+detección de armaduras.
+6. Como criterio de aceptación en ciertas 
+estructuras si figura en especificaciones 
+particulares.
+7. Estructuras después de haber sido reparadas, 
+reforzadas o recicladas.
+En la tabla adjunta se muestra un listado no 
+exhaustivo de los END para hormigones más em-
+pleados en el medio. No se incluyen los END para 
+determinar ensayos de durabilidad, ya que no es 
+el objeto del presente artículo y, si bien actual-
+mente su uso es de utilidad, no está difundido en 
+el país. La determinación de la capacidad resisten-
+te de estructuras (extracción y ensayo de testi-
+gos, y ensayos de carga directa en estructuras) se 
+abordará en el próximo número de Hormigonar.
+La inspección visual es quizás el END más impor-
+tante para comenzar el diagnóstico de cualquier 
+estructura. De todas maneras, ninguna aprecia-
+ción visual puede ser determinante en la acepta-
+ción o rechazo de una estructura en función de 
+su resistencia; se debe validar con ensayos y valo-
+ración numérica. En lo que respecta a los ensayos 
+para estimar resistencia, si bien existe un núme-
+ro importante de patentes comerciales y diferen-
+tes ensayos, se estudiarán a continuación los en-
+sayos de esclerometría y ultrasonido, ya que son 
+los más ampliamente utilizados en el medio para 
+diagnosticar estructuras.
+2. END de esclerometría
+El esclerómetro es, sin duda, el instrumental de 
+END para hormigones más empleado (Figura 1), 
+y en muchas ocasiones su empleo es completa-
+mente inapropiado, con lo cual lamentablemente 
+ha perdido credibilidad. La función primaria del 
+esclerómetro es la determinación de la unifor-
+midad dentro de la misma estructura de hormi-
+gón y la metodología del ensayo se especifica en 
+la Norma IRAM 1694. Dependerá del director de 
+obras establecer la necesidad y el alcance de los 
+ensayos de esclerometría sobre las estructuras. El 
+primer aspecto para tener en cuenta es que el es-
+clerómetro, de muy fácil manejo, no mide la re-
+sistencia del hormigón, sino su dureza superficial. 
+En función de la dureza superficial medida por el 
+número de rebote del esclerómetro, si se cumple 
+una importante cantidad de condiciones, puede 
+estimarse la resistencia del hormigón, y aun en 
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA12
+Hormigonar 33    agosto 2014
+>
+cemento y el tipo de agregados. Nunca deben 
+compararse mediciones realizadas sobre 
+hormigones elaborados con agregados de 
+distinta composición petrográfica.
+ • Edad del hormigón: es uno de los factores 
+más influyentes y que muchas veces no se 
+tiene en cuenta. En el mismo esclerómetro 
+viene impreso que es válido para 
+determinaciones de entre 14 y 56 días; es 
+decir , no es válido para estimar resistencias en 
+hormigones muy jóvenes ni a edades tardías. 
+En otros esclerómetros más modernos, 
+vienen impresos factores de corrección en 
+función de la profundidad de carbonatación 
+(relacionado con la edad y ambiente de 
+exposición). La superficie del hormigón 
+expuesta al ambiente se va carbonatando con 
+el tiempo, lo que resulta en un aumento de 
+la dureza superficial, que no está relacionada 
+con la resistencia a compresión del núcleo 
+del elemento de hormigón. Es por ello que, a 
+igualdad de resistencia, se obtienen números 
+de rebote entre 3 y 6 unidades mayores para 
+hormigones “viejos” que para hormigones 
+“nuevos”. Este límite de 56 días puede 
+ser extendido si se aprecia que no existe 
+influencia en los ensayos de la carbonatación, 
+la cual es progresiva y depende de una 
+importante cantidad de variables o 
+directamente se elimina esta capa con un 
+abrasivo. Para determinar con precisión la 
+profundidad de carbonatación en milímetros, 
+este caso, siempre se posee una incertidumbre 
+elevada del orden del 25%.
+Como se mencionó anteriormente, el escleróme-
+tro es muy útil para determinar la uniformidad 
+del hormigón de una estructura. Si se han em-
+pleado las mismas técnicas constructivas –como 
+compactación, curado, desmoldantes y tipos de 
+encofrados– y los hormigones poseen edades si-
+milares, el esclerómetro acusa variaciones de re-
+sistencia. Para estimar resistencias, siempre con 
+la incertidumbre mencionada, debe tenerse en 
+cuenta la calibración o contraste previo con ma-
+teriales locales:
+ • Calibración de rutina del esclerómetro: no 
+pueden emplearse para estimar resistencias 
+las curvas impresas en el esclerómetro, sino 
+que siempre debe ser calibrado con los 
+materiales locales, en resistencias que oscilen 
+entre 10 y 40 MPa. Para poder estimar la 
+resistencia del hormigón, lo que no reemplaza 
+el resto de los ensayos reglamentarios, 
+debe existir una adecuada correlación (R2 
+superior a 0,90) entre los números de rebote 
+y resistencia a compresión de las probetas, 
+siendo preferible su verificación con probetas 
+de la obra en la cual se estimarán resistencias.
+ • Calibración con probetas de obra: siempre 
+es recomendable confirmar la calibración 
+de rutina del esclerómetro, con al menos 
+5 a 10 probetas de obra a auscultar , para 
+verificar o no la línea de calibración preliminar , 
+en el rango de resistencias que arrojan los 
+resultados de las probetas. En la Figura 2 se 
+muestra una curva de rutina y, superpuestas, 
+probetas de una obra en particular .
+La calibración del esclerómetro se realiza some-
+tiendo probetas de 15x30 cm a una precarga del 
+orden de 5 toneladas en la prensa de ensayos, 
+pero sin ningún tipo de encabezado (o con enca-
+bezado de azufre). Se dan 3 golpes en 3 vertica-
+les equidistantes y se toma el valor promedio del 
+número de rebote. Si hay valores que distan en 
+más de 3 a 5 unidades del promedio, deben des-
+cartarse y recalcular el promedio. Luego se ensaya 
+cada probeta con encabezado a compresión, ob-
+teniendo así su resistencia mecánica.
+El índice esclerométrico o número de rebote está 
+influenciado por una gran cantidad de parámetros:
+ • Materiales constituyentes del hormigón: 
+influyen de manera determinante el tipo de 
+
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA14
+Hormigonar 33    agosto 2014
+>Epígrafe
+‹
+debería realizarse el ensayo con aspersión de 
+solución de fenolftaleína en testigos.
+ • Estado de humedad: es importante que los 
+ensayos sobre estructuras se realicen con 
+estados de humedad similares a los de las 
+probetas empleadas para su calibración, 
+siendo recomendable el estado seco. En 
+general, mientras mayor es el contenido de 
+humedad, menor es el número de rebote. 
+ • T erminación de superficies: las superficies 
+llaneadas o con encofrados metálicos 
+presentan números de rebote superiores 
+que las superficies ásperas o porosas, 
+como al emplear encofrados de madera. 
+Ciertos tratamientos, como endurecedores 
+superficiales, invalidan el ensayo. En caso de 
+pequeñas irregularidades, membrana de 
+curado o desmoldantes, se deben remover 
+con una piedra de pulir .
+ • Dimensiones de los elementos ensayados: 
+la realización de ensayos sobre elementos 
+estructurales de menos de 12 cm de espesor 
+o elementos muy esbeltos que vibren 
+durante el ensayo puede arrojar resultados 
+erráticos. Por ejemplo, si se desea emplear el 
+esclerómetro en losas alivianadas, deberán 
+hacerse los ensayos en zona de vigas y no en 
+la capa de compresión sobre losetas.
+ • Posición del ensayo: si el golpe se realiza hacia 
+abajo (superficie de una losa), el número de 
+rebote promedio se incrementa en 2 a 5, 
+mientras que si se realiza hacia arriba (fondo), 
+se debe disminuir en 4 a 5. Muchas veces, en 
+el mismo esclerómetro figuran los factores 
+de corrección para diferentes ángulos de 
+incidencia, o bien pueden emplearse los que 
+aparecen en IRAM 1694. Esta corrección está 
+dada por el efecto de la gravedad respecto 
+de la masa que impacta el hormigón; para 
+ensayos hacia abajo, la masa rebotará menos 
+que en horizontal.
+3. END de ultrasonido
+El ultrasonido puede ser empleado tanto para 
+detectar defectos ocultos (si se cuenta con un os-
+ciloscopio adecuado), y más comúnmente para 
+estimar uniformidad y resistencia del hormigón 
+endurecido. Es una técnica que requiere más cui-
+dados que la esclerometría, pero presenta una 
+menor incertidumbre que el esclerómetro; es de-
+cir , si se efectúa adecuadamente, puede tenerse 
+una precisión de 5-10%, constituyéndose en el 
+END con menores errores para la estimación de 
+resistencias. El equipo de ultrasonido básicamen-
+te mide el tiempo en segundos que tarda una 
+onda en atravesar un elemento de hormigón, y 
+conociendo su espesor (distancia entre emisor 
+y receptor) se calcula la velocidad de onda. La 
+Norma IRAM 1683 establece el procedimiento 
+de ensayo, fundamentos y los diferentes factores 
+que influyen en los resultados. Es indispensable 
+un adecuado contacto entre los transductores y 
+el hormigón, lo que se logra con un gel especial o 
+vaselina común, y en caso de superficies ásperas, 
+éstas deben eliminarse. 
+En realidad, el ensayo de ultrasonido mide la con-
+tinuidad dentro del hormigón y la magnitud de su 
+módulo de elasticidad dinámico, pudiendo apre-
+ciar la variación de sus propiedades con el tiempo. 
+Esta variación de módulo de elasticidad puede in-
+terpretarse como fisuración interna y estimarse 
+cambios de resistencias. Por ejemplo, al presen-
+tarse zonas de compactación deficiente, vacíos 
+o material deteriorado en los hormigones que se 
+someten a ensayos, se obtendrá una disminución 
+de la onda ultrasónica.
+Además de la puesta a cero del ultrasonido que 
+se realiza con una barra patrón al inicio de las 
+mediciones (Figura 3), es muy aconsejable su ca-
+libración con probetas elaboradas con los mis-
+mos materiales que los empleados en la obra. Al 
+igual que con el esclerómetro, para poder estimar 
+Instrumental y mediciones en ensayos de ultrasonidoF. 3
+
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA16
+Hormigonar 33    agosto 2014
+resistencias se debe poseer una curva de calibra-
+ción con hormigones elaborados con materia-
+les locales, y de ser posible, ser complementada 
+con probetas de obra. Para su calibración deben 
+emplearse probetas de 15x30 cm, realizar 5 ensa-
+yos de ultrasonido en el sentido longitudinal con 
+el gel de contacto y medir la altura de la probeta 
+de manera precisa en al menos 4 puntos. Con los 
+valores anteriores se tendrá la velocidad de onda 
+en m/s. Luego se encabeza y ensaya a compre-
+sión la probeta normalmente y se llega a su resis-
+tencia real, obteniendo así curvas de correlación. 
+En estructuras existentes, es muy recomendable 
+realizar ensayos de ultrasonido en los mismos ele-
+mentos de los que se extraen los testigos para su 
+ensayo a compresión y realizar curvas de calibra-
+ción para estimar resistencias en otros elementos 
+de la misma obra (Figura 4). Este procedimiento 
+es muy útil para estimar resistencias en estructu-
+ras de cualquier edad, lo cual no puede lograrse 
+con el ensayo de esclerometría.
+Las condiciones  para  tener en cuenta en el ensa-
+yo son, entre otras: humedad, temperatura, ter-
+minación de superficies, efecto de armaduras, 
+distancia de traspaso, forma y tamaño de ele-
+mentos, naturaleza de los agregados, etc. No pue-
+den extrapolarse curvas de calibración con hor-
+migones de edades muy diferentes o de distinta 
+composición, debiendo realizar la calibración con 
+probetas o testigos tal como se ha menciona-
+do. Para los ensayos de ultrasonido, existen dife-
+rentes tipos de colocación de los transductores 
+(Figura 5), siendo siempre deseable la transmisión 
+directa. Con las transmisiones semidirectas e indi-
+rectas difícilmente puedan determinarse resisten-
+cias a compresión, pero sí podrían evaluarse dis-
+continuidades internas.
+5. Detección de armaduras
+Existen dispositivos que sólo distinguen la presen-
+cia de metales; otros, que además estiman la pro-
+fundidad (espesor de recubrimiento); y los más 
+sofisticados pueden también inferir el diámetro 
+de las barras (Figura 6). Para la auscultación de es-
+tructuras de las que no se poseen planos, debe ve-
+rificarse en varios puntos (picando el hormigón y 
+exponiendo las barras) la posición de armaduras, 
+corroborando la información del pachómetro. En 
+columnas o nudos muy armados, pierde validez. 
+T ambién se emplean para detectar la posición de 
+las armaduras antes de extraer testigos para inten-
+tar no cortar barras o armaduras principales.
+Pachómetros para detectar armaduras y cateos para observación directaF. 6
+
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA 17
+Hormigonar 33    agosto 2014
+Como última y novedosa técnica para el diagnós-
+tico de estructuras de hormigón, pueden men-
+cionarse la radiografía, tomografía y/o gamma-
+grafía del hormigón. Algunos de estos métodos 
+están disponibles en nuestro país y con experien-
+cia probada, y si bien cada una de las técnicas tiene 
+sus particularidades, pretenden tener una imagen 
+del interior del hormigón, detectando principal-
+mente disposiciones de armado, espesores y, en 
+algunos casos, defectos ocultos que puedan te-
+ner ciertos elementos. Los diferentes métodos se 
+basan en la colocación de películas especiales y en 
+que son sometidas a diferentes tipos de radiacio-
+nes, con principios similares a los equipos emplea-
+dos en medicina. En la Figura 7 se muestran en-
+sayos realizados en un supermercado en Buenos 
+Aires, incluyendo imágenes de la fuente radiacti-
+va, placas en contacto con columnas, revelado de 
+placas e interpretación de observaciones. «
+T omografía por gammagrafía para detección 
+de armaduras en supermercado
+F. 7
+
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 34    diciembre 2014
+El Reglamento CIRSOC 201 establece los requisi-
+tos a cumplir cuando deben verificarse estructu-
+ras existentes ante cargas gravitatorias, para obras 
+en las cuales se desconocen planos, disposición 
+de armaduras y calidad de los materiales, o cuan-
+do se duda de esta última. Existen dos alternati-
+vas conceptuales bien definidas en caso de que se 
+desee conocer la capacidad resistente de estruc-
+turas de cualquier edad:
+Control de calidad 
+en obra: Capacidad 
+resistente de estructuras 
+de hormigón
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+1. Determinar las dimensiones y las propiedades 
+de los materiales constituyentes (hormigón 
+y acero).
+2. Realizar ensayos de carga en las estructuras, 
+principalmente en elementos sometidos a 
+flexión y corte.
+El primer caso es aplicable principalmente a ele-
+mentos como columnas, tabiques y fundaciones, 
+en los cuales son difícilmente practicables los en-
+sayos de carga (por la magnitud de cargas a ma-
+terializar y la imposibilidad de medir deformacio-
+nes axiales). Se admite que si se determinan las 
+dimensiones, las propiedades de los materiales y 
+las disposiciones precisas de las armaduras (ubica-
+ción y diámetros de barras, alambres, mallas o ca-
+bles), puede evaluarse estadísticamente e inferir 
+sobre la seguridad de una estructura ante deter-
+minadas solicitaciones. En la figura 1 se muestra 
+un caso de estudio de piletas de una bodega de 
+80 a 90 años que fueron recicladas para un nuevo 
+restaurante. Más adelante, se describirá la meto-
+dología para evaluar la resistencia y otras caracte-
+rísticas del hormigón y las propiedades mecánicas 
+del acero.
+Las mediciones y determinaciones mencionadas 
+deben realizarse en las secciones críticas en las 
+cuales cada tipo de solicitación, calculada para la 
+carga bajo análisis, alcanza su valor máximo. Para 
+este tipo de estudios es aceptable la utilización de 
+métodos no destructivos de investigación (por 
+ejemplo, ultrasonido para estimar resistencias y 
+NOT A TÉCNICA40
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 34    diciembre 2014
+>
+Extracción de testigosF. 2
+uniformidad o tomografía para detectar la posi-
+ción de las armaduras), con las limitaciones des-
+criptas en el artículo anterior de Hormigonar. 
+En los casos en los cuales la resistencia al corte o 
+a la adherencia de un elemento estructural cons-
+tituya un factor crítico con respecto a la seguri-
+dad de la estructura, las pruebas de carga directa 
+son la solución más eficiente para eliminar o con-
+firmar las dudas que pudieran existir sobre el nivel 
+de seguridad. La realización de una prueba de car-
+ga también es el recurso más apropiado para car-
+gas de flexión, cuando no es posible determinar 
+las dimensiones y propiedades de los materiales 
+necesarios para la evaluación analítica. Cuando 
+no se poseen planos, la determinación de arma-
+duras en vigas y losas, en ambas caras de éstas, 
+suele ser una tarea que lleva a dañar severamente 
+la losa e insume una gran cantidad de recursos. Es 
+de suma importancia que si como parte del pro-
+ceso de evaluación se especifica una prueba de 
+carga directa, todas las partes involucradas acuer-
+den, antes de su realización, las zonas a ensayar , la 
+magnitud de la carga a aplicar , el procedimiento 
+para realizar la prueba de carga y los criterios de 
+aceptación o rechazo.
+1. Extracción y ensayo de testigos 
+de hormigón
+En caso de ser necesario investigar la calidad del 
+hormigón de las estructuras existentes, o cuando 
+los resultados de las probetas no han sido satis-
+factorios, surge frecuentemente la necesidad de 
+extraer testigos de hormigón (figura 2). Respecto 
+de la planificación de la extracción de testigos se-
+gún la norma IRAM 1551, deben tenerse en cuen-
+ta, entre otros, los siguientes factores:
+  Diámetro de testigos: el diámetro del testigo 
+debe ser de 3” como mínimo y al menos 
+3 veces el tamaño máximo del agregado. 
+Para el caso de hormigones estructurales, 
+lo más corriente es que se utilicen TMN de 
+19 a 25 mm, con lo cual es recomendable 
+emplear el diámetro mínimo de 3” para evitar 
+cortar armaduras. En caso de que se desee 
+determinar espesores de pisos y pavimentos 
+o cuando se emplee un TMN de 30 a 38 mm, 
+el diámetro del testigo será de 4”. Para otros 
+casos, como pavimentos con espesores de 
+20 cm o superiores, es recomendable la 
+extracción con diámetro de 5” a 6” como 
+máximo.
+  Presencia de armaduras: si bien nunca es 
+deseable cortar armaduras, en algunos casos 
+es inevitable. Debido a que se quiere juzgar 
+la calidad del hormigón, es recomendable 
+extraer los testigos en las zonas de menor 
+cuantía de armaduras (por ejemplo, la parte 
+media de la altura para vigas). De cortar 
+armaduras transversales o estribos, la norma 
+IRAM 1551 establece que es admisible cuando 
+las armaduras no representen más del 4% 
+de la sección transversal del testigo, que 
+nunca estén direccionadas longitudinalmente 
+y que la rotura del testigo no se produzca 
+inicialmente en las inmediaciones de la barra.
+  Esbeltez de testigos: la relación entre la 
+altura y el diámetro de los testigos debe 
+estar comprendida entre 1 y 2. Luego se 
+emplean coeficientes correctores menores 
+a 1 para convertir la resistencia de testigos 
+con esbelteces menores a 2 a la equivalente a 
+probetas normalizadas (siempre de esbeltez 
+igual a 2).
+  Número de testigos: para el caso de verificar 
+la resistencia de estructuras en las cuales las 
+probetas han brindado resultados por debajo 
+de lo esperado, el número de testigos debería 
+ser del doble de las muestras requeridas 
+para realizar probetas. Si un lote de 100 m³ 
+debe poseer 5 muestras, indicaría que deben 
+extraerse cerca de 1 testigo cada 10 m³ 
+de la zona cuestionada. Si se determina la 
+resistencia de un elemento en particular , el 
+número de testigos no puede ser inferior a 3. 
+NOT A TÉCNICA 41
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 34    diciembre 2014
+Para estructuras existentes en las que se desea investigar 
+la calidad de los materiales o cuando se complemente con 
+ensayos no destructivos, debe estudiarse y consensuarse 
+cada caso en particular . Para casos relevantes se 
+recomienda consultar la publicación ACI 437R-97 “Strength 
+Evaluation of Existing Concrete Buildings”.
+  Refrentado y encabezado: casi siempre una de las caras 
+del testigo es irregular (base de pavimentos o para no 
+atravesar todo el elemento estructural), con lo cual debe 
+ser refrentada con un disco diamantado o un disco de 
+corte de hormigón para lograr cierta planicidad. Cuando 
+ambas caras tengan esa planicidad, se procede a encabezar 
+ambas caras con mortero de azufre según norma IRAM 
+1553 (nunca con neopreno).
+  Ensayo a compresión: deben tomarse varias precauciones, 
+siendo relevante verificar el centrado en la prensa, que la 
+rótula esférica acompañe la posible falta de paralelismo 
+de las caras, regular la velocidad de carga de la máquina de 
+ensayo y si su diámetro es de 3” no pueden ser ensayados 
+en las prensas convencionales para probetas, ya que en 
+muchas de ellas, para cargas menores a 10 toneladas, se 
+pierde confiabilidad. Debe contarse con escalas especiales 
+calibradas o ensayarlos en máquinas universales.
+2. Evaluación de resultados de ensayos de testigos
+Para el análisis de resultados de probetas y metodologías de 
+ensayo, antes de decidir extraer testigos, se remite al lector al 
+artículo “ Análisis de resultados de probetas en obra”, y en par-
+ticular a su último parágrafo, denominado “Escenarios posi-
+bles después del análisis estadístico”.
+La mayor parte de los códigos estructurales (CIRSOC 201:82, 
+CIRSOC 201:05 para Plantas en Modo 1, ACI 318) establecen 
+los mismos criterios para la evaluación de los testigos de hor-
+migón, siendo conceptualmente similares a los que fueron es-
+tudiados para el análisis de resultados de probetas:
+  El promedio de una serie de ensayos de resistencias del 
+lote debe ser igual o mayor a cierto valor .
+  Ningún valor individual de los resultados de ensayo debe 
+ser inferior a un valor mínimo determinado.
+Aplicado al control de resistencias en hormigones para testigos 
+de hormigón extraídos de las estructuras:
+  El promedio de las resistencias de los testigos debe ser 
+igual o mayor al 85% de la categoría resistente.
+  Ningún valor individual de los resultados debe ser inferior 
+al 75% de la resistencia especificada.
+Respecto de los resultados individuales de testigos bajos, en 
+los reglamentos figura el concepto de “resultado errático”, 
+pero no se define. Por una importante base de datos de tes-
+tigos ensayados, 1 de cada 8 ó 10 testigos, suele brindar resul-
+tados erráticos (vibraciones en la extracción, defectos ocultos, 
+problemas en el ensayo a compresión), con lo cual es entendi-
+ble que si extraemos, por ejemplo, 25 testigos y uno da un re-
+sultado bajo, no puede rechazarse toda una estructura. Para 
+estos resultados erráticos, existen dos criterios que quedan a 
+juicio del Director de Obras: descartarlos estadísticamente o 
+solicitar que se extraigan 2 a 3 testigos de las inmediaciones del 
+lugar en el que el testigo brindó resultados anómalos. En este 
+último caso, se toma el promedio de los nuevos testigos y se 
+reemplaza el resultado del testigo considerado errático.
+Para el caso de resistencias bajas de probetas y cuando los tes-
+tigos arrojen resultados positivos en ambas condiciones, los re-
+sultados de las probetas “se borran” y la calidad del hormigón 
+debe ser aceptada, independientemente de la edad. Si las resis-
+tencias de los testigos, eventualmente complementados con 
+ensayos no destructivos, resultan ser inferiores a las de la cate-
+goría resistente requerida en el diseño original de la estructura, 
+debe procederse como se detalla en la figura 3.
+3. Caracterización del acero de refuerzo
+Si bien el acero es uno de los dos materiales de construc-
+ción con calidad certificada por el INTI, muchas veces es útil 
+NOT A TÉCNICA42
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 34    diciembre 2014
+>
+conocer las propiedades mecánicas de las barras, 
+más aún para estructuras que posean más de 30 
+ó 40 años, debido a que las barras eran de dife-
+rente tipo a las empleadas actualmente (barras li-
+sas o torsionadas); también pueden presentar di-
+ferentes grados de deterioro por corrosión. Para 
+el caso de estructuras antiguas, deben cortarse 
+algunas barras de la estructura (que luego serán 
+bien empalmadas en obra) y determinar paráme-
+tros característicos, como límite de fluencia, resis-
+tencia máxima, alargamiento de rotura y relación 
+entre la tensión máxima y la tensión de fluencia. 
+En la figura 4 se muestra la extracción de barras 
+de acero liso con cierto grado de corrosión, de 
+una bodega de una edad próxima a 70 años y el 
+diagrama de ensayo obtenido, habiendo conclui-
+do en ese estudio que el acero, independiente-
+mente de su edad y condición de exposición, pre-
+sentaba excelentes características.
+4. Técnicas para la ejecución de ensayos 
+de carga
+Para definir la intensidad de la carga a materiali-
+zar en la estructura, el reglamento CIRSOC esta-
+blece que la carga total a ser utilizada, incluyendo 
+la carga permanente existente, deberá ser igual a 
+0,85 (1,4 D + 1,7 L), donde D es la carga muerta o 
+permanente (previamente determinada median-
+te sondeos) y L, la sobrecarga prevista para la es-
+tructura. El valor anterior incluye la carga del peso 
+propio de la estructura, que como está siempre 
+actuando debe ser sustraída al valor de la ecua-
+ción brindada anteriormente.
+Por ejemplo, se posee una estructura existente 
+con una losa de espesor próximo a 50 cm y para 
+la cual el uso futuro requiere una sobrecarga “L” 
+de 500 kg/m² para su ocupación. En función del 
+espesor medio de la estructura previamente son-
+deado, se determina, con la ayuda del peso espe-
+cífico del hormigón de 2,35 tn/m³, la carga D exis-
+tente en la estructura e igual a 1,18 tn/m ². Con la 
+carga L ya definida de ocupación de 0,5 tn/m², se 
+determina una carga total a materializar por el en-
+sayo de carga, aplicando la ecuación:
+  Carga a modelar = 0,85 x (1,4 x 1,18 ton/m² + 
+1,7 x 0,50 tn/m²) = 2,13 tn / m² - 1,18 tn/m² = 
+0,95 tn/m²
+El número y la distribución de las cargas en tra-
+mos o losas cargadas se deben seleccionar de tal 
+forma de maximizar las flechas y tensiones en las 
+zonas críticas de los elementos estructurales cuya 
+resistencia esté en duda. Cuando la adopción de 
+una única disposición de carga no produzca en 
+forma simultánea valores máximos de todos los 
+parámetros (tales como flechas, rotaciones, es-
+fuerzos internos o tensiones), se deberá utilizar 
+más de un esquema de carga para demostrar la 
+aptitud de la estructura en todas las secciones crí-
+ticas. Cuando sea necesario aplicar una carga uni-
+formemente distribuida, la carga de la prueba se 
+aplicará de tal forma que se asegure la obtención 
+de una distribución uniforme real sobre la estruc-
+tura, o sobre la parte de ésta que se ensaya. Se 
+debe evitar la presencia de un “efecto de arco” 
+en la carga aplicada. En la figura 5 se muestran 
+NOT A TÉCNICA 43
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 34    diciembre 2014
+algunas disposiciones correctas de materializa-
+ción de cargas. 
+Antes de comenzar una prueba de carga directa, 
+debe realizarse un relevamiento integral de la es-
+tructura para definir las zonas donde realizar los 
+ensayos de carga, que sean accesibles y se consi-
+deren más representativas. La duración total de 
+los ensayos de carga suele ser de al menos 48 ho-
+ras. A continuación se describe un procedimien-
+to paso a paso propuesto para la ejecución de las 
+pruebas de carga directa.
+  Definir con qué materiales se efectuarán las 
+cargas (piletas de agua, bolsas de cemento, 
+vehículos cargados, tachos con arena, bins 
+de 1.000 litros de agua) y evaluar ciertas 
+cargas permanentes en la estructura que 
+puedan estar actuando y que antes de 
+la refuncionalización de la obra serán 
+removidas.
+  Se relevan las vigas, columnas y tabiques 
+debajo del ensayo de carga y se replantean 
+con pintura para graficar la estructura bajo 
+la losa o viga y poder aplicar las cargas bien 
+distribuidas.
+  Se fijan los accesorios (puntales, 
+cables tensados, puntos fijos) para el 
+posicionamiento de los relojes comparadores, 
+niveles o flexímetros para la medición de las 
+deformaciones durante y después del ensayo.
+  Se instrumenta con relojes comparadores u 
+otros elementos de medición con precisión 
+de 1/100 mm, en puntos estratégicos 
+seleccionados para medir las deformaciones 
+en los diferentes escalones de carga.
+  Puesta a cero y verificación del instrumental 
+de medición de precisión antes de comenzar 
+las cargas, considerando estas mediciones 
+como “0” o lectura inicial. Esta lectura debe 
+ser realizada una hora antes de comenzar con 
+los ensayos de carga. En el caso de trabajar 
+con puntos fijos y niveles ópticos, éstos no 
+deben moverse de su posición durante la 
+ejecución de todo el ensayo. Estos métodos 
+sirven para medir deformaciones mayores a 
+1 mm.
+  Dividir en 4 a 6 escalones de carga, para ir 
+materializando los kg/m² determinados en 
+las losas o vigas, de manera ordenada y para 
+no interrumpir la carga de los demás sectores 
+de las losas.
+  Carga de cada escalón en la parte superior 
+de las losas y registro de las cargas y orden 
+de éstas; lectura correspondiente en los 
+flexímetros en cada uno de los escalones 
+de carga, de la deformación en medias 
+centésimas de mm, registrando todas estas 
+lecturas para cada escalón de carga.
+  Observaciones minuciosas en todos los 
+elementos estructurales aledaños (por 
+encima y debajo del elemento estructural), 
+para apreciar la aparición de fisuras, 
+desprendimientos o similares. En caso de 
+ocurrir , pueden ser considerados principio 
+de falla y detener el ensayo de carga. Pueden 
+seguirse algunas fisuras preexistentes con 
+fisurómetros específicos para apreciar su 
+potencial movimiento.
+  Una vez materializada la totalidad de las 
+cargas modeladas, se toma la lectura de cada 
+uno de los flexímetros o desplazamiento 
+de los puntos fijos para el caso de emplear 
+niveles ópticos.
+  Se dejan las cargas en su lugar durante 24 
+horas. Al día siguiente, se leen los flexímetros 
+y se registra la diferencia de la lectura después 
+del ensayo de carga y a las 24 horas.
+  Se retiran las cargas en escalones similares a 
+los de la carga. Se toman las lecturas de los 
+flexímetros en el proceso de descarga, con la 
+misma técnica y metodología que durante la 
+carga.
+  Una vez terminado el proceso de descarga, se 
+lee el flexímetro y registro correspondiente, 
+dejando los medidores de deformación 
+en su posición hasta las 48 horas. A los dos 
+días de comenzado cada ensayo de carga, 
+se toma la lectura final de los flexímetros y 
+deformaciones residuales.
+  Una vez tomadas las lecturas a las 48 horas, 
+se retiran los elementos de medición o 
+puntos fijos (si se trabaja con nivel óptico) 
+y sus elementos de sostén, para llevarlos al 
+próximo elemento estructural.
+NOT A TÉCNICA44
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 34    diciembre 2014
+5. Metodología para la medición 
+de deformaciones
+Debido a que el aspecto clave para verificar el 
+comportamiento estructural es la medición pre-
+cisa de las deformaciones durante la carga y su 
+posterior recuperación, se describirán algunas 
+de las técnicas que pueden utilizarse para medir 
+flechas con elementos de medición precisos. En 
+la figura 6 se muestra el posicionamiento de al-
+gunos dispositivos de medición durante ensayos 
+de carga.
+  Nivel óptico: para ciertas estructuras en las 
+cuales se esperan deformaciones importantes 
+como puentes, en la escala de mm, el método 
+más práctico y sencillo para implementar 
+es la demarcación de puntos fijos y 
+posicionamiento de niveles ópticos para su 
+seguimiento. Para estructuras muy rígidas y 
+con deformaciones a cuantificar bajas, este 
+método no es aplicable.
+  Flexímetros o relojes comparadores: pueden 
+ser digitales o analógicos y deben colocarse 
+de forma completamente independiente 
+a la estructura a auscultar , para que no 
+los influencien sus deformaciones en los 
+dispositivos. Pueden ser posicionados con 
+puntales telescópicos en la parte inferior de 
+losas o desde la parte superior si existen vigas, 
+reticulados o losas superiores. La resolución de 
+0,01 mm permite obtener mediciones muy 
+precisas. En casos de difícil sujeción por puntales, 
+pueden idearse métodos como, por ejemplo, 
+cables tensados y medición de deformaciones 
+mediante tornillos fijos a las losas.
+  Dispositivos electromagnéticos tipo L VDT: 
+si se posee un dispositivo de adquisición 
+de datos, se pueden lograr mediciones de 
+deformaciones con resolución de la milésima 
+de milímetro. Estos sistemas son de excelente 
+precisión si están adecuadamente calibrados, 
+y también deben ser sujetados de algún 
+modo que no sean perturbados por los 
+movimientos de las estructuras durante los 
+ensayos de carga.
+6. Interpretación de las mediciones 
+en los ensayos de carga
+El reglamento CIRSOC establece dos princi-
+pios para determinar si las deformaciones son 
+admisibles o no en la estructura. Con cumplir 
+una de las dos, es requisito suficiente para dar por 
+aprobada la prueba de carga:
+  Recuperación de la flecha: la condición 
+principal es que la deformación máxima 
+durante el ensayo se recupere al menos en 
+un 75% a las 24 horas de retirar las cargas. 
+Expresado de otra manera, la deformación 
+residual debe ser menor o igual a la cuarta 
+parte de la deformación máxima. En la figura 
+7 se muestra un caso real de mediciones 
+de deformaciones y su recuperación en el 
+tiempo.
+  Criterio de la flecha máxima: puede admitirse 
+que la deformación máxima sea inferior a 
+una ecuación que figura en el reglamento y 
+contempla la luz libre entre apoyos y la altura 
+de la losa. Se establece que la flecha a carga 
+máxima debe ser menor a la luz entre apoyos 
+2 / (20.000 x altura losa), expresados en mm.
+La parte de la estructura ensayada no debe mos-
+trar evidencias de falla. El descascaramiento, apa-
+rición de fisuras evidentes a 45  por corte y el 
+aplastamiento del hormigón comprimido se de-
+ben considerar una indicación de falla. En las zo-
+nas de anclajes o empalmes, se deben evaluar las 
+causas y las consecuencias de la aparición de va-
+rias fisuras inclinadas cortas o fisuras horizontales 
+a lo largo de la línea de las armaduras.
+Otro criterio general de aceptación para el 
+comportamiento de una estructura en la prue-
+ba de carga es que ésta no muestre “evidencias 
+de falla”. Éstas incluyen la aparición de fisuras, 
+>
+NOT A TÉCNICA 45
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 34    diciembre 2014
+descascaramientos y/o flechas de tal magnitud y exten-
+sión, que el resultado observado sea claramente excesivo 
+e incompatible con los requisitos de seguridad de la estruc-
+tura. No se pueden desarrollar reglas simples, aplicables a 
+todos los tipos de estructuras y condiciones. Si se ha pro-
+ducido un daño suficiente como para considerar que la es-
+tructura no ha superado la prueba de carga, no se permite 
+volver a realizar una nueva prueba, dado que se conside-
+ra que los elementos dañados no se deben poner en ser-
+vicio, ni siquiera para soportar cargas menores. El descas-
+caramiento local del hormigón comprimido en elementos 
+solicitados a flexión, debido a imperfecciones en el hormi-
+gonado, no indica necesariamente un deterioro estructu-
+ral global. Los anchos de fisura son buenos indicadores del 
+estado de la estructura y deben ser observados y medidos 
+detenidamente para determinar si el estado de la estruc-
+tura es satisfactorio. Antes de la realización de la prueba 
+de carga, se recomienda establecer los criterios relaciona-
+dos con los tipos de fisuras previstos, dónde y cómo se me-
+dirán, y los límites o criterios para la evaluación de fisuras 
+nuevas o para las modificaciones aceptables en el valor del 
+ancho de las fisuras. <
+NOT A TÉCNICA46
+
+--- FIN DE PÁGINA ---
+

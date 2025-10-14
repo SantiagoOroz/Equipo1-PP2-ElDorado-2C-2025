@@ -1,0 +1,2323 @@
+Hormigonar 46   Diciembre l 2018
+Encabezado de  
+probetas y testigos  
+C
+oncluidos los procedimientos simplificados de los 
+principales ensayos de hormigón fresco (incluidos el 
+moldeo y curado de probetas), se estudiarán los pa-
+sos a seguir para obtener resultados de ensayo confiables en 
+el hormigón endurecido. En particular en este artículo, se de-
+tallarán los dos tipos de encabezado más empleados en nues-
+tro país: mortero de azufre y placas de neopreno. Si bien en 
+la Norma IRAM 1553 figuran encabezados con pasta de ce-
+mento y con mortero de cemento, éstos no suelen ser tan 
+empleados como los mencionados, al menos en tareas de au-
+tocontrol de plantas de hormigón.
+Es posible que el factor que más incida negativamente en 
+un ensayo a compresión sea el mal uso de los encabeza-
+dos y, cuando se combina con probetas mal confecciona-
+das (falta de paralelismo de las caras o marcado superficial 
+de la cara superior , por ejemplo), puede ocasionar nota-
+bles reducciones de resistencia a los hormigones, influen-
+ciadas negativamente por desconocer la relevancia de la 
+temática de los encabezados. Antes de su estudio, cabe 
+aclarar que ambas normas de encabezado de probetas –
+IRAM 1553 para morteros e IRAM 1709 para placas elasto-
+méricas– tienen versiones vigentes relativamente recien-
+tes, siendo las últimas revisiones de los años 2008 y 2016 
+respectivamente, y en ambas han existido cambios consi-
+derables respecto a las versiones anteriores.
+La simplicidad del encabezado con neopreno, que ha mejora-
+do las condiciones de operación de todos los principales labo-
+ratorios del país, puede ser una desventaja importante si no 
+se le realiza un adecuado control y calificación. En el mercado, 
+abundan discos de neopreno que “encajan ajustadamente” 
+en los retenes, discos con espesores de 15mm o superiores y 
+con dureza y constancia de propiedades muy dudosas. Pocas 
+veces se toma el trabajo de realizar la calificación según IRAM 
+1709 para diferentes rangos de resistencia (y durezas del neo-
+preno) con el fin de asegurar la validez de los resultados, y 
+todo ello conlleva al mal uso de éstos. 
+T ambién cabe destacar que la nueva norma IRAM acepta el 
+encabezado con neopreno de testigos de hormigón y casi 
+nunca se tienen los cuidados indicados por la norma: aserra-
+do o pulido de gran planicidad y contar con retenes y placas 
+de neopreno específicas para diferentes diámetros, lo cual 
+operativamente es muy complejo. En ciertos casos, se ensa-
+yan testigos de 140 a 145mm en los retenes de probetas de 
+15 x 30cm, o bien testigos de 95mm (extraídos con brocas co-
+merciales de 4”) en los retenes de probetas de 10 x 20cm, y lo 
+mismo no es válido en absoluto.
+Por el otro lado, el mortero de azufre pocas veces se verifica 
+en sus cualidades y resistencia a compresión. T ambién deben 
+tenerse cuidados adicionales, como la nivelación del encabe-
+zador metálico y asegurarse de llenar todo el huelgo para evi-
+tar oquedades, que también pueden aparecer por sucieda-
+des en los encabezadores o por el estado de humedad de la 
+probeta. No tener en cuenta estos factores, tanto en probe-
+tas como testigos, puede causar resultados erráticos y siem-
+pre inferiores a los que se hubiesen obtenido si se siguiesen los 
+lineamientos de la Norma IRAM 1553.
+Con lo cual, antes de realizar el ensayo a compresión propia-
+mente dicho de las probetas cilíndricas, es indispensable dete-
+nerse y calificar los encabezados, no pensando que todos los 
+comercios venden neoprenos calificados y trazables. 
+ POR MS. ING. MAXIMILIANO  SEGERER. CONTROL Y DESARROLLO DE HORMIGONES  / WWW.CDHORMIGONES .COM.AR 
+ENSA YOS P ASO A P ASO DEL HORMIGÓN ENDURECIDO:
+TECNOLOGÍA28
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 46   Diciembre l 2018
+Mortero de azufre fundido inmediatamente antes de apoyar la probeta.
+‹‹
+Falta de nivelación del encabezador metálico que, además, debe estar en una 
+superficie firme (nunca sobre tablones o similares).
+‹ Probetas de hormigón convencional encabezadas con mortero 
+de azufre después de la rotura a compresión.
+En muchos casos de hormigones especiales, es indispensable 
+el encabezado con mortero de azufre.
+‹‹T estigos de hormigón ya ensayados adecuadamente, encabezados 
+con mortero de azufre.
+‹
+Huecos bajo el encabezado por cantidad insuficiente de mortero 
+al apoyar la probeta y luego rellenar por el costado.
+‹
+Mesa de encabezado no nivelada (falta de paralelismo en las caras).
+Encabezado con gran cantidad de burbujas y falta de adherencia debido 
+a la superficie húmeda.
+‹
+
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 46   Diciembre l 2018
+1) ELEMENTOS NECESARIOS PARA EL ENSAYO   
+1. Placas metálicas con dispositivos de alineación y planicidad 
+garantida, de dimensiones según la probeta.  
+1.1 El huelgo donde va el azufre debe tener una profundidad 
+de 10 a 12mm.
+2. 'LVSRVLWLYRHQFDEH]DGRUVXMHWRDEDVHÀUPHQRPHVDGH
+madera) y muy bien nivelada.      
+2.1. La falta de nivelación del encabezador puede traer 
+inconvenientes severos en los resultados del ensayo.
+3. Instalación con fuente de calor que permita mantener el 
+mortero de azufre fundido a 130 ± 5°C.
+4. Olla metálica destinada a contener el mortero de azufre 
+SDUDODSUHSDUDFLyQGHODVEDVHVQRDIXHJRGLUHFWR
+5. Cucharón con pico vertedor, cuyo volumen sugerido  
+HVGHDOPHQRVFPòSDUDSUREHWDV[
+6. 0DWHULDOHV$SUR[SDUDHOPRUWHURGHD]XIUHD]XIUHHQ
+SROYRJUDÀWR\DUHQDSDVDWDPL]
+Aceite mineral y herramientas manuales.
+8. Elementos de protección personal, como gafas, guantes  
+de material aislante, protección respiratoria, etc.
+9. El lugar donde se trabaja la mezcla debe estar bien 
+ventilado y colocar el conjunto bajo una campana.   
+     
+2) VERIFICACIÓN DE LA APTITUD  
+DEL MORTERO DE AZUFRE
+10. Respecto a la resistencia a compresión mínima del 
+HQFDEH]DGRPHGLGDHQSUREHWDVF~ELFDVGHPP
+10.1 Hormigón de 3,5 a 50MPa - Resistencia mínima 35MPa 
+RODGHODSUREHWDHQVD\DGDODTXHVHDPD\RU 
+10.2 Hormigón de más de 50MPa - Resistencia no menor que 
+la probeta.   
+11. Para Resistencias >50MPa, IRAM 1553 establece un 
+SURFHGLPLHQWRSDUDODYHULÀFDFLyQGHDSWLWXGDQH[R%
+11.1 &DOLÀFDFLyQGHSDUHVGHSUREHWDVFRQPRUWHURGH
+azufre y comparar con mortero de cemento o pulidas.
+12.5HVSHFWRDOHVSHVRUSURPHGLRPi[LPRGHEHVHUGHPP
+para resistencias <50MPa y 3mm para >50MPa.
+12.1 La Norma IRAM 1553 establece un procedimiento para 
+VXPHGLFLyQHQHODQH[R$   
+     
+3) PREPARACIÓN DE LAS BASES 
+CON MORTERO DE AZUFRE
+ 1.
+ Es aplicable para el encabezado de probetas y testigos 
+cilíndricos para ser ensayadas a compresión.   
+ 
+1.1 Para el caso de ensayos de tracción por compresión 
+GLDPHWUDO\SRUÁH[LyQQRVHUHDOL]DHQFDEH]DGR
+2.(OHQFDEH]DGRQRGHEHÁXLUQLIUDFWXUDUVHGXUDQWHHO
+ensayo de las probetas y testigos.
+3. Deben tratarse las bases de las probetas para que resulten 
+planas y paralelas entre sí y normales su eje.
+3.1 Se considera una adecuada planicidad, <0,5º que 
+FRUUHVSRQGHDPPHQPPGHIRUPDDSUR[LPDGD
+4. Las probetas de hormigón en curado húmedo deben 
+mantenerse en esa condición hasta el día del ensayo.  
+5./RVH[WUHPRVGHODVSUREHWDV\WHVWLJRVGHEHUiQOLPSLDUVH
+adecuadamente, retirando todo recubrimiento.
+5.1 Si son muy lisas, pueden picarse ligeramente con un 
+elemento de acero para mejorar adherencia.   
+5.2 No se admiten depresiones previas de más de 5mm,  
+sino podrán pulirse a aserrarse para eliminarlas.
+6./DVEDVHVGHODVSUREHWDVGHEHQHVWDUFRQVXSHUÀFLHVHFD
+en el momento de recibir el mortero de azufre.   
+6.16XSHUÀFLHVK~PHGDVFRQEULOORSXHGHQRFDVLRQDU
+EXUEXMDVEDMRODVXSHUÀFLH
+6HSUHSDUDODPH]FODGHD]XIUHJUDÀWR\DUHQDÀQDHQ
+SURSRUFLRQHV\UHVSHFWLYDPHQWHRFRPHUFLDO
+8. Se coloca en la olla y se eleva la temperatura entre  
+125 y 135°C para obtener su fusión.  
+8.1 Se debe chequear periódicamente que la temperatura  
+se encuentre en el rango indicado.
+9. Previamente a la preparación, se coloca sobre las placas 
+una delgada capa de aceite mineral liviano.
+9.17DPELpQGHEHH[DPLQDUVHTXHQRKD\DPDWHULDOHV
+H[WUDxRVHQODEDVHSDUWtFXODVGHKRUPLJyQJUXPRVHWF
+10. Además, debe precalentarse la base antes del primer 
+ensayo para que sea más fácil el encabezado.
+11.8QDYH]TXHODPH]FODVHHQFXHQWUDÁXLGD\KRPRJpQHD
+se vierte sobre la placa hasta llenar el receptáculo.
+11.1 Debe "sobrar" material al apoyar la probeta, cuidando 
+que no queden oquedades o grumos.
+11.2 Si al apoyar la probeta, falta visiblemente mortero de 
+azufre, retirarla y retirar la capa adherida.
+11.3 Se quita la probeta, se retira el encabezado defectuoso 
+y se vuelve a encabezar. 
+11.4 Colocar "dos a tres veces" morteros de azufre puede 
+SURYRFDURTXHGDGHV\GHÀFLHQFLDVHQHOHQVD\R
+12. Inmediatamente se coloca encima la probeta, asegurando 
+un perfecto apoyo contra las guías laterales.  
+12.1 En el caso de que la probeta no quede apoyada en las 
+guías, es decir, inclinada, debe repetirse el encabezado.
+13.8QDYH]VROLGLÀFDGRHOPRUWHURGHD]XIUHVHUHWLUDOD
+probeta, eliminando las rebabas remanentes.
+14. A continuación se realiza el mismo procedimiento sobre la 
+RWUDFDUDGHODSUREHWDVLHPSUHDPEDVFDUDV
+14.1 Es recomendable, en testigos y probetas, colocar un 
+nivel de burbuja sobre la cara ya encabezada.
+14.2 Esto permite salvar faltas de paralelismo. Se coloca el 
+nivel en dos posiciones ortogonales.    
+15. Se dejan reposar 2 horas las probetas y ya pueden ser 
+HQVD\DGDVDFRPSUHVLyQKDVWDODVKRUDV 
+16. Puede chequearse la efectividad del encabezado 
+golpeándolo ligeramente con un metal.
+16.1 Un sonido hueco del golpe probablemente indica 
+RTXHGDGHV\GHÀFLHQFLDVGHOHQFDEH]DGR
+16.2 Deben evitarse golpes que puedan afectar –antes del 
+ensayo– la capa del material que conforma las bases
+6LVHDGYLHUWHQLPSHUIHFFLRQHVHQODVXSHUÀFLHRERUGHV
+se procederá a quitarlo y repetir el encabezado.
+18. Sólo se admite el empleo del mortero de recuperación 
+que no haya sido contaminado ni sobrecalentado.
+18.1 La olla de calentamiento se vaciará y cargará 
+periódicamente con material nuevo.
+18.2 Se renovará para que el mortero remanente en la olla 
+no haya sido empleado en más de 5 ocasiones.
+19. Las probetas encabezadas con mortero de azufre no 
+pueden volver a la pileta de curado húmedo.
+20. El ensayo debe realizarse dentro de las 2 a 4 horas 
+desde el momento del encabezado.
+ENCABEZADO DE PROBETAS Y TESTIGOS DE HORMIGÓN 
+CON MORTERO DE AZUFRE
+SEGÚN NORMA IRAM 1553 FICHA / HE01
+TECNOLOGÍA 31
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 46   Diciembre l 2018
+Neoprenos comerciales con durezas y medidas  fuera de norma.
+‹
+A la izquierda, neopreno usado pero en condiciones; mientras que 
+a la derecha, neopreno ya inutilizable (se usó seguramente de forma 
+indebida antes del recambio).
+Las probetas de hormigón para ensayarse con neopreno deben tener 
+una buena planicidad en ambas caras para posibilitar su ensayo.
+‹  Importancia de dar vuelta los discos de neopreno para tener un desgaste 
+parejo de los mismos (en la foto se evidencia que no se dan vuelta).
+‹
+Rotura muy frecuente tipo 5 de esquina con encabezado con neopreno 
+(categoría H-40).
+‹
+ Registro de rotura de probetas, incluyendo el número  
+de uso de discos de neopreno.
+Los discos de neopreno deben ser compatibles con el diámetro 
+de los retenes (izquierda) y no ingresar a presión (derecha).
+‹
+Registro de calificación de encabezado de neopreno tipo, según IRAM 1709.
+‹
+‹
+‹
+TECNOLOGÍA32
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 46   Diciembre l 2018
+1) ELEMENTOS NECESARIOS PARA EL ENSAYO   
+1. Discos o retenes metálicos resistentes a usos repetidos,  
+de dimensiones según la probeta o testigo a ensayar.
+1.1'HEHQWHQHUHVSHVRUHVGHSDUHGHVGHPPHQWRGRV
+sus lados) y altura interior libre del orden de los 25mm.
+1.2 Deben ser de acero, estar maquinados y poseer una 
+HOHYDGDSODQLFLGDGPP
+1.3 6XGLiPHWURLQWHULRUVHUiHQWUH\GHO
+GLiPHWURQRPLQDOGHODSUREHWDUHFRPHQGDEOH
+1.4 3DUDSUREHWDVGH[FPHOGLiPHWURLQWHULRU
+recomendado es de 104 a 105mm.   
+1.53DUDSUREHWDVGH[FPHOGLiPHWURLQWHULRU
+recomendado es de 156 a 158mm. 
+2. Placas de elastómero o de neopreno de dureza Shore A 
+HQWUH\VHJ~Q1RUPD,5$0
+2.1 Para no ser calificadas, deben poseer certificación  
+GHFDOLGDGGHSROLFORURUHQR0%&D0%& 
+2.2 Es recomendable trabajar con placas de dureza 61-64 
+SDUDKRUPLJRQHV+D+$670
+2.3(VUHFRPHQGDEOHWUDEDMDUFRQSODFDVGHGXUH]D
+SDUDKRUPLJRQHV+\VXSHULRUHV$670
+2.4(OHVSHVRUGHODVSODFDVWLHQHTXHVHUPPHQHO
+mercado hay muchas placas que no lo respetan).
+2.5 La diferencia entre el diámetro interior del retén metálico  
+y el del disco debe ser menor o igual a 2mm.
+2.6 La condición superior, indica que el disco debe entrar 
+"holgado" y no "a presión" en los retenes metálicos.
+3. Para ensayar testigos, generalmente deben poseerse 
+retenes y discos específicos para el encabezado.
+3.1 /D~QLFDH[FHSFLyQDORDQWHULRUHVJDUDQWL]DUXQ
+diámetro de testigo de 100 ± 2mm o de 150 ± 3mm.
+3.2 No obstante lo anterior, debe realizarse un aserrado o 
+pulido con gran planicidad en ambas caras.
+3.3 3RUHMHPSOR6LHOWHVWLJRWLHQHGLiPHWURPPGHEH
+poseerse par de retenes y capas de neopreno específicos.
+3.4.3DUDWHVWLJRVFRQEURFDVFRPHUFLDOHVGH(MD
+PPQRSXHGHQHQVD\DUVHFRQORVPLVPRVGLVFRV 
+3.5 Si bien la norma especifica que pueden ensayarse 
+testigos, debe ser mucho más cuidadosa la aplicación.
+4. Elementos de protección personal, como gafas y la prensa, 
+deben contar con una jaula.
+2) VERIFICACIÓN DE LA APTITUD DE LAS PLACAS  
+DE NEOPRENO 
+5. La dureza Shore A de las placas de neopreno debe estar 
+FRPSUHQGLGDHQWUH\   
+5.1 Placas de dureza <60 tienen baja durabilidad  
+\!SXHGHQSUHVHQWDUUHVXOWDGRVHUUiWLFRV
+6. La dureza se controlará periódicamente con la ayuda  
+de un durómetro Shore A con tolerancia ± 1ShA.
+El sistema debe ser calificado antes de ser empleado,  
+WDOFRPRILJXUDHQOD1RUPD,5$0
+ Para la calificación, deben moldearse al menos 10 pares 
+de probetas gemelas de diferentes resistencias. 
+ Hay que realizar calificación con cada dureza o cuando  
+se cambie de proveedor.
+ Se ensaya una de cada pareja con encabezado de azufre 
+,5$0\ODRWUDFRQGLVFRVGHQHRSUHQR
+Se analizan estadísticamente los datos y, con la ayuda  
+GHOD1RUPD,5$0VHDSUHFLDVLFDOLILFD
+ Si califica el sistema, puede emplearse este tipo  
+de encabezado para resistencias entre 10 y 85MPa. 
+  
+3) PREPARACIÓN DE LAS BASES CON PLACAS 
+ELASTOMÉRICAS (NORMALMENTE DE NEOPRENO)
+ 
+ 1. 9HULILFDUTXHHQODVEDVHVGHODSUREHWDQRH[LVWDQ
+depresiones de más de 5mm.
+2. Las bases de las probetas o testigos no deben apartarse 
+en más de 0,5º de la perpendicularidad de su eje.
+3. En caso de presentar importantes bajorrelieves, se 
+empleará el encabezado de mortero de azufre.
+3.1 Otra alternativa es aserrar y/o pulir la cara de la probeta 
+HQFRQVHQVRFRQHOLQWHUHVDGR
+4. ([DPLQDUODVSODFDVGHQHRSUHQRSRUILVXUDVRSDUWtFXODV
+incrustadas antes de cada uso.
+5. Si las placas tienen fisuras de más de 10mm o 
+aparentemente profundas, no deben ser utilizadas.
+6. Deterioros en el perímetro son normales y no 
+necesariamente deben reemplazarse las placas  
+de neopreno.  
+ Periódicamente, quitar las placas de los retenes para 
+limpiar las partículas que podrían estar entre ellos.
+Es recomendable una limpieza por semana o 
+quincenalmente y dar vueltas las placas de neopreno.
+8.9HULILFDUTXHQRH[LVWDQLQJ~QPDWHULDOH[WUDxRRUHVWRV 
+de hormigón sobre las bases de la probeta.
+9. Colocar las placas en los discos y centrar las placas  
+y discos en la probeta.
+9.1 Con el encabezado de neopreno es muy importante el 
+centrado del disco superior en el plato de la prensa.
+9.25RWXUDVGHHVTXLQDWLSRPX\UHFXUUHQWHVSXHGHQ
+deberse a un mal centrado de la probeta.
+10. El ensayo de rotura de probetas será detallado en un 
+procedimiento específico según IRAM 1546.
+11. El número de usos de cada par de placas de neopreno es 
+100, por lo que debe llevarse un registro de usos.
+11.1 3DUDUHVLVWHQFLDVHOHYDGDV!03DSXHGH
+FRQVLGHUDUVHFRPRGREOHXVRFDGDURWXUD0i[
+11.2(QOD1RUPD,5$0ILJXUDXQDYHULILFDFLyQD
+realizar para poder emplear los discos hasta 300 veces.
+11.3 Si no se presentan deterioros a más de 100 ensayos, 
+puede realizarse un contraste con placas nuevas.
+ENCABEZADO DE PROBETAS DE HORMIGÓN CON PLACAS DE NEOPRENO FICHA / HE02Según Norma IRAM 1709
+RESISTENCIA A LA COMPRESIÓN DE 
+PROBETAS Y TESTIGOS
+10 A 40MPa 50 ± 5
+60 ±  5
+70 ± 5
+70 ±  5
+100
+100
+100
+50
+20 A 50MPa
+30 A 50MPa
+MAYOR QUE 50 A 85MPa
+Dureza ShA REUSOS 
+(MÁXIMO)
+TECNOLOGÍA 33
+
+--- FIN DE PÁGINA ---
+
+>
+Hormigonar 48    Septiembre 2019
+S
+in dudas el ensayo a compresión de probetas de hormigón 
+es el más relevante de las prácticas de laboratorio. Este en-
+sayo para probetas y testigos cilíndricos está muy relacio-
+nado con la temática del encabezado (ya abordada en detalle en 
+otro artículo anteriormente publicado), tanto en el uso de mor-
+tero de azufre como de placas elastoméricas (neopreno). Por 
+ello, es condición necesaria tener el encabezado validado para 
+poder romper probetas o testigos a compresión. Las probetas 
+cúbicas, empleadas en muchos otros países, tienen la ventaja de 
+la no necesidad del encabezado, pero deben tenerse otros cuida-
+dos diferentes a los de las probetas cilíndricas.
+En el presente trabajo, se brindan dos procedimientos de rotu-
+ra de probetas: uno para prensas digitales automatizas y otro 
+para prensas manuales con dial analógico. Existen una gran va-
+riedad de prensas y puede establecerse un procedimiento es-
+pecífico empleando los dos publicados, ya que puede haber 
+prensas automatizadas con lectura indirecta en aro dinamo-
+métrico o prensas manuales con lectura digital. 
+Las prensas que estrictamente cumplen con la norma IRAM 
+1546, siempre y cuando estén adecuadamente calibradas y ve-
+rificadas, son las prensas automatizadas (para regular la veloci-
+dad de carga de forma precisa) y digitales (sin ábacos, ni tablas 
+ni coeficientes de corrección). Sin embargo, es práctica común 
+y lo consideramos aceptable para laboratorios de autocontrol 
+de planta o laboratorios de obra, el empleo de prensas manua-
+les, debido a su versatilidad y costo bastante inferior que las an-
+teriores (entre 1/3 y 1/6). De allí que, si bien no corresponde 
+según IRAM 1546 el uso de estas prensas manuales con dial 
+analógico, será seguramente una herramienta muy útil para los 
+laboratorios de hormigoneras para pulir sus procedimientos y 
+poder usarlo como medio de capacitación.
+En tanto, a veces existen falencias en los ensayos a compre-
+sión, entre los que se pueden mencionar: no medir el diámetro 
+de las probetas (considerando, sin fundamento, que todas las 
+probetas miden 150 ó 100mm), la falta de centrado de las pro-
+betas, falta de rotación y limpieza de retenes de encabezados, 
+el hecho de ir excesivamente rápido aplicando manualmente 
+las cargas y romper una probeta de H-30 en medio minuto, 
+así como el no retener la lectura máxima de los diales y “estar 
+atento y estimar” cuando se produce la rotura. T odos estos as-
+pectos influyen notablemente en las tensiones de rotura -en 
+porcentajes entre el 5% y 15%- lo cual invalida directamente 
+el ensayo ya que la norma IRAM solicita errores dentro del 1%. 
+Además, otros factores pueden influenciar mucho más, como 
+el uso de placas de neopreno inadecuadas sin validar o bien de-
+fectos en las probetas (irregularidades superficiales, falta de 
+paralelismo o probetas con fisuras u oquedades) que pueden 
+tirar para abajo las resistencias de forma notable y buscar los 
+problemas en el hormigón o sus materiales cuando en realidad 
+están en los ensayos. Por ello, es importante contar con proce-
+dimientos validados, prensas verificadas y calibradas, insumos 
+calificados y, fundamentalmente, laboratoristas capacitados, 
+dado que el factor humano es indispensable. 
+En los procedimientos adjuntos, también se describen las limi-
+taciones de uso de las prensas con dial analógico con aros dina-
+mométricos o cuidados específicos para ensayos de probetas 
+de RDC o alivianados, que muchas veces no están contempla-
+dos en las normas de ensayo.
+Rotura de probetas a 
+compresión  
+ POR EL MS. ING. MAXIMILIANO  SEGERER, DE LA FIRMA CONTROL Y DESARROLLO DE HORMIGONES  / WWW.CDHORMIGONES .COM.AR
+ENSA YOS P ASO A P ASO DEL HORMIGÓN ENDURECIDO
+TECNOLOGÍA22
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 48    Septiembre 2019
+1 - PRENSA AUT OMA TIZADA CON VELOCIDAD DE CARGA 
+CONTROLADA CON PROBET A Y A ENSA Y ADA.
+‹
+3 - MEDICIÓN DE AL TURA CON ENCABEZADO (RELEV ANTE P ARA 
+TESTIGOS DE HORMIGÓN).
+5 - CENTRADO DEL RETÉN METÁLICO DEL ENCABEZADO CON 
+MARCAS CONCÉNTRICAS DE LA PRENSA.
+‹ 6 - RO TURA DE PROBET A TIPO 4 SEGÚN IRAM 1524.
+‹
+7 - DISPLA Y INDICADOR AL FINALIZAR EL ENSA Y O DE PRENSA 
+DIGIT AL CON VERIFICACIÓN Y CALIBRACIÓN VIGENTE.
+‹
+4 - PROBET AS CON SERIOS DEFECT OS DE CONFECCIÓN QUE DEBEN 
+SER OBSERV ADAS O NO ENSA Y ADAS.
+2 - MEDICIÓN DE DOS DIÁMETROS PERPENDICULARES AL 
+CENTRO DE LA PROBET A.
+‹
+8 - RO TURA DE PROBET AS EN PRENSA AUT OMA TIZADA. 
+HORMIGÓN (IZQUIERDA) Y RDC (DERECHA).
+‹
+‹
+‹
+TECNOLOGÍA24
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 48    Septiembre 2019
+1) ELEMENTOS NECESARIOS PARA EL ENSAYO:
+1. Prensas automatizadas  (ampliamente recomendable) 
+de lectura directa en kN o toneladas (o múltiplos).
+1.1. La prensa contará con visualización continua de carga 
+y almacenamiento de carga máxima.
+1.2. Deberá poseer calibración/verificación anual según 
+IRAM 1546 vigente e ISO 7500-1.
+1.3. En caso de usar la prensa en cargas < 20% de 
+FDSDFLGDGVHQHFHVLWDFDOLEUDFLyQHVSHFtÀFDDEDMDFDUJD
+1.4. Sus platos metálicos deben ser de acero de dureza > 
+a 55 HRC y contar con una rótula esférica.
+1.5. Espaciamiento entre platos adecuado con el tamaño 
+de la probeta y el sistema de encabezado.
+1.6. El elemento de lectura de cargas debe tener una 
+precisión del 1% de la carga del ensayo.
+1.7. Es muy relevante recordar que la protección (acrílico o 
+UHMDWLHQHTXHHVWDUFHUUDGDHQHOHQVD\R
+2. Calibre pie de rey (digital) con precisión de 0,1mm para 
+medir el diámetro de la probeta o testigo.
+3. Instrumento de medición de alturas (si corresponde) 
+con precisión de 1mm para medir la altura.
+4. Probetas o testigos cilíndricos con su sistema de 
+encabezado verificado (IRAM 1709 o IRAM 1553).
+4.1. Para probetas de RDC y ciertos alivianados, no es 
+necesario encabezado (nunca usar neopreno).
+5. Es recomendable retirar las probetas de la pileta de 
+curado 2 a 8 horas antes de su ensayo.
+6. EPP necesarios, como guantes, botines de seguridad y 
+gafas durante todas las operaciones.
+2) MEDICIONES A REALIZAR SOBRE PROBETAS O TESTIGOS 
+ANTES DEL ENSAYO:
+1. 
+Se medirán dos diámetros normales en la mitad de 
+altura de la probeta con precisión de 0,1mm.
+1.1. El diámetro D se calcula como el promedio de dos 
+diámetros medidos y expresado en mm al 0,1mm.
+2. La altura se medirá con precisión de 1mm (en caso de 
+mortero de azufre, con encabezado).
+2.1. Para mediciones de mayor precisión, podrá tomarse el 
+promedio de cuatro alturas (en mm).
+2.2. Con los cuatro valores obtenidos (centro y 3 cerca de 
+bordes) se calcula el promedio de la altura h.
+3. Para probetas de RDC u hormigones alivianados, es 
+recomendable registrar el peso (10g más próximo).
+3.1. Para H ° convencionales no es recomendable pesarlas 
+ya que se informan densidades erróneas.   
+3) PROCEDIMIENTO DE ENSAYO A COMPRESIÓN EN PRENSA 
+AUTOMATIZADA:
+4. Antes del ensayo se limpian cuidadosamente las 
+superficies de los platos y las bases de la probeta.
+5. Revisar el encabezado antes de la rotura de las 
+probetas (o de los testigos).
+5.1. Dar golpes suaves con elemento metálico para 
+encabezado con mortero de azufre (sin sonido hueco).
+5.2. Examinar las placas de neopreno con fisuras de más 
+de 10mm y darlos vuelta cada 15 a 30 ensayos.
+5.3. Se deberá contabilizar el número de usos de cada par 
+de discos (máximo 100 en general).
+6. Se enciende la prensa desde el botón adecuado hasta 
+que prenda su display y verificar que esté "en cero".
+6.1. En algunas prensas debe apretarse un botón adicional 
+HOLD (o similar) para retener la carga máxima.
+7. Colocar la probeta o testigo con su encabezado 
+centrado en ambos platos de la prensa (muy relevante).
+7.1. &HUUDUVLHPSUHODMDXODGHSURWHFFLyQDQWHVGH
+proceder al ensayo y utilizar gafas de protección.
+7.2. Cerrar la válvula de admisión de aceite o similar para 
+forzar que el aceite vaya al pistón.
+7.3. (QFDVRGHWHVWLJRVPiVEDMRVRGH5'&VLQ
+encabezado, colocar platos o separadores metálicos.
+7.4. Para probetas o testigos encabezados con mortero de 
+azufre, es necesario usar discos separadores.
+8. En caso de algunas prensas automatizadas se podrá 
+regular la velocidad de ensayo.
+8.1. Para Hº y probetas 15 x 30cm la velocidad será de 
+6kN/s-0,6 ton/s (ó 0,4 MPa/seg).
+8.2. Para RDC (15 x 30cm) la velocidad recomendada es 
+de 0,3kN/s-0,03 ton/s (ó 0,02 MPa/seg).
+8.3. Para testigos 4" y probetas 10 x 20cm la velocidad 
+será de 3kN/s-0,3 ton/s (ó 0,4 MPa/seg).
+8.4. Para testigos 3" y probetas 10 x 20cm la velocidad 
+será de 1,5kN/s-0,15 ton/s (ó 0,4 MPa/seg).
+9. Pulsar PLAY (o similar) para comenzar el ensayo y 
+esperar a que se produzca la rotura.
+9.1. Para prensas semi-automatizadas, regular los valores 
+de velocidad de carga anteriores (+/- 30%).
+9.2. Verificar visualmente apartamientos de la verticalidad 
+y de apoyo de la rótula al inicio del ensayo.
+9.3. Visualizar hasta cerca del 10% de la carga de rotura 
+aprox. Si hay algún desvío, descargar la prensa.
+9.4. 6LGXUDQWHODURWXUDKD\HVWDOOLGRVWHPSUDQRV\EDMD
+de carga, registrarlo como anomalía.
+10. Cuando se rompe la probeta, la prensa suele 
+GHWHQHUVHDXWRPiWLFDPHQWH\DUURMDODFDUJDPi[LPD4
+11. Luego hay que abrir la válvula de aceite o similar para 
+que descienda el pistón.
+12. Se registra la rotura y se aprecia el tipo de rotura 
+VHJ~Q,5$0YHUILJXUDVDGMXQWDV
+13. Luego se pulsa el botón salir (o similar) y, 
+eventualmente, el resultado se almacena en algún 
+dispositivo.
+14. Se procede a las diferentes roturas del día, previa 
+limpieza de platos de restos de hormigón en cada caso.
+4) CÁLCULOS Y CONTENIDO DEL INFORME SEGÚN IRAM 1546:
+15.
+15.1. Para testigos, corregir por esbeltez (E=h/D), 
+multiplicando por (0,128*E3-0,689*E2+1,3014*E+0,130).
+16. Informar prensa, operario, fecha de rotura, tipo de 
+encabezado, cliente, obra y responsable de muestreo.
+17. 'HFDGDSUREHWDIHFKDGHPROGHRGLiPHWURDOWXUD
+carga de rotura, tensión de rotura y defectos si posee.
+17.1. En caso de poseer defectos, indicar con (X), * o 
+similar y citar el tipo de defecto antes de la rotura.
+MÉTODO DE ENSAYO A COMPRESIÓN DE PROBETAS  
+Y TESTIGOS
+PRENSAS DE ENSAYO DIGITALES Y 
+AUTOMATIZADAS - SEGÚN NORMA IRAM 1546
+FICHA / HE04a
+TECNOLOGÍA 25
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 48    Septiembre 2019
+1 - CALIBRACIÓN DE PRENSA MANUAL CON DISPLA Y DIGIT AL.
+‹
+3 - ARO DINAMOMÉTRICO CON RELOJ ANALÓGICO DE PRENSAS 
+MANUALES.
+5 - RÓTULA ESFÉRICA SUPERIOR QUE DEBE POSEER BUENA 
+MOVILIDAD.
+‹ 6 - AROS Y DISCOS DE NEOPRENO P ARA PROBET AS DE 10X20 
+(COMP A TIBLES CON PRENSAS MANUALES).
+‹
+7 - LABORA T ORIST A DURANTE EL ENSA Y O.
+‹
+4 - SISTEMA DE DOS PIST ONES P ARA GRANDES Y PEQUEÑOS 
+MOVIMIENT OS.
+2 - PRENSA MANUAL CON ARO DINAMOMÉTRICO.
+‹
+8 - T ABLAS TIPO P ARA CARGAS Y TENSIONES DE RO TURA.
+‹
+‹
+‹
+TECNOLOGÍA26
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 48    Septiembre 2019
+1) ELEMENTOS NECESARIOS PARA EL ENSAYO:
+1. Prensa manual con indicación de carga o divisiones 
+HQUHORMPPDQDOyJLFRRPPGLJLWDO
+1.1. (OUHORMFRPSDUDGRUWHQGUiFRQWDFWR\DSHQDV
+FRPLHQFHDHMHUFHUFDUJDGHEHUiPDUFDUOHFWXUD
+1.2. La prensa deberá poseer calibración/verificación 
+anual según IRAM 1546 vigente e ISO 7500-1.
+1.3. No es recomendable emplear para lecturas menores 
+a 50 divisiones y no puede usarse < 25.
+1.4. (QSUHQVDVGHyWRQVFRQUHORMQRSXHGHQ
+ensayarse testigos de 3" o probetas de RDC.
+1.5. Deberá contar con una rótula esférica 
+adecuadamente engrasada y con movimiento asegurado.
+1.6. Espaciamiento entre platos adecuado con el tamaño 
+de la probeta y el sistema de encabezado.
+1.7. Es muy relevante recordar que la protección (acrílico 
+RUHMDWLHQHTXHHVWDUFHUUDGDHQHOHQVD\R
+2. 0HGLFLyQGHGLiPHWUR6LELHQHVH[LJLEOHSDUD
+autocontrol de planta en algunos casos no se cuenta.
+3. 0HGLFLyQGHDOWXUDQRHVXQSDUiPHWURUHOHYDQWHSDUD
+las probetas 10x20 ó 15x30, sí en testigos.
+4. Probetas cilíndricas con su sistema de encabezado 
+verificado (IRAM 1709 o IRAM 1553).
+5. Es recomendable retirar las probetas de la pileta de 
+curado 2 a 8 horas antes de su ensayo.
+6. EPP necesarios, como guantes y gafas, durante todas 
+las operaciones.
+2) MEDICIONES A REALIZAR SOBRE PROBETAS  
+ANTES DEL ENSAYO:
+1. Es recomendable medir los diámetros según IRAM 
+1546 con pie de rey digital o similar (Ver HE04a).
+1.1. En caso de no medir la probeta, pueden tener 
+variaciones de hasta 7% de la tensión real de rotura.
+1.2. Los diámetros reales oscilan de 144 a 153mm y por 
+HMHQ03DVRQ03DHOLQGLFDGR
+1.3. En autocontrol con moldes de 148 a 151mm pueden 
+tenerse errores del 4% al no medir el diámetro.
+1.4. La aceptación o no de estos errores dependerá del 
+SGC de la planta o del laboratorio de obra.
+2. No deben pesarse las probetas de hormigón, menos 
+aún si no se miden (práctica habitual).
+3) PROCEDIMIENTO DE ENSAYO A COMPRESIÓN  
+EN PRENSA MANUAL:
+3. Antes del ensayo se limpian cuidadosamente las 
+superficies de los platos y las bases de la probeta.
+4. Revisar el encabezado antes de la rotura de las 
+probetas para detectar o inferir posibles defectos.
+4.1. Dar golpes suaves con elemento metálico para 
+encabezado con mortero de azufre (sin sonido hueco).
+4.2. Examinar las placas de neopreno con fisuras de  
+más de 10mm y darlos vuelta cada 15 a 30 ensayos.
+4.3. Se deberá contabilizar el número de usos de cada  
+par de discos (máximo 100 en general).
+5. Se colocan los discos separadores para que el 
+recorrido del pisón no supere 2,0 a 2,5 cm ("un dedo")
+6. Se cierra manualmente la válvula de admisión de 
+aceite o similar, para forzar al aceite que suba el pistón
+7. Se coloca la barra en el pistón grande (mayor 
+GLiPHWUR\VHFRPLHQ]DDHMHUFHUSUHVLyQ
+7.1. Cuando se llega a 5 a 15 divisiones (ó 2 a 4 
+toneladas) según la prensa, se cambia la palanca.
+7.2. Algunas prensas tienen una sola palanca y pistón,  
+la cual debe usarse para todas las etapas.
+8. Se coloca la palanca en el pistón de pequeños 
+movimientos (menor diámetro), si dispone de ella.
+8.1. Se comienza a dar presión de forma pausada, 
+controlada y de manera constante, sin cambios bruscos.
+8.2. Debe determinarse alguna velocidad para cumplir con 
+ORVUHTXHULPLHQWRVGH,5$0
+8.3. 3RUHMHPSORVLGLYLVLRQHVFRUUHVSRQGHQ
+toneladas, se calcularán las toneladas / segundo
+8.4. (MGLYLVLRQHVDWRQVV3UREHWDV[
+debería realizarse en 45 a 65 segundos.
+8.5. (MGLYLVLRQHVDWRQVV3UREHWDV[
+debería realizarse en 90 a 130 segundos.
+8.6. El operario deberá estar capacitado de la velocidad  
+de carga recomendada de su máquina
+9. Se continúa con la velocidad regulada hasta la rotura,  
+la prensa debe tener dispositivo para su retención.
+9.1. Si no dispone de retención de carga máxima, deberá 
+grabarse o similar, sino existen errores groseros
+9.2. 6HUHJLVWUDODGLYLVLyQPi[LPDUHORMHQIRUPDWR
+SRUHMPPVLHVSRVLEOHDODGLYLVLyQGLY
+9.3. En función de esta lectura, se entra a la "tabla" de 
+estas prensas y se obtiene la carga de rotura
+9.4. También puede obtenerse la carga mediante la 
+ecuación de calibración (más preciso que la "tabla")
+9.5. Si es manual de carga directa, se registra la carga  
+(y eventualmente se aplican coeficientes correctores)
+10. Luego se abre la válvula o similar de admisión de 
+DFHLWH\VHHVSHUDDTXHVHEDMHHOSLVWyQ
+10.1. (QFDVRTXHQREDMHVRORSRGUiQXVDUVH
+VXSOHPHQWRV\XQJDWRKLGUiXOLFRRVLPLODUSDUDEDMDUOR
+10.2. En caso de recorrido importante, hay que usar discos 
+separadores (superior o inferior a la probeta).
+11. Se debe apreciar si hubo rotura de esquina anómala  
+o cualquier indicio de error en el ensayo.
+11.1. 6LKD\URWXUDVLQWHUPHGLDV\EDMDHOUHORMHQHO
+ensayo y luego supera la carga alcanzada, registrarlo.
+12. Se procede a las diferentes roturas del día, previa 
+limpieza de platos de restos de hormigón en cada caso.
+4) RESULTADO DEL ENSAYO A COMPRESIÓN:
+13. 
+En función de la carga máxima, puede obtener la tensión 
+GHURWXUD
+13.1. De forma más precisa, dividiendo la carga obtenida 
+por la sección como indica IRAM 1546  (ver HE04a).
+13.2. De manera menos precisa, mediante empleo de 
+tablas para diámetros estandarizados (150 ó 100mm).
+13.3. En caso de "tablas de tensiones", se obtiene la 
+tensión con mayor error al no medir la probeta.
+14. En caso de confeccionar un informe, deben citarse los 
+aspectos indicados en IRAM 1546.
+14.1. Si no se mide el diámetro o no se cuenta con 
+prensas según IRAM 1546, debe aclararse en el informe.
+14.2. Cualquier apartamiento con los procedimientos de 
+ensayos deben plasmarse o bien no citar IRAM 1546.
+14.3. Si el resultado está entre 25 y 50 divisiones informarlo 
+con reserva; menos de 25 divisiones no informarlo.
+15. En caso de poseer defectos, indicar con (X), * o similar 
+y citar el tipo de defecto antes de la rotura.
+MÉTODO DE ENSAYO A COMPRESIÓN DE PROBETAS  
+DE HORMIGÓN
+PRENSAS CON RELOJ COMPARADOR Y/O 
+ACCIONAMIENTO MANUAL (MÉTODO SIMPLIFICADO)
+FICHA / HE04b
+TECNOLOGÍA 27
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 47   Abril  l 2019
+>
+Extracción de testigos 
+cilíndricos  
+U
+na práctica muy habitual tanto para diagnosticar 
+estructuras (fisuras, juntas frías, defectos de cola-
+do y profundidad de aserrado) como para medir 
+la resistencia efectiva del hormigón de la obra, es la extrac-
+ción y posterior encabezado y rotura de testigos cilíndri-
+cos. Respecto al encabezado, que ya fue descripto en el 
+pasado número de la revista 
+Hormigonar, es altamente re-
+comendable trabajar con mortero de azufre según IRAM 
+1553. Es muy relevante elegir bien los puntos y extraer ade-
+cuadamente los testigos ya que estos son “los que decla-
+ran la verdad” y para ello deben cumplirse los procedi-
+mientos asociados. 
+En la Argentina, la norma IRAM 1551 es la que brinda los 
+lineamientos generales sobre la extracción y preparación 
+de los testigos. Sin embargo, la normativa es totalmente 
+genérica ya que depende de la técnica y máquina a utili-
+zar . Si bien el procedimiento puede parecer extenso, con 
+buena práctica y laboratoristas capacitados es posible ex-
+traer de 40 a 60 testigos por jornada, dependiendo de los 
+elementos.
+De allí que resulta útil tener un procedimiento Paso a Paso, 
+para realizar esta primera tarea de extracción y acondicio-
+namiento como corresponde con el objeto principal de no 
+alterar la muestra de hormigón y que la misma sea repre-
+sentativa de la estructura. El procedimiento dependerá de 
+los equipos que se poseen, con lo cual puede haber cierta 
+variabilidad en función de las máquinas que se dispongan 
+en la planta hormigonera o en la obra, pero es de ayuda 
+para planificar y realizar la extracción en función de dife-
+rentes elementos estructurales.
+No sólo es extraer el testigo, sino también planificarlo y 
+definir qué cantidad deben extraerse, de qué lugares, 
+con qué diámetro de broca, si se cortan o no armadu-
+ras, etc. Para ello hay que consensuar la estrategia de en-
+sayos con los profesionales actuantes de obra y elegir los 
+elementos más accesibles y representativos del hormigón 
+cuestionado. 
+Respecto a cortar armaduras, los detectores no suelen 
+traer los mejores resultados y en muchos casos es inevi-
+table cortar barras, con lo cual si esto ocurre y la sección 
+transversal no supera el 4% y se aprecia visualmente que 
+no hay defectos en la zona en contacto del acero y el hor-
+migón, no hay que tomar medidas adicionales. Si existen 
+defectos o se ha cortado una barra de gran diámetro, de-
+berá continuarse en el núcleo del hormigón un testigo 
+“más largo”, para luego cortar la zona de la armadura an-
+tes del ensayo.
+Sobre el estado de humedad de los testigos en el momen-
+to ensayo, los testigos húmedos suelen dar resultados me-
+nores que los secos. Si el elemento estructural va a estar en 
+su servicio humedecido, deben sumergirse 40 horas antes 
+del ensayo; mientras que si el hormigón estará en su vida 
+útil sin presencia casi permanente de humedad, debe en-
+sayarse en seco, luego de 48 horas de realizada la extrac-
+ción (para eliminar el agua que pueda contener el testigo 
+por la misma extracción).
+ POR EL MS. ING. MAXIMILIANO  SEGERER, DE LA FIRMA CONTROL Y DESARROLLO DE HORMIGONES  / WWW.CDHORMIGONES .COM.AR
+ENSA YOS P ASO A P ASO DEL HORMIGÓN ENDURECIDO: 
+TECNOLOGÍA22
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 47   Abril l 2019
+Dos máquinas en serie para la extracción de testigos en canal.
+‹ Máquina con burlete y bomba de vacío (ahorro de tiempo en fijación)
+Extracción de dos testigos con la misma fijación (muy recomendable).
+‹‹Extracción de testigos con andamios y medidas de seguridad adecuadas.
+‹
+Apagado / 
+encendido
+MotorLlave roja
+de agua
+Ajuste
+broca
+Hueco de la base
+4 tornillos de la base Mariposas Arandelas Varilla roscada
+y tuerca
+Cable de
+electricidad
+Tornillo de Ajuste
+Tornillos ALLEN
+(otra cara)
+Tornillos ALLEN
+laterales
+ajustables
+Vástago
+principal
+Broca
+Manguera
+Acople
+admisión
+de agua
+Carbones
+TECNOLOGÍA24
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 47   Abril l 2019
+1) ELEMENTOS NECESARIOS PARA 
+LA EXTRACCIÓN DE TESTIGOS   
+1.Máquina extractora de t estigos en buen estado de 
+funcionamien to con sus accesorios.   
+2. Toma eléctrica o grupo electrógeno en las cercanías del 
+elemento con prolongadores necesarios.    
+3. Provisión de agua de manera continua durante toda la 
+extracción de testigos (manguera, acoples, etc.).  
+3.1 Podrá realizarse con manguera a presión baja o con 
+un sistema de bomba manual, acoplados a la máquina. 
+3.2 Puede realizarse conectando una manguera a un 
+bidón a cierta altura (30cm encima de la máquina al 
+menos).  
+3.3 La long itud de manguera debe ser como mínimo de 
+1m y poseer medios para provisión continua de agua. 
+4. Broca diamantada de diámetro adecuado (según 
+CIRSOC 201 el diámetro mínimo es de 3").  
+4.1 Broca de 3" para elementos generales de hormigón 
+armado y con TMN de 1" o inferior.  
+4.2 Broca de 4" para pisos industriales (determinar 
+espesor) y para TMN de hasta 32mm (1 1/4"). 
+4.3 Broca de 5" a 6" para pavimentos o elementos con 
+TMN de hasta 2" . 
+4.4 Es recomendable, al menos en algunos puntos, 
+extraer dos testigos por fijación para verificar valor de 
+ensayo. 
+5. En caso de que se usen fijaciones c on expansión 
+mecánica, se necesitará: 
+5.1 Rotomartillo o taladro de mano con mechas o16mm 
+(en general) y su toma correspondiente a 220V. 
+5.2 Fijaciones metálicas tipo, 2 llaves combinadas para 
+ajuste/desajuste, martillo, taco de hinca y pera de goma.
+5.3 Varilla roscada, arandelas y tuercas varias y otras 
+herramientas menores.     
+6. En caso de fijación con bomba de vacío, poseer la 
+bomba y burlete inferior de la máquina en condiciones. 
+7. Para extraer (o "cortar") el testigo, un cortafierro o 
+similar y martillo y ocasionalmente alambre fino.  
+8. Juego de lla ves ALLEN y llave combinada pequeña para 
+ajuste/regulación de la máquina (si es necesario). 
+9. EPP nec esarios para las diferentes actividades (gafas, 
+protector auditivo, ropa de trabajo, guantes, etc.).  
+  
+2) ACONDICIONAMIENTO PREVIO A LA EXTRACCIÓN  
+10. Se deberán marcar previamente, de forma 
+aproximada, los lugares de extracción con una cruz, 
+círculo o similar. 
+10.1 En caso de super ficies que puedan tener fisuras, 
+mojar la superficie y esperar que seque para apreciarlas. 
+11. Para cada testigo, se buscará un área relativamente 
+plana para el mejor apoyo de la máquina.   
+11.1 En el área plana, a unos 20-30cm de la posición del 
+testigo, se marcará el lugar para realizar la fijación.   
+12. Se coloca la broca adecuada en la máquina de ensayo 
+y se enrosca manualmente hasta que ajuste.  
+13. Los cuatro tornillos inferiores y mariposas estarán 
+libres, no apoyando la máquina en los tornillos  
+sino en la base. 
+13.1 Procurar que el tornillo lateral de fijación esté 
+ajustado c on la broca en posición. 
+14. En caso de r equerir evitar cortar armaduras o al 
+menos reducir las armaduras cortadas, se puede: 
+14.1 Emplear un detector de metales, marcar la "grilla" y 
+colocar la broca al centro (a veces no es efectivo).   
+14.2 Relevar fisuras y armaduras salientes superiores por 
+ejemplo y con una plomada, determinar su posición.
+ 
+3) FIJACIÓN DE LA MÁQUINA DE ENSAYO 
+15. En caso de bomba al vacío, encender la bomba y sostener 
+la máquina hasta lograr el vacío necesario (pasar a 4).  
+16. Se realiza una perforación con el rotomartillo (modo giro 
+y percusión) de aproximadamente 5cm de profundidad. 
+16.1 Se limpia el polvo con la pera de goma introducida en 
+el agujero dejado por el taladro, quitando la cara del lugar.  
+16.2 Se presenta una fijación (parte hueca arriba) y se 
+aprecia si solo con la ayuda de la mano entra en el agujero. 
+16.3 En caso de no entrar, se vuelve a repasar el agujero 
+con el rotomartillo de forma un poco inclinada.  
+16.4 Se deberá repasar hasta que al menos ingrese la mitad 
+de la fijación sin forzarla excesivamente.   
+17 Posicionada la fijación, se coloca el taco de hinca sobre 
+ésta y se martilla enérgicamente su parte superior.  
+17.1 En el momento que se escucha un sonido metálico y el 
+taco no puede penetrar más, se retira el taco de hinca. 
+18 Se coloca la varilla roscada sobre la fijación y se enrosca 
+al menos 2cm (o hasta el fondo de la fijación).  
+18.1 En caso de no poder realizarlo manualmente,  
+se colocan dos tuercas en la parte superior  
+de la varilla roscada. 
+18.2 Con ayuda de las llaves combinadas se enrosca la 
+varilla en la fijación y se retiran las tuercas  
+con ambas llaves.
+19 Si en cualquier a de estas tareas se aprecia algún defecto 
+o movilidad de la fijación, ésta se realiza nuevamente.  
+20 Para fijar la máquina de ensayo, una vez colocada la 
+varilla roscada, se procede como se detalla:  
+20.1 Se coloca la base de la máquina de forma que en su 
+hueco interior de la base quede la varilla roscada. 
+20.2 En caso de apoyar la broca y no la base, se desajusta el 
+tornillo de sujeción y se sube la broca (sentido horario). 
+20.3 Se colocan dos arandelas en la varilla roscada y se bajan 
+manualmente hasta tomar contacto con la base.  
+20.4 Se coloca una tuerca y manualmente se ajusta hasta que 
+tomen contacto con las arandelas metálicas.  
+20.5 Se ajustan manualmente los cuatro tornillos de la base 
+hasta que tomen contacto con la base. 
+20.6 Se ajusta con la llave la tuerca de la varilla, sin robarla, 
+hasta que se aprecie un ajuste adecuado de la máquina.  
+20.7 Se ajustan con la llave combinada los cuatro tornillos sin 
+forzarlos en demasía y se ajustan las mariposas.  
+20.8 Por último, intentar reajustar sin forzar la tuerca sobre las 
+arandelas y no deberá casi moverse.   
+21. En caso de tabiques se necesitarán dos personas, una para 
+sostener la máquina y otra para los ajustes. 
+22. Una vez ajustada, intentar mover el vástago principal para 
+apreciar si ha quedado firme; si no es así volver a 6. 
+23. En caso de extraer dos o más testigos en la misma posición 
+(fijación), se procede como sigue: 
+23.1 Se concluye un testigo, se afloja la tuerca de la varilla 
+roscada y se rota la máquina a la nueva posición.  
+23.2 Se desajustan los cuatro tornillos inferiores y vuelve a 
+procederse como se indicó en el punto 23.    
+EXTRACCIÓN DE TESTIGOS DE HORMIGÓN ENDURECIDO SEGÚN NORMA IRAM 1551  
+E INSTRUMENTAL DISPONIBLE EN LABORATORIO FICHA / HE03a
+TECNOLOGÍA 25
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 47   Abril l 2019
+ Provisión de agua durante la extracción en pavimentos con broca  
+de 4 pulgadas.
+‹
+T areas de fijación de máquinas convencionales (muy relevante).
+Uso de martillo y cortafierro para no sacar el testigo en todo el espesor .
+‹  Reparación de huecos dejado por testigos con grout cementíceo.
+‹
+Acondicionamiento adecuado de testigos para su envío al laboratorio.
+‹
+Ensayo de aspersión de fenolftaleina inmediatamente después de la extracción.
+Es muy relevante que la fijación quede bien sujeta al hormigón.
+‹
+Refrentado adecuado (esbeltez 1 a 2) y encabezado con mortero  
+de azufre de testigos.
+‹
+‹
+‹
+TECNOLOGÍA26
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 47   Abril l 2019
+4) REALIZACIÓN DE LA PERFORACIÓN O TALADRO  
+DEL HORMIGÓN ENDURECIDO
+1. Se deberá asegurar la provisión de agua continua durante toda 
+la extracción del testigo. 
+1.1 Se conectará una manguera con acople específico al final a la 
+máquina, hasta escuchar un sonido de "clic". 
+1.2 Se deberá apreciar que sale agua por la parte central de la 
+broca humedeciendo la superficie de hormigón. 
+1.3 En caso de ser excesiva la presión, podrá regularse con la llave 
+de paso en la máquina de ensayo. 
+2. Se conectará la máquina de ensayo a la provisión de energía 
+recién en este momento. 
+2.1 Se enciende la máquina con la broca ligeramente sobre la 
+superficie de hormigón y se desajusta el tornillo lateral.  
+2.2 En caso que la máquina vibre, deberán reajustarse las tuercas 
+y tornillos ALLEN de la máquina de ensayo. 
+2.3 Para lo anterior, se desajustan las 6 a 10 tuercas pequeñas 
+(con llave combinada pequeña) levemente. 
+2.4 A continuación, sin forzarlas, se ajustan los tornillos ALLEN, y 
+luego se reajustan las tuercas pequeñas. 
+3. Con el comando o barra lateral, comienza a descenderse la 
+broca (sentido antihorario) hasta que toque la superficie. 
+3.1 El contacto debe ser muy suave sino vibrará y podrá afectarse 
+la máquina de ensayo y su eje. 
+3.2 Lentamente, y siempre con la presencia de agua que sale por 
+la broca, comienza a perforarse el primer centímetro.  
+3.3 En caso de vibraciones excesivas, reiterar un ingreso más 
+despacio o cambiar de posición. 
+4. En caso de chispas, humo u olores extraños, apagar 
+inmediatamente la máquina extractora de testigos. 
+5. Durante toda la extracción tener cuidado de que el cable no 
+esté próximo a la broca ni que tome contacto con el agua. 
+6. Una vez penetrado el primer centímetro, lentamente se irá 
+realizando la perforación hasta la profundidad deseada. 
+6.1 La profundidad necesaria es para broca de 3" entre 8 
+y 14cm y para broca de 4" entre 11 y 19cm.   
+7. Durante todo momento, apreciar visualmente si los  
+cuatro tornillos inferiores están fijos y no vibran. 
+7.1 En el caso de que en las mariposas de sujeción se 
+presente movimiento, detener la extracción del testigo. 
+7.2 Se ajustarán con llave adecuada y se proseguirá  
+normalmente la extracción de testigos. 
+8. Durante todo momento, apreciar si existe provisión de  
+agua suficiente (aspecto muy relevante).   
+8.1 En caso que aparezca polvillo sin agua o se aprecie 
+humo en la broca de testigos, se detiene la extracción.  
+8.2 Si se aprecia un barro espeso en la broca y hormigón,  
+significa que el agua no está actuando correctamente.  
+8.3 Solucionar el problema de provisión de agua y 
+continuar normalmente con la extracción del testigo.  
+9. En caso de presencia de armaduras, proseguir como se  
+detalla a continuación: 
+9.1 Las brocas en general cortan armaduras hasta o 10 a 
+12, debiendo disminuir la velocidad de extracción.  
+9.2 Se sentirá en la velocidad de la máquina (penetrar 
+más lento) y al cortar la barra, continuar a mayor  
+velocidad. 
+9.3 En caso de no poder cortar armaduras o o superiores, 
+se notará en la máquina cuando se encuentra una barra. 
+9.4 En ese caso, detener la extracción, subiendo la broca 
+para poder apreciar la ubicación de la barra.  
+9.5 Con ayuda de una linterna y extrayendo agua con la  
+pera de goma se observará la dirección de la barra. 
+9.6 Se desajusta la tuerca de ajuste y se mueve la 
+máquina para evitar cortarla en la próxima extracción. 
+9.7 Se vuelve a ajustar en la nueva posición la máquina,  
+tal cual se describió anteriormente en el punto 3 (Fijación 
+de la máquina de ensayo).
+ 
+5) RETIRO Y ACONDICIONAMIENTO DEL TESTIGO 
+PREVIO A SU ENSAYO 
+10. Una vez alcanzada la profundidad adecuada de perforación se 
+retira la broca lentamente de su posición. 
+10.1 Se apaga el interruptor principal y se desconecta a la 
+corriente eléctrica o se apaga el grupo electrógeno. 
+10.2 Se ajusta la broca con el tornillo lateral de ajuste y se 
+desajusta la tuerca de la varilla roscada. 
+10.3 Se desajustan las mariposas y cuatro tornillos inferiores, se 
+quitan las arandelas y se retira la máquina. 
+11. Si el testigo de hormigón no se encuentra en la broca (pisos o 
+pavimentos, por ejemplo), se procede del siguiente modo: 
+11.1 Se coloca el cortafierros en el agujero (perforación) dejado 
+por la broca y se golpea suavemente con el martillo. 
+11.2  Se golpea suavemente en uno o dos lados hasta que el 
+hormigón rompe en la parte inferior.   
+11.3 Se saca a mano y en caso de mayor dificultad, se realiza un 
+aro con alambre fino y se levanta el testigo. 
+12. Si el testigo de hormigón queda dentro de la broca o se ha 
+desprendido un trozo superior del mismo: 
+12.1 Con la máquina desconectada y en vertical, se golpea 
+suavemente con un martillo la broca en su perímetro. 
+12.2 Se apreciará que el testigo lentamente va descendiendo, 
+siendo una labor que puede tomar hasta 10 minutos. 
+13. Se aprecia que el testigo tenga una longitud útil mínima. Para 
+broca 3" de 7cm y para broca 4" de 10cm. 
+14. Respecto a la fijación y a la varilla roscada que quedan en la 
+posición de extracción: 
+14.1 La fijación se pierde en la mayor parte de los casos, 
+quedando embutida en el hormigón. 
+14.2 La varilla roscada es reutilizable y tiene que retirarse; si es 
+posible se desenrosca manualmente con guante. 
+14.3 De exigir mayor esfuerzo, se colocan dos tuercas en la varilla 
+y se ajustan fuertemente entre ambas. 
+14.4 Con ayuda de la llave se desajusta la varilla de la fijación y 
+queda lista para su próximo empleo. 
+15. Se deja el testigo a un costado de la perforación y se espera a 
+que se seque superficialmente. 
+15.1 En caso de realizar la comprobación de carbonatación por 
+fenolftaleína deben transcurrir menos de 3 minutos.  
+16. Se identifica con un marcador indeleble (o marcador de 
+pintura) el testigo en su parte superior y en la parte lateral.  
+16.1 Deberá consensuarse con anterioridad una codificación 
+específica para garantizar trazabilidad.   
+16.2 En caso de presentar fisuras (se aprecian cuando se va 
+secando el testigo), será observado como "fisurado".  
+17. Una vez extraídos todos los testigos de la jornada, se limpia 
+adecuadamente la máquina y se quita la broca.  
+18. En laboratorio, se deben refrentar una o las dos caras del 
+testigo, lo cual puede realizarse: 
+18.1 Sujetada en una morsa o similar con disco de desbaste 
+diamantado hasta lograr adecuada planicidad.   
+18.2 Bien sujetada y corte con una sierra sensitiva o similar, 
+pudiendo cortar una o las dos caras según se convenga.  
+18.3 Se mide la altura y se calcula la esbeltez (E=h/D) que debe 
+estar comprendida entre 1 y 2. 
+19. El encabezado, altamente recomendable para los testigos, es 
+con mortero de azufre (IRAM 1553).   
+19.1 Con el refrentado debe lograrse una adecuada planicidad 
+según IRAM 1553, sino reaserrar o desbastar más.  
+      
+      
+EXTRACCIÓN DE TESTIGOS DE HORMIGÓN ENDURECIDO FICHA / HE03bSegún Norma IRAM 1551  
+E INSTRUMENTAL DISPONIBLE EN LABORATORIO
+TECNOLOGÍA 27
+
+--- FIN DE PÁGINA ---
+
+>
+Hormigonar 48    Septiembre 2019
+A
+En muchos proyectos es necesario determinar la re-
+sistencia a tracción del hormigón y el uso de tablas o 
+recomendaciones bibliográficas puede traer grandes 
+desvíos respecto a los resultados reales con recursos locales, 
+más aún en un país con tanta diversidad de materiales. T ambién 
+es de suma utilidad la evaluación de la evolución de estos pa-
+rámetros mecánicos en el tiempo. Es sabido, pero a veces no 
+cuantificado, que la resistencia a tracción indirecta tiene una 
+evolución mucho más rápida que la resistencia a compresión, 
+lo cual tiene relevancia para habilitación temprana de pavi-
+mentos o, por ejemplo, en modelaciones estructurales donde 
+la resistencia a tracción en los primeros días juega un rol fun-
+damental en el riesgo de fisuración del hormigón endurecido.
+Los dos métodos más empleados y normalizados en nuestro 
+país para determinar la resistencia a tracción del hormigón son 
+los ensayos de flexión de vigas con cargas en los tercios me-
+dios y el ensayo por compresión diametral, conocido también 
+como método brasilero aplicado a probetas o testigos cilíndri-
+cos. Estos dos métodos, que son los que se explicarán paso a 
+paso en el presente artículo, miden la resistencia a tracción in-
+directa del hormigón, no habiendo ensayo práctico, sencillo o 
+consensuado para determinar la resistencia a tracción directa. 
+En líneas generales, la resistencia a flexión es mayor que la resis-
+tencia a tracción por compresión diametral (cerca de un 30%) 
+y a su vez, esta última, es algo mayor , cerca de un 10-15% a la 
+resistencia a tracción directa. Las correlaciones entre todos los 
+valores no están unificadas y dependen de las características de 
+los materiales empleados, como el tipo de cemento y ganancia 
+de resistencias o el tipo de agregados (rodados o triturados).
+Con el advenimiento de la nueva Norma IRAM 1666 de hor-
+migón elaborado, en la cual se hace hincapié en el pedido por 
+performance del hormigón, el cliente no sólo podrá solicitar 
+un hormigón con determinada resistencia a compresión sino 
+también en base a otros parámetros, como módulo de elastici-
+dad, ensayos de durabilidad (como penetración de agua o suc-
+ción capilar) o bien mediante la resistencia a tracción indirecta 
+del hormigón. Por ello, estos ensayos, que muchas veces no se 
+realizan en hormigoneras, cobrarán importancia para poder 
+cumplir de forma racional, es decir optimizando el uso de los 
+recursos, con los requerimientos del cliente y demostrar por 
+prestación el hormigón. Así, por ejemplo, un cliente podrá pe-
+dir un hormigón con resistencia a flexión de 4,0MPa a 7 días 
+sin otra especificación por resistencia a compresión; y el pro-
+veedor deberá garantizar el cumplimiento de esta propiedad 
+realizando ensayos para caracterizar sus hormigones con sus 
+materiales. O bien, el proveedor deberá investigar mediante 
+estos ensayos con qué categoría resistente (H-XX) cumple con 
+los requerimientos del cliente, al menor costo posible.
+Es arbitrario pero sólo con estimaciones preliminares se pue-
+den aplicar coeficientes porcentuales relacionando ambos pa-
+rámetros mecánicos. Por ejemplo, establecer que la resistencia 
+a flexión a los 28 días está entre el 10,5% y el 14,0% de la re-
+sistencia a compresión. El primer valor puede ser una realidad 
+para agregados rodados y  hormigones de resistencias supe-
+riores a 50MPa, mientras que el segundo puede ser aplicable 
+a agregados triturados como los basálticos. No obstante, es-
+tas recetas quitan confiabilidad al producto entregado y, para 
+el ejemplo presentado, tomar un valor u otro no es un 3,5% 
+de diferencia, sino más de un 25% en la resistencia así estima-
+da. Por ello, y como se verá en los próximos artículos Paso a 
+Paso, la nueva Norma IRAM de Hormigón Elaborado obligará 
+a profesionalizar a los laboratoristas para responder a las de-
+mandas actuales, que no sólo se basan en que un hormigón re-
+sista XXMPa a 28 días.
+Resistencia a tracción 
+indirecta del hormigón  
+ POR EL MS. ING. MAXIMILIANO  SEGERER, DE LA FIRMA CONTROL Y DESARROLLO DE HORMIGONES  / WWW.CDHORMIGONES .COM.AR
+ENSA YOS P ASO A P ASO DEL HORMIGÓN ENDURECIDO
+TECNOLOGÍA22
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 48    Septiembre 2019
+1 - CALIBRACIÓN  A BAJA CARGA DE BASTIDOR ESPECÍFICO. SI SE 
+USA EL BASTIDOR DE LA PRENSA DEBE TENER CALIBRACIÓN A 
+BAJA CARGA (EN EL RANGO DE 20 A 80KN).
+‹
+3 - DISPOSITIVO ESPECÍFICO P ARA COLOCAR EN EL BASTIDOR DE 
+LA PRENSA CON LIBER T AD DE MOVILIDAD DE APO Y OS.
+5 - SI NO ASIENT AN BIEN LOS APO Y OS (CUALQUIERA DE LOS 
+CUA TRO) DEBE TRA T ARSE LA ZONA DE APO Y O.
+‹ 6 - REGULACIÓN DE CARGAS DURANTE EL ENSA Y O (0, 15KN POR 
+SEGUNDO).
+‹
+7 - APRECIACION DE RO TURA DENTRO DEL TERCIO MEDIO P ARA 
+V ALIDAR EL ENSA Y O.
+‹
+4 - DEMARCACIÓN EN DOS CARAS DE POSICIÓN DE APO Y OS Y 
+CARGAS (CADA 15 CM EN GENERAL Y EN EST ADO HÚMEDO).
+2 - PROBET AS CON ADECUADA TRAZABILIDAD EN PILET A DE 
+CURADO JUST O ANTES DEL ENSA Y O (NO PUEDEN ENSA Y ARSE EN 
+EST ADO SECO).
+‹
+8 - MEDICIÓN DE LA AL TURA DE LA PROBET A DESPUÉS DEL 
+ENSA Y O (ENTRE CARA RUGOSA Y CARA OPUEST A). DEBE MEDIRSE 
+T AMBIÉN EL ANCHO Y DIFERENCIARLO.
+‹
+‹
+‹
+TECNOLOGÍA24
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 48    Septiembre 2019
+1) ELEMENTOS NECESARIOS PARA EL ENSAYO:
+1. Máquina de ensayo o prensa con sistema de regulación 
+de cargas para su aplicación continua.
+1.1. Sus platos metálicos deben ser de acero de dureza > a 
+55HRC y constar con una rótula esférica.
+1.2. Espaciamiento entre platos adecuado con el tamaño 
+(diámetro) de la probeta.
+1.3. Elemento de lectura de cargas con una precisión del 
+1% de la carga del ensayo.
+1.4. Dispositivo para apreciar la carga máxima que debe 
+estar entre el 20 y 90% de la capacidad.
+1.5. Placas o barra de apoyo suplementario de dimensión 
+igual o mayor que la probeta a ensayar.
+1.6. También existen dispositivos precisos para 
+compresión por tracción diametral.
+2. Listones de madera blanda o similares de altura de 3 a 
+4mm, ancho 4,5cm y largo mayor a la probeta.
+3. Elemento de medición adecuado con precisión de 
+0,1mm para medir el diámetro de la probeta.
+4. Elemento de medición con precisión de 1mm para 
+medir la altura (largo) de la probeta.
+5. Probetas cilíndricas o testigos refrentados de hormigón 
+cilíndricos sin tener ningún encabezado. 
+2) VERIFICACIÓN Y CALIBRACIÓN DE LA MÁQUINA DE 
+ENSAYO:
+6. 
+Deberá calibrarse al menos una vez al año, cuando se 
+repare algún mecanismo o se mueva de posición.
+7. El error de lectura dentro de las escalas en que la 
+máquina puede ser utilizada deberá ser menor al 1%.  
+3) MEDICIONES A REALIZAR SOBRE PROBETAS O TESTIGOS 
+CILÍNDRICOS:
+11. Se medirán tres diámetros: dos a 20mm de los 
+extremos y el otro en la mitad de altura de la probeta.
+2. El diámetro D se calcula como el promedio de tres 
+diámetros medidos y expresado en mm al 0,1mm.
+3. Se deben realizar 3 mediciones de la altura (largo de la 
+probeta) con precisión de 1mm.
+4. Con los tres valores obtenidos se calcula el promedio 
+del largo L y se redondea al mm más próximo.
+4) PROCEDIMIENTO DE ENSAYO A COMPRESIÓN DIAMETRAL:
+5. 
+Antes de iniciar el ensayo se limpian cuidadosamente 
+las superficies de los platos de la prensa.
+6. La probeta debe ser conservada antes del ensayo en 
+curado húmedo o envuelta en trapos húmedos.
+7. Se traza en cada extremo de la probeta una línea recta 
+de modo que las dos líneas estén en un plano.
+8. Estas líneas servirán como guía para la colocación de 
+los listones de madera.
+9. Se coloca la probeta de modo que quede apoyada a lo 
+largo de una generatriz en el plato de la prensa.
+10. Se colocan bien centrados entre los platos y la 
+probeta, los dos listones de madera blanda sin defectos.
+10.1. Los listones de madera deben utilizarse una vez, es 
+decir, desecharse después del ensayo.
+11. Se ajustan los platos de la máquina hasta que se 
+obtenga una compresión que mantenga la probeta.
+11.1. En general esta tarea debe realizarse manualmente, 
+hasta que quede comprimida la probeta.
+12. El contacto entre la probeta y los platos de la prensa 
+debe ocurrir sólo a lo largo de los listones.
+13. Se aplica la carga en forma continua sin choques 
+bruscos con velocidad de carga de 0,016 ± 0,005MPa/s.
+13.1. En probetas de 15 x 30cm la velocidad será de  
+1,1  ± 0,4kN/seg.
+13.2. En probetas de 10 x 20cm la velocidad será de  
+0,5  ± 0,2kN/seg.
+14. Se mantiene la velocidad constante hasta la rotura  
+de la probeta.
+14.1. La rotura debe ser en forma de un plano paralelo a 
+las cargas (puede romperse en el piso para verificar).
+15. Se registra el valor de la carga máxima alcanzada F en 
+kilonewton en el momento de la rotura. 
+5) CÁLCULOS:
+16. 
+17. Siempre es recomendable romper 3 probetas por edad y 
+correlacionarla con 2 probetas a compresión.
+6) CONTENIDO MÍNIMO DEL INFORME:
+18. El informe del ensayo debe contener como mínimo los 
+siguientes datos:
+18.1. ,GHQWLÀFDFLyQLQGHOHEOHGHODSUREHWD\VXSURFHGHQFLD
+(obra, cliente, etc.).
+18.2. El diámetro y el largo de la probeta o testigo, en 
+décimas de milímetros y en milímetros respectivamente.
+18.3. La fecha de confección, la fecha de rotura y la edad de 
+ensayo de la probeta, en días.
+18.4. La carga máxima, en kilonewton (kN) o múltiplo.
+18.5. La resistencia a tracción por compresión diametral 
+según la expresión de cálculo, en megapascal.
+18.6. Los defectos observados en la probeta o cualquier otra 
+observación de relevancia.
+ENSAYO TRACCIÓN COMPRESIÓN DIAMETRAL DE PROBETAS Y 
+TESTIGOS -  SEGÚN NORMA IRAM 1547 FICHA / HE05
+25
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 48    Septiembre 2019
+1 - LAS PROBET AS DEBEN TENERSE HÚMEDAS HAST A EL ENSA Y O 
+Y CORRELACIONARLAS CON O TRAS DE COMPRESIÓN DE LA 
+MISMA MUESTRA ASEGURANDO TRAZABILIDAD.
+‹
+3 - AJUSTE DE VELOCIDAD DE CARGA PREVIO AL ENSA Y O.
+5 - TESTIGO CALADO DE 4 PUL T ADAS P ARA SER ENSA Y ADO A 
+TRACCIÓN INDIRECT A.
+‹ 6 - DEBE ASEGURARSE UN CONT ACT O PERFECT O DE LAS TIRAS DE 
+APO Y O EN T ODA LA GENERA TRIZ.
+‹
+7 - RO TURA DE PROBET A 15X30 CON MADERAS DE ÁLAMO 
+INTERCALADAS.
+‹
+4 - POSICIONAMIENT O DE PROBET A DE 15X30 P ARA TRACCIÓN POR 
+COMPRESIÓN DIAMETRAL.
+2 - SE DEBEN T OMAR TRES DIÁMETROS AL 0, 1MM Y LA AL TURA AL 
+1MM MÁS PRÓXIMO INMEDIA T AMENTE DESPUÉS DE RETIRADAS 
+DE CURADO.
+‹
+8 - ASPECT O DE LA RO TURA (ES ACONSEJABLE P AR TIRLA 
+T O T ALMENTE SI NO OCURRIÓ EN EL ENSA Y O).
+‹
+‹
+‹
+TECNOLOGÍA26
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 48    Septiembre 2019
+FICHA / HE06
+1) ELEMENTOS NECESARIOS PARA EL ENSAYO:
+1. Máquina de ensayo con sistema de regulación de 
+cargas para su aplicación continua. 
+1.1. La distancia entre apoyos y puntos de aplicación debe 
+permanecer constante durante el ensayo. 
+1.2. La carga debe aplicarse normalmente a la superficie 
+de la probeta evitando toda excentricidad. 
+1.3. La dirección de las reacciones debe mantenerse 
+paralela a la dirección de la carga durante el ensayo. 
+1.4. La carga se aplicará en forma gradual y uniforme 
+durante todo el ensayo. 
+1.5. La relación entre la distancia desde la carga hasta la 
+reacción y altura de la viga no debe ser < 1. 
+2. Dispositivo adecuado para aplicar las cargas en los 
+tercios medios de la probeta prismática. 
+2.1. El diámetro de los cilindros de apoyo y de la aplicación 
+de la carga debe ser menor a 25mm. 
+2.2. La luz entre apoyos se mide entre los ejes de los 
+apoyos y se expresa en mm. 
+2.3. Los cilindros de apoyo y aplicadores tendrán cierta 
+libertad acotada de movimiento y de rotación. 
+2.4. Tener la misma distancia entre apoyo y aplicación de 
+carga y entre los dos cilindros de aplicación. 
+2.5. En probetas de 55cm: luz entre apoyos es de 45cm y 
+separación entre cilindros de aplicación 15cm. 
+2.6. Hay bastidores específicos para flexión o bien 
+dispositivos que pueden montarse en prensas 
+digitales. 
+3. Elemento de medición con precisión de 1mm todas las 
+dimensiones de la probeta (pie de rey). 
+4. Probetas o testigos prismáticos de hormigón sin tener 
+ningún encabezado ni tratamiento previo. 
+2) VERIFICACIÓN Y CALIBRACIÓN DE LA MÁQUINA DE 
+ENSAYO A BAJA CARGA:
+5. Deberá calibrase al menos una vez al año, cuando se 
+repare algún mecanismo o se mueva de posición.
+5.1. Siempre es necesaria una calibración a baja carga 
+específica, entre 20 y 80kN al menos.
+6. El error de lectura dentro de las escalas en que la 
+máquina puede ser utilizada deberá ser menor al 1%.  
+3) PROCEDIMIENTO DE ENSAYO A FLEXIÓN:
+1. Antes de iniciar el ensayo se limpian cuidadosamente 
+las superficies de los platos y apoyos cilíndricos.
+2. La probeta debe ser conservada antes del ensayo en 
+curado húmedo o envuelta en trapos húmedos.
+3. Si por algún motivo debe transucurrir cierto tiempo 
+entre el curado y el ensayo, no será mayor a 2 horas.
+4. Se coloca la probeta por ensayar con su eje mayor sobre 
+los apoyos, centrándola entre ellos.
+4.1. Para evitar golpes o problemas de manipulación, se 
+recomienda posicionar la probeta entre 2 personas.
+4.2. Se recomienda marcar líneas rectas en 
+correspondencia con aplicadores de carga y apoyos (4 
+líneas).
+5. Deberán ponerse en contacto con los apoyos y 
+aplicación de carga las caras laterales durante el moldeo.
+5.1. La cara superior (rugosa) siempre irá hacia un costado 
+y nunca tomará contacto con los apoyos.
+6. Se hace subir la probeta y se coloca el dispositivo de 
+ensayo a flexión encima de la probeta.
+6,1. En caso de bastidores específicos para flexión, los dos 
+apoyos superiores estarán unidos al mismo.
+7. Si no hubiere contacto entre la probeta y los dispositivos 
+de ensayo (si hay paso de luz entre apoyo y viga):
+7.1. Colocar una capa de asiento entre ellos de mortero de 
+cemento y arena normal 1:1 en volumen.
+7.2. Intercalar dos planchuelas de 25mm x 6mm pegadas 
+o no con mortero de resina epoxi.
+7.3. Colocar algún otro material deformable de eficacia 
+comprobada en los apoyos y aplicadores de carga.
+8. Se aplica la carga en forma continua sin choques 
+bruscos con velocidad de carga de 0,016 ± 0,002MPa/s.
+8.1. En probetas de 15 x 15 x 55cm (ó 50 ó 60cm) la 
+velocidad será de 0,13 ± 0,02kN/seg.
+8.2. La carga puede aplicarse en forma más rápida hasta 
+llegar al 50% aproximado de la carga de rotura.
+9. Se continúa aplicando la carga a la velocidad indicada 
+hasta el momento de la rotura de la probeta.
+10. Se registra la carga Q máxima de rotura en 
+decanewton (o algún múltiplo como kN).
+11. Una vez efectuado el ensayo se procede a medir la 
+probeta en su sección de fractura asegurando el mm.
+11.1. Se realizan 3 mediciones del ancho y 3 de la altura, 
+todas ellas en la sección fracturada de la probeta.
+11.2. Se calcula el ancho B y la altura H en mm, con 
+precisión de mm, como promedio de las 3 mediciones.
+12. Si la fractura se produce fuera del tercio medio de la 
+luz (con ayuda de marcas), se descarta el ensayo.
+4) CÁLCULOS:
+13.    
+14. Las tensiones de rotura convencionales oscilan de 3 a 
+7MPa. Si no arroja estos valores, revisar la fórmula.
+15. Siempre es recomendable romper 2 probetas por edad 
+y correlacionarla con 2 probetas a compresión. 
+5) CONTENIDO MÍNIMO DEL INFORME:
+16. El informe del ensayo debe contener como mínimo los 
+siguientes datos:
+16.1. ,GHQWLÀFDFLyQLQGHOHEOHGHODSUREHWD\VXSURFHGHQFLD
+(obra, cliente, etc.).
+16.2. Ancho promedio y altura promedio en mm, calculados 
+con aproximación de 1 mm (en sección de rotura).
+16.3. Luz entre apoyos, expresado en mm (generalmente es 
+ÀMRGHOGLVSRVLWLYRSHURLJXDOGHEHPHGLUVH
+16.4. Carga máxima, expresado en kN y el cálculo del Módulo 
+de rotura, expresado en Mpa.
+16.5. La fecha de confección, la fecha de rotura y la edad de 
+ensayo de la probeta, en días.
+16.6. Los defectos observados en la probeta o cualquier otra 
+observación de relevancia.
+  
+ENSAYO TRACCIÓN FLEXIÓN DE PROBETAS PRISMÁTICAS -  SEGÚN 
+NORMA IRAM 1547
+27
+
+--- FIN DE PÁGINA ---
+
+S
+in lugar a duda, los ensayos no destructivos 
+aplicables a hormigón endurecido para infe-
+rir resistencias son los de esclerometría y ul-
+trasonido, siendo mucho más aplicado el primero. 
+Tal como se ha descripto en la serie "Control de ca-
+lidad en obra” publicada en Hormigonar donde se 
+mencionaron todas las limitaciones de estos ensa-
+yos, ninguno está avalado por CIRSOC 201 actual-
+mente, en especial por el mal uso (y abuso) de los 
+mismos, fundamentalmente del ensayo de esclero-
+metría. No obstante, para las hormigoneras son he-
+rramientas útiles para diagnosticar y complementar 
+otros ensayos, aunque muchas veces se trabaja mal 
+con ellos ante la finalidad de estimar resistencias.
+El esclerómetro debe ser calibrado con los materia-
+les de obra y nunca emplear la curva que figura en 
+el aparato, ya que distará de los hormigones que se 
+emplean localmente. Otro de los errores es usar el 
+esclerómetro en estructuras con edad avanzada de 
+más de seis meses o emplear “a ciegas” los datos que 
+dan los esclerómetros digitales, pensando que si da 
+un número de resistencia (hasta con decimales) es 
+más preciso que una probeta o que un testigo. Puede 
+presentar cierta utilidad para estimar uniformidad 
+de hormigones en coladas contemporáneas (escala 
+de días o máximo un par de semanas) con los mis-
+mos materiales, pero nunca para suplantar los ensa-
+yos reglamentarios para avalar o no la seguridad es-
+tructural de una obra. 
+En el presente artículo se dan las pautas brindadas 
+por IRAM y ASTM para calibrar el esclerómetro 
+con probetas de obra y el procedimiento de cómo 
+realizar las mediciones, pero deben tenerse en cuen-
+ta las notables limitaciones que tiene este método. 
+La interpretación de resultados y sus conclusiones 
+deben ser muy mesuradas en base a lo expuesto 
+anteriormente.
+Respecto al ultrasonido, es un ensayo mucho más 
+preciso que el esclerómetro y si se encuentra ca-
+librado con probetas o testigos de obra (siendo 
+preferente esta segunda alternativa) pueden esti-
+marse resistencias con precisión de ±5% a ±10%. 
+Comparativamente con el esclerómetro, el mismo 
+nunca baja de ±20 a ±25%, aún con una buena co-
+rrelación lineal con probetas de hormigones simi-
+lares a los de la obra. La razón es que el ultrasonido 
+no es afectado por la carbonatación o bien defec-
+tos superficiales y puede “ver” dentro del hormigón 
+sin importar qué edad tenga, siendo una medida 
+indirecta de la porosidad de un conjunto de ma-
+teriales. Velocidades de onda más rápidas indican 
+menor porosidad; velocidades de onda más lentas 
+indicará hormigones menos resistentes, existiendo 
+una correlación cuadrática entre velocidad de onda 
+y resistencia a compresión. Muchas recomenda-
+ciones internacionales avalan al ultrasonido como 
+complemento de testigos en todo tipo de estructu-
+ras y el mismo da resultados muy confiables, siem-
+pre y cuando se realice el ensayo de forma adecuada 
+-como se describe en este artículo- y se interpreten 
+sus valores por parte de un profesional con expe-
+riencia en la temática. 
+ENSA YOS 
+NO DESTRUCTIVOS 
+MÁS FRECUENTES
+ENSAYOS PASO A PASO DEL HORMIGÓN ENDURECIDO
+Por el Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones 
+ www.cdhormigones.com.ar
+TECNOLOGÍA16
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA18
+
+--- FIN DE PÁGINA ---
+
+1) ELEMENTOS NECESARIOS PARA EL ENSAYO
+1 Esclerómetro de resorte Tipo I para estructuras de hormigón convencionales 
+(Eergía 0,023 J).
+1. 1 Existen otros esclerómetros más pequeños o más grandes (para presas por ejemplo).
+2 Piedra abrasiva o cepillo con cerdas de alambre u otros similares para limpieza previa.
+3 Si se dispone, yunque de verificación del esclerómetro de 1 kg y dureza HRC 52 o HB 500.
+4 Elementos para escritura sobre estructuras (marcadores, tiza) y cámara fotográfica.
+5 Se debe disponer de planos de la estructura y/o designación de los elementos 
+estructurales.
+6 Los esclerómetros digitales no garantizan en absoluto resultados más confiables.
+2) VERIFICACIÓN Y CALIBRACIÓN DEL ESCLERÓMETRO CON MATERIALES LOCALES
+7 Los esclerómetros deben ser sometidos a mantenimiento y verificación anual, o 
+ante dudas.
+8 Nunca, en ninguna circunstancia, para estimar resistencias puede emplearse la cali-
+bración “de fábrica”.
+9 Para poder estimarse resistencias, con las amplias limitaciones del método, se 
+debe contar con:
+9. 1 Probetas elaboradas con los materiales de la zona donde se quiere evaluar resistencias.
+9.2 Hay que contar con 15 a 20 probetas de 15x30 con sus caras bien planas (no rugosas).
+9.3 Las probetas deben tener entre 15 y 50 días y resistencias, al menos, entre 15 y 40 MPa.
+9.4 Las probetas deben ser retiradas de la pileta de curado 48 horas antes de la realiza-
+ción de ensayos.
+10 Para la calibración propiamente dicha, con materiales locales, debe procederse 
+por cada probeta a:
+10. 1 Se coloca en la prensa sin encabezar (nunca con neopreno) y se brinda una car-
+ga a 3 a 6 toneladas.
+10.2 El esclerómetro se aplica de forma perpendicular al plano tangente de su su-
+perficie circular .
+10.3 Se marcan tres generatrices a 120 º y se realizan tres mediciones a diferentes 
+alturas.
+10.4  De esta manera, por cada probeta, se registran 9 números de rebote.
+10.5 T ambién puede establecerse una correlación mediante testigos extraídos de 
+las estructuras.
+10.6 A continuación, se encabeza la probeta y se ensaya a compresión según IRAM 1546.
+10.7 Se grafican X – Resistencia compresión (MPa) vs. Y – Números de rebote me-
+dio (adimensional).
+10.8 Se traza una línea de tendencia LINEAL y su R
+2 debe ser igual o mayor a 0,90 
+para validarlo.
+11  Aún de esta manera, la incertidumbre propia del ensayo es del 20 al 25%, no pu-
+diendo reducirlo.
+11. 1 Nunca puede asegurarse una categoría resistente “exacta” por mejor calibra-
+ción que se tenga.
+11.2 El empleo mayoritario es para estimar uniformidad o aumento de resistencias 
+en el tiempo.
+3) PROCEDIMIENTO DEL ENSAYO
+1 Antes de iniciar el ensayo, deben planificarse e inspeccionarse las áreas a realizar:
+1. 1 Los elementos estructurales deben tener al menos 10 cm de espesor y estar fi-
+jos a la estructura.
+1.2 El área debe ser , por lo menos, de 15 cm de lado, de forma aproximadamente 
+cuadrada.
+1.3 Las superficies rugosas, con mortero suelto o membrana de curado, deben ser pulidas.
+1.4 Si las superficie tiene un endurecedor metálico, por ejemplo, el ensayo no es válido.
+1.5 No ensayar elementos congelados o con signos de humedad, debiendo espe-
+rar a que seque.
+1.6 No deben realizarse ensayos sobre barras de refuerzo (r < 2 cm), si sobre separadores.
+1.7 Si la superficie está limpia, plana, no rugosa, libre de defectos, no se hace trata-
+miento ni pulido.
+1.8 La edad de colado de los elementos debe estar entre 2 y 8 semanas (máximo 12 
+en clima seco).
+1.9 La presencia de carbonatación superficial (natural por el tiempo) incrementa 
+mucho el rebote.
+1. 10 En caso de carbonatación, para medir el espesor de la capa puede emplearse 
+fenolftaleína.
+1. 11 En todo momento, prevalece el criterio profesional y nunca suplanta probetas 
+o testigos.
+2 El número de ensayo dependerá de la magnitud de la obra, no recomendando 
+menos de 6.
+2. 1 Puede emplearse como comparativa entre sectores con probetas “favorables” 
+y con resultados bajos.
+2.2 T odos los ensayos de la jornada deben realizarse con el mismo esclerómetro y 
+operador .
+3 Una vez preparada la superficie, se procede a la ejecución del ensayo:
+3. 1 Se marca un cuadrado con cruz perpendicular interna de 15 a 20 cm de lado.
+3.2 Se realizan 9 golpes con el esclerómetro (uno por cada intersección, criterio 
+IRAM; 10 valores ASTM).
+3.3 Se sostiene firmemente el esclerómetro en posición que permita un golpe 
+perpendicular .
+3.4 Los impactos deben distar , entre sí, no menos de 3 cm, como así también de los 
+bordes del elemento.
+3.5 Examinar siempre el impacto, a ver si hay alguna oquedad o defecto, descartan-
+do este valor .
+3.6 Incrementar gradualmente la presión sobre el émbolo hasta que el martillo 
+golpee.
+3.7 Puede leerse la lectura o almacenarse con el botón retenedor de cada instrumento.
+4 Se marca en el elemento la designación del mismo y los 9 números de rebotes, 
+tomando una fotografía.
+4) CÁLCULOS Y RESULTADOS PARA ESTIMAR UNIFORMIDAD
+5 Se realiza un promedio de las nueve lecturas y se compara individualmente con 
+cada una de ellas:
+5. 1 Si la diferencias es 5 (IRAM) o > 6 (ASTM), 4 o más valores (IRAM), se descar-
+ta el ensayo.
+5.2 En el caso que se descarten 2 o más valores (ASTM), 4 o más valores (IRAM), se 
+descarta el ensayo.
+6 En caso de que el impacto sea horizontal (tabique, ej), no se realiza corrección de 
+lecturas.
+6. 1 Si el impacto es en diferente ángulo (+90 º, -90º, +45º, -45º) ver coeficiente de 
+corrección en IRAM 1694.
+7 El número de rebote final es el promedio de lecturas válidas y corregidas por el ángulo.
+8 De estimar resistencias, hacerlo con mesura y contando con la calibración con 
+materiales locales.
+9  No puede ser usado como único método para la aceptación o rechazo de estructuras.
+10 El informe e interpretación de resultados debe ser realizado por profesionales 
+con experiencia.
+ENSAYO NO DESTRUCTIVO DE ESCLEROMETRÍA SOBRE ESTRUCTURAS
+SEGÚN NORMA IRAM 1694 – ASTM C805 HE07
+19
+REVISTA HORMIGONAR  DIGITAL   # 1
+
+
+--- FIN DE PÁGINA ---
+
+TECNOLOGÍA20
+
+--- FIN DE PÁGINA ---
+
+ENSAYO NO DESTRUCTIVO DE UL TRASONIDO SOBRE ESTRUCTURAS
+SEGÚN NORMA IRAM 1683 – ASTM C597
+1) ELEMENTOS NECESARIOS PARA EL ENSAYO
+1 Aparato de medición de generador de pulsos ultrasónicos (20 a 100 kHz) y medi-
+dor eléctrico del tiempo.
+1. 1 Debe poseer un par de transductores metálicos y cables específicos.
+2 Barra patrón en el cual esté marcado de forma indeleble el valor del tiempo de 
+onda. 
+3 Gel de contacto, que puede ser vaselina sólida, grasa o gel de ecografías, como 
+ejemplos.
+4 Elemento de precisión (1 mm, recomendado 0,1 mm) para medir la geometría 
+del elemento.
+5 Se debe disponer de planos de la estructura y/o designación de los elementos 
+estructurales.
+2) VERIFICACIÓN Y CALIBRACIÓN DEL ULTRASONIDO CON MATERIALES 
+LOCALES O CON ESTRUCTURAS
+6 El equipo en si de ultrasonido no tiene calibración propiamente dicha, sino es una 
+puesta a cero.
+7 Al inicio de cada jornada, cuando se dude o transcurran más de una hora de uso 
+continuo.
+7.1 En general, los equipos vienen con flechas para ajustar la lectura a la indicada en 
+la barra.
+7. 2 Moviendo las flechas, lo indicado en el ultrasonido y esta es la puesta a cero del 
+equipo.
+8 La calibración propiamente dicha no es del equipo, sino del conjunto con una es-
+tructura dada.
+8. 1 Puede calibrarse con probetas de 15x30 haciendo 4 determinaciones y midien-
+do su altura.
+8.2 Puede calibrarse con testigos extraídos de obra y luego el ensayo a ultrasoni-
+do próximo.
+8.3 De una u otra forma, se obtienen velocidades de onda (km/s) y resistencias a 
+compresión (MPa).
+8.4 Se grafican X – Resistencias compresión (MPa) vs Y – Números de velocidad 
+de pulso (km/s)
+8.5 Se traza una tendencia CUADRÁTICA y su R
+2 debe ser > 0,80 para validadr (re-
+comendable 0,90).
+9 En el caso de una buena curva de ajuste pueden estimarse resistencias con 
+precisión ±5%.
+9. 1 Sin embarg, es válido para una única estructura y un único conjunto de materiales.
+3) PROCEDIMIENTO DEL ENSAYO
+1 Pueden realizarse 3 tipos de transmisiones:
+1. 1   a) Directa (caras opuestas), más precisa.
+1.2  b) Semi-directa (caras adyacentes).
+1.3  c) Superficial (misma cara).
+1.4 Para estimar resistencias, la única confiablre es la drecta, ya que puede medir-
+se el ancho.
+2 Las superficies deben estar libres de recubrimiento (salvo pinturas finas) y sin 
+revoques.
+2. 1 Deben inspeccionarse y retirarse revoques u otros elementos que alteren las 
+mediciones.
+2.2 En caso de superficies rugosas, pueden emparejarse con piedra de pulir o cepi-
+llo de alambre.
+3 Es muy relevante la aplicación en cantidad suficiente del gel de contacto.
+3. 1 Se recomienda aplicar en el elemento y en el transductor .
+4 Se presionan los dos transductores de forma que queden alineados y la lectura 
+casi constante.
+4. 1 Se registra el valor medio (T en s) que no debería oscilar en más de +/- 0,5 uni-
+dades al aplicarlo
+5 No está definido, pero es recomendable realizar 3 a 5 lecturas por cada sector 
+de elemento.
+5. 1 Las armaduras, tienen velocidad de pulso de 1,6 veces el hormigón, deben 
+descartarse.
+5.2 Luego en el análisis, si existen lecturas erráticas se descartan, pero mínimo debe 
+contarse con 3.
+6 Se identifica el elemento en el plano y se mide su ancho con la mayor precisión 
+posible (L en mm).
+4) CÁLCULOS Y RESULTADOS
+7 En lo que concierne a la determinación misma de la velocidad, se calcula de la si-
+guiente manera:
+7.1 V elocidad pulso ultrasónico (V) en km/s
+       L (milímetros) – T (micro . segundos)
+7. 2 T es el promedio de las diferentes mediciones; calculando así V por cada uno 
+de los puntos.
+7. 3 Pueden existir variaciones por humedad del hormigón, temperatura, armadu-
+ras, etc.
+8 De estimar resistencias (solo con transmisión directa), hacerlo con adecuada co-
+rrelación y calibración.
+8. 1 Es indispensable correlación con probetas y/o testigos, solo mencionando abajo 
+valores de referencia:
+8.2 4,5 km/s Excelente – 3,5 a 4,5 km/s Muy buena – 3,0 a 3,5 km/s Buena o Dudosa 
+- ‹ 3,0 km/s Pobre
+9 T ambién puede determinarse el módulo de elasticidad dinámico (mayor que el 
+módulo estático).
+9. 1 Módulo Elasticidad dinámico 
+                     (Ed en GPa)
+9.2 ȡ= densidad del hormigón endurecido en kg/m
+3 – V = V elocidad de pulso en km/s
+9.3 = coeficiente de Poisson del H o (adimensional), para una estimación puede 
+usarse 0,20 a 0,23.
+9.4 Con esos valores de  el segundo factor de la ecuación de valores de 0,90 a 0,86 
+respectivamente.
+10 Puede emplearse para detectar defectos o variaciones de resistencias locales en 
+estructuras. Según ASTM C597 también se emplea el método para verificar la efec-
+tividad de sellado de fisuras.
+11 El informe e interpretación de resultados debe ser realizado por profesionales 
+con experiencia.
+HE08
+21
+REVISTA HORMIGONAR  DIGITAL   # 1
+
+
+--- FIN DE PÁGINA ---
+
+1) ELEMENTOS NECESARIOS PARA EL ENSAYO:
+1 Máquina de ensayo o prensa con sistema de regulación de cargas para su aplicación 
+continua.
+1. 1 Sus platos metálicos deben ser de acero de dureza > a 55 HRC y constar con una 
+rótula esférica.
+1.2 Espaciamiento entre platos adecuado con el tamaño de la probeta y el sistema de 
+encabezado.
+1.3 Elemento de lectura de cargas con una precisión del 1% de la carga del ensayo.
+1.4 Dispositivo para apreciar la carga máxima que debe estar entre el 20 y 90% de la 
+capacidad.
+2 Dispositivo compresómetro para medir la deformación del eje de la probeta (Fig 1 – 
+IRAM 1865).
+2. 1 Es posible determinar módulo de Poisson con este dispositivo. No se describe en 
+este procedimiento.
+3 Reloj comparador digital con resolución de 0,001 mm para medir el diámetro de la 
+probeta.
+4 Elemento de medición adecuado con precisión de 0,1 mm para medir el diámetro 
+de la probeta.
+5 Elemento de medición con precisión de 0,1 mm para medir la altura (largo de la pro-
+beta o testigo.
+6 Probetas o testigos cilíndricos con su sistema de encabezado verificado según norma.
+2) VERIFICACIÓN Y CALIBRACIÓN DE LA MÁQUINA DE ENSAYO:
+1 Deberá calibrarse al menos una vez al año, cuando se repare algún mecanismo o se 
+mueva de posición.
+2 El error de lectura dentro de las escalas en que la máquina puede ser utilizada de-
+berá ser menor al 1%.
+2. 1 Es muy relevante una lectura precisa a cargas <10% de la capacidad (calibración a baja 
+carga).
+3) MEDICIONES A REALIZAR SOBRE PROBETAS Y TESTIGOS:
+1 Se medirán dos diámetros normales en la mitad de altura de la probeta con preci-
+sión del 0,1 mm.
+1. 1 El diámetro D se calcula como el promedio de dos diámetros medidos y expresado 
+en mm al 0,1 mm.
+2 La altura se medirá con precisión de 0,1 mm incluído el encabezado.
+2. 1 Para mediciones de mayor precisión, podrán tomarse el promedio de cuatro altu-
+ras (mm).
+2.2 Con los cuatro valores obtenidos (centro y tres cerca de bordes) se calcula el pro-
+medio de la altura h.
+4) COLOCACIÓN DE PROBETA O TESTIGO EN DISPOSITIVO COMPRESÓMETRO Y MEDIDAS:
+1 Se colocará en forma centrada a los aros del dispositivo 
+compresómetro.
+2 Se elevará el dispositivo hasta centrarlo respecto de la altura 
+de probeta.
+3 Deberá ajustarse el dispositivo firmemente mediante tornillos 
+sujetadores.
+4 Se medirán dos distancias, una vez fijada la probeta:
+4. 1 ɟ
+r= distancia perpendicular del eje de la probeta hasta barra del pivote.
+4.2 ɟg= distancia perpendicular del eje de la probeta al eje del medidor .
+5 Estas medidas no deben tener grandes variaciones en ensayos siguientes.
+5. 1 Se recomienda revisar medidas antes de iniciar la sesión de ensayos.
+6 Las mediciones del dispositivo sirven para determinar la deformación longitudinal d.
+6. 1 g= lectura del reloj comparador en 0,001 mm.
+6.2 İi= la deformación unitaria se calcula como d/L y es adimensional.
+7 Debe medirse el diámetro central de la probeta al 0,1 mm para poder calcular las 
+tensiones ı.
+5) PROCEDIMIENTO DE ENSAYO:
+1 Antes de iniciar el ensayo, se limpian cuidadosamente las superficies de los platos 
+de la prensa.
+2 Se ensaya la probeta gemela a compresión simple, obteniendo la tensión de rotura 
+de la probeta, y registrar .
+3 Se calcula el 45% de la tensión de rotura anterior para establecer el límite de carga 
+de las corridas. Registrar .
+4 Se establecen seis escalones de carga como mínimo hasta la carga límite calculada, 
+y se registran en la tabla.
+5 Se coloca la probeta con el dispositivo instalado en la prensa, correctamente centrada.
+6 Deberá realizarse una corrida de carga sin registrar lecturas hasta el límite estable-
+cido en el paso 3.
+7 Se aplica la carga en forma continua con velocidad de carga de 0,24 ± 0,035 MPa/s.
+8 Se realizan tres corridas, registrando en la tabla la deformación y temperatura en 
+cada escalón, al 0,001 mm.
+9 Antes de iniciar cada corrida, debe colocarse e cero el reloj comprador .
+10 Realizadas tres corridas, se retira el dispositivo compresómetro y se ensaya la pro-
+beta normalmente.
+11 Se mantiene la velocidad constante hasta la rotura de la probeta.
+12 Se registra el valor de la carga máxima alcanzada F en kilonewton en el momento 
+de la rotura.
+6) CÁLCULOS
+1 Módulo de Elasticidad (E)    Redondear al 0,1 GPa
+1. 1 ı40% = tensión (carga / sección inicial) al 40% de la rotura y ı 0,000050 tensión in-
+terpolada al 0,005%.
+1.2 İ
+40% = deformación unitaria interpolada al 40% de la tensión de rotura (se interpo-
+la gráficamente) 0,005%.
+7) CONTENIDO MÍNIMO DEL INFORME:
+2 Identificación indeleble de la probeta y su procedencia (obra, cliente, etc).
+3 El diámetro y la altura de las probetas, expresados en milímetros.
+4 La fecha de confección, la fecha de rotura y la edad de ensayo de la probetas, en días.
+5 Curado de la probeta y variaciones de temperatura y humedad ambiente.
+6 Resistencia a la compresión del hormigón, en Mpa.
+7 Curva tensión-deformación y Módulo de elasticidad estático calculado (se mues-
+tra ejemplo).
+8 Los defectos observados en la probeta, peso de la probeta o cualquier otra obser-
+vación de relevancia.
+MÓDULO DE ELASTICIDAD ESTÁTICO EN PROBETAS CILÍNDRICAS SEGÚN NORMA IRAM 1865 (FICHA HE09))
+ENSAYOS PASO A PASO DEL HORMIGÓN
+Por el Ms. Ing. Maximiliano Segerer, de la firma Control y Desarrollo de Hormigones / www.cdhormigones.com.ar
+TECNOLOGÍA
+22
+
+--- FIN DE PÁGINA ---
+
+23
+REVISTA HORMIGONAR  DIGITAL   # 2
+
+
+--- FIN DE PÁGINA ---
+
+A) ELEMENTOS NECESARIOS:
+1. Balanza con capacidad de 3.000 g y resolución 0,01 
+g (debe comprender la masa del espécimen de ensa-
+yo entre el 20% y 80% de la capacidad de la balanza).
+2. Recipiente de base plana, con tapa hermética y al-
+tura interior mayor a 80 mm.
+3. Paño de baja absorción para enjugar las probetas, 
+previo a cada pesada.
+4. Estufa, regulada a una temperatura de 50 °C ± 2 °C.
+5. Registrador continuo de temperatura, con reso-
+lución de 0,1 °C.
+6. Calibre con precisión de 0,1 mm.
+7. Base de apoyo para las probetas o testigos, de ma-
+terial resistente a la corrosión, que debe asegurar 
+el 90% de contacto de la superficie de apoyo de la 
+probeta o testigo. Debe estar perfectamente nivela-
+da (corroborar con nivel de burbuja).
+8. Nivel de burbuja.
+9. Bolsas de polietileno, de 100 μm de espesor 
+(mínimo).
+10. Película de polietileno para envolver las probetas 
+o testigos luego del secado.
+11. Cronómetro para determinar el tiempo de pesa-
+da de las muestras.
+12. Sierra diamantada para realizar el corte de las 
+probetas.
+B) PROBETAS Y TESTIGOS DE ENSAYO:
+1. Las muestras deben estar compuestas por probe-
+tas que cumplan con las normas IRAM 1524 o 1534, 
+COMPARTIMOS ESTE ENSAYO REALIZADO SEGÚN IRAM 1871:21, NUEVA VERSIÓN  
+DE ESTA NORMA QUE -RECIENTEMENTE- ENTRÓ EN VIGENCIA.
+Método para determinar 
+la capacidad y la velocidad 
+de succión capilar de agua 
+del hormigón endurecido
+ENSAYOS P ASO A P ASO
+Por el Ms. Ing. Maximiliano Segerer, de la firma Control y Desarrollo de Hormigones / www.cdhormigones.com.ar
+Saturación de probetas ya pintadas en su perímetro‹
+Aserrado de probetas o testigos de 10 cm de diámetro (fondo 
+probeta o superficie testigo a la derecha).‹
+TECNOLOGÍA30
+
+--- FIN DE PÁGINA ---
+
+o testigos que cumplan con la norma IRAM 1551.
+2. Una serie de ensayo está formada por tres probe-
+tas o testigos, como mínimo.
+3. Se utilizan probetas o testigos de 50 + 2 mm de al-
+tura y diámetros nominales, obtenidos mediante el 
+aserrado de probetas o testigos.
+4. Determinar la altura de las probetas y testigos se-
+gún IRAM 1574.
+5. Se denomina base de absorción aquella sobre la 
+que se desea realizar el ensayo.
+6. Probetas:
+6.1. Se realiza un primer aserrado a 30 mm del extre-
+mo de la probeta en contacto con la base del molde, se 
+descarta ese corte y se reitera otro corte a 50 ± 2 mm. 
+Esta segunda porción es la que conforma la probeta de 
+ensayo.
+6.2 El aserrado se debe realizar luego de los 28 días 
+de curado húmedo, debiendo comenzar el ensayo 
+antes de los 42 días después del moldeo. 
+C) PROCEDIMIENTO:
+1. Se determina el diámetro de la sección trasversal 
+de cada probeta de la serie de ensayo en curso, pro-
+mediando dos diámetros perpendiculares, medidos 
+a la mitad de la altura. Se determina el área de la sec-
+ción transversal (A
+i) de cada probeta.
+2. Se sella con pintura impermeabilizante toda la sec-
+ción perimetral de las probetas (ej. Pinturas epoxídi-
+cas, asfálticas o de caucho clorado base solventada).
+3. Previo al ensayo, se deben saturar las probetas, de-
+jándolas sumergidas en agua durante 72 hs.
+4. Las muestras se secan en estufa a 50 ± 2 °C hasta masa 
+constante, registrando los pesos cada (24 ± 1) hs hasta 
+que la diferencia entre dos pesadas sucesivas es menor 
+a 0,1%. Controlar la temperatura del horno mediante el 
+termómetro indicador durante todo el proceso. La es-
+tufa de secado debe estar a una temperatura ambiente 
+de laboratorio igual a (20±2) °C.
+* Nota: el resultado del ensayo es muy susceptible al 
+secado, por lo tanto, no exponer las probetas directa-
+mente a la fuente de calor o a la corriente de aire de 
+estufas con ventilación forzada. 
+5. Antes de cada pesada, dejar enfriar hasta tempe-
+ratura ambiente las probetas, envueltas con doble 
+bolsa de polietileno.
+6. Una vez secas las probetas, se registra la masa seca 
+(M
+so) y se recubren con doble pliego de película de 
+polietileno durante un tiempo comprendido entre 
+72 hs y 7 días, en ambiente de laboratorio.
+7. Se extraen las probetas del envoltorio de polietileno 
+y se registra la masa seca (M
+si) de las muestras. Se colo-
+can en el recipiente sobre la base de apoyo con una al-
+tura de agua de 3 ± 1 mm respecto de la base absorben-
+te, a una temperatura de 20 ± 2 °C. Hay que mantener 
+la temperatura durante todo el ensayo. Este momento 
+se considera como el tiempo inicial del ensayo (t
+o).
+8. Las probetas se introducen en forma inclinada 
+para evitar la formación de burbujas de aire debajo 
+de las mismas.
+9. El recipiente debe taparse para lograr una humedad 
+de equilibrio del aire del 95% y evitar la evaporación.
+10. Se pesan las probetas en los tiempos t
+1=15 min, t2= 
+30 min, t3=45 min, t4=1 h, t5=1,5 h, t6=2 hs, t7=3 hs, 
+t8=4 hs, t9=5 hs, t10=6 hs, t11=24 hs, t12=48 hs y, a conti-
+nuación, una vez cada 24 ± 1 hs, hasta que la diferencia 
+entre dos pesadas sucesivas sea menor a 0,1%. Se retira 
+una probeta por vez, se enjuga la base y los laterales con 
+el paño y se determina la masa húmeda (M
+hit). 
+Secado en un horno de convección específico a 50 °C hasta 
+lograr variaciones de masa iguales a 0,1% (esta tarea es crítica).‹
+Envoltorio en plástico para que las probetas no ganen 
+humedad y puedan enfriarse. ‹
+31
+REVISTA HORMIGONAR  DIGITAL   # 3
+
+
+--- FIN DE PÁGINA ---
+
+11. Cada pesada debe completarse en 30 s y se debe 
+registrar el tiempo correspondiente en el momen-
+to de la determinación de la masa, con ayuda del 
+cronómetro.
+D) CÁLCULO Y GRÁFICO DE LOS RESULTADOS:
+1. Se determina, para cada probeta, el incremento 
+de masa por unidad de área (C it) para cada instante 
+de tiempo (t).
+Cit=(Mhit-Msi)/Ai
+2. Capacidad de succión capilar:
+2.1. La capacidad de succión capilar de cada probe-
+ta (Ci), en gramos por metros cuadrados, es el va-
+lor del incremento de masa por unidad de área de 
+la sección transversal de la probeta (i), en el instan-
+te de tiempo (t), (C
+it), que corresponde al tiempo (t) 
+cuando la variación de masa es menor a 0,1% entre 
+dos pesadas sucesivas.
+2.2. La capacidad de succión capilar del hormigón 
+(C), en gramos por metro cuadrado, se calcula como 
+el promedio de las capacidades de succión capilar 
+(C
+it) de cada probeta que compone la serie de ensayo.
+2.3. Grado de saturación:
+2.3.1. Una vez finalizado el ensayo de succión capi-
+lar, las muestras se colocan en estufa a (105 ± 2) °C 
+durante 48 hs.
+2.3.2. Se retiran las muestras de la estufa. Se dejan 
+enfriar hasta temperatura ambiente, primero en am-
+biente de laboratorio durante 1 h y luego envueltas 
+en doble bolsa de polietileno hasta que alcancen la 
+temperatura ambiente. Se pesan (M
+o).
+* Nota: se recomienda usar un desecador para el en-
+friamiento de las probetas.
+2.3.3. El grado de saturación al inicio (G o) y al fi-
+nal (G f) del ensayo, se calculan con las siguientes 
+fórmulas:
+Go (%)=(Msi-Mo)/Mo.100
+Gf(%)=(Mhi-Mo)/Mo.100
+Mhi= masa húmeda de la muestra en el instante de 
+lectura en que se alcanza la capacidad de succión ca-
+pilar C
+i, en gramos.
+2.4. Coeficiente de succión capilar:
+2.4.1. En forma individual, se grafica el incremen-
+to de masa por unidad de área de la serie de ensayo 
+(C
+it), en gramos por metros cuadrados, en función 
+de la raíz cuarta del tiempo de lectura ( 4√t), en se-
+gundos a la un cuarto.
+2.4.2. El coeficiente de succión capilar del hormi-
+gón (S
+i), correspondiente a cada muestra de ensayo, 
+en gramos por metro cuadrado por segundo a la un 
+cuarto, es la pendiente de la recta obtenida mediante 
+ajuste por cuadrados mínimos de la serie de puntos.
+* Nota: el coeficiente de correlación de ajuste por cua-
+drados mínimos (R
+2) debe ser mayor a 0,90. En el 
+caso de obtener un valor menor a 0,80 se recomienda 
+repetir el ensayo.
+2.4.3. El ajuste de la curva se realiza en forma indi-
+vidual para cada muestra, con todos los puntos de la 
+serie de ensayo que cumplen la condición de que el 
+valor correspondiente al incremento de la masa por 
+unidad de área de la sección transversal de la mues-
+tra (i) de la serie de ensayo en el instante de lectura 
+(t), (C
+it), debe estar comprendido dentro del interva-
+lo 0,1 Ci y 0,9 Ci.
+2.4.4. El coeficiente de succión capilar medio de la 
+serie de ensayo se calcula como el promedio de los 
+Se ensayan tres probetas por cada muestra.‹
+Colocación de probetas con 3 mm de agua y accesibilidad libre por su 
+cara inferior.‹
+TECNOLOGÍA32
+
+--- FIN DE PÁGINA ---
+
+valores Si, correspondientes a las muestras de la se-
+rie. Una vez calculado el valor promedio, se con-
+trastan los valores individuales y se descartan todos 
+aquellos que estén fuera del rango ± 15% del valor 
+medio. Con los valores restantes se vuelve a calcular 
+el promedio y se repite el proceso de eliminación las 
+veces que sean necesarias hasta que todos los valores 
+se encuentren comprendidos en el rango ± 15% del 
+valor medio. El valor medi o final se informa como 
+coeficiente de succión capilar medio (S
+m).
+Nota: el ensayo sólo es válido si el conjunto remanente 
+para el cálculo de los valores medios está compuesto, 
+como mínimo, de dos valores.
+2.4.5. Estimación del coeficiente de succión capilar:
+Para el caso de muestras provenientes de probetas 
+moldeadas, el coeficiente de succión capilar de cada 
+muestra de ensayo S
+05i, debe ser estimado a partir del 
+valor del coeficiente S i, correspondiente a la misma 
+muestra de la serie, a partir de la fórmula siguiente:
+S05i=0,0743 .td
+-0,1879.Si
+S05i = coeficiente de succión capilar de cada muestra 
+en función de la raíz cuadrada del tiempo, en gramos 
+por metro cuadrado por segundo a la un medio.
+t
+d = tiempo correspondiente a 0,9 Ci, en horas.
+Si = coeficiente de succión capilar de cada muestra 
+en función de la raíz cuarta del tiempo, en gramos 
+por metro cuadrado por segundo a la un cuarto.
+El valor final se calcula como la media aritmética de 
+los valores S
+05i de cada muestra de la serie de ensayo, 
+obtenidos de la fórmula, y se informa como coefi-
+ciente de succión capilar medio (S05m) en función de 
+la raíz cuadrada del tiempo. ◉
+Enjugado superficial de las probetas para su pesado (en su cara 
+inferior y laterales).‹
+Pesaje de probetas a diferentes edades.‹
+33
+REVISTA HORMIGONAR  DIGITAL   # 3
+
+
+--- FIN DE PÁGINA ---
+
+1) ELEMENTOS NECESARIOS
+1. Equipo de ensayo compuesto de:
+1.1 Un marco de ensayo que permita mantener las 
+probetas en una posición fija, de manera que el agua 
+a presión pueda actuar sobre la cara de estudio.
+1.2 Un compresor de aire capaz de presurizar una lí-
+nea de suministro de agua al marco de ensayo en los 
+niveles de presión y tiempo correspondientes.
+1.3 Un conjunto de conductos para conexión y su-
+ministro de agua a presión al marco de ensayo y 
+para la purga de agua del sistema.
+1.4 Un sistema de regulación y lectura instantánea 
+de la presión de agua que se aplica a las probetas du-
+rante el ensayo.
+2. Anillos de sellado de caucho o material similar 
+que evite la fuga de agua a presión, cuyo diámetro 
+dependerá de las medidas de las probetas.
+3. Cepillo de cerdas metálicas para el escarificado 
+superficial u otro método similar.
+4. Recubrimiento impermeabilizante, resina o pin-
+tura de secado rápido (epoxi, asfáltica o a base de 
+caucho clorado) que garantice un sellado liso e im-
+permeable de la superficie de hormigón.
+5. Prensa o máquina de ensayo para la aplicación de 
+una carga que divida las probetas y barras de acero 
+(para facilitar su rotura en dos mitades).
+2) MUESTRAS
+1. Forma y medidas de las probetas: la sección trans-
+versal será circular o cuadrada (convencionalmente 
+se trabaja con probetas de 15 x 30 cm). El diámetro/
+lado y el alto deben ser iguales o mayores a 150 mm 
+o a tres veces el tamaño máximo nominal del agre-
+gado grueso, lo que resulte mayor entre ambos.
+2. Moldeo de las probetas: se moldean probetas 
+del hormigón en estudio proveniente de la misma 
+muestra según IRAM 1534. Para cada ensayo serán 
+necesarias al menos tres probetas, indicando la di-
+rección y sentido en la que actúa la presión de agua 
+en las condiciones reales de obra con respecto a las 
+de moldeo del hormigón.
+3. Preparación y curado de las probetas: 
+3.1 Al desmoldarse, en la cara que se expondrá a 
+presión se marca un círculo concéntrico con el eje 
+de la probeta, cuyo diámetro será el indicado en la 
+Tabla 1. Esa zona se escarifica con un cepillo de cer-
+das metálicas, para eliminar la película superficial 
+poco permeable.
+3.2 Las probetas se someten al proceso de curado es-
+tándar según lo indica IRAM 1534, manteniéndolas 
+hasta el momento de la realización del ensayo, que 
+por defecto será de 28 días u otra edad por razones 
+específicas fundadas. La superficie circundante a la 
+zona escarificada será sellada con el recubrimiento 
+impermeabilizante.
+3) PROCEDIMIENTO
+1. Técnica operativa:
+1.1 El agua a presión se aplicará sobre la superficie 
+escarificada, colocando sobre la superficie que la 
+circunda un anillo de sellado con el fin de circuns-
+cribir la zona de aplicación del agua a presión. La 
+PENETRACIÓN DE AGUA 
+A PRESIÓN EN EL 
+HORMIGÓN ENDURECIDO 
+SEGÚN NORMA IRAM 1554
+ENSAYOS P ASO A P ASO DEL HORMIGÓN ENDURECIDO
+Por la Ing. Kristel Roshdestwensky, representante técnica de Hormigones Melmix de la firma Nelson Melli Construcciones / www.melmix.com.ar
+TECNOLOGÍA30
+
+--- FIN DE PÁGINA ---
+
+secuencia y el tiempo de mantenimiento de las pre-
+siones de agua durante el ensayo son establecidos 
+en la Tabla 2.
+1.2 Durante la realización del ensayo se observa la 
+superficie de las probetas no sometidas al agua a 
+presión con el fin de detectar la posible aparición o 
+existencia de agua sobre ellas.
+1.3 Al finalizar el último ciclo de presión se dividen 
+las probetas en dos mitades, aplicando una carga 
+perpendicular a la superficie sobre la que se aplicó 
+la presión de agua con una prensa o máquina de en-
+sayo, previa colocación de dos barras cilíndricas de 
+acero en un mismo plano vertical.
+1.4 Después de fracturadas, se resalta sobre cada mi-
+tad de las probetas el contorno del frente de penetra-
+ción máximo de agua.
+2. Resultado del ensayo:
+2.1 El cálculo de la media aritmética se obtiene del 
+relevamiento del contorno del frente de penetra-
+ción de agua marcado en el plano de fractura, divi-
+diéndolo en un número de partes iguales de 5 mm 
+de ancho.
+2.2 La medida de la penetración máxima de agua en 
+el hormigón de cada probeta ensayada está dada por 
+el valor máximo medido del frente de penetración 
+de agua en ésta.
+Escarificado de probeta en la zona 
+de ensayo luego de desmoldarse.ȍ
+Colocación del anillo de sellado 
+sobre la superficie que circunda 
+la zona escarificada. ȍ
+Curado de las probetas hasta la 
+edad de realización del ensayo.ȍ
+Ajuste de la presión de agua para 
+cumplir la secuencia y el tiempo 
+de mantenimiento durante el 
+ensayo. ȍ
+Sellado de la superficie 
+circundante a la zona 
+escarificada con el recubrimiento 
+impermeabilizante. ȍ
+Aplicación del agua a presión en 
+las probetas durante el ensayo.ȍ
+31
+REVISTA HORMIGONAR  DIGITAL   # 4
+
+
+--- FIN DE PÁGINA ---
+
+4) CÁLCULOS
+1. Se calcula la penetración media (Pm i) y máxima 
+(Pxi) sobre las dos mitades de cada probeta:
+   
+Pm1,Pm2,Pm3: penetración media de cada probeta 
+(1, 2 y 3), en milímetros.
+Px
+1,Px2,Px3: penetración máxima de cada probeta (1, 
+2 y 3), en milímetros.
+y
+i,1, yi,2, yi,3: valores de profundidad de penetración de-
+terminados sobre las probetas (1, 2 y 3), en milímetros.
+n: cantidad de puntos en los que se mide la profun-
+didad de penetración del agua en el hormigón en 
+cada probeta (ambas mitades), y que se utilizan para 
+el cálculo de la penetración media.
+2. Se calcula la penetración media (Pm) y máxima 
+(Px) del ensayo:
+Pm: penetración media del ensayo, en milímetros.
+Px: penetración máxima del ensayo, en milímetros.
+Pm
+1,Pm2,Pm3: profundidad de penetración media de 
+las probetas sin anomalías, en milímetros.
+Px
+1,Px2,Px3: profundidad de penetración máxima de 
+las probetas sin anomalías, en milímetros.
+5) CONTENIDO MÍNIMO DEL INFORME
+1. Identificación del hormigón ensayado.
+2. Forma y medidas de las probetas.
+3. Tipo y período de curado de las probetas.
+4. Edad del hormigón a la que se realizó el ensayo.
+5. Tipo de agua empleada para el ensayo.
+6. Temperatura y humedad relativa ambiente del la-
+boratorio (valores medios).
+7. Superficie sobre la que se aplicó la presión de 
+agua, superior o inferior de la probeta.
+8. Dirección de aplicación de la presión de agua, pa-
+ralela o perpendicular a la dirección de colocación 
+del hormigón en el molde.
+9. Gráficos asociados de cada mitad de la probeta 
+(además, es muy recomendable incluir fotografías).
+10. Penetración de agua en sus valores individuales 
+medio y máximo.
+11. De ser posible, datos de caracterización en esta-
+do fresco, relación a/c y resistencia a compresión.
+◉
+División de las probetas en 
+dos mitades mediante prensa 
+de ensayo y barras cilíndricas 
+metálicas. ȍ
+Resultado del ensayo midiendo profundidad de 
+penetración del agua máxima y media.ȍ
+TECNOLOGÍA32
+
+--- FIN DE PÁGINA ---
+

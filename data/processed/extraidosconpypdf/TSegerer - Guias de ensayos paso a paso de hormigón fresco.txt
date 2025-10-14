@@ -1,0 +1,2100 @@
+Hormigonar 40    diciembre 2016
+>
+Ensayos paso  
+a paso: Muestreo 
+y temperatura 
+del hormigón fresco
+T erminada la serie de los ensayos más comunes realizados 
+en laboratorios de autocontrol de hormigoneras para ca-
+racterizar los agregados, se comenzará con la descripción 
+de ensayos del hormigón fresco. Respecto de los ensayos 
+de otras materias primas, como cementos, aditivos y agua, 
+difícilmente se realizan en planta y suele subcontratarse a 
+laboratorios especializados o bien adjuntar los protoco-
+los de calidad enviados por los fabricantes para el caso 
+de cemento y fichas técnicas para los aditivos. Para estos 
+dos últimos casos, es muy útil que mensual o bimestral-
+mente el proveedor vaya mandando la información ac-
+tualizada en formato digital para adjuntarla, poder llevar 
+una adecuada trazabilidad y enviar a los clientes cuando 
+se solicitan.
+Para comenzar con los ensayos del hormigón fresco, se 
+describe paso a paso el ensayo de muestreo del hormigón 
+fresco, aplicado a la industria del hormigón elaborado. Si 
+bien son técnicas muy sencillas, es de vital importancia te-
+ner una muestra representativa para que todos los ensayos 
+sean válidos. Si no se siguen estos procedimientos, todos 
+los demás ensayos de caracterización del hormigón fresco 
+y moldeo de probetas pierden validez, con lo cual no es un 
+tema menor para tener en cuenta en planta y en obra. 
+Ha resultado oportuno incluir y mostrar fotografías del 
+Moldeo Remoto, cada vez más empleado en hormigone-
+ras del país. Básicamente consiste en tomar una muestra del 
+hormigón fresco en obra y moldear las probetas en laborato-
+rio, economizando transporte a obra (para el moldeo y para 
+el retiro de moldes) y mejorando que las condiciones de pro-
+tección y curado sean normalizadas, lo que es más difícil de 
+cumplir en obra que en laboratorio. Deben darse ciertas con-
+diciones de tiempos y consistencia medida, pero en general 
+brindan valores favorables, con lo cual es una técnica excelen-
+te para lograr un control más realista que tomar muestras en 
+planta, y más económico y representativo que concurrir a obra 
+para moldear probetas y al día siguiente retirar los moldes.
+T ambién se incluye el ensayo para determinar la temperatu-
+ra del hormigón fresco; es muy sencillo y se brindan los linea-
+mientos generales para su determinación con diferentes tipos 
+de termómetros. Como es un ensayo de aceptación del hor-
+migón, se especificarán los límites recomendables y en qué 
+tipo de estructuras y condiciones ambientales es de vital im-
+portancia su determinación. Se sugiere realizarlo en todas las 
+muestras, ya que es un ensayo rápido y fácil de realizar , y brin-
+da datos muy relevantes que pueden vincularse con otras va-
+riables, como estudiar el aumento de demanda de agua con 
+la temperatura y poder optimizar dosificaciones en diferentes 
+estaciones o épocas del año. 
+«
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+TECNOLOGÍA24
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 40    diciembre 2016
+1) Elementos necesarios para el ensayo
+1 Carretilla, balde u otro recipiente de material no absorbente y 
+perfectamente limpio antes de su uso
+2 Palas de diferentes tamaños dependiendo del recipiente para 
+colocar la muestra de hormigón fresco
+3 Guantes de goma y otros elementos de protección personal
+4 Tamices de diferentes aberturas de malla, si se necesita tamizar el 
+hormigón para algún ensayo
+2) Extracción de la muestra
+1 El procedimiento cumplirá con las precauciones necesarias para 
+obtener muestras representativas
+2 El tamaño de la muestra debe ser al menos un 40% superior al 
+volumen necesario para los ensayos
+2.1 Para un asentamiento y moldeo de 2 probetas 15 x 30 se necesita 
+una muestra de aprox. 30 litros
+2.2 Para un asentamiento y moldeo de 3 probetas 10 x 20 se necesita 
+una muestra de aprox. 15 litros
+2.3 Para un ensayo de peso unitario o de aire incorporado adicional se 
+necesita aprox. 15 litros más
+3 Verificar que el recipiente o carretilla estén libres de hormigón viejo 
+(fresco o endurecido)
+4 Humedecer siempre, sin encharcar, el recipiente y la pala antes del 
+muestreo
+5 Toma de muestras de hormigoneras fijas:
+5.1 La extracción se realizará en el volumen comprendido entre el 15% 
+y el 85% del volumen del pastón
+5.2 Se deberá interceptar con el recipiente en el punto de descarga la 
+totalidad de la sección de la vena
+6 Toma de muestras en motohormigoneras en obra (camiones 
+mixer):
+6.1 La extracción se realizará después de descargar el primer 1/4 m
+3 y 
+antes de descargar el último 1/4 m3
+6.2 Se deberá interceptar con el recipiente en el punto de descarga la 
+totalidad de la sección de la vena
+6.3 En ningún caso se podrá obtener la muestra antes de incorporar la 
+totalidad del agua de mezclado
+7 Toma de muestra en motohormigoneras en planta como tarea de 
+autocontrol (camiones mixer):
+7.1 Es en el único caso en que se permite obtener la muestra sin 
+descargar 1/4m
+3
+7.2 Deberá tomarse una única porción evitando, si corresponde, los 
+primeros segundos de la descarga
+7.3 No debe emplearse el inicio si presenta importantes cantidades de 
+agregado grueso o agua
+7.4 En ningún caso se podrá obtener la muestra antes de la 
+incorporación de la totalidad del agua de mezclado
+8 Moldeo remoto: Toma de muestras en obra directamente del 
+camión y moldeo en laboratorio central
+8.1 La toma de muestras se realiza en obra mediante recipientes 
+acondicionados (laboratorista, mixeo)
+8.2 El volumen de la muestra deberá ser > 16 litros y el recipiente de 
+capacidad de 20 litros o más
+8.3 La muestra se transporta en el camión hormigonero con tapa para 
+impedir pérdida de humedad
+8.4 Al llegar al laboratorio, se descarga y homogeiniza toda la muestra 
+en carretilla o similar
+8.5 Para que el ensayo se válidad tienen que cumplirse las siguientes 
+tres condiciones simultáneas:
+8.6 a) Que el asentamiento sea igual o mayor a la mitad del 
+asentamiento de diseño (y siempre > 3 cm)
+8.7 b) Que no hayan transcurrido más de 4 horas desde su salida de 
+planta hasta el moldeo de probetas
+8.8 c) Que no hayan transcurrido más de 2 horas desde la toma de 
+muestras hasta el moldeo de probetas
+8.9 Cumplidas las condiciones anteriores, puede emplearse sin 
+restricción para el moldeo de probetas
+8.10 Esta metodología tiene ventajas competitivas considerables 
+respecto a los otros métodos de muestreo
+9 Para obras con descarga en camiones batea, puede tomarse con 
+pala una vez descargado
+3) Preparación de la muestra
+10 Se transportan las muestras individuales al lugar donde se 
+moldean probetas o se realizan los ensayos
+11 Siempre se remezclarán las distintas porciones con la pala en el 
+recipiente logrando su uniformidad
+12 Los ensayos de asentamiento y contenido de aire se iniciarán 
+dentro de los 5 min de tomada la muestra
+13 El moldeo de las probetas comenzará dentro de los 15 minutos 
+posteriores a la obtención de la muestra
+13.1 Para el Moldeo Remoto si se cumplen las condiciones, es válido 
+tomar más tiempo (excepción de 15 min)
+14 La muestra se protegerá en su transporte o espera de las acciones 
+climáticas
+15 El hormigón fresco durante el transporte no deberá segregar ni 
+exudar en demasía
+16 Si el TM del agregado es incompatible con los moldes o recipientes 
+para ensayos se debe tamizar
+16.1 Se tamiza el hormigón fresco por el tamiz de la abertura indicada, 
+dependiendo del ensayo
+16.2 Se debe poseer un segundo recipiente donde caiga el H
+o 
+tamizado y se desechan los agregados
+16.3 No colocar hormigón en exceso, debiendo quedar sólo una capa 
+de agregados sobre el tamiz
+16.4 El hormigón debe ser remezclado de manera eficiente después 
+del tamizado antes de los ensayos
+Muestreo del hormigón fresco
+Según Normas IRAM 1541, IRAM 1666 y experiencias en Moldeo Remoto
+TECNOLOGÍA26
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 40    diciembre 2016
+>
+T oma de muestras convencional en obra
+‹ T oma de muestras de la descarga a bomba
+‹
+T apado de muestras para su transporte al laboratorio
+‹
+Remezclado de muestras
+‹
+Medición de asentamiento en moldeo remoto (indispensable)
+‹ T oma de muestras en obras con T erminadoras de Alto Rendimiento
+‹
+ V ertido de muestra de moldeo remoto en carretilla
+‹
+Colocación del hormigón fresco en recipientes para moldeo remoto
+‹
+TECNOLOGÍA 27
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 40    diciembre 2016
+ 1) Elementos necesarios para el ensayo
+1 Termómetro tipo pinche para medir la temperatura del 
+hormigón fresco que registre 0,5ºC
+1.1 Los termómetros pueden ser digitales o analógicos con 
+rango de 0 a 50ºC al menos
+1.2 Si bien no figuran en la norma, los termómetros infrarrojos 
+suelen tener muy buenos resultados
+1.3 Es recomendable contrastar o calibrar el termómetro cada 
+12 meses o sospecha de errores
+2 Recipiente no absorbente o carretilla para colocar la 
+muestra de hormigón fresco
+2) Procedimiento de ensayo
+1 Obtener una muestra representativa y remezclarla después 
+de descargar el primer 1/4m3 del camión
+2 El requisito anterior puede ser obviado sólo si el ensayo es 
+para autocontrol de calidad en planta
+3 Verificar que la carretilla y el termómetro estén libres de 
+hormigón viejo (fresco o endurecido)
+4 Insertar el termómetro en el hormigón fresco al menos  
+7 cm
+5 El termómetro debe estar separado más de 7 cm de cada 
+una de las paredes y fondo del recipiente
+6 Presionar el hormigón fresco alrededor del termómetros
+7 Esperar un tiempo de 2 minutos como mínimo o hasta que 
+la temperatura se estabilice 
+8 Registrar la temperatura al más cercano 0,5ºC
+9 Se debe concluir el ensayo en menos de 5 minutos de 
+finalizada la toma de la muestra
+10 Se procede a limpiar el termómetro adecuadamente con 
+el fin de dejarlo listo para el próximo ensayo
+11 Siempre es recomendable también registrar la 
+temperatura ambiente en el momento del ensayo
+12 En el caso de emplear termómetros infrarrojos, que la 
+lectura (punto rojo) sea lejos de los bordes
+3) Criterios de aceptación del hormigón por su 
+temperatura
+1 En tiempo frío, en general la temperatura mínima 
+recomendada del hormigón fresco es de 13ºC
+2 En tiempo caluroso, la temperatura máxima recomendada 
+del hormigón fresco es 30-32ºC
+3 En caso de exigencias de temperatura es recomendable 
+comunicar a planta antes del despacho
+4 Si la temperatura del hormigón fresco en obra no cumple, 
+se procede a tomar otra muestra
+5 Se mide la temperatura; si este segundo resultado es 
+positivo, el hormigón debe aceptarse
+6 Si el segundo resultado es negativo (fuera del rango de 
+temperaturas), debe estudiarse la situación
+6.1 En ciertas obras pueden tomarse medidas de protección y 
+curado para evitar el rechazo
+6.2 En estos casos, se deberá tener una demostración sólida 
+de la no afectación de la estructura
+6.3 En casos de estructuras masivas y tiempo caluroso, deben 
+tomarse las previsiones adicionales
+7 En ciertos casos puede ser útil controlar la temperatura del 
+hormigón ya colado en los encofrados
+Determinación de la temperatura del hormigón fresco
+Según Norma ASTM C 1064
+TECNOLOGÍA28
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 40    diciembre 2016
+Medición de temperatura en carretilla apisonando a los costados del pinche
+‹ Medición de temperatura en obra en moldeo remoto
+‹
+Medición de temperatura en pavimentos ya colados
+‹
+T emperatura del hormigón en tiempo frío sin protección
+‹
+Estructuras masivas en las cuales es muy relevante determinar la 
+temperatura
+‹  Medición de temperatura con termómetro digital en hormigón 
+colado en la estructura
+‹
+Medición de temperatura con termómetro infrarrojo
+‹
+Medición de temperatura en muestra en carretilla (termometro analógico)
+‹
+TECNOLOGÍA 29
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 4 1    mayo 2017
+>
+Siguiendo con los ensayos de hormigón fresco, se describirá la de-
+terminación del peso unitario (o también llamada densidad del 
+hormigón fresco) y el contenido de aire total del hormigón fresco. 
+Se describen ambos en el mismo artículo, ya que si se posee una 
+balanza adecuada y se determina el contenido de aire del hormi-
+gón fresco, con el mismo ensayo de aire puede establecerse en un 
+paso intermedio el peso unitario del hormigón fresco.
+El primero de los ensayos, según IRAM 1562, tiene una impor-
+tancia decisiva en la caracterización del hormigón fresco en el 
+diseño de mezclas y en el control de éstas. En caso de que lo rea-
+lice el mismo laboratorista, con el mismo recipiente y balanza, va-
+riaciones del orden de 10 a 20 kg/m
+3 pueden significar un cam-
+bio de las proporciones teóricas de la mezcla. En conjunto con 
+el ensayo de aire incorporado, puede determinarse una mayor 
+o menor demanda de agua de forma bastante precisa para to-
+mar decisiones en el momento, respecto del hormigón fresco y 
+posibles modificaciones de las fórmulas. Además, es muy usual 
+que el “cierre al m
+3 de las dosificaciones” se realice de forma sim-
+plificada por volúmenes y densidades de constituyentes, pero la 
+imprecisión muchas veces de su determinación o la falta de in-
+formación (densidad de cementos adicionados) pueden conlle-
+var a errores importantes en el planteo de fórmulas. Por ello, el 
+ensayo del PUV (peso unitario volumétrico del hormigón fres-
+co) debe realizarse siempre al finalizar toda dosificación e inde-
+pendientemente de los volúmenes y densidades de cada uno de 
+los materiales, ya que la suma de todos los constituyentes debe 
+arrojar un peso del m
+3 igual al PUV medido.
+Además, tiene importancia ya que puede emplearse como base 
+para determinar el volumen que transporta un camión. Pesando 
+cuando llega y cuando sale de la obra el camión, se obtiene por 
+diferencia el peso del hormigón; al relacionarlo con el PUV me-
+dido en obra (no valores de tabla u obtenidos de bibliografía), 
+puede determinarse el volumen de hormigón real transportado 
+en el camión. El Reglamento CIRSOC 201 establece como uno 
+de los registros indispensables para Modo 1 las curvas de pe-
+sos unitarios para diferentes categorías resistentes, con el obje-
+tivo del seguimiento de potenciales desvíos. Los pesos unitarios 
+de hormigones convencionales sin aire incorporado en nuestro 
+país varían entre 2.290 y 2.490 kg/m
+3, dependiendo de la na-
+turaleza de los agregados en primer lugar (agregados basálticos 
+brindan valores más elevados), de la demanda de agua total y 
+del peso específico de los otros constituyentes como la arena y 
+el cemento, estando también directamente influenciados por el 
+contenido de aire total de la mezcla. Para hormigones livianos, 
+permeables y pesados, es indispensable su determinación.
+Respecto del ensayo de la determinación del contenido de aire, 
+existen tres métodos diferentes para hormigones según Norma 
+IRAM 1602: 2 por presión y 1 volumétrico. El más comúnmen-
+te empleado es el denominado Método A, mientras que el mé-
+todo volumétrico (Método C) se utiliza en otros países, como 
+Estados Unidos; por eso se describirá el primero de ellos con 
+mayor detalle. El principio de determinación del aire por presión 
+consiste en suministrar una presión a una cámara ajena al hormi-
+gón y luego liberarla para que comprima todo lo compresible en 
+el recipiente inferior; al estar compuesto por hormigón (cemen-
+to, agua, agregados finos y gruesos, aditivos, adiciones, fibras y 
+aire) y agua, se considera que todos son incompresibles menos 
+el aire, determinándolo por lectura directa en un manómetro el 
+porcentaje de aire, el cual debe estar adecuadamente calibrado. 
+Los incorporadores de aire son empleados fundamentalmen-
+te cuando una estructura estará sujeta a ciclos de congelación 
+y deshielo, y existirá el contacto con la humedad, con lo cual 
+el contenido de aire total (suma del natural e intencionalmen-
+te incorporado) es uno de los parámetros de aceptación y re-
+chazo del hormigón fresco en obra, junto con la consistencia 
+y la temperatura. Contenidos de aire superiores a los límites 
+indicados en el Reglamento CIRSOC 201 (incluidas sus tole-
+rancias) podrán reducir notoriamente la resistencia y una in-
+terconexión de las burbujas de aire, mientras que para conte-
+nidos muy bajos no se logrará la durabilidad deseada (falta de 
+volumen en la pasta de cemento para la expansión del agua). 
+T ambién se emplea incorporador de aire para facilitar el mol-
+deo en tecnologías como T AR (terminadoras de alto rendi-
+miento) o extrusoras para viguetas o losas huecas, para dar 
+mayor estabilidad de borde y menor exudación a la mezcla. 
+Para finalizar , ciertos equipos por presión también pueden 
+cuantificar el contenido de aire de hormigones alivianados y 
+RDC, lo cual es muy útil como complemento del ensayo del 
+peso unitario para el diseño y control de mezclas.
+Ensayos paso a paso: Peso 
+unitario y contenido de 
+aire del hormigón fresco
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+TECNOLOGÍA16
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 4 1    mayo 2017
+1) Elementos necesarios para el ensayo
+1 Balanza con una capacidad de 40 kg y precisión de 5 g (0,3% de la 
+masa total), recomendando 2 g
+2 Varilla recta de acero de 16 mm de diámetro y 60 cm de largo con un 
+extremo en forma de semiesfera
+3 Martillo de cabeza de goma que pese aproximadamente 500 g 
+4 Si corresponde vibrador interno con una frecuencia mayor a 7000 v/
+min y diámetro de 19 a 38 mm
+5 Recipiente cilíndrico de capacidad mínima de 7, 10 o 15 dm
+3 según el 
+TM del agregado
+6 Placa de metal de 6 mm de espesor con dimensiones mayores a 
+50 mm el diámetro del recipiente
+7 Palita de sección en U compatible con el TM del agregado y un trapo 
+húmedo para limpiar el recipiente
+8 Para la calibración, placa de vidrio de 6 mm de espesor y termómetro 
+de precisión 0,5 °C
+2) Calibración del recipiente
+9 Se nivela cuidadosamente la superficie de la balanza antes de realizar 
+el ensayo (muy relevante)
+10 Se limpia el recipiente y se determina la masa del recipiente vacío 
+más la placa de vidrio (mr)
+11 Se llena el recipiente con agua hasta 1 cm de la superficie y se cubre 
+con la placa de vidrio
+12 Colocada la placa nivelada, se agrega agua lentamente hasta eliminar 
+todo el aire y se pesa (mra)
+13 Se determina la masa de agua (ma) del recipiente como (mra – mr)
+14 Se mide la temperatura del agua y se obtiene la densidad del agua 
+(da) de tablas
+15 Se calcula el volumen V del recipiente dividiendo la masa del agua 
+(ma) por su densidad (da)
+16 Los recipientes se deben recalibrar una vez al año y cuando existan 
+dudas para cuestionar la exactitud
+3) Procedimiento del ensayo
+1 Se humedece el interior del recipiente, se pesa éste vacío y se 
+determina su masa en gramos (m2)
+2 La muestra se obtendrá según IRAM 1541 a la mitad 
+aproximadamente de la descarga del hormigón
+3 Método de compactación manual – Para asentamientos iguales o 
+mayores a 5 cm y TMN ≤50 mm
+3.1 La primera capa debe tener una altura aprox. Igual a la tercera parte 
+de la altura del recipiente
+3.2 Se apisona cada capa golpeándola con 25 golpes distribuidos 
+uniformemente en toda la superficie
+3.3 En la primera capa se debe hacer penetrar la varilla en todo su 
+espesor evitando golpear el fondo
+3.4 Para la segunda y tercera capas, se debe penetrar todo su espesor y 
+aprox. 25 mm la capa anterior
+3.5 Luego de varillar cada una de las 3 capas se dan 10 a 15 golpes con el 
+martillo de goma al molde
+3.6 Debe procurarse que sobre hormigón en la parte superior para el 
+caso de la tercera capa
+4 Método de compactacón por vibración interna – Para 
+asentamientos inferiores a 8 cm
+4.1 Se llena en 2 capas, colocando la primera capa hasta la mitad de la 
+altura del molde y se vibra
+4.2 Se vibrará insertando el vibrador en 3 puntos diferentes, evitando 
+que se toque el fondo y costados
+4.3 El llenado de la segunda capa se hará como en el caso anterior, 
+previendo que sobre hormigón
+4.4 El vibrador debe penetrar aproximadamente 25 mm la primera 
+capa
+5 Después de la compactación se enrasa la superficie en la forma que 
+se describe
+5.1 Se coloca la placa metálica sobre la superficie del recipiente 
+cubriendo 2/3 partes de ésta
+5.2 Se arrastra en movimiento de vaivén para dar terminación al área 
+cubierta de las 2/3 partes
+5.3 Luego se coloca nuevamente la placa y se avanza en vaivén hasta 
+cubrir toda la superficie
+5.4 Se golpea con el borde inclinado de la placa para producir un 
+acabado suave y liso en la superficie
+5.5 El enrasado puede realizarse con otro método (varilla, por ej.) si se 
+determina su efectividad
+6 Al finalizar se limpian todas las caras del recipiente de restos de 
+hormigón fresco con un trapo húmedo
+7 Se pesa el recipiente con el hormigón (m1), el ensayo debe realizarse 
+en 5 minutos desde el muestreo
+8 Para determinar el peso unitario se realizan al menos 3 
+determinaciones sobre 3 pastones diferentes
+9 S la media de tres ensayos se ajusta al valor especificado, incluida la 
+tolerancia de ± 2,0%, se acepta
+9.1 Como control interno, es recomendable que no presente 
+variaciones superiores a ± 1,0%
+10 Si se desea calcular el rendimiento del pastón, se deberán conocer 
+las masas originales incorporadas
+10.1 mc masa de cemento, mf del agregado fino, mg del agregado 
+grueso, ma del agua incorporada
+4) Cáculos – Indicados en Norma IRAM 1562
+Determinación del peso unitario del hormigón fresco
+Según Norma IRAM 1562
+TECNOLOGÍA18
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 4 1    mayo 2017
+>
+Calibración del recipiente de medida
+‹ Varillado manual de la primera capa
+‹
+Compactación de la última capa con hormigón sobrante
+‹
+Limpieza final de los bordes y restos de hormigón
+‹
+Empleo del recipiente de 15 litros para TMN superiores a 38 mm
+‹ Pesaje de hormigón más recipiente (ejemplo para PUV de 
+hormigones alivianados)
+‹
+ Moldeo en dos capas con vibrador de aguja para asentamientos bajos
+‹
+Golpes con martillo de goma en cada capa
+‹
+TECNOLOGÍA 19
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 4 1    mayo 2017
+1) Elementos necesarios para el ensayo (Por presión – Método A)
+1 Equipo por presión para determinar el aire incorporado (Washington) 
+equipado según el TM
+2 Varilla recta de acero de 16 mm de diámetro y 60 cm de largo con un 
+extremo en forma de semiesfera
+3 Martillo de cabeza de goma que pese arpximadamente 500 g
+4 Si corresponde, vibrador interno con una frecuencia mayor a 
+7000 v/min y de diámetro de 19 a 38 mm
+5 Palita de sección en U compatible con el TM del agregado y un trapo 
+húmedo para limpiar el recipientes
+6 Bomba de aire manual o inflador incorporado a la cámara de presión 
+del equipo
+2) Calibración (Métodos por presión)
+7 Se debe determinar el término de corrección G por vacío de 
+agregados según la Norma IRAM 1602
+7.1 Para el caso de agregados corrientes no visiblemente porosos, 
+puede considerarse G igual a 0
+8 Debe aforarse el recipiente y calibrarse el manómetro según lo indica 
+la Norma IRAM 1602
+8.1 Es recomendable calibrar el manómetro para al menos 4 puntos de 
+aire entre 0 y 10%
+9 La calibración debe realizarse al menos una vez al año o cuando 
+existan dudas de los resultados
+3) Acondicionamiento de la muestra (Métodos por presión)
+1 Se obtiene una muestra represntativa del hormigón fresco según lo 
+indicado en la Norma IRAM 1541
+2 Se deberá tamizar la muestra si contiene partículas de agregado 
+mayores a 37,5 mm
+2.1 Para este caso deberán calcularse los volúmenes absolutos (V) de los 
+siguientes componentes
+2.2 V. Total (Vt), V. Pasa tamiz 37,5 mm (Vc), V. Del agregado >37,5 mm 
+(Va) y V. Del mortero (Vm)
+3 Se asegura que no existan restos de hormigón en el recipiente y se 
+humedece su interior
+4 Para la compactación, manual o por vibración, se siguen pasos 
+idénticos que en el ensayo de PUV
+5 Se puede enrasar con la regla metálica o con la placa de vidrio, 
+siempre en movimiento de sierra
+5.1 Si se pesa antes y después y el TM < 1 1/2”, puede usarse para 
+determinar el PUV según IRAM 1562
+6 Se limpian con un trapo húmedo los bordes del recipiente y el o'ring 
+inferior de la tapa del aparato
+4) Procedimiento del ensayo (Por presión – Método A)
+7 Se abren las válvulas de conexión y purga situadas en la tapa y la 
+misma se coloca sobre el recipiente
+8 Se ajusta la tapa al recipiente mediante los tornillos ejerciendo 
+presión para lograr un cierre hermético
+9 Se cierran las válvulas de conexión y de purga y se conecta el inflador 
+en la válvula de admisión
+10 Se inyecta aire hasta que la aguja del manómetro sobrepasa el indica 
+de presión incial (1 kg/cm
+2)
+11 Se hace coincidir la aguja del manómetro con el índice presión inicial, 
+manipulando la válvula de purga
+12 Si se detiene la aguja se golpea suavemente con los dedos el vidrio o 
+el costado del manómetro
+13 Se abre progresivamente la válvula de conexión para que el aire a 
+presión penetre en el recipiente
+14 Se sigue con atención el desplazamiento de la aguja, si se detiene la 
+aguja se procede según 12
+15 Se lee directamente sobre el dial del manómetro el porcentaje de 
+aire contenido en la muestra (A1)
+15.1 A veces se da una lectura inicial y otra despés del rebote. La 
+calibración identificará cuál es la válida
+16 Se abre con precaución y en forma gradual la válvula de purga 
+expulsando el aire a presión
+17 Se registra el contenido de aire (A1) leído en el dial, debiendo 
+concluirse antes de 5 min. del muestreo
+18 Se saca la tapa y se limpia cuidadosamente el aparato para dejarlo 
+preparado para su próximo uso
+5) Descripción rápida del método volumétrico (Método C de 
+IRAM 1602)
+1 Se acondiciona el hormigón en el recipiente inferior del equipo 
+volumétrico para determinar aire
+2 Se ajusta la tapa al recipiente mediante sujeciones metálicas para 
+lograr un cierre hermético
+3 Se incorpora lentamente agua, sin turbulencias, hasta lograr el nivel 
+“0” de la columna vertical
+4 Se inclina y agita al menos 5 minutos, sin pérdida de agua, hasta lograr 
+lectura estable del % de aire
+5 En caso de burbujas, puede adicionarse una medida (1%) de alcohol. 
+Se mide el contenido de aire A1
+6 Por el tamaño del recipiente, no es útil para determinar el PUV del 
+hormigón fresco en general
+6) Cálculos – Indicados en Norma IRAM 1602
+Determinación contenido aire del hormigón fresco
+Según Norma IRAM 1602
+TECNOLOGÍA20
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 4 1    mayo 2017
+Enrase con placa de vidrio
+‹
+Limpieza con trapo húmedo de la parte de contacto con la tapa
+‹
+Incorporación de agua con pera de goma
+‹
+Incorporación de aire con inflador externo
+‹
+Lectura final de aire incorporado
+‹
+Equipo volumétrico 
+después del agitado 
+y lectura directa del 
+contenido de aire 
+hormigones alivianados
+‹
+ Incorporación de aire con inflador incorporado
+‹
+Ajuste de la tapa del aparato de Washington
+‹
+TECNOLOGÍA 21
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 42    agosoto 2017
+>
+Ensayos Paso a Paso: 
+Determinación de 
+la consistencia del 
+hormigón fresco
+La determinación de la consistencia es uno de los ensayos 
+obligatorios e indispensables para realizar en obra, además de 
+ser usado como criterio de aceptación principal en las obras. 
+Muchas veces se cree que el único ensayo para determinar la 
+consistencia es el ensayo del cono de Abrams, pero en reali-
+dad existen más de 50 ensayos para determinar la consistencia, 
+sólo que el ensayo normalizado por IRAM 1536 es el más “fa-
+moso” y el precursor de todos los otros ensayos que ha cum-
+plido un siglo desde que comenzó a usarse. Por lo cual, este 
+ensayo se describirá paso a paso, siendo el más empleado en 
+obra en nuestra región. Se indicarán también de manera sim-
+plificada las tolerancias y criterios para aceptación en obra. Sin 
+embargo, aunque en algunos casos no sea conocido, el ensa-
+yo de asentamiento en el cual se mide el descenso del cono 
+en cm bajo ciertas condiciones normalizadas y bien explicita-
+das en el presente artículo no es aplicable para todo rango de 
+consistencias.
+Para consistencias muy secas, es decir , cuando el asentamien-
+to es menor a 2 cm, el cono de Abrams deja de ser represen-
+tativo y dentro de estos asentamientos bajos hay rangos de 
+consistencias bien diferenciados que la metodología de IRAM 
+1536 no puede determinar o distinguir . Para este rango de con-
+sistencias se emplea el método de V eBe que mide el tiempo 
+de remoldeo que tarda en llegar a la horizontal un hormigón 
+seco, mediante una mesa vibratoria y condiciones normaliza-
+das según IRAM 1767. El reglamentado por CIRSOC 201 lo es-
+pecífica para mezclas muy secas, midiendo la consistencia en 
+segundos de remoldeo. T ambién existen otros ensayos, como 
+el Factor de Compactación o el Remoldeo de Powers para 
+mezclas muy secas, pero al no ser aplicables al hormigón ela-
+borado estas consistencias (imposibilidad de mezclado en ca-
+miones), no se detallarán en el presente artículo. 
+En el lado opuesto, cada vez son más empleados los hormigo-
+nes de consistencia muy fluida. Similar a lo que pasa con el en-
+sayo del cono de Abrams que para bajos valores pierde validez, 
+para elevados asentamientos (>20 cm) también pierde repre-
+sentatividad y no es aplicable. El Reglamento CIRSOC 201 es-
+pecifica para consistencias muy fluidas la medición del exten-
+dido de la Mesa de Graf según IRAM 1690, con valores a priori 
+de 60 a 65 cm. Esta metodología no es directamente aplica-
+ble a hormigones autocompactantes (HAC) que tanto desa-
+rrollo e inserción en el mercado nacional han tenido en la úl-
+tima década y es más bien aplicable cuando la mezcla es muy 
+fluida (As >20 cm) pero no tiene carácter autocompactante. 
+En este último caso, existe una gran variedad de ensayos, entre 
+los que se encuentran los descriptos en el presente artículo. La 
+descripción es referencial y se aconseja consultar las normas 
+ASTM específicas para la realización de los ensayos, pero de-
+muestran gráficamente cómo realizar y qué medir en diferen-
+tes ensayos que sirven para cuantificar no sólo trabajabilidad, 
+sino capacidad de pasaje, poder autonivelante, cohesividad de 
+mezclas, entre otras propiedades relevantes para diseñar una 
+HAC en laboratorio y recibirlo en obra. 
+<
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+TECNOLOGÍA16
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 42   agosto 2017
+>
+Es válido para consistencias secas a fluidas (asentamientos de 2-3 
+cm a 18-20 cm)     
+ 
+1 Elementos necesarios para el ensayo   
+1 Cono de Abrams (30 cm de altura, 20 cm y 10 cm diámetro superior 
+e inferior) de chapa y su base    
+2 Varilla del 16 de 60 cm de longitud, lisa (no corrugada) con extremo 
+en semiesfera 
+3 Palita de sección en U compatible con el TM del agregado  
+4 Cinta métrica o regla para apreciar al menos el medio centímetro 
+5 Recipiente no absorbente o carretilla para colocar la muestra de 
+hormigón fresco     
+      
+2 Procedimiento de ensayo    
+1 Obtener una muestra representativa y remezclarla después de 
+descargar el primer 1/4 m³ del camión   
+1.1 El requisito anterior puede ser obviado sólo si el ensayo es para 
+autocontrol de calidad en planta    
+2 Verificar que el molde, base y barra estén libres de hormigón viejo 
+(fresco o endurecido)    
+3 En el caso de hormigones con partículas mayores a 1" se deberán 
+tamizar antes del ensayo     
+4 Humedecer siempre el molde y la base antes del ensayo  
+5 Colocar la base de ensayo en una superficie plana, firme y libre de 
+vibraciones  
+6 Sujetar firmemente el molde con los pies sobre la base metálica de 
+ensayo 
+7 No debe moverse el operario de su posición durante todo el 
+ensayo 
+8 El molde se llenará en tres capas de igual volumen, no de igual altura 
+8.1 La primera capa tendrá una altura aproximada de 6,5 cm y la 
+segunda 15,5 cm desde la base    
+8.2 Varillar 25 veces uniformemente el hormigón de cada una de las 
+tres capas  
+8.3 13 golpes se realizan en el perímetro con la barra un poco inclinada 
+y los 12 restantes en el centro    
+8.4 La primera capa se debe varillar en todo el espesor sin golpear en 
+demasía el fondo 
+8.5 En la segunda y tercera capa, la barra debe penetrar sólo un poco 
+en la capa anterior (2,5 cm aprox.)    
+8.6 Llenar la tercera capa de manera que sobresalga hormigón de la 
+parte superior 
+8.7 Cuando se varilla la última capa, conservar el hormigón sobrante 
+en superficie 
+8.8 Si se advierte que no sobrará hormigón en superficie, se agrega 
+antes de concluir el varillado    
+8.9 No puede incorporarse hormigón una vez finalizado el varillado, si 
+faltase se descarta el ensayo    
+9 Compactadas las tres capas, se procede a quitar los excedentes de 
+hormigón enrasando la superficie    
+10 Sujetando el cono hacia abajo, se limpian los restos de hormigón 
+sobre la base metálica     
+11 Levantar el molde los 30 cm de manera vertical en un tiempo 5+2 
+segundos  
+11.1 No se debe levantar el molde con movimiento horizontal o 
+torsional  
+12 Colocar el molde suavemente sobre la base de manera invertida y 
+colocar la barra sobre el molde    
+13 Inmediatamente, medir el asentamiento al más cercano medio 
+centímetro (0,5 cm) 
+14 El asentamiento es la distancia vertical que descendió el cono de 
+hormigón respecto a su forma original   
+15 La medida debe ser tomada en el eje central del hormigón, no en la 
+parte más alta o más baja    
+16 Se debe concluir el ensayo en menos de 5 minutos de finalizada la 
+toma de la muestra     
+17 Además, el ensayo debe concluir antes de 2 minutos y medio de 
+iniciado el mismo 
+18 Si el cono se inclina marcadamente o se desploma, el ensayo no es 
+válido y debe repetirse
+19 El hormigón del cono será tirado, no será empleado en ningún 
+otro ensayo ni para moldear probetas   
+   
+3 Resultados de ensayo    
+20 Se reporta el asentamiento en cm. Redondear al 0,5 cm 
+21 Comparar este valor con el asentamiento requerido por el cliente (remito) o 
+el deseado en planta   
+21.1 Si el asentamiento requerido es de 2 a 5 cm, la tolerancia es de 1 cm 
+21.2 Si el asentamiento requerido es de 6 a 15 cm, la tolerancia es de  2 cm
+ 
+     
+4 Criterios de aceptación o rechazo del hormigón fresco 
+por su asentamiento 
+1 Si el resultado de ensayo es positivo (incluidas las tolerancias), el 
+pastón se acepta 
+2 Si el resultado de ensayo es negativo (incluidas las tolerancias), se 
+realiza un segundo ensayo  
+2.1 Para el segundo ensayo se toma una nueva muestra 
+representativa y se ensaya 
+2.2 Si este segundo resultado es positivo (incluidas las tolerancias), el 
+pastón se acepta 
+2.3 Si el segundo resultado es negativo (incluidas las tolerancias), el 
+pastón podrá rechazarse 
+3 No se puede rechazar el hormigón con un solo ensayo de 
+asentamiento en ningún caso    
+4 Tampoco puede rechazarse si la muestra se tomó apenas comenzó 
+la descarga del camión
+Determinación de la consistencia mediante el asentamiento
+Según Norma IRAM 1536
+TECNOLOGÍA 17
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 42    agosoto 2017
+>
+Humedecimiento con agua (no excesiva) de la base y el cono
+‹ Incorporación de hormigón con cuchara en U
+‹
+Compactación de la última capa (hormigón sobrante parte superior)
+‹
+Limpieza de hormigón sobrante de la base y sujeción firme del cono
+‹
+Levantamiento del cono en forma vertical en 5 segundos
+‹ Medición del asentamiento al centro del cono a la parte inferior de 
+la barra (ej. 9,5 cm)
+‹
+Enrase superior y remoción de hormigón sobrante
+‹
+Compactación de la primera capa
+‹
+TECNOLOGÍA18
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 42   agosto 2017
+>
+Se describirán brevemente los ensayos, debiendo consultar la norma 
+indicada para realizarlos     
+ 
+1 Ensayo de extendido según el Método de mesa de Graf - 
+Norma IRAM 1690     
+  
+1 Para consistencias muy fluidas, sin llegar a ser autocompactante, es 
+el método normalizado en nuestro país   
+2 Instrumental: Mesa de Graf (dos bastidores con bisagra), cono (20 
+cm altura) y pisón de madera específico   
+3 Se humedece el conjunto y se acondiciona llenando el cono en 2 
+capas con 10 golpes del pisón cada una 
+4 Después de 30 seg., se levanta el molde; se sube y deja caer 
+libremente (40 mm) 15 veces en 15 seg.   
+5 Se miden dos diámetros opuestos y se promedian, obteniendo así 
+el diámetro de extendido de Graf    
+  
+2 Ensayo de Extendido para HAC, T50 e índice visual (Slump 
+flow) - Norma IRAM 1890
+    
+   
+1 Junto con el J-Ring, es el ensayo más empleado para la 
+caracterización preliminar y aceptación de HAC   
+2 Instrumental: Base no absorbente de 700 mm de lado marcada 
+concéntricamente, cono de Abrams y reloj   
+3 Se humedece la base y el cono ligeramente, retirando cualquier 
+exceso de agua    
+4 Se coloca el cono en el medio de la base nivelada y se llena, sin 
+varillar ni golpear, con una chuchara en U   
+5 Se limpia cuidadosamente todo el HAC y pasta que pueda haber 
+caído en la base y que interrumpa el flujo   
+6 Al levantar el cono se prende un cronómetro y se mide el tiempo 
+en segundos hasta que llegue a 50 cm   
+7 Se espera que se extienda y se miden dos diámetros 
+perpendiculares (al 5 mm) y se registra el promedio  
+8 Los resultados de ensayo son el diámetro de extendido libre y el 
+T50 (tiempo en llegar a 50 cm)    
+9 Para aceptación o rechazo, puede emplearse + 5 cm del extendido 
+libre de diseño 
+10 El Índice Visual es una calificación de 0 a 3 en función de 
+observaciones en el centro y halo del extendido   
+10.1 Índices de 0 y 1 indican adecuada estabilidad, acompañado de una 
+distribución uniforme del agregado    
+10.2 Índices de 2 y 3 no son deseables, indicando segregación o exceso 
+de agua en la mezcla     
+ 
+3 Ensayo del Anillo J (J-Ring flow) - Norma IRAM 1890  
+     
+1 Brinda un parámetro de la capacidad de pasaje y resistencia al 
+bloqueo, además de la consistencia    
+2 Instrumental: Idem extendido HAC y "Jaula" (anillo de f 300 mm y 
+16 barras f 16 equidistantes a 59 mm)   
+3 El ensayo es análogo al de extendido para HAC, pero se coloca el 
+cono invertido en el centro de la "jaula"   
+4 Se llena de hormigón el cono sin compactarlo, se limpian los restos 
+de la placa y se levanta el cono    
+5 Se miden dos diámetro opuestos del extendido (al 5 mm próximo) 
+y se calcula el promedio    
+6 El ensayo de extendido con y sin el anillo, deben realizarse en menos 
+de 6 minutos en total     
+7 Se determina la "capacidad de pasaje CP" como la diferencia entre 
+el extendido sin el anillo y con el anillo   
+7.1 CP ‹ 25 mm no hay bloqueo visible (aspecto deseable); si está entre 
+25 y 50 mm, puede existir bloqueo  
+7.2 Si CP › 50 mm hay riesgo bloqueo (medio a elevado) y es 
+recomendable rediseñar la mezcla    
+  
+4 Ensayo de la Caja en L (L-Box)    
+   
+1 La caja tiene una parte vertical de 60 cm de altura y de 10 x 20 cm 
+de sección donde se coloca el hormigón   
+2 Por gravedad se deja deja pasar el hormigón a la parte horizontal 
+(por 3 barras f 12 espaciadas 35 mm)    
+3 La parte horizontal tiene 70 cm y presenta marcas a los 20 y 40 cm 
+desde las barras para medir alturas    
+4 Se miden las alturas H1 (20 cm) y H2 (40 cm) y la relación H2/H1 
+mide capacidad autonivelante y de pasaje   
+5 También pueden medirse los tiempos T20 y T40 para determinar 
+las propiedades del hormigón fresco    
+  
+5 Ensayo de la Caja en U (U-Box)    
+   
+1 La caja dos compartimentos verticales de sección 20 cm x 14 cm y 
+una altura de 59 cm en total    
+2 En la parte inferior hay una abertura de 14 cm de altura con 3 barras 
+f 13 mm distanciadas 50 mm    
+3 Se colocan 20 litros de hormigón en una rama de la U, se deja un 
+minuto y se abre la comunicación inferior   
+4 Se mide la diferencia de alturas entre las dos ramas y lo ideal es que 
+su valor tienda a ser próximo a 0    
+  
+6 Ensayo del Embudo en V (V-Funnel)   
+    
+1 Es un embudo específico compatible hasta con TM < 20 mm que 
+usa una muestra de 12 litros de HAC    
+2 Se llena el recipiente sin compactar, se abre la puerta inferior (65 x 
+75 mm) y se deja caer por gravedad    
+3 Se registra el tiempo en el cual todo el hormigón fluye y se aprecia
+si existen signos de segregación    
+4 Es recomendable repetirlo con la misma muestra, pero dejarlo 5 
+minutos en el embudo y comparar tiempos   
+   
+7 Otros ensayos para mezclas muy fluidas   
+    
+1 Existe un gran número de metodologías para ensayos de HAC 
+en la actualidad. Sin embargo, con los ensayos arriba descriptos 
+es suficiente para caracterizar hormigones en la mayor cantidad 
+de aplicaciones     
+ 
+2 Entre otros, se destacan los ensayos para determinar la estabilidad y 
+segregación de la mezcla
+Ensayos de consistencia para hormigones muy fluidos y HAC
+Normas varias ASTM e IRAM 1890
+TECNOLOGÍA 19
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 42    agosoto 2017
+>
+Instrumental para determinra consistencia en Mesa de Graf
+‹ Varios ensayos de HAC en demostración
+‹
+Ensayo de extendido de J-Ring
+‹
+Vista superior de la Caja en U
+‹
+Ensayo V-Funnel
+‹ Instrumental de ensayo para determinar estabilidad y segregación
+‹
+Vista lateral del ensayo en la Caja en L
+‹
+Extendido libre y T50 (durante el ensayo)
+‹
+TECNOLOGÍA20
+
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 43    diciembre 2017
+>
+Ensayos paso a paso: 
+Tiempos de fragüe  
+y exudación del hormigón fresco
+Continuando con los ensayos de 
+hormigón fresco, se describirán en 
+el presente artículo dos determi-
+naciones, que no requieren instru-
+mental oneroso y brindan paráme-
+tros muy útiles en laboratorios de 
+autocontrol de plantas hormigo-
+neras: exudación y tiempos de fra-
+güe. Existen ciertos errores frecuen-
+tes sobre estos ensayos, como que la 
+determinación del tiempo inicial de 
+fragüe del hormigón se realiza sobre 
+la base de variaciones de temperatu-
+ra, empleando el aparato de Vicat, o 
+que la pérdida de asentamiento por 
+elevadas temperaturas y/o distan-
+cias prolongadas de transporte es si-
+nónimo de fragüe y debe rechazar-
+se la carga. Otra creencia incorrecta 
+es que la exudación debe ser lo más 
+baja posible en todas las aplicacio-
+nes del hormigón elaborado, sien-
+do un parámetro crítico para cier-
+tas obras como pisos industriales 
+llaneados. Cuantificando estos pa-
+rámetros, pueden optimizarse las 
+dosificaciones y buscar alternativas 
+para el cliente en diferentes aplica-
+ciones, así como poder evaluar de-
+terminados aditivos y transportar 
+el hormigón en largas distancias sin 
+que éste pierda sus propiedades.
+El tiempo inicial de fragüe (IRAM 
+1662) es un parámetro de vital im-
+portancia para el proveedor , con el 
+fin de conocer cuánto tiempo tie-
+ne para transportar el hormigón 
+y cuánto tiempo disponible existe 
+en obra para su descarga, no sólo 
+por demoras sino por imprevistos. 
+En muchas obras se expresa con-
+tundentemente “el hormigón a los 
+90 minutos inicia el fragüe” y exis-
+ten muy pocas posibilidades de que 
+esto suceda (o ninguna para el hor-
+migón elaborado convencional). El 
+Reglamento CIRSOC 201 acertada-
+mente indica que todas las tareas 
+para descargar , compactar y ter-
+minar el hormigón de las estructu-
+ras deben realizarse antes de que 
+inicie el fragüe. Si no se determina 
+el tiempo inicial de fragüe, estable-
+ce el tiempo de 90 minutos, de allí 
+que es útil demostrar que el tiempo 
+de fragüe es superior para hormigo-
+nes convencionales. Por ello, cono-
+cer el tiempo de fragüe inicial de los 
+hormigones en diferentes condicio-
+nes es de utilidad para que en cier-
+tas obras se demuestre que el hor-
+migón puede permanecer en estado 
+fresco 3 a 5 horas, como ocurre nor-
+malmente, o bien ampliar mercados 
+transportando el hormigón a mayo-
+res distancias. 
+Es un ensayo sencillo, aunque algo 
+lento, que consiste en ir midiendo la 
+resistencia a la penetración del mor-
+tero tamizado de una muestra de 
+hormigón. Puede modelarse en la-
+boratorio o bien con condiciones de 
+temperatura reales de obra para po-
+der inferir aceleramientos o retrasos 
+del fragüe. Si bien la norma indica 
+determinar tiempo inicial y final de 
+fragüe, el parámetro fundamental es 
+el tiempo inicial que indica la finaliza-
+ción del estado fresco, y este tiempo 
+puede determinarse con ciertos dis-
+positivos (penetrómetros de bolsi-
+llo) que no necesariamente tengan la 
+capacidad necesaria para determinar 
+el tiempo final de fragüe, el cual tie-
+ne su relevancia, pero mucho menor 
+que el inicial para las aplicaciones 
+más comunes de obra. 
+Respecto al ensayo de exudación 
+(IRAM 1604), el Reglamento CIRSOC 
+201 exige su determinación cuando 
+se llenan elementos de más de 2 me-
+tros de altura (cualquier columna o 
+tabique de una obra civil) y para es-
+tructuras que estén sometidas al 
+desgaste, erosión o cavitación, con el 
+objeto de evitar la pérdida de mate-
+rial superficial con la abrasión o paso 
+del agua a elevada velocidad, por 
+ejemplo. Es un ensayo conceptual-
+mente sencillo, que determina qué 
+cantidad de agua sale a la superficie 
+de una muestra de hormigón y a qué 
+velocidad. Debe realizarse, para los 
+casos indicados, al emplear la mezcla 
+por primera vez, cuando cambie al-
+guno de los componentes de la mez-
+cla o cuando visualmente existan in-
+dicios de exudación excesiva
+.
+Si bien el Reglamento limita valo-
+res máximos, si la exudación de la 
+mezcla es muy baja, puede acarrear 
+riesgo de fisuración plástica o que 
+exudaciones muy abruptas causen 
+fisuras por asentamiento plástico, 
+con lo cual es el parámetro que más 
+define la vulnerabilidad del hormi-
+gón a la fisuración en estado fresco. 
+Por ello, es útil no sólo cumplimen-
+tar con los valores máximos admi-
+sibles, sino conocer cuál es la capa-
+cidad y velocidad de exudación que 
+tienen los diferentes hormigones 
+despachados. 
+El Reglamento CIRSOC 201 especi-
+fica que la capacidad de exudación 
+debe ser igual o menor al 5% del 
+agua de mezclado y que la velocidad 
+de exudación sea como máximo 100 
+x 10 ¯¬ ml/cm ²/seg (o cm/seg que 
+son unidades equivalentes). 
+<
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+TECNOLOGÍA3232
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 43    diciembre 2017
+>
+Instrumental necesario para ensayo de exudación.
+‹
+Espacio superior libre necesario en el ensayo de exudación
+(no se enrasa convencionalmente).
+‹
+Inclinación previa de 2 minutos antes de cierta recolección del agua.
+‹ Retiro de agua una vez inclinado con pera de goma.
+‹
+Pesaje (opcional a medición por volumen) del agua de exudación 
+a diferentes intervalos.
+‹
+T erminación superficial para lograr cierta planicidad.
+‹
+Compactación de la muestra en el recipiente de exudación.
+‹
+Gráfico de Exudación
+‹
+TECNOLOGÍA34
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 43    diciembre 2017
+>
+1) Elementos necesarios para el ensayo   
+1. Penetrómetro para morteros con la aguja correspondiente que 
+pueda leer presiones de hasta 4,0 MPa   
+1.1. Puede ser de bolsillo para tiempo inicial de fragüe o con varias 
+agujas para tiempo inicial y final    
+1.2. El penetrómetro debe ser verificado cada 6 meses ó 50 ensayos, 
+lo que ocurra primero     
+2. Recipiente metálico indeformable para colocar el mortero fresco 
+de sección circular o rectangular    
+2.1. Las dimensiones transversales deben ser mayores a 15 cm y altura 
+de recipiente entre 13,5 y 15 cm    
+2.2. Tapa para el recipiente anterior que cubra toda la superficie sin 
+contacto con el hormigón    
+3. Tamiz IRAM de abertura de malla 4,75 mm (# 4) y fondo de tamiz 
+(o una bandeja metálica)     
+4. Varilla de compactación de 16 mm de diámetro y 60 cm de largo 
+con punta terminada en semiesfera    
+5. Elemento para retirar el agua de exudación, pudiendo emplearse 
+una pera de goma y una cuña   
+6. Termómetro para medir la temperatura del mortero y la 
+temperatura ambiente, con precisión de 0,5 C   
+      
+2) Preparación de la muestra    
+1. Se obtiene una muestra representativa del hormigón fresco según 
+lo indicado en la Norma IRAM 1541    
+2. Se tamiza la muestra de hormigón a través del tamiz  
+IRAM 4,75 mm (#4)     
+3. Debe irse colocando el mortero tamizado en un recipiente  
+y desechando el agregado grueso    
+4. Se homogeneiza el mortero obtenido, colocándolo en el recipiente 
+en que se ejecuta el ensayo    
+5. El volumen de mortero deberá ser suficiente para llenar el 
+recipiente a una altura de 13,5 a 14,0 cm   
+6. Se compacta manualmente en una capa aplicando un golpe  
+de varilla por cada 10 cm  de área    
+7. A continuación se golpean levemente los costados del molde hasta 
+el cierre de los eventuales vacíos    
+8. La muestra debe almacenarse y mantenerse a la temperatura 
+deseada, siendo la normal de 21 a 25 ˚C   
+9. Se registra la temperatura inicial del mortero, pudiendo dejar 
+inserto el termómetro en todo el ensayo   
+10. Se cubre el recipiente para evitar la evaporación de agua, además 
+de no exponer el recipiente al sol    
+11. Debe mantenerse siempre cubierto, salvo cuando se retira el agua 
+o se mide la penetración     
+12. Se deben realizar al menos 2 ensayos simultáneos para cada 
+muestra y cada condición de ensayo    
+    
+3) Procedimiento de las mediciones durante el ensayo  
+1. Antes de realizar todos los ensayos de penetración se retira el agua 
+de exudación con la pera de goma    
+2. Para facilitarlo, se coloca una cuña para que el recipiente se incline 
+10Ý, 2 minutos antes del ensayo    
+3. Para cada una de las mediciones de resistencia a penetración  
+se debe proceder como se detalla:    
+3.1. Se coloca la superficie inferior de la aguja del penetrómetro  
+en contacto con la superficie de mortero   
+3.2. Se aplica una fuerza vertical de arriba hacia abajo  
+con el penetrómetro, gradual y uniformemente   
+3.3. La fuerza debe lograr penetrar 25 mm en la superficie  
+del mortero en 10    2 segundos    
+3.4. El vástago del penetrómetro tiene una marca a los 25 mm  
+para facilitar esta operación    
+3.5. Se registra la fuerza necesaria y la sección de la aguja, 
+determinando resistencia a penetración   
+3.6. En cada punto, se toma el tiempo transcurrido a partir  
+del contacto del agua con el cemento    
+4. La distancia entre las impresiones será mayor a dos  
+diámetros de la aguja y no menor a 15 mm   
+5. La distancia entre cualquier impresión y los costados  
+del recipiente debe ser mayor a 25 mm   
+6. Se deben realizar las mediciones anotando el tiempo transcurrido 
+desde el inicio del mezclado    
+6.1. En condiciones de laboratorio y para hormigones sin aditivos,  
+la primera lectura se realiza a 3 horas    
+6.2. En caso de altas temperaturas o aditivos aceleradores, s 
+e deben iniciar las lecturas a 1 hora    
+6.3. En caso de bajas temperaturas o aditivos retardadores,  
+se deben iniciar las lecturas a 4 horas    
+6.4. Después de la primera medición, las posteriores tienen que ser 
+realizadas cada 30 minutos    
+7. Cuando se registre una resistencia a penetración superior a 4,0 MPa 
+ha iniciado el fragüe     
+8. Si se desea determinar el tiempo final de fragüe, deben emplearse 
+las agujas de menor sección   
+9. Inmediatamente, se quita el mortero del recipiente y se limpia, 
+dejándolo listo para el próximo ensayo   
+10. En todas los ensayos se registran: la resistencia a penetración  
+y el tiempo referido al inicio de mezclado   
+11. Debe registrarse de manera continua la temperatura ambiente 
+      
+4) Cálculos, gráfico y determinaciones   
+1. Se debe realizar un gráfico ubicando todos los puntos  
+de las mediciones de resistencia a penetración   
+1.1. En el eje de abscisas (horizontal) se grafican los tiempos  
+de medición en minutos     
+1.2. En el eje de ordenadas (vertical) se grafican las resistencias  
+a penetración en MPa     
+1.3. Manualmente o con la ayuda de la computadora, se traza  
+una curva de tendencia     
+2. En el eje de ordenadas se ubica 3,4 MPa se traza una recta 
+horizontal hasta cortar la curva de tendencia   
+3. Al cortar la curva, se baja en vertical y se lee en el eje de abscisas  
+el tiempo inicial de fraguado    
+4. Si se determina el tiempo final de fragüe se determina la resistencia 
+a penetración para 27,4 MPa  
+5. Se informan los tiempos de fraguado como el promedio de dos 
+ensayos, redondeado a 5 minutos
+DETERMINACIÓN DE TIEMPOS DE FRAGÜE DEL HORMIGÓN FICHA / HF07 Según Norma IRAM 1662 
++
++-
+TECNOLOGÍA 35
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 43    diciembre 2017
+>
+1) Elementos necesarios para el ensayo   
+1. Recipiente de capacidad aproximada de 14 litros con diámetro de 
+250 mm y altura 280 mm (aprox.)    
+2. Balanza de 40 a 50 kg y resolución de 5 g como mínimo  
+(deseable 2 g)     
+3. Pipeta graduada que permita extraer el agua, pera de goma y 
+probeta graduada de vidrio de 100 ml   
+4. Varilla de compactación de 16 mm de diámetro y martillo con 
+cabeza de goma (ídem probetas)     
+5. Lámina de polietileno de 0,1 mm de espesor mínimo y un elástico 
+para sujetarla al recipiente    
+6. Cuña de madera de 50 mm de altura, regla metálica para 
+terminación y trapo para limpieza    
+7. Otros elementos de ensayo de hormigón fresco (termómetro, 
+recipiente PUV, cono Abrams, etc.)    
+    
+      
+2) Preparación de la muestra    
+1. Se obtiene una muestra representativa del hormigón fresco  
+según lo indicado en la Norma IRAM 1541   
+1.1. Para hormigones con agregado › 38 mm, es recomendable 
+descartar esas partículas por tamizado   
+2. Se coloca el hormigón fresco en tres capas de aproximadamente 
+igual altura y se consolidan    
+2.1. Cada capa se compacta con 25 golpes de la varilla y golpes  
+con la maza de goma (ídem probetas)    
+2.2. Debe llegarse con la tercer capa a cerca de 3 cm por debajo  
+del enrase del recipiente     
+2.3. Se debe enrasar con regla metálica o similar hasta lograr  
+una superficie plana     
+3. Conociendo la tara del recipiente, se debe pesar el hormigón 
+contenido en el recipiente (m h)    
+4. Además debe conocerse el área del recipiente (A), midiendo  
+dos diámetros perpendiculares    
+5. Sobre el hormigón fresco, también deben realizarse las siguientes 
+determinaciones:     
+6.1. Consistencia, temperatura, contenido de aire y peso unitario  
+en fresco (PUV en kg/m
+3)    
+6.2. Se debe conocer la composición del hormigón en kg/m3
+de cada uno de los componentes    
+6.3. Se debe determinar la masa de agua (m a) que contiene el 
+recipiente con datos de mezcla    
+7. m a = (m x m h) / PUV ; m = demanda de agua del pastón en kg/m³  
+m h = masa del hormigón en kg    
+8. Se deben realizar al menos 2 ensayos en diferentes ocasiones para 
+corroborar los valores     
+   
+      
+3) Procedimiento de las mediciones durante el ensayo  
+1. Se coloca el recipiente sobre plataforma o mesa nivelada y sin 
+vibraciones durante todo el ensayo    
+2. Se lo cubre con la lámina de polietileno con el elástico, sin que toque 
+la superficie del hormigón    
+2.1. Se lo debe mantener cubierto salvo en el momento cuando se 
+extrae el agua con la pipeta y pera    
+3. Para facilitar la recolección del agua se inclina 2 minutos antes  
+con la cuña de 50 mm bajo el recipiente   
+4. Se retira el agua empleando la pipeta con ayuda de pera  
+de caucho y se pasa a la probeta graduada   
+4.1. En cada ocasión de registra tiempo (desde el inicio de mezclado)  
+y agua recolectada (V aei)    
+4.2. Finalizada cada extracción, el recipiente se vuelve a la posición  
+de reposo en horizontal    
+5. Las extracciones se realizan a intervalos de tiempo establecidos: 
+5.1. Al inicio, cada 10 minutos durante los primeros 40 minutos  
+desde acondicionada la muestra    
+5.2. Después a intervalos no mayores a 30 minutos, recomendando  
+15 a 20 minutos    
+5.3. Se concluye el ensayo (y se retira el hormigón) cuando  
+en 30 minutos no hay exudación    
+6. Respecto a las mediciones y nomenclatura que figuran  
+en IRAM 1604:     
+6.1. V aei = extracciones individuales a un tiempo determinado,  
+para luego graficarlos (ml)    
+6.2. V ae = volumen total del agua de exudación obtenido  
+al finalizar el ensayo (ml)     
+7. Durante las mediciones deben tenerse condiciones ambientales  
+de laboratorio (19 a 23 ˚C)    
+    
+      
+4) Cálculos, gráfico y determinaciones   
+1. V i = Volumen de agua exudada acumulada  
+por unidad de superficie ; V i = V aei / A   
+1.1. Los volúmenes V i y V aei se expresan en ml (mililitros)  
+y A (sección recipiente) en cm2    
+2. E = Capacidad de exudación en ml cada 100 g  
+(o expresado como %) ; E = V ae / ma x 100   
+2.1.  El volumen total V ae se expresa en ml   
+y  ma (masa agua en la muestra) en gramos   
+3. V = Volumen de agua exudada acumulada  
+por superficie en ml/cm
+2    
+4. VE = Velocidad de exudación en unidades de 
+ml / cm2 / seg  (cm/seg), determinada gráficamente  
+4.1. Se grafica el volumen de agua exudada por superficie de cada 
+extracción (V i) en función del tiempo   
+4.2. Se trazan rectas paralelas al eje de tiempo de 0,1 V y 0,8 V  
+y se determinan los tiempos     
+4.3. Se determina una recta entre estos puntos  
+y se determina la pendiente de la misma (VE)   
+4.4. Se debe determinar el coeficiente de correlación 
+de la recta (›0,9) entre el 10% y 80% de V    
+5. Se deberán registrar observaciones como material de arrastre 
+durante la toma del agua     
+6. El resultado cada parámetro del ensayo será el promedio  
+de dos ensayos de diferentes pastones   
+     
+DETERMINACIÓN DE LA EXUDACIÓN DEL HORMIGÓN FRESCO FICHA / HF08 Según norma IRAM 1604
+TECNOLOGÍA36
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 43    diciembre 2017
+>
+T amizado del hormigón fresco.
+‹‹
+Penetraciones al inicio del ensayo (superficie grande).
+‹ Penetraciones con aguja de menor sección.
+Gráfico de Tiempo inicial de frague
+‹‹
+Penetrómetro de bolsillo para tiempo inicial de fragüe
+(inicio del fragüe a 500 psi).
+‹
+Penetrómetro de Proctor con múltiples agujas para tiempos inicial y final.
+‹
+Moldes para dos ensayos de tiempos de fragüe en paralelo.
+Colocación para mortero en recipiente.
+‹
+38
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 44    abril 2018
+>
+Ensayos paso a paso:
+Uniformidad de mezclado 
+y moldeo de probetas a 
+flexión
+En primer lugar , se estudiará el ensayo de uniformidad 
+de un pastón de hormigón, que sirve para medir la efi-
+ciencia de cualquier equipo mezclador y/o distribuidor 
+de hormigón. Hace años existía un criterio más laborio-
+so fijado en IRAM 1666:1986 que brindaba 6 paráme-
+tros de ensayo, de los cuales para asumir la uniformidad 
+de mezclado debían cumplirse al menos 5. Sin embargo, 
+cerca de 20 años después se modificó el criterio y se pu-
+blicó la Norma IRAM 1876, que da medidas más prác-
+ticas y con interpretación inmediata. Básicamente, con-
+siste en realizar el ensayo del contenido de aire y peso 
+unitario del hormigón fresco, que suele hacerse con el 
+mismo instrumental, y luego determinar por lavado la 
+cantidad de agregado grueso que queda retenido en el 
+tamiz #4; determinando mediante algunas expresiones 
+si un equipo mezcla de manera eficiente o no.
+Son ensayos indispensables para realizar en camiones 
+hormigoneros o bien cuando existen dudas de la eficacia 
+del mezclado del equipo, por ejemplo, para determinar 
+número de revoluciones, si las aletas internas están en 
+buen estado, tiempos mínimos de mezclado y otros da-
+tos que influyen en la calidad del hormigón despachado. 
+Brindan datos confiables para determinar cuándo debe 
+realizarse el mantenimiento o cambio de alguna par-
+te del sistema mezclador de los camiones y/o plantas. 
+T ambién sirve para controlar y determinar tiempos míni-
+mos para plantas que poseen mezcladoras, siendo reco-
+mendable realizar verificaciones para diferentes ámbitos 
+de asentamiento. Los ensayos antes referidos deben ser 
+realizados sobre dos muestras diferentes, una próxima al 
+inicio y otra próxima al final de la descarga, siempre des-
+cartando el 15% de los extremos en cada uno de los ca-
+sos. Si los valores del peso unitario corregido (densidad 
+del mortero libre de aire) y del contenido de agregado 
+grueso en ambas muestras son similares ( ≤ 1,6% y ≤6,0% 
+respectivamente), se considera que el equipo mezclador 
+es eficiente para las condiciones en que se realizó el mez-
+clado (velocidad de mezclado y revoluciones totales).  
+El segundo ensayo que se describe es el moldeo de pro-
+betas a flexión, que presenta ciertas particularidades y 
+cuidados adicionales respecto de las probetas cilíndricas 
+convencionales. Si bien no son frecuentes en obras con-
+vencionales, las probetas a flexión se moldean para de-
+terminar la resistencia a tracción en pavimentos, que es 
+un parámetro muy relevante para el diseño de losas apo-
+yadas sobre el terreno. 
+En grandes obras viales, estaciones portuarias y pistas 
+de aeropuerto, por ejemplo, se solicita el moldeo y pos-
+terior rotura de probetas a flexión como parámetro de 
+aceptación, ya que en realidad es un parámetro mucho 
+más relevante que la resistencia a compresión. Sin em-
+bargo, ciertas precauciones relacionadas con el moldeo, 
+protección, curado y manipuleo de las probetas hacen 
+que sea un ensayo bastante delicado para los laborato-
+rios de obra. Por ello, muchas veces se establecen en la-
+boratorios centrales con condiciones más controladas, 
+las correlaciones entre la resistencia a flexión y compre-
+sión, para tomar luego las probetas cilíndricas a compre-
+sión como parámetro de aceptación. Esta relación de re-
+sistencias depende fuertemente de la edad (ya que la 
+resistencia a flexión crece mucho más rápidamente que 
+la resistencia a compresión), de la categoría resistente del 
+hormigón y de los materiales constituyentes del hormi-
+gón, fundamentalmente del tipo de agregado emplea-
+do. Estas relaciones a la edad de 28 días oscilan entre el 
+11% y 15%, con lo cual nunca pueden tomarse estimacio-
+nes de bibliografía, sino realizar ensayos de correlación, 
+ya que este 4% aparente de variación referido al prome-
+dio corresponde a cerca del 33% de los valores a estimar 
+a flexión y pueden cometerse grandes errores, bien sea 
+sobre-estimando o sub-estimando. 
+<
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+TECNOLOGÍA30
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 44    abril 2018
+Ensayo de contenido de aire y PUV
+‹‹
+ Lavado del agregado sobre cribas industriales
+‹  Llevando el agregado a SSS mediante secado con paño absorbente 
+(agregados rodados)
+En plantas premezcladoras y verificación de mezclado de mixers, es 
+un ensayo indispensable
+‹‹Fracciones de agregado grueso trituradas ya tamizadas del 
+hormigón en estado SSS (dos muestras)
+‹
+Otra opción es trabajar con cribas industriales para el tamizado
+‹
+Pasaje del hormigón del recipiente del PUV al tamiz
+T amizado hasta obtener el agregado grueso (eliminando el mortero)
+‹
+TECNOLOGÍA32
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 44   agosto 2017
+1) Elementos necesarios para el ensayo   
+1. Recipiente calibrado para determinación del PUV acorde con el TM 
+del agregado (IRAM 1562)    
+1.1. Capacidad mínima para TMN ≤ 1 1/2" de 7 litros; para TMN de 1 
+1/2" a 2" de 15 litros aprox.    
+1.2. Accesorios para el acondicionamiento de muestra (varilla Ф 16 y 
+martillo con cabeza de goma)   
+2. Aparato de Washington o similar para determinar el contenido de 
+aire según IRAM 1602    
+2.1. Para TMN ≤ 1 1/2" puede emplearse para agilizar el recipiente del 
+Washington para el PUV    
+2.2. Accesorios para la determinación del contenido de aire según 
+IRAM 1602 y equipo disponible    
+3. Balanza de 40 kg y resolución de 5 g (recomendable de 2 g si se 
+posee para TMN ≤ 1 1/2")
+4. Tamiz IRAM #4 de malla 4,75 mm y recipientes varios para 
+contener muestras   
+      
+2) Preparación de la muestra    
+1. Para realizar los ensayos deben tomarse dos muestras del mismo 
+pastón (Muestras N 1 y N 2)   
+2. El muestreo del hormigón se debe realizar según lo que indica 
+IRAM 1541      
+3. Las muestras deben ser tomadas entre el 15% y 85% del volumen 
+total del pastón (IRAM 1876)
+3.1. Es recomendable tomar la Muestra N 1 entre el 15% y 30% del 
+volumen del pastón
+3.2. La Muestra N 2 es recomendable tomarla entre el 70%  y 85% del 
+volumen del pastón    
+4. Los ensayos deben ser realizados de manera rápida, funda-
+mentalmente toma de PUV y Aire
+    
+3) Procedimiento y métodos de ensayo
+1. Todo el procedimiento descripto tiene que realizarse para cada una 
+de las dos muestras    
+2. En primer lugar se procede a realizar el ensayo del PUV o densidad 
+en estado fresco (IRAM 1562)    
+2.1. Se lo debe mantener cubierto salvo en el momento cuando se 
+extrae el agua con la pipeta y pera
+2.2. Se enrasa y limpia cuidadosamente el recipiente para que no 
+queden restos de hormigón
+2.3. Se determina la masa del hormigón contenida en el recipiente (m h)
+3. Para TMN ≤ 1 1/2" (caso más frecuente) se realiza en el mismo 
+recipiente que el % de Aire
+3.1. En el caso arriba indicado, sobre el mismo hormigón se determina 
+el % de aire (IRAM 1602)
+3.2. En caso que el TMN > 1 1/2" debe hacerse de forma 
+independiente los dos ensayos   
+4. A continuación, se lava por arrastre de agua sobre tamiz IRAM #4 
+hasta eliminación de la arena   
+4.1. Se va colocando por partes el hormigón fresco sobre el tamiz, y se 
+va colocando agua y tamizando    
+4.2. Se coloca el agregado grueso retenido en un recipiente y se 
+vuelve a colocar más hormigón
+4.3. Al finalizar el tamizado, se lleva el agregado grueso a estado 
+saturado superficie seca (con paño)
+4.4.  Las dos determinaciones siempre deben ser realizadas por el 
+mismo laboratorista   
+5. En caso que el TMN> 1 1/2", se determina el % de aire según IRAM 
+1602 de forma independiente 
+5.1. Además de determinarlo, debe pesarse el hormigón y tamizarse 
+por tamiz IRAM #4    
+6. Se registra el contenido de aire del hormigón en % en cada una de 
+las muestras (A)     
+  
+4) Cálculos, determinaciones y criterios de aceptación  
+1. Se determina el contenido de agregado grueso  m ag = (m a sss / m 
+h) x 100  para ambas muestras
+1.1. m ag = contenido de agregado grueso de cada una de las 
+muestras (expresado en %)    
+2. Se determina la diferencia de contenido de agregado grueso Δm ag 
+de la siguiente manera:   
+2.1.  Δm ag =  m ag1 - m ag2  , siendo la diferencia en valor absoluto (%)  
+2.2. Siendo m ag1 y m ag2 , el contenido de agregado grueso de cada 
+una de las dos muestras en %  
+3. Se calcula la densidad compactada de mortero libre de aire de cada 
+muestra (ρ m)
+3.1. ρ m  =
+3.2. ρ a sss   es la densidad del agregado grueso en estado saturado 
+superficie seca (kg/m³)
+3.3. M h y M a sss  se deben ingresar en la fórmula con unidades de kg
+3.4. V   es el volumen del recipiente de medida y debe expresarse en 
+la fórmula en m³
+3.5. A es el contenido de aire y se ingresa en % (valor indicado en el 
+aparato de Washington)    
+4. Se determina la diferencia de la densidad compactada del mortero 
+libre de aire
+4.1. Δρ m = I ρ m1 - ρ m2 I / ρ prom  ,  siendo la diferencia en valor 
+absoluto (expresión en %)   
+4.2. Siendo ρ m1 y ρ m² , las densidades de mortero libre de aire para 
+cada muestra (kg/m³)   
+5. El hormigón del pastón se considera homogéneo cuando 
+simultáneamente se cumple que:
+5.1. La diferencia entre las cantidades de agregado grueso ≤ 6,0%
+5.2. La diferencia entre las densidades del mortero libre de aire ≤ 1,6%
+HOMOGENEIDAD DEL HORMIGÓN FRESCO Y EFICIENCIA DE MEZCLADO FICHA / HF09Según Norma IRAM 1876 
+m h  -  m a sss
+V - [(V x A/100 ) + (M a sss / þ a sss)]
+kg/m3
+TECNOLOGÍA 33
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 44    abril 2018
+Moldeo de probetas a flexión y compresión para su posterior 
+correlación en obra de pavimento
+‹
+Varillado del hormigón de la segunda capa (siempre debe existir 
+hormigón sobrante)
+‹
+Vibrado de la segunda capa de probetas a flexión (es más 
+aconsejable el vibrado que el varillado en ciertos casos)
+‹ Golpes con martillo de goma después de consolidar cada capa y 
+tareas de enrasado de probetas
+‹
+Protección con paños húmedos después del colado y hasta el 
+desmolde de las probetas
+‹
+Golpes con martillo de goma después del varillado de cada capa
+‹
+Varillado del hormigón de la primera capa (no recomendable para 
+Asentamiento menor a 7 cm)
+‹
+Curado húmedo indispensable de probetas a flexión hasta el ensayo 
+mismo
+‹
+34
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 44   agosto 2017
+MOLDEO Y CURADO DE PROBETAS PARA ENSAYOS DE FLEXIÓN FICHA / HF10 Según norma IRAM 1680
+1) Elementos necesarios para el ensayo   
+1. Moldes prismáticos no absorbentes, generalmente de dimensiones 
+15 x 15 x 55 ó 60 cm (TMN ≤ 2")   
+1.1. Ciertos moldes deformables causan inconvenientes notables 
+luego en el ensayo   
+1.2. Deben presentar un adecuado espesor de chapa, ángulos rectos y 
+ser fácilmente ensamblables    
+2. Varilla Ф 16 de 60 cm, lisa con extremo en semiesfera o vibrador 
+(> 7000 rpm y Ф de 19 a 38 mm)    
+2.1. Las dimensiones transversales deben ser mayores a 15 cm y altura 
+de recipiente entre 13,5 y 15 cm    
+2.2. Para asentamientos menores o iguales a 8 cm es muy 
+recomendable la consolidación por vibrado
+3. Pequeña pala de sección en U compatible con el tamaño de la 
+probeta y fratacho o llana    
+4. Martillo de cabeza de goma que pese aproximadamente 500 gramos 
+5. Recipiente no absorbente o carretilla para colocar la muestra de 
+hormigón fresco
+2) Procedimiento de moldeo de probetas para ensayos de 
+flexión    
+1. Obtener una muestra representativa y remezclarla después de 
+descargar el primer 1/4 m³ (IRAM 1541)   
+2. Antes de moldear las probetas, deberá realizarse el ensayo de 
+asentamiento y eventualmente aire    
+3. Se deberán moldear como mínimo 2 probetas para ensayar a la 
+edad de diseño del hormigón
+3.1. En caso de probetas para otras edades, podrán realizarse 1 a 2 por 
+edad (tendencias)    
+4. Las probetas deben moldearse en el punto más cercano posible a 
+donde serán conservadas    
+5. Verificar que los moldes estén libres de hormigón viejo y bien 
+aceiteados (sin exceso)
+6. Colocar el molde de probeta en una superficie plana, firme y libre 
+de vibraciones (durante 24 hs)   
+7. Respecto al tipo y tamaño de molde, debe tenerse en cuenta lo 
+siguiente:
+7.1. Se mide la altura del molde y se divide en 10 cm para determinar 
+el número de capas    
+7.2.  Se calcula el área de la probeta y se divide en 15 cm² para 
+determinar el número de golpes por capa   
+7.3. La menor dimensión de la probeta debe ser como mínimo 3 
+veces el TM del agregado    
+7.4. Si no se cumple la condición anterior, deberán tamizarse las 
+partículas mayores a estas dimensiones  
+8. Se podrá optar por la compactación de las probetas por 2 
+procedimientos: a) varillado  o  b) vibrado
+9. Método de compactación manual - Asentamientos igual o mayores 
+a 5 cm
+9. 1. El molde se llenará en capas de igual altura de no más de 10 cm, 
+para moldes de 15 cm en 2 capas
+9. 2. Se varilla con un golpe cada 15 cm2 de superficie del molde, para 
+moldes 15 x 55 cm con 55 golpes  
+9.3. La primera capa se debe varillar en todo el espesor sin golpear en 
+demasía el fondo
+9.4. En la siguiente capa la varilla debe penetrar sólo unos 25 mm en 
+la primera capa
+9.5. Al llenar la última capa de manera que sobresalga hormigón de la 
+parte superior
+9.6. Si se advierte que no sobrará hormigón en superficie, se agrega 
+antes de concluir el varillado
+9.7. No puede incorporarse hormigón una vez finalizado el varillado, 
+si faltase se descarta el moldeo
+10. Método de compactación por vibración - Asentamientos 
+inferiores a 10 cm (altamente recomendable)
+10.1. El molde se llena en capas, igual que para varillado (2 capas para 
+moldes de 15 x 15 cm)
+10.2. Se insertará el vibrador en puntos distanciados 14 cm 
+aproximadamente según su eje longitudinal
+10.3. El tiempo de inmersión del vibrador varía entre 5 y 10 segundos 
+aproximadamente en cada capa
+10.4. Para la segunda capa, el vibrador deberá penetrar 25 mm 
+aproximadamente en la primera
+10.5. Siempre deberá "sobrar" hormigón para enrasarlo y se 
+complementará con golpes del mazo de goma
+11. Después de compactar cada capa, complementar con 15 a 25 
+golpes del martillo de goma
+12. En caso que existan fugas de hormigón, se abre el molde o 
+inconveniente similar, se tira la muestra
+13. Compactadas las capas, se procede a quitar los excedentes de 
+hormigón enrasando la superficie
+14. El enrase se realizará con el mínimo movimiento posible, no se 
+admiten depresiones de más de 3 mm
+15. Cubrir la superficie con plástico o arpillera húmeda (preferible), la 
+superficie de la probeta
+16. Se deberá minimizar al máximo la manipulación o transporte de 
+las probetas luego de moldeadas
+17. Se debe concluir el moldeo de las probetas en menos de 15 
+minutos de finalizada la toma de la muestra
+3) Acondicionamiento, protección y curado de probetas 
+para ensayos de flexión  
+1. Las probetas serán conservadas las primeras 20 a 48 horas dentro 
+del molde a 21 ± 6 °C.
+1.1. Para probetas de categorías H-40 y superior, la temperaura de 
+protección inicial es de 23 ± 3 °C
+1.2. No deberán ser dejadas al rayo del sol, ni cerca de fuentes de frío 
+o de calor en este período
+1.3. En condiciones de tiempo frío o caluroso se colocarán bajo cajas 
+aislantes o similares
+1.4. Es recomendable cubrirlas con arpillera húmeda para evitar un 
+desecamiento temprano
+1.5. Luego de estas 20 a 48 horas, se desmoldan y se conservan en 
+pileta o cámara de curado
+1.6. En casos específicos, podrán dejarse al costado del pavimento 
+recubiertas con arena húmeda    
+2.  Deben ser marcadas o rotuladas con indeleble, inmediatamente 
+después de que se desmoldan
+3. En caso de imperfecciones (rebarbas), pueden quitarse con espátula 
+para lograr aristas vivas
+4. Deben limpiarse los moldes luego del desmolde para dejarlos listos 
+para próximas probetas
+5. Es imprescindible mantener la temperatura de a 23 ± 2 ° C en la 
+pileta o cámara de curado
+6. Se conservarán en estado húmedo hasta el ensayo (no pueden 
+transcurrir más de 2 hs fuera del agua)
+6.1. Se debe impedir el secado de las caras de las probetas hasta el 
+momento del ensayo
+6.2. En caso de transportarlas, se llevarán al laboratorio con cajones 
+de arena húmeda o arpillera mojada
+TECNOLOGÍA 35
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 45   Agosto l 2018
+Moldeo de probetas para 
+ensayos de compresión 
+(cilíndricas y cúbicas)
+C
+on este artículo se concluye la serie de ensayos del 
+hormigón en estado fresco. Si bien ya se ha publica-
+do en numerosas ocasiones, se brinda en estas pá-
+ginas el procedimiento detallado para el moldeo adecuado 
+de probetas cilíndricas. Además, se incluyen comentarios en 
+lo que respecta a los dos tamaños de probetas más utiliza-
+dos en nuestro país: las de 15 x 30 cm y las de 10 x 20 cm 
+así como particularidades para el caso de mezclas autocom-
+pactantes, como en HAC y RDC que se llenan en una sola 
+capa por su elevada fluidez, lo cual no está contemplado en 
+la norma IRAM. Asimismo, se brindan especificaciones res-
+pecto a la protección durante las primeras 24 horas y el cu-
+rado posterior . 
+Sobre este último aspecto, la norma IRAM 1524 del año 
+2015 ha variado levemente respecto a la versión anterior y 
+brinda más alternativas, fundamentalmente en el período 
+de protección en condiciones climáticas extremas y para 
+hormigones de alta resistencia. 
+En tanto, se recalcan algunos de los errores más frecuentes 
+en obra: marcado superficial de probetas y curado defec-
+tuoso de las mismas. Cada una de estas falencias puede in-
+fluenciar en más de un 30% individualmente en la resisten-
+cia a compresión. Dado ello se hace hincapié en la relevancia 
+de estos aspectos y de muchos otros que nunca elevarán la 
+resistencia del hormigón y que, ante cualquier desvío, ten-
+derán a disminuir las resistencias finales. 
+El moldeo de probetas de hormigón es sencillo. Lo curio-
+so es que en obra aparecen “criterios personales” de cómo 
+controlar el hormigón elaborado, debiendo tener claro que 
+el moldeo, protección y curado de las probetas debe reali-
+zarse en un todo de acuerdo a IRAM 1524 para que tengan 
+validez los ensayos a compresión y para poder cuantificar y 
+medir la calidad del hormigón elaborado despachado.
+SEGUNDO ENSA YO
+A su vez, resulta de interés también incorporar el procedi-
+miento completo (moldeo, protección, curado y rotura) de 
+probetas cúbicas de 50 mm de lado. Estas probetas se usan en 
+varias obras para medir la resistencia a compresión de grouts 
+cementíceos y epoxídicos o bien morteros de reparación di-
+señados en obra, los cuales pueden contener fibras, adiciones, 
+polímeros, etcétera. Si bien en muchos casos estos morteros 
+son autonivelantes y no requieren compactación de las mues-
+tras, en otros casos que son de consistencia seca a muy plás-
+tica es necesaria la consolidación con una barra de neopreno 
+de elevada dureza, procedimiento muy disímil a las probetas 
+de hormigón convencional. Este aspecto se detalla gráfica-
+mente en el procedimiento siguiendo lineamientos de ASTM 
+C109. T ambién se referencia el ensayo a compresión y cuida-
+dos que deben tenerse para estas probetas (moldes con per-
+fecto paralelismo y ensamble, dirección de aplicación de las 
+cargas respecto al moldeo, precisión y necesidad de calibra-
+ción a baja carga de la prensa, etcétera), de modo que los re-
+sultados sean confiables y representativos. En caso de desvíos 
+en estos parámetros, la diferencia entre probetas “gemelas” 
+suele ser drástica, con lo cual ciertos controles de moldes y 
+ensayo deben ser supervisados más aún que para probetas ci-
+líndricas de hormigón convencional.
+En el próximo número de Hormigonar comenzaremos con la 
+temática de ensayos en estado endurecido. Se iniciará la se-
+rie con los dos tipos de encabezados más empleados en la 
+práctica: elastómeros y mortero de azufre. 
+«
+ POR MS. ING. MAXIMILIANO  SEGERER. CONTROL Y DESARROLLO DE 
+HORMIGONES  / WWW.CDHORMIGONES .COM.AR 
+ENSA YOS P ASO A P ASO DEL HORMIGÓN FRESCO
+TECNOLOGÍA24
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 45   Agosto l 2018
+Varillado de probetas de 10 x 20 cm en cada capa (25 golpes)
+‹‹
+T apado con material aislante de probetas durante las primeras 24 
+horas
+‹ Protección especifica en cajas y materiales aislantes 
+en tiempo frio
+Adecuada identificacion de probetas al día siguiente 
+con marcador indeleble
+‹‹Curado probetas en pileta a temperatura controlada
+‹
+Probetas moldeadas con identificacion en fresco (metodo papel)
+‹
+ Golpes con martillo de goma después de cada capa
+Vibrado en dos capas de probetas de 15 x 30 cm
+‹
+TECNOLOGÍA26
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 45   Agosto l 2018
+1) ELEMENTOS NECESARIOS P ARA EL ENSA Y O 
+1. Moldes cilíndricos firmes y no absorbentes de 15cm de diámetro  
+y 30cm de altura (o de 10 x 20 cm).    
+1. 1 IRAM 1524 establece otros moldes de dimensiones superiores a  
+15 x 30cm con 㷄=2 (poco usados).    
+2. Varilla de 16 de 60cm de longitud, lisa con extremo en semiesfera  
+(o de 10 de 30 cm de longitud).    
+3. Para As  5cm, vibrador de al menos 7000 vibraciones por minuto  
+y entre 19 y 38 mm .   
+4. Martillo de cabeza no metálica que pese 600 ʶ 200 gr  
+(es recomendable que sea de goma).    
+5. Pequeña pala de sección en U compatible con el tamaño  
+de la probeta y fratacho o llana.    
+6. Recipiente no absorbente o carretilla para colocar la muestra  
+de hormigón fresco.     
+7.  Aceite mineral desmoldante y aplicador para el mismo en la parte interior 
+de los moldes.     
+ 
+2) MOLDEO DE PROBET AS P ARA ENSA Y OS DE COMPRESIÓN 
+Y TRACCIÓN POR COMPRESIÓN DIAMETRAL 
+ 
+1. Obtener una muestra representativa y remezclarla después de descargar el 
+primer 1/4m3 del camión.    
+1. 1 El requisito anterior puede ser obviado sólo si el ensayo es para 
+autocontrol de calidad en planta.    
+2. Antes de moldear las probetas, deberá realizarse el ensayo de 
+consistencia del hormigón fresco.    
+3. Las probetas deben moldearse en el punto más cercano posible 
+a donde serán conservadas.    
+4. V erificar que los moldes de probetas en su interior estén libres de 
+hormigón viejo (fresco o endurecido).    
+5.Aceitar (no en exceso) la superficie interna del molde para facilitar el 
+desmolde al día siguiente.     
+6. Colocar el molde de probeta en una superficie plana, firme y libre de 
+vibraciones.  
+6. 1. Deberá prestarse especial atención cuando son mezclas muy fluidas 
+(HAC o RDC).     
+7.  En el caso de probetas de 15 x 30cm deberá tamizarse y eliminar las 
+partículas mayores a 45mm. 
+8. Para el caso de emplear probetas de 10 x 20cm el hormigón deberá 
+tener un TM de 1" o inferior .   
+9. Método de compactación manual para probetas 15 x 30cm - 
+Asentamientos igual o mayores 侒5cm.   
+9. 1 El molde se llenará en tres capas de igual altura (10cm cada una) 
+9.2 Varillar 25 veces uniformemente el hormigón de cada una de las tres 
+capas con la varilla 16.     
+9.3 La primera capa se debe varillar en todo el espesor sin golpear en 
+demasía el fondo. 
+9.4 En la segunda y tercera capa la varilla debe penetrar solo unos  
+25 mm en la capa anterior .    
+9.5 Llenar la tercera capa de manera que sobresalga hormigón de la 
+parte superior .  
+9.6 Si se advierte que no sobrará hormigón en superficie, se agrega antes 
+de concluir el varillado.    
+9.7 No puede incorporarse hormigón una vez finalizado el varillado, si 
+faltase se descarta el moldeo. 
+9.8  Después de varillar cada capa, complementar con 10 a 15 golpes del martillo 
+10. Método de compactación por vibración para probetas 
+de 15 x 30cm - Asentamientos 侒5cm. 
+10. 1 Se sumergirá el vibrador sin tocar el molde en 2 capas (15cm cada una). 
+10.2 El tiempo de inmersión del vibrador varía entre 5 y 10 segundos 
+aproximadamente en cada capa. 
+11. Método de compactación manual para probetas 10 x 20cm.  
+11. 1 El molde se llenará en dos capas de igual altura (10cm cada una), 
+metodología similar a 15 x 30cm.    
+11.2 Varillar 25 veces uniformemente el hormigón de cada una de las dos 
+capas con la varilla10.     
+11.3 Después de varillar cada capa, complementar con 10 a 15 golpes del 
+martillo. 
+12. Método de moldeo para mezclas muy fluidas (hormigones 
+autocompactantes o RDC muy fluidos).   
+12. 1 El moldeo se realizará de forma continua, en una capa  
+sin varillado alguno. 
+12.2 En caso de ser necesario, se ayudará con golpes suaves del martillo de 
+goma durante el moldeo. 
+13. Compactadas las capas, se procede a quitar los excedentes de hormigón 
+enrasando la superficie.   
+14. El enrase se realizará con el mínimo movimiento posible, no se admiten 
+depresiones de más de 3mm.    
+14. 1 En caso de identificarlas en fresco puede utilizarse la técnica del "papel 
+mojado" en la superficie.   
+15. Con un plástico, bolsa de polietileno u otro no absorbente, se tapa la 
+superficie de la probeta.    
+16. Se deberá minimizar al máximo la manipulación o transporte de las 
+probetas luego de moldeadas.    
+16. 1 Se admite sólo un pequeño transporte al lugar de almacenamiento, 
+realizándolo luego del moldeo.    
+17 . El moldeo de cada probeta debe concluir antes de 2 minutos y medio  
+de iniciado el mismo.     
+   
+3) ACONDICIONAMIENTO, PROTECCIÓN Y CURADO  
+DE PROBET AS P ARA ENSA Y OS DE COMPRESIÓN 
+1. 
+Las probetas serán conservadas las primeras 16 a 32 horas dentro  
+del molde a 21 ʶ 6 ˚ C.    
+1. 1 Para probetas de categorías H-40 y superior la temperaura  
+de protección inicial es de 23 ʶ 3 ˚ C. 
+1.2 No deberán ser dejadas al rayo del sol, ni cerca de fuentes de frío o 
+de calor en este período.     
+1.3 En condiciones de tiempo frío o caluroso se colocarán en cajas con 
+tapa y forradas de aislante.    
+1.4 La norma admite la opción de sumergirlas en agua saturada  
+con cal a temperatura controlada.    
+2. Hay que marcarlas o rotularlas en este momento, después que se 
+desmoldan con marcador de pintura.    
+3. Luego de estas 16 a 32 horas, se desmoldan y se conservan  
+en pileta o cámara de curado.   
+4. Hay que limpiar los moldes luego del desmolde  
+para dejarlos listos para próximas probetas.   
+5. Es imprescindible mantener la temperatura de a 23ʶ 2 ˚ C  
+en la pileta o cámara de curado.    
+6. La pileta de curado deberá contener agua saturada en cal a razón  
+de 10gr de cal cada 4 litros de agua.   
+7. Las probetas serán conservadas en la pileta o cámara hasta la edad  
+de ensayo (rotura) de la probeta.    
+  
+MOLDEO Y CURADO DE PROBETAS PARA ENSAYOS DE COMPRESIÓN SEGÚN NORMA IRAM 1524 FICHA / HF11
+TECNOLOGÍA 27
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 45   Agosto l 2018
+Moldes cúbicos para morteros de reparación
+‹
+Moldeo para una consistencia muy fluida
+Limpieza y lijado para eliminar rebordes al desmoldar
+‹ Bastidor de prensa calibrada a baja carga para ensayo de grout
+‹
+Rotura de probeta cúbica de material de reparación.
+‹
+Desmolde a las 24 horas.
+Molde para tres probetas cúbicas de 50 mm y pisón de neopreno 
+para compactar mezclas secas y plásticas
+‹
+Análisis de rotura (ejemplo de caso con capa débil superior a 5 mm)
+‹
+‹
+‹
+TECNOLOGÍA28
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 45   Agosto l 2018
+1) Elementos necesarios para el ensayo   
+1. Moldes cúbicos de tres probetas de 2 x 2x 2" ensamblados 
+rígidamente y que permitan su fácil desmolde. 
+1.1 Las partes del molde estarán numeradas o identificadas con 
+letra para garantizar el posicionamiento.
+1.2 Si se emplea TMN 侑 10mm (reemplazo de cierto % de grout), 
+las experiencias validan usar estos moldes.
+1.3. Si se emplea TMN 侒12mm, pueden emplearse moldes cúbicos 
+de 3" a 4" o tamizar el agregado grueso. 
+1.4 Probetas 10 x 20 reducen la resistencia (10-15%) y pueden dañar 
+ciertas prensas por su energía liberada.
+2. Agente desmoldante (aceite mineral) y pincel para su aplicación 
+3. Pequeña pala de sección en U compatible con el tamaño de la 
+probeta. 
+4. Guantes de goma, espátulas, regla, marcadores y otros 
+elementos menores.
+5. "Barra" de neopreno duro con sección 13 x 25mm aprox. y 15cm 
+de largo con sus ángulos rectos.   
+6. Pileta de curado a temperatura entre 21 y 25 ˚C (mismas 
+condiciones que probetas de hormigón).  
+7. Prensa para ensayos a compresión con rótula esférica superior y 
+resolución mínima de 100 kgf. 
+8. Calibre digital u otro similar que permita medir las dimensiones 
+de la probeta y registre al menos 0,1mm.
+  
+2) Procedimiento de moldeo, protección y curado  
+de probetas  
+1. Obtener una muestra representativa y preferentemente de la 
+mitad del pastón de grout (nunca al inicio). 
+2.Tomar la muestra en un balde limpio o similar de superficie no 
+absorbente, en cantidad estimada de 1 litro.
+3.Verificar que los moldes en su interior estén libres de grout, bien 
+ensamblados y se aceitan con pincel. 
+4. En función de la consistencia del grout, se procede a determinar 
+el método para moldear las tres probetas. 
+5. En ambos casos el molde se llenará en dos capas de igual altura 
+(aprox. 25mm cada una).
+6. Para el caso de consistencias muy fluidas (como generalmente se 
+emplea) y de aspecto autonivelante.
+6.1 La primera capa se compacta con "golpes" de dedo índice con 
+guante de goma en 5 posiciones (Ver). 
+6.2 Se coloca grout en la segunda capa y se brindan nuevos 5 
+"golpes" con dedo con guante (Ver secuencia). 
+7. Para el caso de consistencias secas (dry-pack) o plásticas se realiza 
+otro método de compactación.
+7.1 Cada capa se compacta con 2 series de 8 golpes con "barra" de 
+neopreno (Ver), penetrando solo la capa.   
+7.2 Luego de la compactación de cada capa se dan golpes suaves 
+en las esquinas del molde para nivelarlo.  
+/ SECUENCIA:
+8. Desde la toma de muestras hasta el moldeo de las tres probetas 
+no debe transcurrir más de 5 minutos.  
+9. Se enrasa superficialmente lo más plano posible, no se marcan el 
+mismo día; y se cubren superficialmente.   
+10. Los moldes se acondicionarán en una caja forrada con material 
+aislante especialmente preparada.    
+10.1 Esta caja deberá ser colocada en cercanías del elemento y lejos 
+de vibraciones o tránsito de todo tipo.   
+10.2  Sino, puede consensuarse y optarse por llevar la muestra a 
+laboratorio y moldearlas en el mismo.   
+11. A las 24 hs se desmoldan y marcan indeleblemente con la 
+denominación para lograr trazabilidad.   
+12. Al desmoldarlo, con la ayuda de una espátula hay que eliminar 
+las pequeñas imperfecciones de aristas.   
+13. Limpiar adecuadamente el molde para su posterior uso, tanto 
+interna como externamente y reensamblarlo. 
+14. Se colocan en la pileta de curado a temperatura controlada 
+hasta la edad de ensayo determinada.   
+15. Se aconseja reservar una parte de la pileta a probetas de grout, 
+para no dañarlas con probetas de H ˚ .
+   
+3) Ensayo a compresión de probetas cúbicas de grouts 
+1. Se extraen las probetas del agua en la misma jornada  
+y se las deja al aire una a dos horas.    
+2. Se verifica que el pistón de la prensa no presente  
+un recorrido de más de 1cm.    
+3. Se colocan separadores metálicos para lograr que entre la 
+probeta y el plato superior no exceda 1,5cm.   
+4. Se miden las dos dimensiones perpendiculares en el centro  
+de la probeta, registrando el 0,1mm.    
+5. Se coloca la probeta con la parte superior (irregular) apuntando 
+hacia el operario sobre los separadores.   
+5.1 Es muy relevante verificar el centrado, fundamentalmente por 
+proyección del eje de la rótula superior.  
+5.2 No se encabezan. En casos específicos podría usarse compuesto 
+de azufre de alta resistencia.    
+6. Verificar que el indicador de carga de la prensa se encuentre  
+en 0 antes de comenzar a aplicar cargas.   
+6.1 Se deberá poseer algún dipositivo o función para almacenar  
+la carga máxima de rotura.    
+7. Se aproxima el pistón lentamente hasta que se acomoda la rótula 
+superior. 
+7.1 Se apreciará que apoye el plato superior en toda la superficie  
+en la probeta hasta 1 a 2 tons (10 a 20kN).   
+8. En probetas de grout de 5 x 5 cm la velocidad será de  
+140ʶ40Kg/seg (recomendado entre 1 a 1,5KN/seg).  
+9. Se registra el valor de la carga máxima alcanzada Q en toneladas 
+o KN según la prensa que se posea.    
+10. Se sugiere que con la probeta en posición, descienda lo máximo 
+posible el pistón para el próximo ensayo.   
+11. Se descarga la prensa, se quita la probeta ensayada a compresión 
+y se aprecia el tipo de rotura.    
+12. Resistencia a compresión  de la probeta de grout (s cG). 
+ 
+  
+13. El error intraensayo por edad para grupo de tres probetas debe 
+ser侑8,7% y si son dos probetas 侑 7,6%
+MOLDEO, CURADO Y ENSAYO DE PROBETAS DE MORTEROS Y GROUTS FICHA / HF12Según Normas ASTM C-109 y 
+COGUANOR NTG 41003 h4 
+QМcG =
+Lado x Lado 
+Redondear al 0, 1MPa
+1
+4
+2
+3 5
+1
+8
+2
+7
+3
+6
+4
+5
+4
+5
+3
+6
+2
+7
+1
+8
+Consistencia
+muy fluida
+(“golpes”de 
+dedo)
+Consistencia 
+seca-plástica 
+("barra" de 
+neopreno) 
+Series 1 y 3
+(primera  
+de cada capa)
+Series 2 y 4
+(segunda  
+de cada capa)
+TECNOLOGÍA 29
+
+--- FIN DE PÁGINA ---
+

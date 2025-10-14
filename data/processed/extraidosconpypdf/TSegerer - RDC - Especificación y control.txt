@@ -1,0 +1,432 @@
+Hormigonar 43    diciembre l 2017
+>
+Los RDC (rellenos de densidad controlada) o Rellenos 
+Fluidos Cementíceos cada vez están siendo más emplea-
+dos en nuestro país. Reemplazan de manera práctica, rá-
+pida y confiable al suelo en múltiples aplicaciones, como 
+por ejemplo:
+  Donde no se disponga de materiales de base de 
+buena capacidad portante, sean erosionables o 
+congelables.
+  En aquellos lugares donde se dificulta la 
+compactación por capas o es engorroso e 
+impracticable el control.
+  Cuando se requiere agilidad y colar grandes 
+cantidades de m 3 en el día.
+  Para reemplazo de bases de pavimentos de hormigón 
+pobre, suelo-cemento o suelo-cal.
+  Como contrapisos livianos sobre suelo o losas, o bien 
+bajo losas de cocinas o baños, etc.
+Antes de comenzar a desarrollar el artículo, no debe per-
+derse de vista que los RDC no son hormigones, con lo 
+RDC - Especificación 
+y Control
+Figura 1
+‹‹
+Ms. Ing. Maximiliano Segerer
+Control y Desarrollo de Hormigones
+www.cdhormigones.com.ar 
+NOT A TÉCNICA40
+
+--- FIN DE PÁGINA ---
+
+cual no son aplicables Reglamentos, y respecto a las 
+normas de ensayo hay que realizar ciertas salvedades o 
+adecuaciones.
+1. Tipos de RDC para diferentes aplicaciones
+Los RDC son materiales compuestos por cemento 
+Pórtland, agregado fino, agua y aditivos, estos últimos 
+con la función de fluidificar la mezcla e incorporar aire 
+en forma controlada, darle carácter autocompactante y 
+mejorar sus propiedades. Los RDC deben ser dosificados 
+en peso y mezclados para ser entregados en obra con la 
+fluidez necesaria (generalmente con asentamiento ma-
+yor a 20 cm). Cualquier proveedor de hormigón elabo-
+rado puede despachar RDC con sus instalaciones, ya que 
+necesitan una planta convencional dosificadora en peso 
+y camión mezclador . Respecto a la medición de los aditi-
+vos, como las dosis suelen ser bajas de 0,10 a 0,25 l/m
+3, 
+es preferible en ciertos casos incorporarlo manualmente 
+diluido en agua (1:5 a 1:10) para mejorar su efectividad 
+y evitar problemas asociados con la carga de cantidades 
+tan pequeñas que no llegan a 1,5 litros de aditivo espu-
+mígeno por viaje. Es recomendable un mezclado de no 
+menos de 12 minutos. La incorporación de aire varía en 
+función del tiempo y eficacia de mezclado. Para tiempos 
+menores a 10 minutos, puede haber caídas considerables 
+de aire, y para revoluciones menores a 12 vueltas por mi-
+nuto puede ser ineficaz. Hay experiencias satisfactorias 
+de incorporación en obra del aditivo.
+En estado endurecido, posee un desarrollo controlado 
+de resistencias con propiedades superiores en lo que res-
+pecta a resistencia a la penetración Proctor o CBR que 
+muchos suelos. Existen diversas publicaciones que ava-
+lan correlaciones entre CBR y Resistencia a compresión 
+del RDC, o bien la correlación con la resistencia a pe-
+netración Proctor en suelos finos (Figura 1). Sólo como 
+ejemplo, el RDC de menor contenido de cemento (60 a 
+80 kg/m
+3) presenta ya a los 7 días una resistencia a pe-
+netración de más del doble que suelos finos tipo “tosca” 
+con compactación 100% respecto del ensayo Proctor 
+estándar .
+Se considera sumamente útil el empleo de RDC para re-
+llenos no estructurales, bases de apoyo para pavimentos 
+y en cualquier otro lugar en el cual pueda reemplazarse 
+suelo compactado, con mejores garantías de comporta-
+miento y simplicidad de control que para el caso de sue-
+los convencionales. Asimismo, puede ser utilizado para 
+Hormigonar 43   diciembre l 2017
+>
+Figura 2
+‹‹
+Figura 3
+‹‹
+NOT A TÉCNICA 41
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 43    diciembre l 2017
+>
+reemplazo de los denominados “hormigones pobres” u 
+“hormigones de limpieza” en pavimentos, ya que pre-
+sentan múltiples ventajas, como contracción por secado 
+mucho más reducida, menor riesgo de fisuración y refle-
+jo de fisuras (relacionado con la relación de módulos de 
+elasticidad y rigidez), mejor terminación superficial, me-
+nor riesgo de segregación, superficies más limpias de tra-
+bajo, etc. Además, son económicos en las zonas en que 
+el agregado grueso es costoso. Algunos diseños específi-
+cos son bombeables tanto por equipos de tornillo como 
+de pistón.
+Los RDC son materiales muy versátiles. Se establece una 
+categorización en función del uso o aplicación: 
+1. RDC Tipo 1 - Resistencias de a 5 a 8 kg/cm
+2 a 
+28 días para usos de rellenos general.  Es emplea-
+do cuando no es un criterio relevante la capacidad por-
+tante y transmisión de esfuerzos (relleno entre excava-
+ciones en Figura 2) y cuando por alguna razón exista la 
+posibilidad de que deba excavarse a mano (pala) sin mu-
+cho esfuerzo.
+2. RDC Tipo 2 - Resistencias de a 9 a 13 kg/cm2 a 
+28 días para usos de rellenos que necesiten una 
+habilitación más temprana  desde el punto de vis-
+ta constructivo (desencofrado lateral a las 48 horas, por 
+ejemplo) o colado de diferentes capas de determinada 
+altura (ej. 1 metro) en dos días consecutivos. 
+3. RDC Tipo 3 - Resistencias de 14 a 20 kg/cm2 para 
+tapado de conductos específicos,  que se prefiere que 
+sean excavables a máquina (instalaciones, cañeros, etc.). 
+Por ejemplo, para tapadas de cloacas en reparaciones de 
+pavimentos, que no provocará su hundimiento típico por 
+deficiencias de compactación y agilizará los trabajos
+.
+4. RDC Tipo 4 - Resistencias de 21 a 29 kg/cm2 
+cuando sobre éstos van a circular vehículos 
+como camiones , siempre con carpeta de rodamiento 
+superior de hormigón. Esta especificación estará dada 
+fundamentalmente por el calculista del pavimento o 
+piso industrial y la capacidad o módulo deseado de la 
+base.
+5. RDC Tipo 5 - Resistencias de 30 a 40 kg/cm
+2 
+cuando sobre éstos van a circular vehículos muy 
+pesados o cuando se desea reemplazar el “hor-
+migón pobre”  o suelo-cemento, en el caso de pavi-
+mentos. Este requerimiento tipo de RDC es el que es-
+pecifica la Dirección Nacional de Vialidad que solicita 21 
+kg/cm
+2 a 7 días, material ampliamente utilizado en la in-
+fraestructura vial del noreste argentino (Figura 3).
+6. RDC Tipo 6 - Resistencias > 40 kg/cm 2. Por de-
+finición, hay RDC según el comité del “ ACI Controlled Low 
+Strength Materials”  que pueden alcanzar resistencias del 
+orden de 80 kg/cm 2.
+Las resistencias dependerán de la calidad de los mate-
+riales y de la formulación, pero sólo a título orientativo 
+se presentan en función de experiencias locales en más 
+de 10 provincias los siguientes contenidos de cemento.
+1. RDC Tipo 1 - 4 a 8 kg/cm
+2 a 28 días: Contenido de ce-
+mento 70 + 20 kg/m 3
+2. RDC Tipo 2 - 9 a 13 kg/cm 2 a 28 días: Contenido de ce-
+mento 95 + 20 kg/m 3
+3. RDC Tipo 3 - 14 a 20 kg/cm 2 a 28 días:  Contenido de ce-
+mento 140 + 30 kg/m 3
+4. RDC Tipo 4 - 21 a 30 kg/cm 2 a 28 días: Contenido de ce-
+mento 180 + 30 kg/m 3
+Figura 4
+‹‹
+NOT A TÉCNICA42
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 43   diciembre l 2017
+5. RDC Tipo 5 - 31 a 40 kg/cm 2 a 28 días: Contenido de ce-
+mento 210 + 30 kg/m 3 
+Respecto a las densidades en fresco, los valores varían 
+en función principalmente de la arena empleada y la 
+demanda de agua total. Los pesos unitarios varían ha-
+bitualmente de 1.550 a 1.800 kg/m
+3, debiendo realizar 
+los ensayos de ajuste para el cierre del m 3 despachado. 
+Respecto a la densidad en estado endurecido, los valo-
+res suelen caer entre 30 a 70 kg/m 3 debido a la evapora-
+ción de agua que no se presenta como una contracción 
+notable por la incorporación intencional de aire con el 
+agente espumígeno. Es común que los RDC presenten 
+un asentamiento plástico “casi instantáneo” en la pri-
+mera hora del 1 al 3% de su altura colada, lo cual no es 
+ninguna contraindicación.
+2. Control de calidad y ensayos sobre RDC en 
+estado fresco
+Luego de descargado aproximadamente 1 m 3 y antes de 
+descargar el último 1 m 3 del volumen, se recomienda re-
+tirar una muestra del material a fin de realizar las deter-
+minaciones de consistencia, peso unitario y, eventual-
+mente, otras determinaciones a fin de determinar las 
+características del material en estado fresco. 
+T ambién, se tomará la muestra para moldear las probe-
+tas cilíndricas de 15 x 30 cm que serán utilizadas para 
+evaluar la resistencia del material. Los ensayos deben 
+ser realizados por un laboratorista adecuadamente ca-
+pacitado para su realización, que son similares a los de 
+hormigón pero presentan ciertas particularidades que 
+se detallan.
+Respecto a la fluidez, puede realizarse el ensayo de 
+asentamiento según IRAM 1536 (misma técnica a la del 
+hormigón) y apreciar el comportamiento de la mezcla. 
+En muchos casos se obtienen valores superiores a 20cm, 
+con lo cual el ensayo pierde representatividad, pero pue-
+de apreciarse la fluidez y consistencia del RDC. Sin em-
+bargo, en ciertas aplicaciones los asentamientos de 15 a 
+20 cm son los más apropiados (Figura 3). 
+Existen diversos ensayos propuestos, como la medición 
+del diámetro de extendido con el ensayo realizado con 
+un cilindro de 3” x 6” que puede tener mayor campo de 
+aplicación para rellenos (Figura 2).
+Para el ensayo del peso unitario, de forma similar a la 
+norma IRAM 1562 (Figura 4). Se deberá poseer un re-
+cipiente calibrado de entre 7 y 10 litros de capacidad y 
+una balanza de capacidad 30 kg o más y resolución de al 
+menos 10 g. 
+La colocación del RDC en el recipiente se realizará de 
+forma continua (no por capas) y no será varillado, pu-
+diendo acompañar con suaves golpes de martillo de 
+goma mientras se introduce el material. Luego, se enra-
+sa el recipiente, se limpian sus bordes y se pesa. 
+Restando la masa del recipiente con el RDC menos la 
+tara (masa del recipiente) dividido el volumen del reci-
+piente, se determina el peso unitario del RDC. Si se de-
+sea determinar el contenido de aire, debe poseerse un 
+aparato de Washington con calibración de rangos de 
+aire entre 20 y 35%, que son los valores habituales. 
+Si los ensayos sobre el estado fresco muestran que el 
+material no cumple alguno de los requerimientos del 
+material solicitado, el encargado de recepción del mate-
+rial puede rechazar la carga, debiendo siempre realizar-
+se al menos dos ensayos sobre dos muestras diferentes 
+Figura 5
+‹‹
+NOT A TÉCNICA 43
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 43    diciembre l 2017
+>
+que brinden resultados negativos (fuera de las toleran-
+cias establecidas). Fundamentalmente puede realizarse 
+el ensayo de peso unitario comparando el valor medido 
+con el peso unitario teórico. En caso de discrepancias 
+superiores a 80 kg/m
+3, se realizará un segundo ensayo. 
+Si la discrepancia (en más o en menos) vuelve a ser su-
+perior al valor arriba establecido, se procederá a recha-
+zar o realizar los ajustes necesarios. Si el peso unitario es 
+muy bajo, existe riesgo que no se cumplan con las resis-
+tencias establecidas, mientras que si el peso unitario es 
+muy alto, posiblemente exista un problema con la incor-
+poración de aire del aditivo espumígeno y se obtendrán 
+rendimientos bajos y mayor tendencia a la segregación.
+Respecto al moldeo y curado de probetas, se tomarán 
+en la parte central de descarga del camión hormigonero 
+y se propone moldear al menos 4 probetas por mues-
+tra. Con volúmenes colados hasta 20 m
+3 es suficiente 
+tomar una muestra al día, entre 20 y 50 m 3, dos mues-
+tras al día y para volúmenes superiores 3 muestras/día 
+es representativo. 
+La Norma IRAM 1524 aplicable al moldeo de probetas 
+para hormigones no es directamente aplicable a RDC. 
+Las probetas deben ser de 15 x 30 cm (no recomendan-
+do probetas de 10 x 20 cm por la resolución de la prensa 
+a emplear e incertidumbre a cargas bajas). Los moldes 
+estarán aceitados antes del ensayo. Los moldes serán 
+colocados en una superficie bien plana (es muy relevan-
+te ya que las probetas no es recomendable encabezarlas 
+y no puede corregirse una falta de paralelismo excesiva). 
+La colocación del RDC en el molde se realizará de forma 
+continua (no por capas) y no será varillado. 
+Podrá acompañarse con golpes de martillo de goma 
+mientras se introduce el material. Luego, se enrasa bien 
+la probeta (retirando siempre excedente de hormigón 
+y no incorporando). Las probetas se dejan al reparo del 
+sol durante 48 horas (en caso de que se puedan des-
+moldar a las 24 horas sin que sufran ningún daño, po-
+drá realizarse). Luego se trasladarán a un lugar donde 
+no puedan golpearse, sin ser sumergidas en agua y se 
+dispondrán en esta condición hasta la edad de ensayo 
+correspondiente. 
+En caso de apreciar defectos al desmoldar la probeta, se 
+deberá establecer un procedimiento de varillado inter-
+no leve o golpes con el martillo de goma con mayor in-
+tensidad y frecuencia. Las probetas en todos los casos se 
+marcarán o identificarán en el momento del desmolde 
+y nunca en la misma jornada en la parte superior (salvo 
+que se use la técnica del papel escrito húmedo aplica-
+do en estado fresco). T odos los ensayos y observaciones 
+serán registrados en planilla específica de trazabilidad.
+3. Control de calidad del RDC  
+en estado endurecido
+No es posible la utilización de encabezado con placas 
+elastoméricas y, en muchos casos, no es beneficioso un 
+encabezado con mortero de azufre. 
+Existen numerosas experiencias en las que, si las probe-
+tas se encuentran bien enrasadas superficialmente, no 
+es necesario el encabezado de éstas para su rotura (al 
+ser relativamente blando superficialmente el cabezal 
+superior , elimina las posibles irregularidades si son pe-
+queñas). La prensa deberá tener una verificación a baja 
+carga (< 10 toneladas) y poseer una resolución que ga-
+rantice resultados confiables (Figura 5). 
+Otro aspecto es la velocidad de carga, recomendando 
+para probetas 15 x 30 cm 0,3 kN/s (ó 0,02 MPa/seg). No 
+es recomendable en absoluto el ensayo de probetas de 
+RDC en prensas manuales para hormigones con dial, ya 
+que rompen a valores de 3 a 10 divisiones y presentan 
+una incertidumbre demasiada elevada, y en general es-
+tas prensas no pueden usarse en este rango. Una alter-
+nativa es emplear prensas para ensayos de suelos tipo 
+CBR con aros dinamométricos operadas manualmente.
+En algunas ocasiones, pueden pesarse las probetas y de-
+terminar su densidad en estado endurecido, al menos en 
+una probeta por edad como parámetro de control, deter-
+minando la densidad aproximada (+ 10 kg/m
+3) con medi-
+ciones convencionales de diámetro y altura.
+Respecto a los ensayos de probetas, se recomienda ensa-
+yar dos probetas a edades de 7 a 10 días, que deberán estar 
+entre el 60 y 80% de la resistencia final deseada. Con es-
+tos valores se irá ajustando el contenido de cemento. Estos 
+resultados son más útiles en general (habilitación tempra-
+na del RDC) que las resistencias a 28-35 días, que pueden 
+realizarse los ensayos para complementar la información. 
+T ambién pueden efectuarse ensayos adicionales, como re-
+sistencia penetración Proctor (fundamentalmente en RDC 
+Tipo 1 y 2).
+Hay ensayos específicos como módulo de elasticidad pero 
+no son frecuentes (Figura 5). Sobre la base de experien-
+cias locales, los módulos toman valores de 2 GPa para RDC 
+Tipo 1 a 5 GPa para RDC Tipo 4 y hasta 10 GPa para Tipo 6.
+NOT A TÉCNICA44
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 43   diciembre l 2017
+4. Especificaciones tipo para  
+empleo de RDC como rellenos
+Desde el punto de vista constructivo, se brindan una 
+serie de especificaciones que han tenido resultados 
+favorables:
+Antes de la colocación, deberá inspeccionarse visualmen-
+te el estado de la base (o de la capa anterior de RDC) que 
+esté libre de restos de materiales extraños y se humede-
+cerá antes del colado del RDC.
+Entre capa y capa de diferentes jornadas, no existirá nin-
+guna preparación específica (salvo humedecimiento) si 
+no transcurren más de 14 días. 
+Si transcurren más de dos semanas, se deberá realizar 
+una limpieza con hidrolavadora, eliminando material 
+suelto superior , polvo, tierra u otro que pueda haberse 
+acumulado. 
+Respecto a las reglas, moldes o encofrados, deberán so-
+portar presión hidrostática que genera el RDC durante 
+sus primeras horas y ser estancos para evitar fugas de 
+material. Al día siguiente (menos de 24 horas), la capa 
+inferior ya no genera presiones sobre los encofrados u 
+otros elementos de sostén, ya que son autoportantes.
+Para capas de hasta 1 metro de altura, antes de la coloca-
+ción del RDC en contacto con otras capas de RDC es re-
+comendable que transcurran 48 horas para el RDC Tipo 1 
+(menor contenido de cemento) o 24 horas para los otros 
+tipos de RDC. Para capas de 1 a 2 metros, es recomenda-
+ble extender los períodos indicados 24 horas. 
+En general no se materializan juntas, con lo cual no hay 
+que tener previsiones en el caso de RDC usados como re-
+llenos o para tapar cañerías. Para bases de pavimentos y 
+RDC Tipo 5, podrían realizarse juntas con cuchillas metá-
+licas que coincidan con las superiores (juntas futuras del 
+pavimento).
+Respecto al colado, el RDC presenta una homogenei-
+dad y cohesividad (resistencia a la segregación) carac-
+terística que, al tener el aditivo espumígeno y no con-
+tener piedra, lo convierten en una mezcla estable aún 
+para alturas de caída considerables. 
+Para alturas de caídas libres de hasta 5 metros, en ge-
+neral no es necesario ningún ensayo específico, pero 
+sí la inspección visual del colado verificando la no 
+segregación. Para alturas de caída superiores, pue-
+de guiarse con canaletas hasta un punto próximo a 
+la colocación o bien realizar toma de muestras en la 
+boca del mixer y en la caída, para asegurar que las 
+propiedades se mantienen constantes. Para ello, se 
+propone que el PUV no varíe en más de 80 kg/m3, 
+entre la muestra tomada apenas inicia la descarga en 
+el mixer y sobre muestras tomadas el RDC ya colado 
+(en fresco).
+La consistencia será ajustada con agua (centro de 
+ciertos límites) para obtener una mezcla autocom-
+pactante, con lo cual no es necesario ningún vibrado 
+ni compactación. 
+En la misma jornada, es recomendable que no trans-
+curran más de 2 a 4 horas entre dos RDC colados 
+para lograr uniformidad en el colado. En caso de que 
+transcurra más tiempo, será recomendable rociar con 
+hidrolavadora la superficie del RDC antes de colar el 
+superior .
+Cuando el RDC tenga como objetivo reemplazar “hor-
+migones pobres” u “hormigones de limpieza”, se se-
+guirán las técnicas constructivas convencionales para 
+éstos, sólo que no será necesario vibrarlos ni curarlos 
+como se define en la presente especificación.
+Ante condiciones ambientales muy desfavorables y 
+cuando en el sitio, la evaporación del agua sea supe-
+rior a 1,0 kg/m
+2/h (Ábaco CIRSOC 201), será reco-
+mendable proteger durante el curado con hidrolava-
+dora de baja a media presión, realizando un rociado 
+continuo para humedecer la cara superior que se está 
+colando del RDC, sin que se acumule agua. Estas con-
+diciones se dan con fuertes vientos, bajas humedades 
+y/o elevadas temperaturas. 
+Respecto al curado, el RDC no necesita ser curado 
+considerando las condiciones ambientales favorables. 
+En ciertas ocasiones se recomienda un curado con lá-
+minas plásticas, pero es en zonas con climas áridos o 
+desérticos.
+Respecto al desencofrado de laterales, se podrá realizar 
+a las 48 horas si no se aprecia ningún daño en las caras 
+laterales para RDC Tipo 2 o superiores. 
+Para RDC Tipo 1, es recomendable un tiempo mínimo 
+de 72 horas, salvo que se demuestre que a las 48 horas 
+no exista desgranamiento excesivo al desencofrar . 
+Si en obra se aprecia dificultad al desencofrar o que el 
+RDC aún no finaliza el fragüe, se dejará 24 horas adicio-
+nales para el retiro de encofrados laterales restantes.
+ <
+NOT A TÉCNICA 45
+
+--- FIN DE PÁGINA ---
+

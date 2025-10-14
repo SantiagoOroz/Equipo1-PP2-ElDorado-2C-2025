@@ -1,0 +1,454 @@
+Hormigonar 46   Diciembre l 2018
+E
+n la experiencia personal con 
+la Asociación Argentina del 
+Hormigón Elaborado (AAHE), 
+al dictar numerosos cursos de pisos y 
+pavimentos en el país durante 10 años, 
+los dos temas más recurrentes y en los 
+cuales se suscitan más consultas y “sor-
+presas” para los participantes son: 
+ Cuando se plantea la necesidad real 
+del uso de la “malla” en pisos y qué be-
+neficios concretos aporta (considera-
+remos “malla” en el presente artículo 
+a la cuadrícula de armadura electro-
+soldada o atada, con diámetros de 5 a 
+8mm y espaciamientos de 10 a 25cm, 
+que es lo que se emplea normalmente 
+en la práctica cotidiana).
+ Al indicar los numerosos inconve-
+nientes y cuidados adicionales que me-
+rece el diseño de pisos y pavimentos 
+cuando se apoya el hormigón direc-
+tamente en láminas plásticas (mal de-
+nominadas “nylon” o “agropol”). T odas 
+las patologías inducidas están avaladas 
+por la experiencia práctica en decenas 
+de obras en el país y por la bibliografía 
+internacional.
+En este artículo se abordará la prime-
+ra de estas inquietudes, aplicable a lo-
+sas apoyadas sobre el terreno, como 
+pisos industriales, contrapisos y pavi-
+mentos de todo tipo: ¿es necesaria la 
+malla o no? 
+La extensa costumbre, en todas las 
+provincias de la Argentina, de usar ma-
+lla de refuerzo no se condice con la 
+gran cantidad de problemas de fisu-
+ras en pisos y pavimentos de hormi-
+gón, que afecta entre un cuarto y la mi-
+tad de las obras construidas en función 
+de la región y la tipología. Con lo cual, 
+NOT A TÉCNICA
+PISOS Y P A VIMENTOS:  
+¿Con o sin malla?
+FIGURA 1 - ESP ACIAMIENT OS MAXIMOS DE JUNT AS RECOMENDABLES.
+el primer aspecto a tener en cuenta es 
+que si los pisos industriales se siguen fi-
+surando, la malla no es la solución. 
+Es posible que el uso de la malla en pi-
+sos y pavimentos provenga de la falsa 
+creencia de que la resistencia al hor-
+migón es nula. En los colegios técnicos 
+y facultades nos enseñan que la resis-
+tencia a tracción del hormigón es muy 
+baja y despreciable, lo que claramente 
+es falso para losas apoyadas en el terre-
+no: el hormigón trabaja netamente a 
+flexión, y por ello, a tracción en sus fi-
+bras inferiores. Si la resistencia a trac-
+ción del hormigón fuese tan baja, no 
+existirían los pisos, pavimentos ni las 
+pistas de aeropuertos de hormigón 
+(que en las últimas intervenciones en 
+Argentina han sido sin ningún tipo de 
+refuerzo) y los volúmenes de hormi-
+gón elaborado consumidos local, na-
+cional e internacionalmente serían sen-
+siblemente inferiores.
+El presente trabajo –muy solicitado 
+por los lectores de 
+Hormigonar– abar-
+ca los casos generales, donde en más 
+del 90% se usa la malla “por costum-
+bre” y “porque hay que usarla”. No 
+es aplicable para el caso de plateas de 
+fundación de edificios o viviendas o 
+capas de compresión sobre losas ali-
+vianadas, ni para casos en los que el cal-
+culista justifica técnicamente la cuan-
+tía para mejorar la resistencia a flexión 
+(por ejemplo, para cargas puntuales 
+en ciertas zonas delimitadas, como 
+pueden ser instalaciones industriales). 
+T ampoco se aborda el caso de pisos 
+con elevados espaciamientos de juntas 
+elaborados con hormigones de con-
+tracción compensada, donde un dise-
+ño y cálculo tensional es necesario, em-
+pleando armadura pasiva y, en algunos 
+casos, postensado.
+Por otro lado, siempre realizamos la 
+misma pregunta en cursos y semina-
+rios: si las calles urbanas no llevan ma-
+lla, si los pavimentos diseñados por 
+Vialidad Nacional no llevan refuerzo, 
+si las pistas de aeropuertos no llevan 
+armadura, ¿por qué le colocamos una 
+malla de refuerzo a una vereda, a una 
+cochera o bien a un piso industrial con 
+tránsito de montacargas? Para finali-
+zar esta introducción y sobre la base 
+de un sinnúmero de pisos industria-
+les diagnosticados: estadísticamente 
+existen más casos de fisuras en losas 
+34
+ POR MS. ING. MAXIMILIANO  SEGERER. / CONTROL Y DESARROLLO DE HORMIGONES  / WWW.CDHORMIGONES .COM.AR 
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA
+apoyadas sobre el terreno con malla que sin 
+malla. Cuando desde el diseño mismo, acom-
+pañado de una reunión previa a obra, se elimina 
+la malla, no suelen existir problemas de relevan-
+cia en estas obras.
+EL “ ABCD” DEL DISEÑO DE JUNT AS EN 
+PISOS Y P A VIMENTOS
+Si bien ya se ha descripto en otros artículos de 
+esta revista, nunca es redundante repetir los si-
+guientes lineamientos:
+a) Ante todo, determinar un espaciamiento de 
+juntas en función del espesor (ver tabla adjunta 
+FIGURA 2 –  EST ADÍSTICA DE DAÑOS EN LOSAS SEGÚN 
+ESP ACIAMIENT O DE JUNT AS.
+Fuente: Instituto del Cemento Portland Argentino (ICP A)
+35
+
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 46   Diciembre l 2018
+NOT A TÉCNICA
+en la figura 1).
+b) Brindar una relación de lados no su-
+perior a 1,3 (preferible 1,2), es decir , ten-
+der a formas cuadradas.
+c) Continuidad y simetría de juntas 
+en paños adyacentes (salvo juntas de 
+aislamiento).
+d) Desvincular el piso de cualquier ele-
+mento estructural y aislar adecuada-
+mente el piso de puntos singulares.
+De emplear espaciamientos de juntas 
+superiores a los referidos, quizás al ini-
+cio de la obra y en sus primeros años 
+no exista ningún síntoma o problema 
+en la obra. Sin embargo, tal como se 
+desprende del gráfico del Instituto del 
+Cemento Portland Argentino (ICP A) 
+de la figura 2, aumenta exponencial-
+mente el incremento de fallas y fisu-
+ras en el pavimento al emplear espa-
+ciamientos de junta elevados. Sólo 
+interpretando ese gráfico, al aumen-
+tar el espaciamiento de juntas de 4,5 
+a 5,5m (cerca de un 20% solamente), 
+se multiplica por 40 el riesgo de fisu-
+ras y deterioro temprano del pavimen-
+to antes de cumplir su vida útil, por 
+lo cual nunca es recomendable supe-
+rar los 5m. Por ello, la tendencia actual 
+es clara y concreta: reducir el espacia-
+miento de juntas para limitar las fallas 
+y mantenimiento no previsto de pisos 
+y pavimentos. 
+Para pavimentos y pisos por el que cir-
+culan más de 60 vehículos/día, es reco-
+mendable emplear pasadores, como 
+así también en las juntas constructivas 
+o de dilatación en pavimentos y pisos 
+industriales. Con la finalidad de redu-
+cir la movilidad relativa entre dos losas 
+hormigonadas en jornadas diferentes, 
+se emplean pasadores que sirven para 
+transferir esfuerzos, lo cual no se con-
+sidera un refuerzo propiamente dicho.
+Según la bibliografía especializada, 
+la malla o refuerzo de pisos no pre-
+viene fisuras (existe consenso). Éstas 
+no actúan hasta que la fisura se abre. 
+Después de la formación de las fisuras 
+(siempre en estado endurecido, ya que 
+en estado fresco no actúa), puede con-
+trolar el ancho de las fisuras o restringir 
+su crecimiento, pero en función de su 
+cuantía. No obstante, las buenas técni-
+cas constructivas para pisos y pavimen-
+tos indican que hay que evitar que se 
+fisure en estado fresco y controlar las 
+fisuras en estado endurecido (dejar 
+que se formen pero bajo las juntas), 
+con lo cual una restricción al movimien-
+to pensado de las losas por darle conti-
+nuidad puede ser contraproducente.
+ARGUMENTOS P ARA EL USO DE 
+LA MALLA Y SU JUSTIFICACIÓN
+Antes de entrar en las hipótesis de jus-
+tificación del uso de la malla, se afirma 
+que:
+  No previene fisuras en estado fresco. 
+No existe adherencia entre el acero y el 
+hormigón fresco, con lo cual no es fac-
+tible que prevenga fisuras por contrac-
+ción plástica, por ejemplo. Se muestran 
+ejemplos en la figura 3.
+ No previene fisuras en estado en-
+durecido. Las tensiones inducidas por 
+contracción por secado y/o contrac-
+ción térmica inicial se manejan por jun-
+tas bien diseñadas y materializadas en 
+tiempo y forma. Las cuantías bajas y 
+medias 
+(<0,60%) no prevendrán fi-
+suras. Sí pueden hacer que las fisuras 
+estén más próximas y menos anchas, 
+pero para un piso y pavimento esto no 
+es admisible. Se muestran ejemplos de 
+pisos fisurados en estado endurecido 
+con malla (figura 4).
+FIGURA 3 – FISURAS PLÁSTICAS EN PISOS CON MALLA (CONTRACCIÓN Y ASENT AMIENT O).
+36
+
+--- FIN DE PÁGINA ---
+
+
+
+--- PÁGINA 4 VACÍA O NO RECONOCIBLE ---
+
+Hormigonar 46   Diciembre l 2018
+NOT A TÉCNICA
+  En caso de tener una base de mala 
+calidad (mal compactada o expansiva 
+o de baja capacidad soporte), la baja 
+cuantía de la malla no solucionará po-
+sibles hundimientos que están dados 
+por la rigidez propia del hormigón.
+  No impide el reflejo de fisuras si se apo-
+ya sobre hormigones existentes, ya que 
+tiene que desvincularse con cama de ripio, 
+triturado o similar para independizar mo-
+vimientos e impedir adherencia (figura 5).
+  No aumenta la resistencia a flexión 
+en forma cuantificable. Una malla O 6 
+c/20cm, colocada a 2cm desde la base 
+en un piso de hormigón de 15cm con 
+categoría H-21 a H-30, incrementa la 
+resistencia a flexión en menos del 1% 
+(mediante cálculo tensional); mientras 
+que una malla 
+O 8 c/10cm la incremen-
+ta menos de un 3%, lo que demuestra 
+que estas cuantías de 0,1 y 0,3% res-
+pectivamente no modifican de forma 
+importante la resistencia a tracción del 
+piso. Incrementar 1cm más el espesor 
+FIGURA 4 – 
+FISURAS POR 
+CONTRACCIÓN 
+POR SECADO 
+O TÉRMICA Y 
+ALABEO EN PISOS 
+CON MALLA.
+(15 a 16cm) aumenta en más de un 
+10% la resistencia a flexión del piso.
+Si se quiere que la malla de refuerzo 
+sea efectiva para reducir o limitar el 
+alabeo y eventualmente el ancho de 
+fisuras (que son de mayor espesor en 
+general en la parte superior), debe es-
+tar posicionada próxima al tercio su-
+perior (5cm bajo la superficie de ro-
+damiento) y debe discontinuarse unos 
+5cm a cada lado de la junta. Ambos 
+factores no se cumplen en la mayor 
+parte de las obras. 
+El primero de estos factores se “inten-
+ta” realizar con dos metodologías bien 
+diferenciadas (figura 6). La primera es 
+FIGURA 5 – REFLEJO 
+DE FISURAS 
+DE PLA YÓN 
+DEPOR TIVO  
+CON EL EMPLEO  
+DE MALLA.
+subiendo con un hierro en forma de 
+gancho después de hormigonar y la 
+otra es colando una capa de hormi-
+gón, tirando la malla y luego colando 
+la segunda capa de hormigón. La con-
+clusión en ambas, sobre la base de las 
+experiencias de cientos de testigos ex-
+traídos para diagnosticar fisuras –no 
+casualmente en pisos con malla–, es 
+que no es efectiva, ya que el personal 
+y equipos circulan sobre ella y la malla 
+suele quedar en la cara o tercio infe-
+rior , no logrando el cometido teórico 
+o de la especificación. La materializa-
+ción de recubrimientos es incómoda, 
+ya que poseen gran altura (8 a 12cm), 
+deben tener bastante densidad y el ca-
+mión no puede circular sobre ellas; con 
+lo cual, o se hormigonan franjas de 4 
+a 5m como máximo, o hay que bom-
+bearlo, alternativas que incrementan 
+costos y bajan la productividad en los 
+pisos industriales.
+Respecto al corte de las armaduras 
+para que no exista continuidad entre 
+las dos losas (es la idea fundamental de 
+cualquier diseño de pisos y pavimen-
+tos), es algo difícil de materializar , sal-
+vo tener armaduras bien atadas y colo-
+cadas y realizar el corte después de la 
+colocación, marcando en los extremos 
+del piso justamente dónde irá la junta 
+aserrada. De no tener estos cuidados, 
+38
+
+--- FIN DE PÁGINA ---
+
+la medida puede ser contraproducen-
+te, pero la malla debería ser indepen-
+diente entre losas, salvo que algún cál-
+culo o diseño lo justifique, lo que no es 
+usual para pisos y pavimentos. Con lo 
+cual, los dos parámetros referenciados 
+generan incertidumbre en el posicio-
+namiento de la malla.
+Ciertas modelaciones numéricas y la 
+bibliografía especializada avalan el uso 
+de la malla bien posicionada e inte-
+rrumpida para reducir y limitar fenó-
+menos de alabeo y eventualmente 
+reducir levemente anchos de fisu-
+ras en la parte superior . Sin embar-
+go, existe otro camino confiable: dis-
+minuir levemente el espaciamiento 
+entre juntas o bien emplear pasado-
+res, que son más efectivos para este 
+cometido de limitar el alabeo en pa-
+vimentos que cualquier refuerzo. 
+Empleando el “ ABCD” del diseño de 
+pavimentos citado se controlan las 
+fisuras y la temática del alabeo en 
+forma conjunta.
+CASOS EN LOS QUE LA MALLA 
+GENERA INCONVENIENTES
+Luego de la lectura de este artículo, 
+podría pensarse que el uso de la ma-
+lla (o doble malla en varios casos) es 
+un tema meramente económico. Una 
+simple malla 
+O 5 c/15cm, entre el ma-
+terial, el flete y la mano de obra para 
+colocarla, puede tener una incidencia 
+del 8 al 12% del trabajo final (sin consi-
+derar movimiento de suelos), mientras 
+que si hubiera que posicionarla con pa-
+sadores e interrumpirla en zona de jun-
+tas, el costo sería muy superior , ya que 
+también afecta la secuencia de llenado 
+y volúmenes a colar en la jornada. Con 
+lo cual es un ítem sumamente impor -
+tante y que se verá encarecido por la suba 
+del dólar . Es decir que, con los mismos re-
+cursos, sin usar malla podemos construir 
+un 10% más de superficie. 
+No obstante lo anterior , que es netamen-
+te económico y que en algunas obras no 
+se tiene en cuenta este aspecto (lo cual 
+criteriosa y racionalmente no correspon-
+dería en ninguna obra civil), se muestran 
+FIGURA 6 – 
+MET ODOLOGÍAS
+ P ARA “POSICIONAR”  
+LA MALLA
+ Y POSICIÓN
+ RESUL T ANTE
+ DE LA MISMA.
+NOT A TÉCNICA 39
+
+--- FIN DE PÁGINA ---
+
+varios ejemplos en el país en los que la ma-
+lla y armadura ha sido contraproducente 
+y determinante para la fisuración del piso 
+o pavimento, y la conclusión muy tem-
+prana de su serviciabilidad, incluso antes 
+de que éste sea habilitado.
+  Casos con doble malla y vigas de 
+vinculación. En muchas obras se em-
+plea doble malla en pavimentos para 
+circulación de camiones con cargas 
+controladas (por ejemplo: destilerías) y 
+en las rutas nacionales, lo que no es ne-
+cesario, dándole validez al segundo cri-
+terio. En la figura 7 se muestra un caso 
+de estudio, donde la continuidad de la 
+doble malla en zona de juntas (así espe-
+cificado por proyecto) provocó las fisu-
+ras por contracción en el centro de las 
+FIGURA 7 – 
+P A VIMENT O 
+CON DOBLE 
+MALLA SIN 
+INTERRUPCIÓN
+EN ZONA DE 
+JUNT AS.
+FIGURA 8 – VINCULACIÓN DE PISO DE EST ACIONAMIENT O CON MALLA A VIGAS DE FUNDACIÓN.
+losas por una gran restricción adicional 
+(impedimento de movimientos nor-
+males y esperables del hormigón). En 
+caso de no haber empleado esta doble 
+armadura, que se multiplica a veces en 
+zona de empalmes, no hubiera existido 
+la patología, que se repitió en cientos 
+de metros. 
+  Caso de fisuras por asenta-
+miento plástico. Al poseer armadu-
+ra y no tener ésta un correcto posicio-
+namiento o garantía de recubrimientos 
+de al menos 4cm, existe mayor ries-
+go de que se “copie” la malla, como se 
+mostró en la figura 3. Esto, en pisos ar-
+mados y débilmente armados, es una 
+patología exclusivamente relacionada 
+con haber empleado malla o armadura 
+en los proyectos (que, tal como se des-
+cribió, en la gran mayoría de los casos 
+no se justifica).
+  Vinculación entre diferentes lo-
+sas y restricción de movimientos. 
+En ciertos casos, cuando se vinculan los 
+diferentes paños del pavimento, al es-
+tar restringidos sus movimientos cual-
+quier inconveniente que tenga un paño 
+va a afectar a los contiguos, y si existiera 
+independencia, esto no ocurre. Es fre-
+cuente planificar mal las juntas de ais-
+lamiento y vincular el piso armado a las 
+fundaciones, y –al tener continuidad 
+entre diferentes losas y trabajar en con-
+junto– se termina afectando mayor 
+número de losas que en el caso de no 
+existir ese refuerzo (figura 8).
+ <
+Hormigonar 46   Diciembre l 2018
+NOT A TÉCNICA40
+
+--- FIN DE PÁGINA ---
+

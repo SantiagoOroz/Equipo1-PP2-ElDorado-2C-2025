@@ -1,0 +1,513 @@
+Hormigonar 47   Abril l 2019
+S
+iempre trabajé así y nunca me 
+pasó nada”, es una frase muy 
+recurrente en el ámbito de los 
+hormigones. Si bien puede ser cier-
+to en muchos casos, los pisos y pavi-
+mentos apoyados directamente so-
+bre plástico presentan probabilidad 
+de patologías creciente en escala de 
+meses y algunos años, y el construc-
+tor no siempre posee ese 
+feedback 
+del usuario. Por otro la do, cada vez 
+hay que ser más eficiente para optimi-
+zar el uso de los recursos económicos y 
+entregar trabajos de calidad y las lámi-
+nas plásticas suelen encarecer los pro-
+yectos, no por la lámina en sí sino por la 
+mayor cantidad de juntas y precaucio-
+nes asociadas en el proyecto. Sin em-
+bargo, en ciertos casos puntuales, hay 
+que recurrir a ellas.
+Como se mencionó en el artículo ante-
+rior de 
+Hormigonar , donde se estudió 
+la necesidad real del uso de la malla en 
+pisos, el segundo tema más recurrente 
+en consultas de pisos y pavimentos es 
+el relacionado con la lámina de polie-
+tileno como apoyo directo. Esta lámi-
+na de polietileno, tiene varios nombres 
+que comúnmente se emplean: “plásti-
+co”, “nylon”, “agropol”, “barrera de va-
+por”, etcétera, y todos hacen referencia 
+a la misma temática. En la actualidad es 
+innegable, tanto por experiencias lo-
+cales como por referencias bibliográ-
+ficas en todo el mundo, que con su 
+uso en la base (si se coloca hormigón 
+directamente sobre la lámina plástica), 
+el hormigón del piso tiene una proba-
+bilidad muy superior de presentar de-
+fectos, comparado con un piso de hor-
+migón apoyado sobre un estabilizado 
+NOT A TÉCNICA
+PISOS Y P A VIMENTOS:  
+¿con lámina plástica en la base o sin ella?
+compactado, una capa de RDC o bien 
+piedra triturada o canto rodado. Se es-
+grimen muchos argumentos para de-
+fender su uso -pocas veces veraces- y 
+la realidad es que aumenta el costo de 
+la obra y trae aparejado la mayor parte 
+de inconvenientes asociados principal-
+mente a pisos llaneados.
+Al igual que la malla en los pisos indus-
+triales, y a veces en los pavimentos, 
+personalmente considero que es una 
+costumbre sin fundamentos. Muchos 
+constructores de pisos estaban acos-
+tumbrados a trabajar con láminas plás-
+ticas y al no usarla (por recomenda-
+ción) ven facilitado su trabajo y tienen 
+menos reclamos de los clientes. 
+Cabe aclarar sobre el presente artículo 
+que hay que realizar algunas salveda-
+des respecto a conceptos que no son 
+aplicables:
+ Pavimentos o pistas de aterriza-
+je adecuadamente diseñados:  si se 
+posee un diseño estructural fundado, 
+considerando todos los movimientos 
+higrotérmicos, deformabilidad del hor-
+migón y cargas por fatiga y el mismo 
+indica la recomendación del uso de la 
+lámina plástica bajo el hormigón, por 
+supuesto hay que utilizarla. El proyec-
+tista toma las previsiones en estos ca-
+sos (por ejemplo: menor espaciamien-
+to de juntas) para incorporarlo en su 
+modelación.
+ Impermeabilización de plateas o 
+sistemas de fundación como zapa-
+tas corridas: en algunos casos, lamen-
+tablemente muchas veces sin éxito, se 
+colocan láminas plásticas bajo funda-
+ciones tipo plateas o similares que tie-
+nen espesores considerables, en las 
+cuales -al ser elementos de hormigón 
+armado con cuantías establecidas y di-
+mensionados específicamente- la lá-
+mina plástica puede usarse para apo-
+yar la platea. Si se presenta cierto grado 
+de fisuración o defectos superficia-
+les, no será relevante como en pisos o 
+pavimentos.
+ Pavimentos no llaneados en sue-
+los excesivamente absorbentes:  en 
+pocas experiencias en el país se ha de-
+mostrado que la elevada permeabili-
+dad de los suelos hacen muy difícil su 
+saturación y una lámina plástica pue-
+de reducir considerablemente el riesgo 
+de fisuración por contracción plástica. 
+Esto debe determinarse por la expe-
+riencia en cada lugar , pero son casos 
+bastante difíciles de encontrar . Sin em-
+bargo, deberán tomarse medidas y cui-
+dados adicionales.
+Este artículo es de aplicación directa a 
+las consideraciones desde el diseño de 
+la mayor cantidad de casos para hor-
+migones simples (cuantías <0,14%), 
+que cumplen la mayor parte de los 
+pisos y pavimentos ejecutados en la 
+Argentina.
+FUNDAMENT ACIÓN DE LAS 
+P A TOLOGÍAS AGRA V ADAS POR 
+EL USO DE LÁMINA PLÁSTICAS
+Los problemas asociados están ligados 
+fundamentalmente con dos aspectos 
+no deseables que apareja el apoyo di-
+recto del hormigón en el plástico: 
+ T otal impermeabilidad: lo cual se 
+traduce en fragüe retardado y diferen-
+cial en la altura y en estado endurecido 
+en una variación del perfil higrométri-
+co dentro del hormigón (mucho más 
+“
+34
+ POR EL MS. ING. MAXIMILIANO  SEGERER DE LA FIRMA CONTROL Y DESARROLLO DE HORMIGONES   
+/ WWW.CDHORMIGONES .COM.AR 
+
+--- FIN DE PÁGINA ---
+
+NOT A TÉCNICA
+FIGURA 1 > APO Y AR EL HORMIGÓN SOBRE LÁMINAS DE POLIETILENO AUMENT A
+EL RIESGO DE LA MA Y OR P AR TE DE LAS P A T OLOGÍAS DEL HORMIGÓN.
+35
+
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 47  Abril  l 2019
+NOT A TÉCNICA
+húmedo próximo a la base).
+ Menor fricción en la base:  lo cual 
+genera mayores movimientos, tanto 
+tempranos, tardíos como estaciona-
+les, por tener una mayor libertad en la 
+base, en lo relacionado con la contrac-
+ción por secado y térmica de hormi-
+gones no masivos.
+Respecto a la impermeabilidad total, 
+nunca es deseable. En estado fresco, 
+el hormigón de la parte superior ini-
+ciará su fragüe antes (más si es con-
+dicionado por factores climáticos ad-
+versos como baja humedad relativa, 
+viento y/o temperaturas elevadas), y 
+dará un aspecto superficial “listo para 
+aplicar el endurecedor”. Esto ocasiona 
+que al aplicar el endurecedor y llanear 
+prematuramente el hormigón, el agua 
+tenderá a migrar sólo para arriba (aba-
+jo es impermeable) mientras el hor-
+migón inferior aún no ha fraguado, lo 
+que puede provocar patologías como 
+delaminaciones y ampollas por des-
+prendimiento del endurecedor super-
+ficial. Para pavimentos en los cuales se 
+aplica la membrana de curado en base 
+solventada en estado fresco, ocurre 
+algo similar pero con mayor severidad, 
+provocando un mapeo superficial 
+mucho más marcado que si se hubie-
+ra tirado hormigón sobre una base no 
+impermeable. 
+Si bien pueden lograrse buenos re-
+sultados en las prácticas de termina-
+ción de superficies, tiene que tenerse 
+el “ojo” mucho más adiestrado y los 
+tiempos para trabajar el hormigón son 
+menos extendidos que en otros casos. 
+Asimismo, las tareas de llaneado defi-
+nitivo suelen demorarse más tiempo 
+y ello conlleva tener potenciales pro-
+blemas de fisuración por contracción 
+plástica por mayor tiempo “abierto” 
+y del hormigón fresco expuesto a un 
+ambiente agresivo (desde el punto de 
+vista de la desecación del hormigón). 
+Es más, deben tenerse cuidados adi-
+cionales, como no retrasar en exce-
+so el fragüe con aditivos fluidificantes 
+en la obra. La venida de un frente frío 
+también puede agravar estas circuns-
+tancias de daños tempranos por el fra-
+güe demorado de todo el hormigón 
+del piso.
+Posiblemente el aspecto crucial -y en 
+el que más negativamente influye la lá-
+mina plástica bajo el hormigón- es en 
+el alabeo. Este fenómeno, ya estudia-
+do en otros artículos de esta revista, 
+depende fuertemente de las condicio-
+nes ambientales del lugar (se magnifica 
+más en ambientes secos como los que 
+se registran en San Juan, Mendoza, va-
+rios sectores de Neuquén o San Luis) 
+y de los materiales constituyentes (ce-
+mentos adicionados finos y puzoláni-
+cos o agregados con cierto contenido 
+de materiales potencialmente perju-
+diciales pasante el tamiz #200), con 
+lo cual varían notablemente de región 
+en región. Cuando ambas situaciones 
+coinciden, el alabeo (que es un fenó-
+meno estacional de levantamiento de 
+esquinas) y el apoyo del hormigón di-
+rectamente sobre la lámina plástica, 
+puede incrementar cinco veces el ala-
+beo y provocar la falla prematura con 
+los primeros pasos de los autoelevado-
+res sobre la superficie. 
+T odos los pisos alabeados -diagnosti-
+cados con severidad elevada- siempre 
+han estado apoyados sobre láminas 
+plásticas, lo cual se condice con los as-
+pectos teóricos. Las fisuras de esqui-
+na son típicas de esta patología y, para 
+trabajar con láminas bajo el hormigón, 
+FIGURA 2> LAS T AREAS DE LLANEADO MECÁNICO SON MUCHO MÁS SENCILLAS
+Y SEGURAS CUANDO NO SE APO Y A EL HORMIGÓN SOBRE LÁMINA PLÁSTICA.
+36
+
+--- FIN DE PÁGINA ---
+
+
+
+--- PÁGINA 4 VACÍA O NO RECONOCIBLE ---
+
+Hormigonar 47  Abril  l 2019
+NOT A TÉCNICA
+deberían achicarse los espaciamientos 
+entre juntas entre 15 y 20%, en relación 
+a si apoyara sobre una base no tan im-
+permeable. Esto lleva a un mayor nú-
+mero de juntas y su mantenimiento 
+asociado.
+Continuando con el estado endureci-
+do, pero ligado a la menor fricción de la 
+base, los pisos y pavimentos apoyados 
+en láminas plásticas presentan una ma-
+yor necesidad de aserrado temprano 
+FIGURA 3> EL APO Y O 
+DEL HORMIGÓN 
+SOBRE PIEDRA 
+COMP ACT ADA ES LA 
+MEJOR SOLUCIÓN SI EL 
+POLIETILENO
+ES NECESARIO 
+(ARRIBA). COLOCAR 
+PLÁSTICO SOBRE LA 
+PIEDRA COMP ACT ADA 
+ES UN ERROR 
+CONSIDERABLE 
+(ABAJO).
+FIGURA 4> ALABEOS EX CESIVOS CON PISOS INDUSTRIALES 
+APO Y ADOS EN LÁMINAS PLÁSTICAS .
+ya que los movimientos asociados a la 
+contracción térmica inicial son mayo-
+res, lo cual reduce la “ventana de ase-
+rrado” y los riesgos de fisuras erráticas 
+por contracción que -si aparecen- no 
+puede devolverse la funcionalidad 
+inicial del piso o pavimento. Además, 
+los movimientos diarios y estaciona-
+les por contracción y temperatura 
+son mayores ya que, al presentar me-
+nor fricción, no están tan impedidos a 
+materializarse y esto conlleva un mayor 
+riesgo de despegue de selladores, cos-
+tos asociados y las patologías que pro-
+vienen del ingreso de incompresibles y 
+agua a las juntas, reduciendo notable-
+mente también por este aspecto la du-
+rabilidad de los pavimentos y pisos in-
+dustriales en el tiempo.
+Se presentan dos ejemplos de los as-
+pectos anteriores en lo relacionado con 
+espaciamiento de juntas:
+ En una región de alta humedad relati-
+va, sin grandes gradientes de tempera-
+tura y con cementos poco adicionados 
+y agregados limpios, el espaciamien-
+to de juntas de un piso industrial pue-
+de ser de 24 a 26 veces el espesor del 
+elemento (si es 15cm, juntas cada 3,8m) 
+y, si se apoya en lámina plástica, deberá 
+ser de 22 a 23 veces, llevando el espa-
+ciamiento a 3,4m.
+ En una región seca y con cementos 
+finos y adicionados y agregados con 
+moderado y alto porcentaje de ma-
+terial pasante tamiz #200, el espacia-
+miento de juntas de un piso industrial 
+puede ser de 21 a 23 veces el espesor 
+del elemento (si es 15cm, juntas cada 
+3,3m) y si se apoya en lámina plástica 
+deberá ser de 16 a 18 veces, llevando el 
+espaciamiento a 2,5m para reducir los 
+problemas asociados a la mayor con-
+tracción (magnitud y variación en el 
+tiempo).
+En ambos, se deberán tener precau-
+ciones específicas en la colocación, 
+modificación de la consistencia del 
+38
+
+--- FIN DE PÁGINA ---
+
+
+
+--- PÁGINA 6 VACÍA O NO RECONOCIBLE ---
+
+hormigón con aditivos, aplicación de 
+endurecedores justo a tiempo, llanea-
+do u otra terminación efectiva, nece-
+sidad imperiosa de un aserrado tem-
+prano, tareas de protección y curado. 
+T odos estos aspectos y la mayor can-
+tidad de juntas asociadas y su mante-
+nimiento conllevan costos mucho más 
+elevados y la necesidad de controles 
+muy estrictos, los cuales en muchos ca-
+sos no se realizan.
+EV ALUACIÓN DE LA NECESIDAD 
+REAL DE LA LÁMINA PLÁSTICA 
+Y AL TERNA TIV AS
+De los conceptos anteriores se des-
+taca la mayor complejidad y los cos-
+tos asociados del trabajo. Sin embar-
+go, no se ha tenido en cuenta hasta 
+ahora un aspecto importante: la lá-
+mina plástica es necesaria en ciertas 
+FIGURA 5> LOS PISOS Y P A VIMENT OS SON MÁS PROPENSOS A DEBILIDADES
+SUPERFICIALES CUANDO SE APO Y AN DIRECT AMENTE SOBRE PLÁSTICO.
+aplicaciones. No obstante, la mayor 
+cantidad de veces se usa por costum-
+bre y sin preguntarse si realmente es 
+necesaria. Esta respuesta es afirmati-
+va en ciertos casos, los cuales no son 
+muy frecuentes, como ser:
+ En pisos industriales con tratamien-
+tos epoxídicos y vulnerables a la hume-
+dad, que pueden provocar ampollas o 
+similares.
+ Suelos agresivos y con disponibili-
+dad de agua (lluvias frecuentes) o napa 
+freática muy próxima a la superficie.
+  Donde hay bienes almacenados (equi-
+pos, maquinarias y productos) que pue-
+dan ser sensibles a la humedad o vapor 
+de agua.
+ Casos probados de pavimentos en 
+suelos excesivamente absorbentes 
+(caso ya referenciado).
+Más allá de estas situaciones, en la 
+mayor parte de los casos no se reali-
+za esa pregunta y “se usa por usarlo” 
+o bien no se entiende la necesidad real 
+y el rol de la barrera de vapor bajo el 
+hormigón. Algunos casos de especifi-
+caciones erróneas son:
+ Suelos potencialmente agresivos en 
+galpones interiores con napa freática 
+a más de 2m de profundidad.
+ Para no humectar o mojar el terreno 
+o ahorrarse la imprimación asfáltica 
+débil que figura en los pliegos.
+ Para evitar el reflejo de fisuras en 
+un piso existente bajo el nuevo piso 
+a construir , lo cual no es eficiente en 
+absoluto.
+En los casos donde la respuesta (a la 
+pregunta de si es necesario el uso 
+de la lámina plástica) es afirmativa 
+-que no será ni el 10% de las aplica-
+ciones de los hormigones para pisos y 
+Hormigonar 47   Abril l 2019
+NOT A TÉCNICA40
+
+--- FIN DE PÁGINA ---
+
+FIGURA 6> ALABEOS EN 
+P A VIMENT OS EN LOS 
+CUALES LA LÁMINA 
+PLÁSTICA FUE
+DETERMINANTE; EN 
+O TROS SECT ORES SIN 
+LÁMINA, NO TUVIERON 
+DAÑOS. 
+pavimentos- puede ocurrir que en cir-
+cunstancias particulares “hay que usar 
+la lámina plástica sobre el terreno o 
+suelo mejorado compactado”. Pero, 
+arriba de la lámina hay que utilizar una 
+base de material granular (canto roda-
+do o piedra partida) para que el hormi-
+gón tome, en contacto con un material 
+más rugoso y algo absorbente, lo cual 
+es favorable. 
+En algunos casos, la arena se utiliza con 
+éxito pero, debido a su cambio volu-
+métrico por el efecto denominado “es-
+ponjamiento de las arenas”, puede per-
+der humedad en un futuro, reducir su 
+volumen y provocar algún asentamien-
+to (con la excepción de arenas de tritu-
+ración previamente secadas al sol en un 
+estado SSS o inferior). A su vez, otras 
+fuentes señalan que la arena natural 
+para hormigones puede mezclarse du-
+rante la colocación con el hormigón del 
+41
+
+--- FIN DE PÁGINA ---
+
+Hormigonar 47    Abril l 2019
+piso y hacer variar los espesores reales. 
+Por ello, es pref erible apoyar el hor-
+migón sobre “piedra”, a la cual se le 
+brinda una leve compactada y es 
+una excelente base para transmitir 
+esfuerzos (puede verse como ejem-
+plo el apoyo de rieles y durmien-
+tes donde la piedra transmite per-
+fectamente esfuerzos). En algunas 
+obras, se ha especificado colar sobre 
+el plástico un RDC para bases de pi-
+sos y pavimentos y esto ha llevado a 
+muy buenos resultados. Respecto al 
+espesor de esta capa, las fuentes es-
+pecifican un valor medio de 7cm (si 
+es RDC 10 a 15cm) sobre el plástico, 
+pero en algunos lugares los niveles 
+juegan en contra y tiene que reducir-
+se levemente, aunque nunca es reco-
+mendable usar menos de 5cm de es-
+tos materiales. Una vez colocado el 
+plástico de espesor adecuado para 
+resistir mecánicamente y el mate-
+rial superior (con los cuidados perti-
+nentes para no dañar el plástico), se 
+humedece y se vierte el hormigón 
+sobre ellos sin ningún problema o 
+cuidados adicionales a los enumera-
+dos, logrando en este caso el come-
+tido de impedir el ascenso de agua 
+RECOMENDACIONES Y CONSIDERACIONES
+Existen muchas voces a favor de apoyar el hormigón directamente sobre el polietileno y buenas experiencias. Sin 
+embargo, no sólo los controles arriba especificados tienen que supervisarse de forma exhaustiva (lo cual no sucede en 
+obras corrientes) sino que también las características del hormigón deben ser de baja demanda de agua y un contenido 
+de cemento no elevado. Las recomendaciones internacionales aconsejan usar hormigones con a/c máxima de 0,45 para 
+apoyarlas sobre láminas plásticas, lo que se corresponde en la Argentina en la mayor cantidad de los casos, con hormigones 
+H-35 y H-40, los cuales no suelen usarse en pisos industriales ya que también se incrementa el contenido de cemento. 
+Es decir , apoyando el hormigón sobre plástico los pisos pueden llegar a realizarse de forma correcta pero los costos 
+serán superiores, debiendo cuidar que no se rompa la lámina plástica en las tareas previas y de colocación, extremar las 
+precauciones constructivas durante y posterior al colado, y el hormigón deberá tener características especiales.
+Por todo lo expuesto, y conociendo las realidades constructivas locales de la mayor parte de las provincias del país, y al 
+no poder llevar a cabo estas medidas, es mejor no colar hormigón directamente sobre polietileno; con las excepciones 
+fundadas indicadas al inicio del artículo (impermeabilización de fundaciones, pavimentos o pistas de aeropuerto con 
+proyecto ejecutivo, casos específicos de suelos muy absorbentes para pavimentos, etcétera). Lamentablemente, la 
+bibliografía internacional y las experiencias locales demuestran que usando plástico como apoyo directo del hormigón 
+se magnifican casi la totalidad de las patologías de pisos y pavimentos, lo cual afectará la estructura, quizás no a corto 
+plazo sino durante el uso, y puede verse seriamente afectada su serviciabilidad en el tiempo. No obstante, en muchas 
+aplicaciones los defectos se aprecian en los primeros dos a tres meses, antes de poner en servicio el piso.
+o vapor de agua para ciertos casos 
+específicos.
+La colocación de arena triturada o agre-
+gado grueso también es benéfica ya que, 
+por los huecos dejados entre las partículas, 
+se ha probado que rompe muy bien el as-
+censo capilar (presencia de humedad en el 
+piso o agresividad potencial de algún sue-
+lo). Cabe advertir que en clima frío debe 
+tenerse ciertos cuidados con esta capa de 
+material granular , no debiendo trabajar si 
+hay nieve o restos congelados y cuidando 
+que no se brinde una calefacción excesiva 
+(y posterior desecamiento) a la parte supe-
+rior del piso o pavimento en las primeras 
+jornadas de protección, ya que esto pro-
+moverá el alabeo.
+Este material “intermedio” entre la lámina 
+plástica y el hormigón, permite que la lá-
+mina plástica juegue su rol de impermea-
+bilizar y que el hormigón apoye sobre un 
+material que no es totalmente impermea-
+ble y que no presenta tantos movimientos, 
+ya que su fricción es más elevada que en 
+el caso de las láminas plásticas. Ambos as-
+pectos son favorables para cualquier piso 
+y pavimento. 
+En la siguiente figura se ejemplifica la 
+capa de material granular o RDC bajo el 
+hormigón:
+42
+
+--- FIN DE PÁGINA ---
+

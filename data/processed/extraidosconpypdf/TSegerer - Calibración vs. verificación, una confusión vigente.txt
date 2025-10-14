@@ -1,0 +1,346 @@
+SEMEJANZAS Y DIFERENCIAS DE AMBOS CONCEPTOS Y SU APLICACIÓN A LOS EQUIPOS 
+DE MEDICIÓN O DE PESAJE DE PLANTAS DE PRODUCCIÓN DE HORMIGÓN.
+S
+uelen existir confusiones sobre el significado 
+de los términos “calibración” y “verificación” , 
+aun entre profesionales competentes en el tema. 
+Para ayudar a esclarecer ambos conceptos, la mejor 
+fuente de consulta es el Vocabulario Internacional de 
+Metrología (VIM). 
+Según se cita en este documento, la calibración es 
+“el conjunto de operaciones que establecen, bajo 
+condiciones especificadas, la relación entre los va-
+lores de magnitudes indicadas por un instrumento 
+o sistema de medición o valores representados por 
+una medida materializada o un material de referen-
+cia, y los correspondientes valores aportados por 
+patrones” . Es decir, este concepto se aplica única y 
+exclusivamente a instrumentos de medida, al com-
+pararlos con valores de un patrón establecido.
+En cambio, la verificación consiste en “comparar 
+las medidas proporcionadas por el instrumento con 
+las de un equipo calibrado y de calidad metrológi-
+ca igual o superior al equipo a verificar, con el fin de 
+confirmar que el equipo mide con un error menor 
+al especificado por el fabricante o menor del reque-
+rido para la realización de un determinado trabajo” . 
+O sea, al igual que con la calibración, se compara el 
+instrumento, pero esto no se hace con patrones pre-
+vios de referencia sino de manera directa con otro 
+instrumento anteriormente calibrado.
+En tanto, el concepto de ajuste también suele con-
+fundirse con el de calibración, aunque son tareas 
+independientes y disímiles. De acuerdo con lo es-
+pecificado en el VIM, ajuste se refiere al “conjunto 
+de operaciones realizadas sobre un sistema de me-
+dida para que proporcione indicaciones prescritas, 
+correspondientes a valores dados de la magnitud a 
+medir” . En otras palabras, el ajuste se hace sobre el 
+propio sistema de medida, no sobre el equipo.
+En resumen, según estas definiciones, la calibra-
+ción no tiene en cuenta el uso específico del equi-
+po o instrumento, solo caracteriza el error e incer-
+tidumbre en diferentes escalones de la magnitud a 
+calibrar (fuerza, peso y viscosidad), mientras que 
+la verificación define si la medición de un equipo o 
+instrumento cumple con lo que está destinado y si 
+se encuentra en el rango de trabajo previsto. La ca-
+libración no garantiza un resultado confiable o den-
+tro de un rango de error previamente determinado; 
+la verificación sí lo hace, para un uso específico.
+APLICACIÓN A PLANTAS DE HORMIGÓN
+En las normas vigentes de hormigón elaborado EN 
+206, ASTM C94-22 e IRAM 1666, se establece el 
+concepto de verificación de equipos de medición o 
+de pesaje de plantas hormigoneras. Sin embargo, los 
+reglamentos ACI 318 y Eurocódigo 2 no mencionan 
+estos temas (verificación y errores asociados) ya que 
+se tienen en cuenta las normas ASTM C94 y EN 
+206, respectivamente en la versión vigente. 
+A su vez, CIRSOC 201:05 y Proyecto CIRSOC 
+200:23 establecen la necesidad de “registro continuo 
+de pesadas y verificación periódica de los equipos 
+de pesado y mezcladoras” (en sus artículos 4.2.3.2 
+y 6.2.3.2, respectivamente). Pero esta situación pa-
+recería ser solo aplicable a plantas en Modo 1 de 
+control. 
+En IRAM 1666:20 se establece la obligatoriedad de 
+verificación para Modos 1 y 2 de producción. Es de-
+cir, no solo las plantas que operan con un sistema de 
+gestión de calidad y/o certificadas deben tener sus 
+plantas verificadas y con cargas dentro de toleran-
+cias admisibles, sino que tiene que ser así en toda 
+planta que despache hormigones para estructuras.
+Calibración vs. verificación, 
+una confusión vigente
+* Por el Ms. Ing. Maximiliano Segerer, de la ﬁrma Control y Desarrollo de 
+Hormigones / www.cdhormigones.com.ar.
+NOTA TÉCNICA42
+042 047 Nota Tecnica - Verifiacion HD9.indd   42 8/8/23   11:11
+
+--- FIN DE PÁGINA ---
+
+Las normas mencionadas (incluido el CIRSOC) es-
+tablecen errores máximos de medición en formato 
+± X,X%. En ASTM C94 se fija el término de “accura-
+cy” (exactitud, precisión, fidelidad), mientras que en 
+EN 206 se usa “error”; y en CIRSOC e IRAM se opta 
+por denominarlo “tolerancia” . Si bien metrológica-
+mente los términos son diferentes, en todos los casos 
+se hace referencia a que el sistema (báscula de agrega-
+dos, báscula de cemento, caudalímetro y dosificador 
+de aditivos) mida en el rango de trabajo, comparando 
+con algún patrón o instrumento calibrado confiable. 
+En las balanzas convencion ales comerciales existen 
+errores característicos como excentricidad, movili-
+dad o error de cero, no todos aplicables a los sistemas 
+de medición de las plantas. Muchos dosificadores de 
+aditivos de tipo báscula cuelgan de un punto al me-
+dir líquidos y no pueden cargarse con pesas en su par-
+te superior o inferior en diferentes puntos para medir 
+excentricidad, ya que en la forma de trabajo del sis-
+tema de medición no puede existir ese error. De esta 
+forma, un error con pesas en cuatro puntos no será 
+representativo ya que el líquido tomará la horizontal 
+naturalmente.
+Similar es el caso de los agregados, donde la báscu-
+la es una tolva que cuelga de cuatro celdas, las que se 
+Verificación de básculas de cemento.‹
+43
+REVISTA HORMIGONAR  DIGITAL   # 9
+042 047 Nota Tecnica - Verifiacion HD9.indd   43 8/8/23   11:11
+
+--- FIN DE PÁGINA ---
+
+verifican en su conjunto y, por la modalidad de pesa-
+je y su forma tronco-piramidal, el material granular se 
+acumula en su punto más bajo. De no ocurrir ello, la 
+planta no funcionaría ya que pesaría un agregado en 
+un extremo pero no lo descargaría si no está en el pun-
+to más bajo. Nos referimos entonces a los sistemas de 
+medición.
+En los procedimientos del manual Modelo de Gestión 
+de Calidad de Plantas Hormigoneras , editado por 
+la Asociación Argentina del Hormigón Elaborado 
+(AAHE), se menciona el concepto de verificación en 
+lugar de calibración. Ello fue tomado como antece-
+dente –e incorporado– en IRAM 1666:20, en coin-
+cidencia con las principales normas de hormigón 
+elaborado a nivel mundial, que son modelo de otras 
+normativas para toda Latinoamérica (como EN 206 
+y ASTM C94).
+DIFERENCIAS CONCEPTUALES
+En las plantas hormigoneras, es importante determinar 
+la aptitud para la carga por ciclos y no necesariamente 
+por la capacidad máxima de las básculas. Una báscula 
+de cemento puede estar calibrada con un 30% de error 
+(solo una determinación de un error con respecto a la 
+magnitud de un patrón trazable), pero si no se ajusta y 
+se verifica, sus lecturas seguirán teniendo problemas.
+En las calibraciones debe calcularse la incertidumbre 
+asociada y, en el caso de plantas de hormigón, lo exi-
+gible son errores máximos admisibles. La verificación 
+tiene una finalidad muy específica y relevante, y es ló-
+gico que las normas de hormigón elaborado fijen erro-
+res o tolerancias máximas en un determinado rango de 
+trabajo, y no otros errores de calibraciones de balanzas 
+convencionales.
+Cabe citar algunas diferencias conceptuales aplicadas 
+a las plantas de hormigón para intentar esclarecer el 
+tema:
+• En la calibración se determinan errores (fidelidad, 
+repetibilidad, de cero), pero no se comparan con 
+porcentajes o errores máximos admisibles. En 
+cambio, en la verificación de plantas de hormigón 
+se establece si se “cumple o no” para determinados 
+rangos de valores y no se aplica corrección o factor 
+alguno de corrección en caso de que cumpla con 
+las tolerancias (ejemplo: ≤ 2,0% en báscula de 
+agregados). De este modo, funciona como un 
+“pasa/no pasa” y solo si está fuera de rango puede 
+proponerse un factor de corrección.
+• Muchas veces la verificación de las básculas en 
+una planta de hormigón se hace con 200 kg de pesas 
+patrón, luego se reemplaza esa cantidad por material 
+(cemento o agregado) y se vuelven a colocar pesas, 
+haciendo pesadas consecutivas hasta llegar al 
+rango deseado. Dado que la carga de cemento o 
+de agregados en este proceso no es un patrón de 
+referencia primario, no es una calibración. De esta 
+manera, para verificar una báscula de agregados 
+de 2.500 kg de capacidad, no se utilizan 2.500 kg 
+de pesas patrones; y tampoco podrían colocarse 
+de forma eficiente y representativa en la báscula 
+ya que la carga de agregados cuelga de ganchos y 
+pesa lo que ingresa al interior de la tolva (no desde 
+el exterior).
+• En la calibración de instrumentos de pesaje, 
+se hacen determinaciones de excentricidad. Los 
+elementos de medición de una planta de hormigón, 
+por su forma de trabajo, no pueden realizarse con 
+cargas representativas de los ciclos. Por ejemplo, 
+un dosificador para aditivos líquidos convencional 
+cuelga de una sola celda de carga, o en las básculas 
+de agregados suelen hacerlo de cuatro celdas de 
+carga. Pero las celdas no se calibran individualmente 
+y, en las balanzas de agregados en forma de tolva, 
+se empieza a llenar desde abajo hacia arriba, sin 
+posibilidad de determinar un error de excentricidad. 
+Por ello, la verificación aplica al sistema de pesaje 
+de cada uno de los materiales, no a las celdas 
+individuales en la posición de trabajo. 
+• La calibración suele realizarse considerando su 
+capacidad máxima, independientemente del uso; en 
+general, entre el 10% y 90%. En una planta, no tiene 
+sentido técnico calibrar básculas de agregados de 
+capacidad nominal de 8.000 kg hasta el 70% (>5.600 
+kg) si el ciclo medio de planta es de 1,6 m3 o máximo 
+2 m3 porque en la tolva receptora de la báscula no 
+puede entrar más material. Tampoco tiene sentido 
+calibrar básculas de agregados con pesas patrones 
+trazables solo hasta 500 kg, si –siempre y por 
+esencia– un ciclo de carga está entre 1.500 y 3.500 
+kg, ni es conducente calibrar únicamente la báscula 
+(sin el mecanismo de descarga y cinta transportadora 
+Verificación de caudalímetro.‹
+NOTA TÉCNICA44
+042 047 Nota Tecnica - Verifiacion HD9.indd   44 8/8/23   11:11
+
+--- FIN DE PÁGINA ---
+
+asociada), si solo se verifica con 1.000 kg de pesas 
+colgadas pero luego no descarga bien el agregado, 
+queda algo retenido o se pierde por detrás debido a 
+la pendiente y no se carga en el camión. Entonces, 
+en una planta de hormigón, no resulta útil que una 
+b á s c u l a  p e s e  b i e n  p e r o  n o  c u m p l a  s u  f u n c i ó n .  A s í ,  
+la verificación es del sistema de medición de cada 
+uno de los componentes, y para asegurarse de que 
+ese material ingrese al camión hormigonero por los 
+mecanismos propios de planta.
+• En el caso de los caudalímetros de agua, no es 
+útil tener una calibración del equipo fuera del 
+sistema de presión, tubería y pulsos a los cuales está 
+sometido en la planta. Puede darse el caso de tener 
+un caudalímetro calibrado (con bajo error) pero que, 
+al conectarse en el sistema de la planta, no marque 
+las cantidades reales de agua indicadas al camión 
+motohormigonero (por temas de presión o de vuelta 
+del flujo que pueden indicar algunos litros más).
+• Por último, es importante tener instrumentos 
+calibrados de apoyo que tengan no menos de 10 
+veces la resolución del instrumento de medición. 
+Justamente, este es el concepto de verificación: tener 
+instrumentos calibrados vigentes y trazables, con 
+errores muy inferiores a los requeridos para plantas.
+A veces se presta más atención a la certificación 
+de pesas de 200 kg y en realidad no se determina 
+si por ciclo siempre se cargarán más de 400 kg por 
+lo que, entonces, esa calibración de 200 kg no sería 
+suficiente. Para graficar estos conceptos, un error 
+de 100 gramos (acumulados de diferentes pesas o 
+similares) en una pesada de agregados de 2.000 kg 
+involucra un 0,005% (que es 400 veces menos del 
+error admisible según CIRSOC/IRAM 1666). En 
+una pesada de cemento de 500 kg, el error es del 
+0,02% (50 veces menos que el error admisible). 
+Entonces, tener pesas clase M1 de 20 kg de error 
+máximo ± 0,3 gramos, para verificar una báscula 
+de agregados de resolución x1 o x10 kg, no es ga-
+rantía de precisión. En muchas inspecciones o au-
+ditorías, importa más el certificado de calibración 
+de las pesas que el procedimiento mismo y la apti-
+tud de la planta para cargar hormigones confiables. 
+Por ello la relevancia de definir instrumentos ca-
+librados como patrones secundarios con trazabi-
+lidad comprobada, pero no necesariamente los 
+mismos patrones que se emplean para calibrar ba-
+lanzas de laboratorio.
+La verificación de plantas involucra todos estos as-
+pectos mencionados, que resultan de mayor utili-
+dad en el proceso productivo, más allá de utilizar 
+patrones sin abandonar y la trazabilidad de las me-
+diciones, tal como define el VIM.
+COINCIDENCIAS Y CONTRADICCIONES
+En la Tabla 1 se comparan ciertos detalles en los 
+que difieren CIRSOC 200:23 e IRAM 1666:20, que 
+se considera conveniente unificar.
+En la mayor parte de las plantas que despachan 
+hormigón en el país se utilizan caudalímetros. Las 
+mediciones en masa no podrían ser aplicables al 
+agua. Para aditivos, muchas plantas dosificadoras 
+también usan caudalímetros, dado que permiten 
+obtener el peso conociendo la densidad de lo que 
+se mide. Por ello, debería admitirse la carga de lí-
+quidos por volumen.
+En tanto, la verificación semestral planteada en 
+IRAM 1666 es más exigente y considera que los 
+equipos electrónicos pueden sufrir variaciones de-
+bido a su propio funcionamiento. A su vez, el rango 
+de uso de 10% de IRAM tiene aplicación práctica 
+directa en equipos, como los dosificadores de adi-
+tivos, en los cuales el vaso medidor tiene capacidad 
+NOTA TÉCNICA46
+042 047 Nota Tecnica - Verifiacion HD9.indd   46 8/8/23   11:11
+
+--- FIN DE PÁGINA ---
+
+de 14 a 20 kg en algunos casos y, por ciclo de 1,5 
+m3, pueden cargarse 3 kg/ciclo de aditivo, quedan-
+do muy por debajo del 30% que indica CIRSOC. 
+Para equipos con lecturas automatizadas se puede 
+usar el 10%, como establece IRAM 1666. Y la exi-
+gencia de verificación y registros de pesadas –se-
+gún IRAM 1666– es para toda planta, mientras que 
+para CIRSOC solo debería ser cumplido para plan-
+tas en Modo 1. 
+De los criterios observados resulta que los de 
+IRAM 1666:20 son más exigentes que los de 
+Proyecto CIRSOC 200:23.
+CONSIDERACIONES FINALES
+Por todo lo expuesto, los equipos de producción de 
+hormigón elaborado se verifican y no se calibran. 
+Ello incluye los sistemas de medición de plantas 
+dosificadoras y mezcladoras. Estas últimas se ve-
+rifican según IRAM 1876 y se emplean instrumen-
+tos calibrados trazables (el abordaje de la verifi-
+cación de mezcladoras fue publicado en la revista 
+Hormigonar 44 ). En caso de que existan básculas 
+de camiones (no obligatorias según IRAM 1666 o 
+CIRSOC) para determinar los volúmenes despa-
+chados (con el peso y el PUV), estas sí requieren 
+calibración, pero se reitera que no hay obligatorie-
+dad de poseerlas.
+Lo relevante es que se produzcan hormigones den-
+tro de las tolerancias reglamentarias/normati-
+vas, con lo cual las verificaciones de plantas pue-
+den realizarse aun internamente (sin intervención 
+de empresas, laboratorios o entidades externas), 
+siempre y cuando se disponga de instrumentos ca-
+librados, personal competente y procedimientos 
+adecuados para su realización.
+Cabe mencionar que IRAM 1666:20 está alineada 
+con las normas vigentes para hormigón elaborado 
+de Estados Unidos y la Comunidad Europea y, en 
+ciertos aspectos, es más exigente que CIRSOC (por 
+ejemplo, en cuanto a que sea para todo tipo de 
+plantas y con frecuencia semestral). 
+Con el fin de mejorar el proyecto del futuro re-
+glamento y evitar que puedan darse malas inter-
+pretaciones o conflictos innecesarios, se conside-
+ra que existe coincidencia en que estos deben ser 
+aspectos unificados, tanto en frecuencias, rangos, 
+así como en relación con el uso del término “veri-
+ficación” (en lugar de “calibración”). También, que 
+se establezca en CIRSOC la obligatoriedad de veri-
+ficación para todas las plantas que despachan hor-
+migones para estructuras, independientemente del 
+modo de trabajo que tengan. 
+◉
+Verificación de básculas de agregados.‹
+47
+REVISTA HORMIGONAR  DIGITAL   # 9
+042 047 Nota Tecnica - Verifiacion HD9.indd   47 8/8/23   11:11
+
+--- FIN DE PÁGINA ---
+
