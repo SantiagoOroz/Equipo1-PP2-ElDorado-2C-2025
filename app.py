@@ -6,6 +6,7 @@ import os
 import shutil
 import zipfile
 import io
+import time
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -124,36 +125,40 @@ def api_upload():
 @app.route('/api/index', methods=['POST'])
 def api_index():
     """API para lanzar el proceso de indexación."""
-    app_state["status"] = "cargando" # Mostramos estado de carga
+    app_state["status"] = "cargando"
+
+    # Liberar la conexión con la BD
+    app_state["chain"] = None
+    time.sleep(0.1) # Damos un instante para que el sistema libere el archivo
     
-    # Primero, borramos el índice viejo para evitar duplicados
+    # Borramos el índice viejo para evitar duplicados
     if os.path.exists(CHROMA_DIR):
         shutil.rmtree(CHROMA_DIR)
     os.makedirs(CHROMA_DIR, exist_ok=True)
-    
+
     result = create_and_persist_index()
-    
+
     if result.get("ok"):
         flash(f"Indexación completada. Se procesaron {result['docs']} documentos en {result['chunks']} fragmentos.", "success")
-        # Después de indexar, recargamos el modelo RAG
         reload_rag_chain()
     else:
         flash(f"Error en la indexación: {result.get('error', 'Error desconocido')}", "error")
-        app_state["status"] = "sin_indice" # Volvemos al estado 'sin índice'
+        app_state["status"] = "sin_indice"
 
     return redirect(url_for('index'))
 
 @app.route('/api/wipe', methods=['POST'])
 def api_wipe():
     """API para borrar la base de datos vectorial."""
+    # Liberar la conexión con la BD
+    app_state["chain"] = None
+    time.sleep(0.1) # Damos un instante para que el sistema libere el archivo
+
     if os.path.exists(CHROMA_DIR):
         shutil.rmtree(CHROMA_DIR)
         os.makedirs(CHROMA_DIR, exist_ok=True)
-    
-    # Actualizar estado de la aplicación
+
     app_state["status"] = "sin_indice"
-    app_state["chain"] = None
-    
     flash("La base de conocimiento ha sido eliminada.", "success")
     return redirect(url_for('index'))
 
@@ -186,7 +191,10 @@ def api_import():
     if not file.filename.lower().endswith(".zip"):
         flash("Debe ser un archivo .zip.", "error")
         return redirect(url_for('index'))
-
+    
+    # Liberar la conexión con la BD (creo que no es necesario pero por las dudas)
+    app_state["chain"] = None
+    time.sleep(0.1)
     # Borrar el índice actual
     if os.path.isdir(CHROMA_DIR):
         shutil.rmtree(CHROMA_DIR)
