@@ -1,5 +1,6 @@
 # scripts/rag_core.py
 import os
+import gc
 from dotenv import load_dotenv
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import SentenceTransformerEmbeddings
@@ -47,23 +48,15 @@ RESPUESTA:
 """
 RAG_PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
 
-
-def inicializar_rag_chain():
-    """Inicializa todos los componentes de la cadena RAG."""
+def inicializar_llm():
+    """Inicializa y devuelve únicamente el modelo LLM (LlamaCpp)."""
     if not LLAMA_MODEL_PATH or not os.path.exists(LLAMA_MODEL_PATH):
         print(f"Error: La variable 'LLAMA_MODEL_PATH' es inválida: {LLAMA_MODEL_PATH}")
         return None
-    if not os.path.exists(CHROMA_DIR):
-        print(f"Error: No se encontró la BD Vectorial en '{CHROMA_DIR}'.")
-        return None
-
     try:
-        embeddings = SentenceTransformerEmbeddings(model_name=EMBEDDING_MODEL_NAME)
-        db = Chroma(persist_directory=CHROMA_DIR, embedding_function=embeddings)
-        
         llm = LlamaCpp(
             model_path=LLAMA_MODEL_PATH,
-            temperature=0.1,
+            temperature=TEMPERATURE,
             max_tokens=MAX_TOKENS,
             n_ctx=CONTEXT_WINDOW,
             n_gpu_layers=N_GPU_LAYERS,
@@ -71,30 +64,37 @@ def inicializar_rag_chain():
             n_threads=N_THREADS,
             verbose=False,
         )
-
-        qa_chain = RetrievalQA.from_chain_type(
-            llm=llm,
-            chain_type="stuff",
-            retriever=db.as_retriever(search_kwargs={"k": 2}),
-            chain_type_kwargs={"prompt": RAG_PROMPT},
-            return_source_documents=True
-        )
-        return qa_chain
+        return llm
     except Exception as e:
-        print(f"Ocurrió un error durante la inicialización RAG: {e}")
+        print(f"Ocurrió un error durante la inicialización del LLM: {e}")
         return None
 
-
-def consultar_rag(pregunta: str, qa_chain: RetrievalQA):
+def consultar_rag(pregunta: str, llm: LlamaCpp):
     """
-    Ejecuta la consulta RAG y devuelve un diccionario con la respuesta y las fuentes.
+    Ejecuta la consulta RAG conectándose a la BD bajo demanda.
     """
     if not pregunta:
         return {"answer": "Por favor, realiza una pregunta.", "sources": []}
+    
+    if not os.path.exists(CHROMA_DIR) or not any(Path(CHROMA_DIR).iterdir()):
+        return {"answer": "La base de datos vectorial no existe o está vacía. Por favor, indexa documentos primero.", "sources": []}
+
+    # --- Conexión a ChromaDB bajo demanda ---
+    embeddings = SentenceTransformerEmbeddings(model_name=EMBEDDING_MODEL_NAME)
+    db = Chroma(persist_directory=CHROMA_DIR, embedding_function=embeddings)
+    
+    # Crear la cadena QA justo para esta consulta
+    qa_chain = RetrievalQA.from_chain_type(
+        llm=llm,
+        chain_type="stuff",
+        retriever=db.as_retriever(search_kwargs={"k": 2}),
+        chain_type_kwargs={"prompt": RAG_PROMPT},
+        return_source_documents=True
+    )
 
     resultado = qa_chain.invoke({"query": pregunta})
     
-    # Formatear las fuentes para devolverlas
+    # --- Formatear las fuentes ---
     fuentes_formateadas = []
     for doc in resultado.get('source_documents', []):
         source_path_full = doc.metadata.get('source', 'Desconocida')
@@ -107,7 +107,12 @@ def consultar_rag(pregunta: str, qa_chain: RetrievalQA):
             "extract": f"{extracto}..."
         })
         
-    return {
+    respuesta_final = {
         "answer": resultado.get('result', 'No se pudo generar una respuesta.'),
         "sources": fuentes_formateadas
     }
+    # Liberar recursos
+    del qa_chain
+    del db
+    gc.collect()
+    return respuesta_final
