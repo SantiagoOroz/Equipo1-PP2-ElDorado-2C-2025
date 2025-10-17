@@ -16,7 +16,7 @@ load_dotenv()
 # Añadir la carpeta 'scripts' al path
 sys.path.append(str(Path(__file__).resolve().parent / "scripts"))
 from rag_core import inicializar_rag_chain, consultar_rag
-from indexing import create_and_persist_index # NUEVO: Importamos la función de indexación
+from indexing import create_and_persist_index 
 
 # --- CONFIGURACIÓN Y VARIABLES GLOBALES ---
 PDF_DIR = Path(os.getenv("PDF_DIR", "data/raw/Antecedentes PDF"))
