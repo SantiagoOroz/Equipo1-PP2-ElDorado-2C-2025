@@ -7,22 +7,99 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <div class="header">
-        <h1>Asistente de Consulta de Hormigón</h1>
-        <p>El Dorado S.R.L.</p>
-    </div>
+    <div class="app-container">
+        
+        <div class="sidebar">
+            <div class="header">
+                <h1>Panel de Control</h1>
+                <p>Gestión de Conocimiento</p>
+            </div>
+            
+            {% with messages = get_flashed_messages(with_categories=true) %}
+                {% if messages %}
+                    <div class="flash-messages">
+                    {% for category, message in messages %}
+                        <div class="flash {{ category }}">{{ message }}</div>
+                    {% endfor %}
+                    </div>
+                {% endif %}
+            {% endwith %}
 
-    <div id="chat-container">
-        {% for entry in history %}
-            {% if entry.type == 'user' %}
-                <div class="message user">
-                    <div class="bubble">{{ entry.content }}</div>
+            <div class="sidebar-section">
+                <h3>Documentos Base</h3>
+                <ul class="file-list">
+                    {% for pdf in local_pdfs %}
+                        <li>{{ pdf }}</li>
+                    {% else %}
+                        <li>No hay PDFs base.</li>
+                    {% endfor %}
+                </ul>
+                <h3>Documentos Subidos</h3>
+                <ul class="file-list">
+                    {% for pdf in uploaded_pdfs %}
+                        <li>{{ pdf }}</li>
+                    {% else %}
+                        <li>No hay PDFs subidos.</li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div class="sidebar-section">
+                <h3>Archivos & Índice</h3>
+                
+                <form action="{{ url_for('api_upload') }}" method="POST" enctype="multipart/form-data" class="sidebar-form">
+                    <label for="pdf_file">Subir PDF:</label>
+                    <input type="file" name="pdf_file" id="pdf_file" accept=".pdf" required>
+                    <button type="submit">Subir</button>
+                </form>
+                
+                <form action="{{ url_for('api_index') }}" method="POST" class="sidebar-form" onsubmit="return showLoading('index-btn')">
+                    <button type="submit" id="index-btn">Indexar Todo</button>
+                </form>
+                
+                <form action="{{ url_for('api_wipe') }}" method="POST" class="sidebar-form" onsubmit="return confirm('¿Estás seguro de que quieres borrar toda la base de conocimiento? Esta acción es irreversible.');">
+                    <button type="submit" class="danger">Borrar Colección</button>
+                </form>
+                
+                <form action="{{ url_for('api_export') }}" method="POST" class="sidebar-form">
+                    <button type="submit">Exportar Índice</button>
+                </form>
+                
+                <form action="{{ url_for('api_import') }}" method="POST" enctype="multipart/form-data" class="sidebar-form">
+                    <label for="zip_file">Importar Índice (.zip):</label>
+                    <input type="file" name="zip_file" id="zip_file" accept=".zip" required>
+                    <button type="submit">Importar</button>
+                </form>
+
+                <div class="status-indicator">
+                    <strong>Estado del Modelo:</strong>
+                    <span class="status-{{ app_status }}">{{ app_status | capitalize }}</span>
                 </div>
-            {% elif entry.type == 'assistant' %}
+            </div>
+        </div>
+        
+        <div class="chat-wrapper">
+            <div class="header">
+                <h1>Asistente de Consulta de Hormigón</h1>
+                <p>El Dorado S.R.L.</p>
+            </div>
+            
+            <div id="chat-container">
+                {% if app_status == 'sin_indice' %}
                 <div class="message assistant">
                     <div class="bubble">
-                        <p>{{ entry.content.answer | safe }}</p>
-                        {% if entry.content.sources %}
+                        <p><strong>Bienvenido.</strong> La base de conocimiento está vacía. Por favor, sube documentos PDF y usa el botón <strong>"Indexar Todo"</strong> en el panel de control para comenzar.</p>
+                    </div>
+                </div>
+                {% endif %}
+                {% for entry in history %}
+                    {% if entry.type == 'user' %}
+                    <div class="message user"><div class="bubble">{{ entry.content }}</div></div>
+                    {% elif entry.type == 'assistant' %}
+                    <div class="message assistant">
+                        <div class="bubble">
+                            <p>{{ entry.content.answer | safe }}</p>
+                            {% if entry.content.sources %}
                             <div class="sources">
                                 <strong>Fuentes:</strong>
                                 <ul>
@@ -34,28 +111,40 @@
                                 {% endfor %}
                                 </ul>
                             </div>
-                        {% endif %}
+                            {% endif %}
+                        </div>
                     </div>
-                </div>
-            {% endif %}
-        {% endfor %}
-    </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
 
-    <div id="loading-indicator" style="display: none;">
-        <div class="message assistant">
-            <div class="bubble loading-bubble">
-                <span></span><span></span><span></span>
+            <div id="loading-indicator" style="display: none;">
+                <div class="message assistant">
+                    <div class="bubble loading-bubble"><span></span><span></span><span></span></div>
+                </div>
+            </div>
+
+            <div class="footer">
+                <form id="chat-form">
+                    <input type="text" id="user-input" placeholder="Escribe tu consulta aquí..." autocomplete="off" {% if app_status != 'listo' %}disabled{% endif %}>
+                    <button type="submit" {% if app_status != 'listo' %}disabled{% endif %}>Enviar</button>
+                </form>
             </div>
         </div>
-    </div>
 
-    <div class="footer">
-        <form id="chat-form">
-            <input type="text" id="user-input" placeholder="Escribe tu consulta aquí..." autocomplete="off">
-            <button type="submit">Enviar</button>
-        </form>
     </div>
 
     <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <script>
+        // Pequeño script para mostrar un estado de "cargando" en el botón de indexar
+        function showLoading(buttonId) {
+            const btn = document.getElementById(buttonId);
+            if (btn) {
+                btn.textContent = 'Indexando...';
+                btn.disabled = true;
+            }
+            return true;
+        }
+    </script>
 </body>
 </html>
