@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asistente RAG - El Dorado S.R.L.</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="header">
+        <h1>Asistente de Consulta de Hormigón</h1>
+        <p>El Dorado S.R.L.</p>
+    </div>
+
+    <div id="chat-container">
+        {% for entry in history %}
+            {% if entry.type == 'user' %}
+                <div class="message user">
+                    <div class="bubble">{{ entry.content }}</div>
+                </div>
+            {% elif entry.type == 'assistant' %}
+                <div class="message assistant">
+                    <div class="bubble">
+                        <p>{{ entry.content.answer | safe }}</p>
+                        {% if entry.content.sources %}
+                            <div class="sources">
+                                <strong>Fuentes:</strong>
+                                <ul>
+                                {% for source in entry.content.sources %}
+                                    <li>
+                                        <strong>{{ source.name }} (Pág: {{ source.page }})</strong>
+                                        <blockquote>{{ source.extract }}</blockquote>
+                                    </li>
+                                {% endfor %}
+                                </ul>
+                            </div>
+                        {% endif %}
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <div id="loading-indicator" style="display: none;">
+        <div class="message assistant">
+            <div class="bubble loading-bubble">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <form id="chat-form">
+            <input type="text" id="user-input" placeholder="Escribe tu consulta aquí..." autocomplete="off">
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -30,7 +30,7 @@ Sos un asistente especializado y experto en todo lo relacionado con el hormigón
 Debés:
 Brindar respuestas claras, explicativas y comprensibles para un público con niveles educativos diversos.
 Mantener siempre un tono formal, en español rioplatense (el que se usa en Argentina).
-Respaldar tus afirmaciones con citas explícitas, indicando de qué documento provienen y la página correspondiente.
+Respaldar tus afirmaciones con citas explícitas.
 Si la consulta no está contemplada en los documentos, tenés que informarle al usuario que no contás con esa información y sugerirle que reformule su consulta.
 
 CONTEXTO:
@@ -41,7 +41,7 @@ CONTEXTO:
 PREGUNTA: {question}
 
 <|eot_id|><|start_header_id|>assistant<|end_header_id|>
-RESPUESTA CON CITA (Fuente y Página):
+RESPUESTA:
 """
 RAG_PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
 

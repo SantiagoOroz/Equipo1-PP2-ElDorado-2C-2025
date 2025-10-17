@@ -18,7 +18,8 @@ load_dotenv()
 PDF_DIR = os.getenv("PDF_DIR", "data/raw/Antecedentes PDF")
 CHROMA_DIR = os.getenv("CHROMA_DIR", "data/processed/chroma_db")
 EMBEDDING_MODEL_NAME = os.getenv("EMBEDDING_MODEL_NAME", "all-MiniLM-L6-v2")
-
+CHUNK_SIZE = int(os.getenv("CHUNK_SIZE", 1000))
+CHUNK_OVERLAP = int(os.getenv("CHUNK_OVERLAP", 200))
 
 # --- FUNCIÓN DE LIMPIEZA DE TEXTO ---
 def limpiar_texto_documento(doc: Document) -> Document:
@@ -57,8 +58,8 @@ def indexar_lote_pdfs():
         documentos = loader.load()
         documentos_limpios = [limpiar_texto_documento(doc) for doc in documentos]
         text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=1000,
-            chunk_overlap=200,
+            chunk_size=CHUNK_SIZE,
+            chunk_overlap=CHUNK_OVERLAP,
             separators=["\n\n", "\n", " ", ""]
         )
         chunks_pdf_actual = text_splitter.split_documents(documentos_limpios)
