@@ -4,6 +4,7 @@ from flask import Flask, render_template, request, jsonify, send_from_directory
 from werkzeug.utils import secure_filename
 import os, json, time
 
+# --- Flask App ---
 app = Flask(__name__)
 
 # --- Conexión global con la Wiki de la empresa ---
@@ -23,9 +24,9 @@ else:
     INDEX = []
 
 
-# --- Función para buscar textos en PDFs ---
+# --- Función de respaldo: búsqueda textual simple ---
 def retrieve_docs(query, k=3):
-    """Búsqueda simple por similitud de texto."""
+    """Búsqueda básica por coincidencia de texto (solo respaldo)."""
     results = []
     q = query.lower()
     for doc in INDEX:
@@ -48,17 +49,29 @@ def index():
     return render_template("chat.html")
 
 
-# --- CHAT PRINCIPAL (fusiona PDFs + Wiki) ---
+# --- CHAT PRINCIPAL (PDFs + Wiki + RAG) ---
 @app.route("/api/chat", methods=["POST"])
 def chat_api():
+    from retriever import search_similar_chunks  # Import dinámico
+
     payload = request.json
     user_msg = payload.get("message", "")
     start = time.time()
 
-    # === 1️⃣ Recuperar documentos locales (PDFs) ===
-    docs = retrieve_docs(user_msg, k=3)
-    context_pdfs = "\n\n".join([d.get("text", "") for d in docs])
-    fuentes_pdf = [d.get("file", "Desconocido") for d in docs]
+    # === 1️⃣ Recuperar documentos locales (PDFs) con RAG ===
+    try:
+        chunks = search_similar_chunks(user_msg, top_k=5)
+        if not chunks:
+            # Fallback a búsqueda simple si no hay embeddings
+            docs = retrieve_docs(user_msg, k=3)
+            chunks = [d.get("text", "") for d in docs]
+            fuentes_pdf = [d.get("file", "Desconocido") for d in docs]
+        else:
+            fuentes_pdf = ["RAG_index.json"]
+        context_pdfs = "\n\n".join(chunks)
+    except Exception as e:
+        context_pdfs = f"[Error al buscar en índice semántico: {e}]"
+        fuentes_pdf = []
 
     # === 2️⃣ Recuperar páginas de la Wiki ===
     wiki_context = ""
@@ -73,10 +86,10 @@ def chat_api():
     except Exception as e:
         wiki_context = f"[Error al acceder a la Wiki: {e}]"
 
-    # === 3️⃣ Combinar contexto total ===
+    # === 3️⃣ Combinar contexto total (limitado para evitar overflow) ===
     combined_context = (
-        f"Documentos locales:\n{context_pdfs}\n\n"
-        f"Contenido de la Wiki:\n{wiki_context}"
+        f"Documentos locales:\n{context_pdfs[:3000]}\n\n"
+        f"Contenido de la Wiki:\n{wiki_context[:2000]}"
     )
 
     # === 4️⃣ Enviar al modelo en LM Studio ===
@@ -87,7 +100,7 @@ def chat_api():
             {
                 "role": "system",
                 "content": (
-                    "Sos un asistente técnico del sistema de gestión de calidad "
+                    "Sos un asistente técnico especializado en el sistema de gestión de calidad "
                     "de El Dorado SRL. Usá tanto los documentos PDF como la Wiki "
                     "para responder con precisión, citando la fuente si es posible."
                 ),
@@ -145,7 +158,7 @@ def wiki_search():
         return jsonify({"error": str(e)}), 500
 
 
-# --- INDEXAR Y BORRAR ---
+# --- INDEXAR PDFs ---
 @app.route("/api/index", methods=["POST"])
 def api_index():
     from ingest_pdfs import build_index
@@ -153,6 +166,15 @@ def api_index():
     return jsonify({"msg": "Índice actualizado correctamente."})
 
 
+# --- GENERAR EMBEDDINGS (RAG) ---
+@app.route("/api/embed", methods=["POST"])
+def api_embed():
+    from retriever import build_rag_index
+    build_rag_index()
+    return jsonify({"msg": "✅ Embeddings generados correctamente."})
+
+
+# --- BORRAR ARCHIVOS INDEXADOS ---
 @app.route("/api/clear", methods=["POST"])
 def api_clear():
     folder = "data/ingested"
