@@ -27,29 +27,31 @@
         </div>
 
         <!-- PANEL DERECHO -->
-<div class="chat-panel">
-    <div class="chat-header">
-        <div class="header-content">
-            
-            <img src="{{ url_for('static', filename='img/logo_eldorado.jpg') }}" alt="Logo El Dorado" class="logo-eldorado">
+        <div class="chat-panel">
+            <div class="chat-header">
+                <div class="header-content">
+                    <img src="{{ url_for('static', filename='img/logo_eldorado.jpg') }}" 
+                         alt="Logo El Dorado" 
+                         class="logo-eldorado">
+                    <div class="titles">
+                        <h1>Asistente de Consultas</h1>
+                        <h3>El Dorado S.R.L.</h3>
+                    </div>
+                </div>
+                <button class="gray small" onclick="limpiarChat()">🧹 Limpiar Chat</button>
+            </div>
 
+            <div id="chat-box" class="chat-box"></div>
 
-
-            <div class="titles">
-                <h1>Asistente de Consultas</h1>
-                <h3>El Dorado S.R.L.</h3>
+            <div id="input-box">
+                <input type="text" id="user-input" placeholder="Escribí tu consulta aquí..." />
+                <button onclick="sendMessage()">Enviar</button>
             </div>
         </div>
-        <button class="gray small" onclick="limpiarChat()">🧹 Limpiar Chat</button>
     </div>
 
-    <div id="chat-box" class="chat-box"></div>
-
-    <div id="input-box">
-        <input type="text" id="user-input" placeholder="Escribí tu consulta aquí..." />
-        <button onclick="sendMessage()">Enviar</button>
-    </div>
-</div>
+    <!-- CONTENEDOR DE NOTIFICACIONES -->
+    <div id="toast-container" class="toast-container"></div>
 
     <script>
         // --- Variables globales ---
@@ -62,9 +64,7 @@
             toast.className = `toast ${type}`;
             toast.textContent = message;
             container.appendChild(toast);
-            setTimeout(() => {
-                toast.remove();
-            }, 3500);
+            setTimeout(() => toast.remove(), 3500);
         }
 
         // --- Manejo de selección de archivo ---
@@ -95,7 +95,7 @@
                 } else {
                     showToast("⚠️ " + data.error, "error");
                 }
-            } catch (err) {
+            } catch {
                 showToast("❌ Error de conexión con el servidor.", "error");
             }
         }
@@ -116,7 +116,6 @@
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({ message })
                 });
-
                 const data = await response.json();
                 let fuentes = "";
 
@@ -134,7 +133,7 @@
                 `;
                 chatBox.scrollTop = chatBox.scrollHeight;
 
-            } catch (err) {
+            } catch {
                 chatBox.innerHTML += `<div class="msg bot error">⚠️ Error al conectar con el servidor.</div>`;
             }
         }
@@ -180,7 +179,7 @@
                 a.click();
                 a.remove();
                 showToast("✅ Índice exportado correctamente.", "success");
-            } catch (err) {
+            } catch {
                 showToast("❌ Error al exportar el índice.", "error");
             }
         }
@@ -210,7 +209,7 @@
                     } else {
                         showToast("⚠️ " + data.error, "error");
                     }
-                } catch (err) {
+                } catch {
                     showToast("❌ Error al importar el índice.", "error");
                 }
             };
