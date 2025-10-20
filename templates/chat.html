@@ -4,6 +4,197 @@
     <meta charset="UTF-8">
     <title>Asistente de Consulta de Hormigón</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        /* --- ESTÉTICA GENERAL --- */
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f2f3f7;
+            margin: 0;
+            display: flex;
+            height: 100vh;
+        }
+
+        .container {
+            display: flex;
+            width: 100%;
+            height: 100%;
+        }
+
+        /* --- PANEL IZQUIERDO --- */
+        .sidebar {
+            width: 280px;
+            background: #ffffff;
+            border-right: 2px solid #e0e0e0;
+            padding: 20px;
+            box-shadow: 2px 0 6px rgba(0,0,0,0.05);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .sidebar h3 {
+            text-align: center;
+            color: #2e3b4e;
+        }
+
+        .actions button {
+            display: block;
+            width: 100%;
+            margin: 6px 0;
+            padding: 10px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .actions .blue { background: #007bff; color: white; }
+        .actions .green { background: #28a745; color: white; }
+        .actions .red { background: #dc3545; color: white; }
+        .actions .gray { background: #6c757d; color: white; }
+
+        .actions button:hover { opacity: 0.85; transform: scale(1.02); }
+
+        .status {
+            font-size: 14px;
+            background: #f9fafb;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            padding: 10px;
+        }
+
+        /* --- PANEL DERECHO / CHAT --- */
+        .chat-panel {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .chat-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            background: #007bff;
+            color: white;
+        }
+
+        .header-content {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo-eldorado {
+            width: 50px;
+            height: 50px;
+            margin-right: 15px;
+            border-radius: 8px;
+        }
+
+        .titles h1 {
+            margin: 0;
+            font-size: 22px;
+        }
+
+        .titles h3 {
+            margin: 0;
+            font-size: 14px;
+            font-weight: 400;
+            color: #d9e6ff;
+        }
+
+        .chat-box {
+            flex-grow: 1;
+            padding: 15px;
+            overflow-y: auto;
+            background: #f8f9fc;
+            border-top: 1px solid #ddd;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .msg {
+            margin: 10px 0;
+            padding: 10px 15px;
+            border-radius: 8px;
+            max-width: 80%;
+            line-height: 1.4;
+        }
+
+        .msg.user {
+            background: #d1e7ff;
+            align-self: flex-end;
+        }
+
+        .msg.bot {
+            background: #e2e3e5;
+            align-self: flex-start;
+        }
+
+        .msg.error {
+            background: #f8d7da;
+            color: #842029;
+        }
+
+        #input-box {
+            display: flex;
+            padding: 10px;
+            background: #ffffff;
+        }
+
+        #input-box input {
+            flex-grow: 1;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            font-size: 15px;
+        }
+
+        #input-box button {
+            margin-left: 10px;
+            padding: 10px 20px;
+            border: none;
+            background: #007bff;
+            color: white;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        #input-box button:hover {
+            background: #0056b3;
+        }
+
+        /* --- TOAST / NOTIFICACIONES --- */
+        #toast-container {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 9999;
+        }
+
+        .toast {
+            margin-top: 10px;
+            padding: 12px 18px;
+            border-radius: 6px;
+            color: #fff;
+            animation: fadeInOut 3.5s ease forwards;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+            font-weight: 500;
+        }
+
+        .toast.success { background-color: #28a745; }
+        .toast.warning { background-color: #ffc107; color: #333; }
+        .toast.error { background-color: #dc3545; }
+
+        @keyframes fadeInOut {
+            0% { opacity: 0; transform: translateY(10px); }
+            10%, 90% { opacity: 1; transform: translateY(0); }
+            100% { opacity: 0; transform: translateY(10px); }
+        }
+
+    </style>
 </head>
 <body>
     <div class="container">
@@ -13,7 +204,7 @@
             <div class="actions">
                 <label for="pdf-upload" class="upload-label">Seleccionar archivo</label>
                 <input id="pdf-upload" type="file" accept=".pdf" onchange="archivoSeleccionado(event)" style="margin-bottom: 10px;">
-                <button class="blue" onclick="subirPDF()">Subir</button>
+                <button class="blue" onclick="subirPDF()">Subir PDF</button>
                 <button class="green" onclick="indexar()">Indexar Todo</button>
                 <button class="red" onclick="borrar()">Borrar Colección</button>
                 <button class="gray" onclick="exportar()">Exportar Índice</button>
@@ -30,9 +221,7 @@
         <div class="chat-panel">
             <div class="chat-header">
                 <div class="header-content">
-                    <img src="{{ url_for('static', filename='img/logo_eldorado.jpg') }}" 
-                         alt="Logo El Dorado" 
-                         class="logo-eldorado">
+                    <img src="{{ url_for('static', filename='img/logo_eldorado.jpg') }}" alt="Logo El Dorado" class="logo-eldorado">
                     <div class="titles">
                         <h1>Asistente de Consultas</h1>
                         <h3>El Dorado S.R.L.</h3>
@@ -50,14 +239,11 @@
         </div>
     </div>
 
-    <!-- CONTENEDOR DE NOTIFICACIONES -->
-    <div id="toast-container" class="toast-container"></div>
+    <div id="toast-container"></div>
 
     <script>
-        // --- Variables globales ---
         let archivoSeleccionadoGlobal = null;
 
-        // --- Notificación visual ---
         function showToast(message, type = "success") {
             const container = document.getElementById("toast-container");
             const toast = document.createElement("div");
@@ -67,20 +253,16 @@
             setTimeout(() => toast.remove(), 3500);
         }
 
-        // --- Manejo de selección de archivo ---
         function archivoSeleccionado(event) {
             archivoSeleccionadoGlobal = event.target.files[0];
             const nombreArchivo = document.getElementById("archivo-nombre");
             nombreArchivo.textContent = archivoSeleccionadoGlobal ? archivoSeleccionadoGlobal.name : "Ninguno";
+            showToast("📂 Archivo seleccionado: " + archivoSeleccionadoGlobal.name, "success");
         }
 
-        // --- Subir PDF ---
         async function subirPDF() {
             const file = archivoSeleccionadoGlobal;
-            if (!file) {
-                showToast("⚠️ Por favor seleccioná un archivo PDF primero.", "warning");
-                return;
-            }
+            if (!file) return showToast("⚠️ Por favor seleccioná un archivo PDF primero.", "warning");
 
             const formData = new FormData();
             formData.append("file", file);
@@ -89,7 +271,7 @@
                 const response = await fetch("/upload", { method: "POST", body: formData });
                 const data = await response.json();
                 if (response.ok) {
-                    showToast(data.message, "success");
+                    showToast("✅ PDF subido correctamente.", "success");
                     document.getElementById("archivo-nombre").textContent = "Ninguno";
                     archivoSeleccionadoGlobal = null;
                 } else {
@@ -100,7 +282,6 @@
             }
         }
 
-        // --- Enviar consulta al modelo ---
         async function sendMessage() {
             const input = document.getElementById("user-input");
             const message = input.value.trim();
@@ -116,6 +297,7 @@
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({ message })
                 });
+
                 const data = await response.json();
                 let fuentes = "";
 
@@ -133,26 +315,26 @@
                 `;
                 chatBox.scrollTop = chatBox.scrollHeight;
 
+                showToast("💬 Consulta enviada al modelo.", "success");
+
             } catch {
                 chatBox.innerHTML += `<div class="msg bot error">⚠️ Error al conectar con el servidor.</div>`;
+                showToast("❌ Error al enviar la consulta.", "error");
             }
         }
 
-        // --- Indexar documentos ---
         async function indexar() {
             const res = await fetch('/api/index', { method: 'POST' });
             const data = await res.json();
-            showToast(data.msg, "success");
+            showToast("📚 " + data.msg, "success");
         }
 
-        // --- Borrar colección ---
         async function borrar() {
             const res = await fetch('/api/clear', { method: 'POST' });
             const data = await res.json();
-            showToast(data.msg, "warning");
+            showToast("🗑️ " + data.msg, "warning");
         }
 
-        // --- Limpiar chat ---
         function limpiarChat() {
             if (confirm("¿Seguro que querés limpiar el historial del chat?")) {
                 document.getElementById("chat-box").innerHTML = "";
@@ -160,14 +342,12 @@
             }
         }
 
-        // --- Exportar índice ---
         async function exportar() {
             try {
                 const response = await fetch("/api/export");
                 if (!response.ok) {
                     const data = await response.json();
-                    showToast("⚠️ " + data.error, "error");
-                    return;
+                    return showToast("⚠️ " + data.error, "error");
                 }
 
                 const blob = await response.blob();
@@ -178,13 +358,12 @@
                 document.body.appendChild(a);
                 a.click();
                 a.remove();
-                showToast("✅ Índice exportado correctamente.", "success");
+                showToast("📦 Índice exportado correctamente.", "success");
             } catch {
                 showToast("❌ Error al exportar el índice.", "error");
             }
         }
 
-        // --- Importar índice ---
         async function importar() {
             const input = document.createElement("input");
             input.type = "file";
@@ -204,11 +383,8 @@
                     });
 
                     const data = await response.json();
-                    if (response.ok) {
-                        showToast(data.message, "success");
-                    } else {
-                        showToast("⚠️ " + data.error, "error");
-                    }
+                    if (response.ok) showToast("📂 " + data.message, "success");
+                    else showToast("⚠️ " + data.error, "error");
                 } catch {
                     showToast("❌ Error al importar el índice.", "error");
                 }
