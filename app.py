@@ -2,10 +2,12 @@ import requests
 from wiki_api import WikiAPI
 from flask import Flask, render_template, request, jsonify, send_from_directory
 from werkzeug.utils import secure_filename
+from flask_cors import CORS  # ✅ nuevo
 import os, json, time
 
 # --- Flask App ---
 app = Flask(__name__)
+CORS(app, resources={r"/api/*": {"origins": "*"}})  # ✅ habilita CORS para React
 
 # --- Conexión global con la Wiki de la empresa ---
 wiki = WikiAPI(
@@ -130,7 +132,8 @@ def chat_api():
 
     # === 5️⃣ Devolver respuesta con fuentes ===
     return jsonify({
-        "response": llama_reply,
+        "reply": llama_reply,          # ✅ agregado para React
+        "response": llama_reply,       # compatibilidad con la UI previa
         "sources": {
             "pdfs": fuentes_pdf,
             "wiki": fuentes_wiki
@@ -245,8 +248,15 @@ def upload_file():
     return jsonify({"message": f"✅ Archivo '{file.filename}' subido correctamente."})
 
 
+# --- HEALTHCHECK ---
+@app.route("/api/health", methods=["GET"])
+def health():
+    return jsonify({"status": "ok"}), 200
+
+
 # --- EJECUCIÓN DEL SERVIDOR ---
 if __name__ == "__main__":
+    print("🚀 Iniciando aplicación Flask...")
     static_img_path = os.path.join(app.root_path, "static", "img")
     if os.path.exists(static_img_path):
         print("📁 Contenido de static/img:", os.listdir(static_img_path))
