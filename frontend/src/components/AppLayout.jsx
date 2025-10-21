@@ -33,9 +33,55 @@ export default function AppLayout() {
   };
 
   return (
-    <div className="flex h-screen">
-      <Sidebar onAction={handleAction} />
-      <div className="flex-1 p-4 bg-doradoLight">
+    <div
+      className="flex"
+      style={{
+        height: "100vh",
+        width: "100%",
+        margin: 0,
+        padding: 0,
+        backgroundColor: "#f8f9fa",
+      }}
+    >
+      {/* PANEL IZQUIERDO */}
+      <div
+        style={{
+          width: "280px",
+          backgroundColor: "#10172a",
+          color: "#fff",
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          padding: "20px 10px",
+        }}
+      >
+        {/* LOGO CENTRADO */}
+        <div style={{ textAlign: "center", marginBottom: "20px" }}>
+          <img
+            src="/img/logo_eldorado.jpg"
+            alt="Logo El Dorado"
+            style={{
+              width: "200px",
+              height: "auto",
+            }}
+          />
+        </div>
+
+        {/* SIDEBAR CON ACCIONES */}
+        <Sidebar onAction={handleAction} />
+      </div>
+
+      {/* PANEL DERECHO - CHAT */}
+      <div
+        style={{
+          flex: 1,
+          padding: "15px 20px",
+          backgroundColor: "#ffffff",
+          display: "flex",
+          flexDirection: "column",
+          overflow: "hidden",
+        }}
+      >
         <Chat />
       </div>
     </div>

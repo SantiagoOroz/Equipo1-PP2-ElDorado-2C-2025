@@ -4,20 +4,12 @@ export default function Sidebar({ onAction }) {
   return (
     <div className="bg-gradient-to-b from-doradoBlue to-[#0f172a] text-white w-72 p-6 flex flex-col justify-between shadow-2xl rounded-r-3xl">
       <div>
-        {/* Logo */}
-        <div className="flex justify-center mb-6">
-          <img
-            src="/img/logo_eldorado.png"
-            alt="Logo El Dorado"
-            className="w-36 drop-shadow-lg transition-transform hover:scale-105"
-          />
-        </div>
-
+        {/* TÍTULO */}
         <h2 className="text-xl font-bold mb-6 text-center text-doradoOrange">
           Gestión de Archivos
         </h2>
 
-        {/* Botones principales */}
+        {/* BOTONES PRINCIPALES */}
         <div className="flex flex-col gap-3">
           <label className="cursor-pointer bg-white text-doradoBlue px-4 py-2 rounded-lg text-sm font-medium hover:bg-gray-100 shadow-sm transition">
             Seleccionar PDF
@@ -69,6 +61,7 @@ export default function Sidebar({ onAction }) {
         </div>
       </div>
 
+      {/* FOOTER */}
       <footer className="text-center text-xs text-gray-400 mt-6">
         © 2025 El Dorado SRL
       </footer>
