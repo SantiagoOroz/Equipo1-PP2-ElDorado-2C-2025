@@ -118,7 +118,7 @@ def chat_api():
 
     try:
         r = requests.post(
-            "http://192.168.68.53:1234/v1/chat/completions",
+            "http://192.168.68.54:1234/v1/chat/completions",
             headers=headers, json=data, timeout=60
         )
         if r.status_code == 200:
