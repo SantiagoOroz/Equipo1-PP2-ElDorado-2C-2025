@@ -1,10 +1,45 @@
 import requests
 from wiki_api import WikiAPI
-from flask import Flask, render_template, request, jsonify, send_from_directory
+from flask import Flask, render_template, request, jsonify, send_from_directory, redirect, url_for, flash
 from werkzeug.utils import secure_filename
 import os, json, time
 
+# 🔐 Login
+from flask_login import (
+    LoginManager, UserMixin, login_user, login_required, logout_user, current_user
+)
+
 app = Flask(__name__)
+
+# ====== 🔐 CONFIG LOGIN ======
+# mejor: FLASK_SECRET_KEY en tu .env
+app.secret_key = os.environ.get("FLASK_SECRET_KEY", "cambiame-por-env")
+
+login_manager = LoginManager()
+login_manager.login_view = "login"  # si no está logueado, redirige a /login
+login_manager.init_app(app)
+
+class User(UserMixin):
+    def __init__(self, uid, username, password, role="user"):
+        self.id = uid
+        self.username = username
+        self.password = password
+        self.role = role
+
+# Usuarios de ejemplo (luego los movemos a archivo/DB/LDAP/SSO)
+USERS = {
+    "stella":  User("1", "stella",  "1234", "admin"),
+    "valeria": User("2", "valeria", "abcd", "user"),
+}
+
+@login_manager.user_loader
+def load_user(user_id: str):
+    for u in USERS.values():
+        if u.id == str(user_id):
+            return u
+    return None
+# ====== /CONFIG LOGIN ======
+
 
 # --- Conexión global con la Wiki de la empresa ---
 wiki = WikiAPI(
@@ -42,14 +77,40 @@ def retrieve_docs(query, k=3):
     return [r[1] for r in results[:k]]
 
 
-# --- Página principal ---
+# ====== 🔐 RUTAS DE AUTENTICACIÓN ======
+@app.route("/login", methods=["GET", "POST"])
+def login():
+    if request.method == "POST":
+        username = request.form.get("username", "").strip().lower()
+        password = request.form.get("password", "")
+        user = USERS.get(username)
+        if user and user.password == password:
+            login_user(user)
+            flash(f"¡Bienvenida/o, {user.username}!", "success")
+            return redirect(request.args.get("next") or url_for("index"))
+        flash("Usuario o contraseña inválidos", "error")
+    return render_template("login.html")
+
+@app.route("/logout", methods=["GET", "POST"])
+@login_required
+def logout():
+    logout_user()
+    flash("Sesión cerrada", "info")
+    return redirect(url_for("login"))
+# ====== /RUTAS DE AUTENTICACIÓN ======
+
+
+# --- Página principal (protegida) ---
 @app.route("/")
+@login_required
 def index():
-    return render_template("chat.html")
+    # si ya tenés templates/chat.html, se muestra el chat
+    return render_template("chat.html", user=current_user)
 
 
 # --- CHAT PRINCIPAL (fusiona PDFs + Wiki) ---
 @app.route("/api/chat", methods=["POST"])
+@login_required
 def chat_api():
     payload = request.json
     user_msg = payload.get("message", "")
@@ -122,12 +183,14 @@ def chat_api():
             "pdfs": fuentes_pdf,
             "wiki": fuentes_wiki
         },
-        "latency": round(latency, 2)
+        "latency": round(latency, 2),
+        "user": current_user.username  # útil para auditoría
     })
 
 
 # --- CONSULTAS DIRECTAS A LA WIKI ---
 @app.route("/api/wiki", methods=["POST"])
+@login_required
 def wiki_search():
     data = request.json
     query = data.get("query", "")
@@ -147,13 +210,14 @@ def wiki_search():
 
 # --- INDEXAR Y BORRAR ---
 @app.route("/api/index", methods=["POST"])
+@login_required
 def api_index():
     from ingest_pdfs import build_index
     build_index()
     return jsonify({"msg": "Índice actualizado correctamente."})
 
-
 @app.route("/api/clear", methods=["POST"])
+@login_required
 def api_clear():
     folder = "data/ingested"
     count = 0
@@ -168,6 +232,7 @@ def api_clear():
 
 # --- EXPORTAR ÍNDICE ---
 @app.route("/api/export", methods=["GET"])
+@login_required
 def export_index():
     index_path = "data/ingested/index.json"
     if not os.path.exists(index_path):
@@ -181,6 +246,7 @@ def export_index():
 
 # --- IMPORTAR ÍNDICE ---
 @app.route("/api/import", methods=["POST"])
+@login_required
 def import_index():
     upload_folder = "data/ingested"
     os.makedirs(upload_folder, exist_ok=True)
@@ -200,21 +266,19 @@ def import_index():
 
 # --- SUBIR ARCHIVO PDF ---
 @app.route("/upload", methods=["POST"])
+@login_required
 def upload_file():
     upload_folder = "data/pdfs"
     os.makedirs(upload_folder, exist_ok=True)
 
     if "file" not in request.files:
-        print("⚠️ No se encontró archivo en la solicitud.")
         return jsonify({"error": "No se encontró el archivo."}), 400
 
     file = request.files["file"]
     if file.filename == "":
-        print("⚠️ Nombre de archivo vacío.")
         return jsonify({"error": "Nombre de archivo vacío."}), 400
 
     if not file.filename.lower().endswith(".pdf"):
-        print("⚠️ Archivo no es PDF.")
         return jsonify({"error": "Solo se permiten archivos PDF."}), 400
 
     save_path = os.path.join(upload_folder, secure_filename(file.filename))

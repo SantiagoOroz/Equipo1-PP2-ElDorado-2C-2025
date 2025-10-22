@@ -1,0 +1,106 @@
+/* ===== Reset & base ===== */
+* { box-sizing: border-box; }
+:root {
+  --bg: #0b132b;
+  --panel: #1c2541;
+  --panel-2: #243b55;
+  --text: #e6edf3;
+  --muted: #a9b3c1;
+  --brand: #0ea5e9;
+  --me: #10b981;      /* verde */
+  --bot: #60a5fa;     /* celeste */
+  --aux: #f59e0b;     /* fuentes / avisos */
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, sans-serif;
+  background: linear-gradient(180deg, var(--bg), #111a33);
+  color: var(--text);
+}
+
+/* ===== Layout principal ===== */
+.chat-container {
+  max-width: 880px;
+  width: 92vw;
+  margin: 40px auto;
+  background: linear-gradient(180deg, var(--panel), var(--panel-2));
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 16px;
+  box-shadow: 0 18px 40px rgba(0,0,0,.25);
+  padding: 16px;
+}
+
+.chat-box {
+  height: 60vh;
+  overflow-y: auto;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 12px;
+  padding: 14px;
+  scroll-behavior: smooth;
+}
+
+/* ===== Mensajes (burbujas) ===== */
+.msg {
+  max-width: 78%;
+  width: fit-content;
+  padding: 10px 12px;
+  margin: 8px 0;
+  line-height: 1.35;
+  border-radius: 14px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.08);
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+.msg strong { font-weight: 700; opacity: .9; }
+
+/* Alineación por tipo */
+.msg.me   { margin-left: auto; background: rgba(16,185,129,.15); border-color: rgba(16,185,129,.35); }
+.msg.bot  { margin-right: auto; background: rgba(96,165,250,.15); border-color: rgba(96,165,250,.35); }
+.msg.aux  { margin-right: auto; background: rgba(245,158,11,.15); border-color: rgba(245,158,11,.35); }
+
+/* ===== Input + botones ===== */
+.input-container {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+#user-input {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.12);
+  color: var(--text);
+  padding: 12px 14px;
+  border-radius: 12px;
+  outline: none;
+}
+#user-input::placeholder { color: var(--muted); }
+
+button {
+  border: 0;
+  border-radius: 12px;
+  padding: 12px 16px;
+  cursor: pointer;
+  font-weight: 700;
+  color: #0b1222;
+  transition: transform .05s ease, filter .2s ease;
+}
+#send-btn  { background: var(--brand); }
+#clear-btn { background: #eab308; } /* amarillo */
+
+button:active { transform: translateY(1px) scale(.99); filter: brightness(.95); }
+
+/* ===== Scrollbar bonita (webkit) ===== */
+.chat-box::-webkit-scrollbar { width: 10px; }
+.chat-box::-webkit-scrollbar-thumb { background: rgba(255,255,255,.12); border-radius: 8px; }
+.chat-box::-webkit-scrollbar-track { background: transparent; }
+
+/* ===== Responsive ===== */
+@media (max-width: 560px) {
+  .chat-box { height: 58vh; }
+  .input-container { grid-template-columns: 1fr auto; }
+  #clear-btn { grid-column: span 2; }
+}
