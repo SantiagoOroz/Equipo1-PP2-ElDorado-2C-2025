@@ -118,8 +118,8 @@ def chat_api():
 
     try:
         r = requests.post(
-            "http://192.168.68.54:1234/v1/chat/completions",
-            headers=headers, json=data, timeout=60
+            "http://192.168.68.50:1234/v1/chat/completions",
+            headers=headers, json=data, timeout=600
         )
         if r.status_code == 200:
             llama_reply = r.json()["choices"][0]["message"]["content"]
@@ -262,4 +262,4 @@ if __name__ == "__main__":
         print("📁 Contenido de static/img:", os.listdir(static_img_path))
     else:
         print("❌ La carpeta static/img no existe.")
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=False)

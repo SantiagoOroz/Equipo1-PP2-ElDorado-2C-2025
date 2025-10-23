@@ -61,7 +61,7 @@ export default function AppLayout() {
             src="/img/logo_eldorado.jpg"
             alt="Logo El Dorado"
             style={{
-              width: "200px",
+              width: "120px",
               height: "auto",
             }}
           />
