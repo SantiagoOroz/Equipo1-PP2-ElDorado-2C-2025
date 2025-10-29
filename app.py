@@ -13,7 +13,7 @@ from flask_cors import CORS
 from dotenv import load_dotenv
 
 # --- Importar módulos RAG y Wiki ---
-from wiki_api import WikiAPI
+# 💡 YA NO NECESITAMOS 'wiki_api' AQUÍ
 from indexing import create_and_persist_index 
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import SentenceTransformerEmbeddings
@@ -27,70 +27,71 @@ CHROMA_DIR = os.getenv("CHROMA_DIR", "data/chroma_db")
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 os.makedirs(CHROMA_DIR, exist_ok=True)
 
-WIKI_BASE_URL = os.getenv("WIKI_BASE_URL")
-WIKI_USERNAME = os.getenv("WIKI_USERNAME")
-WIKI_PASSWORD = os.getenv("WIKI_PASSWORD")
+# 💡 YA NO NECESITAMOS LAS CREDENCIALES DE WIKI AQUÍ
+# WIKI_BASE_URL = ... (etc)
 
 EMBEDDING_MODEL_NAME = os.getenv("EMBEDDING_MODEL_NAME", "all-MiniLM-L6-v2")
 LLM_MODEL_NAME = os.getenv("LLM_MODEL_NAME", "Meta-Llama-3-8B-Instruct")
 LM_STUDIO_URL = os.getenv("LM_STUDIO_URL", "http://localhost:1234/v1/chat/completions")
 PDF_TOP_K = int(os.getenv("PDF_TOP_K", 3))
-WIKI_TOP_K = int(os.getenv("WIKI_TOP_K", 3))
+# WIKI_TOP_K = ... (YA NO SE USA)
 EXTRACT_LENGTH = int(os.getenv("EXTRACT_LENGTH", 300))
 
 # --- Inicialización de Flask ---
 app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "*"}}) 
 
-# # --- Inicialización y Login de la Wiki ---
-print(f"Conectando a la Wiki en: {WIKI_BASE_URL}...")
-wiki = WikiAPI(
-    base_url=WIKI_BASE_URL,
-    username=WIKI_USERNAME,
-    password=WIKI_PASSWORD
-)
-
-# Forzar el login al iniciar la app para verificar credenciales
-try:
-    wiki.login() 
-except Exception as e:
-    print("="*50)
-    print(f"ATENCIÓN: No se pudo conectar a la Wiki.")
-    print(f"Error: {e}")
-    print("Verifica WIKI_BASE_URL, WIKI_USERNAME, y WIKI_PASSWORD en tu archivo .env")
-    print("La app continuará, pero la Wiki NO funcionará.")
-    print("="*50)
+# 💡 --- SE ELIMINA LA INICIALIZACIÓN DE LA WIKI EN VIVO ---
+# Ya no necesitamos que la app de chat se conecte a la Wiki.
 
 
+# --- 💡 MODIFICACIÓN DE get_rag_context ---
 def get_rag_context(query: str, top_k: int):
     """
-    Busca en ChromaDB y devuelve el contexto y las fuentes.
+    Busca en ChromaDB y devuelve el contexto Y las fuentes 
+    separadas por tipo (pdf/wiki) para el frontend.
     """
     if not os.path.exists(CHROMA_DIR) or not any(Path(CHROMA_DIR).iterdir()):
         print("Advertencia: ChromaDB no existe o está vacía.")
-        return "", []
+        return "", [], [] # ⬅️ Devuelve 3 valores
+    
     try:
         embeddings = SentenceTransformerEmbeddings(model_name=EMBEDDING_MODEL_NAME)
         db = Chroma(persist_directory=CHROMA_DIR, embedding_function=embeddings)
         retriever = db.as_retriever(search_kwargs={"k": top_k})
         docs = retriever.invoke(query)
+        
         context_chunks = []
         fuentes_pdf = []
+        fuentes_wiki = [] # ⬅️ Nueva lista para fuentes de wiki
+        
         for doc in docs:
             context_chunks.append(doc.page_content)
             source_name = doc.metadata.get('source', 'Desconocida')
-            page = doc.metadata.get('page', 'N/A')
             extracto = doc.page_content[:EXTRACT_LENGTH].strip()
-            fuentes_pdf.append({
-                "name": source_name,
-                "page": page,
-                "extract": f"{extracto}..."
-            })
-        context_pdfs = "\n\n".join(context_chunks)
-        return context_pdfs, fuentes_pdf
+            
+            # 💡 Diferenciamos la fuente por el metadato 'type'
+            if doc.metadata.get('type') == 'wiki':
+                fuentes_wiki.append({
+                    "name": source_name,
+                    "page": "Wiki", # La wiki no tiene "páginas"
+                    "extract": f"{extracto}..."
+                })
+            else: # Asumimos que es PDF
+                page = doc.metadata.get('page', 'N/A')
+                fuentes_pdf.append({
+                    "name": source_name,
+                    "page": page,
+                    "extract": f"{extracto}..."
+                })
+                
+        context_combinado = "\n\n".join(context_chunks)
+        # ⬅️ Devuelve el contexto y las DOS listas de fuentes
+        return context_combinado, fuentes_pdf, fuentes_wiki 
+    
     except Exception as e:
         print(f"Error al consultar ChromaDB: {e}")
-        return f"[Error al buscar en índice: {e}]", []
+        return f"[Error al buscar en índice: {e}]", [], []
 
 
 @app.route("/api/chat", methods=["POST"])
@@ -102,79 +103,18 @@ def chat_api():
 
     start = time.time()
 
-    # === 1️⃣ Recuperar documentos locales (PDFs) con RAG y fuentes ===
-    # (Esta función ya usaba la consulta original 'user_msg')
-    context_pdfs, fuentes_pdf = get_rag_context(user_msg, top_k=PDF_TOP_K)
+    # === 1️⃣ Recuperar contexto (PDFs Y Wiki) desde ChromaDB ===
+    # 💡 'PDF_TOP_K' ahora significa "TOP_K_TOTAL"
+    # 💡 Obtenemos las 3 listas de get_rag_context
+    combined_context, fuentes_pdf, fuentes_wiki = get_rag_context(user_msg, top_k=PDF_TOP_K)
 
-    # === 2️⃣ Recuperar páginas de la Wiki (AHORA CON ARTÍCULO COMPLETO) ===
-    wiki_context = ""
-    fuentes_wiki = []
+    # === 2️⃣ ❌ SECCIÓN ELIMINADA ❌ ===
+    # Ya no necesitamos buscar en la Wiki en vivo.
+    # (Se elimina todo el bloque 'try/except' de la API de Wiki)
     
-    # Expresiones regulares para limpiar el contenido antes de enviarlo a la web
-    # 1. Limpiar los tags span searchmatch que deja la API de búsqueda:
-    RE_CLEAN_SEARCH_TAGS = re.compile(r"<\/?span(?: [^>]+)?>", re.IGNORECASE) 
-    # 2. Limpiar sintaxis wiki de enlaces [[...]] y títulos ==Título==
-    RE_CLEAN_WIKI_MARKUP = re.compile(r"==.*==|\[\[[^\]]+\]\]", re.IGNORECASE) 
-    
-    try:
-        wiki_search_terms = user_msg
-        
-        print(f"Buscando en Wiki con la consulta: '{wiki_search_terms}'")
-        wiki_results = wiki.search_pages(wiki_search_terms, WIKI_TOP_K)
-        pages = wiki_results.get("query", {}).get("search", [])
-        
-        if not pages:
-            print("No se encontraron artículos de Wiki con esa consulta.")
-        
-        # Paso C: Por cada artículo, obtener su CONTENIDO COMPLETO (Texto plano)
-        for p in pages:
-            title = p.get('title')
-            if not title:
-                continue
-
-            print(f"Obteniendo contenido completo de Wiki para: {title}")
-            
-            # 💡 CAMBIO CLAVE: Usamos el nuevo método para contenido completo en texto plano
-            full_data = wiki.get_page_full_text(title) 
-            page_id = list(full_data.get("query", {}).get("pages", {}).keys())[0]
-            
-            if page_id and page_id != "-1":
-                # El contenido completo, en texto plano, para el LLM
-                full_content = full_data["query"]["pages"][page_id].get("extract", "") 
-                
-                # Para la fuente de la PÁGINA WEB (Debug Visual), usamos el snippet original y lo limpiamos
-                # Esto es lo que está generando el problema en el frontend.
-                raw_snippet = p.get("snippet", "")
-                
-                # 1. Limpieza de tags searchmatch (lo que causa el <span class='searchmatch'>...)
-                clean_snippet = RE_CLEAN_SEARCH_TAGS.sub("", raw_snippet)
-                # 2. Limpieza básica de la sintaxis wiki remanente (ej. ==Título==)
-                clean_snippet = RE_CLEAN_WIKI_MARKUP.sub("", clean_snippet)
-                
-                if full_content:
-                    # 💡 AÑADIR el contenido COMPLETO al contexto del LLM
-                    wiki_context += f"Título (Wiki): {title}\nContenido Completo: {full_content}\n\n"
-                    
-                    # 💡 Añadir el snippet LIMPIO para el debug visual
-                    fuentes_wiki.append({
-                        "name": title,
-                        "page": "Wiki",
-                        # Usamos el snippet limpio y limitado para el front-end
-                        "extract": f"{clean_snippet[:EXTRACT_LENGTH].strip()}..." 
-                    })
-                else: # En el caso que no hay 'extract'
-                    print(f"Advertencia: El artículo '{title}' de la Wiki está vacío o no tiene contenido extraíble.")
-
-    except Exception as e:
-        wiki_context = f"[Error al acceder a la Wiki: {e}]"
-        print(f"Error de Wiki API: {e}")
-
     # === 3️⃣ Combinar contexto total ===
-    combined_context = (
-        f"Documentos locales:\n{context_pdfs}\n\n"
-        f"Contenido de la Wiki:\n{wiki_context}"
-    )
-
+    # (Ya no es necesario, 'combined_context' ya tiene todo)
+    
     # --- Prompt del Sistema Mejorado ---
     system_content = f"""
 Sos un asistente técnico especializado y experto en hormigón para la empresa El Dorado S.R.L. en Río Grande, Tierra del Fuego.
@@ -191,17 +131,19 @@ REGLAS ESTRICTAS:
 --- CONTEXTO PROPORCIONADO ---
 {combined_context}
 --- FIN DEL CONTEXTO ---
+Ignora cualquier pregunta que hayas visto en el contexto anterior.
+Responde única y exclusivamente a la siguiente consulta del usuario:
 """.strip()
 
-    # === 4️⃣ Enviar al modelo en LM Studio (¡UNA SOLA VEZ!) ===
+    # === 4️⃣ Enviar al modelo en LM Studio (Sin cambios) ===
     headers = {"Content-Type": "application/json"}
     data = {
         "model": LLM_MODEL_NAME,
         "messages": [
             {"role": "system", "content": system_content },
-            {"role": "user", "content": user_msg },
+            {"role": "user", "content": f"Unica consulta a la que debes responder: {user_msg}" },
         ],
-        "temperature": 0.4,
+        "temperature": 0.1,
     }
 
     try:
@@ -216,6 +158,7 @@ REGLAS ESTRICTAS:
     latency = time.time() - start
 
     # === 5️⃣ Devolver respuesta con fuentes DETALLADAS ===
+    # 💡 Las fuentes ya vienen separadas de get_rag_context
     return jsonify({
         "reply": llama_reply,
         "response": llama_reply, 
@@ -227,18 +170,22 @@ REGLAS ESTRICTAS:
     })
 
 
-# --- Rutas de Administración ---
+# --- Rutas de Administración (Sin cambios) ---
 
 @app.route("/api/index", methods=["POST"])
 def api_index():
     try:
-        result = create_and_persist_index()
+        # 💡 Esta función ahora indexa PDFs Y Wiki
+        result = create_and_persist_index() 
         if result.get("ok"):
-            return jsonify({"msg": f"✅ Índice actualizado. {result['docs']} documentos procesados."})
+            return jsonify({"msg": f"✅ Índice actualizado. {result['docs']} documentos procesados (PDFs + Wiki)."
+            })
         else:
             return jsonify({"msg": f"Error en la indexación: {result.get('error')}"}), 500
     except Exception as e:
         return jsonify({"msg": f"Error crítico al indexar: {str(e)}"}), 500
+
+# ... (El resto de las rutas: /api/clear, /api/export, /api/import, /upload, /api/health ... no cambian)
 
 @app.route("/api/clear", methods=["POST"])
 def api_clear():
