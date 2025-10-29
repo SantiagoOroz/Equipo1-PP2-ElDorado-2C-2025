@@ -5,10 +5,11 @@ import shutil
 import zipfile
 import io
 from pathlib import Path
-from flask import Flask, request, jsonify, send_file
+from flask import Flask, request, jsonify, send_file, after_this_request
 from werkzeug.utils import secure_filename
 from flask_cors import CORS
 from dotenv import load_dotenv
+from tempfile import NamedTemporaryFile
 import subprocess
 import sys
 import gc
@@ -16,6 +17,7 @@ import stat
 
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import SentenceTransformerEmbeddings
+from audio_utils import transcribe_audio, synthesize_speech
 
 load_dotenv()
 
@@ -320,6 +322,76 @@ def upload_file():
 def health():
     return jsonify({"status": "ok"}), 200
 
+@app.route("/api/transcribe", methods=["POST"])
+def api_transcribe():
+    """
+    Recibe un archivo de audio, lo transcribe con Whisper
+    y devuelve el texto.
+    """
+    if "audio" not in request.files:
+        return jsonify({"error": "No se encontró archivo de audio."}), 400
+    
+    file = request.files["audio"]
+    temp_file_path = None
+    
+    try:
+        with NamedTemporaryFile(delete=False, suffix=".webm") as temp_file:
+            file.save(temp_file.name)
+            temp_file_path = temp_file.name
+        
+        # Pasar la RUTA al transcriptor
+        text = transcribe_audio(temp_file_path)
+        return jsonify({"text": text})
+    
+    except Exception as e:
+        print(f"[ERROR Transcribe API] {e}")
+        return jsonify({"error": str(e)}), 500
+    finally:
+        # Limpiar el archivo temporal manualmente después de usarlo
+        if temp_file_path and os.path.exists(temp_file_path):
+            os.remove(temp_file_path)
+
+
+@app.route("/api/synthesize", methods=["POST"])
+def api_synthesize():
+    """
+    Recibe texto y lo convierte a audio MP3 usando edge-tts.
+    Devuelve el archivo de audio.
+    """
+    payload = request.json
+    text = payload.get("text")
+    voice = payload.get("voice", "es-AR-ElenaNeural") # Voz pedida por defecto
+
+    if not text:
+        return jsonify({"error": "No se proveyó texto."}), 400
+
+    audio_path = None
+    try:
+        # Generar el audio y obtener la ruta temporal
+        audio_path = synthesize_speech(text, voice)
+        
+        if not audio_path:
+            return jsonify({"error": "No se pudo generar el audio."}), 500
+
+        # Registrar una función para borrar el archivo DESPUÉS de enviarlo
+        @after_this_request
+        def remove_temp_file(response):
+            try:
+                if audio_path and os.path.exists(audio_path):
+                    os.remove(audio_path)
+            except Exception as e:
+                app.logger.error(f"Error eliminando archivo temporal {audio_path}: {e}")
+            return response
+
+        # Enviar el archivo de audio al frontend
+        return send_file(audio_path, mimetype="audio/mpeg")
+
+    except Exception as e:
+        print(f"[ERROR Synthesize API] {e}")
+        # Asegurarse de borrar el archivo si hubo un error antes de enviarlo
+        if audio_path and os.path.exists(audio_path):
+            os.remove(audio_path)
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
     print(f"🚀 Iniciando servidor Flask en http://localhost:5000")

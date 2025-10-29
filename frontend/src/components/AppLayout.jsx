@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Sidebar from "./Sidebar";
 import Chat from "./Chat";
 
-// {/* ---------MODIFICACIÓN INICIA-------- */}
 // --- Define tu contraseña de administrador aquí ---
 const ADMIN_PASS = "eldorado123"; // ¡Cambia esto por tu palabra clave!
 
