@@ -28,7 +28,7 @@ function AdminLogin({ onLoginSuccess }) {
         {/* Logo */}
         <div className="flex justify-center mb-6">
           <img
-            src="static\img\upscalemedia-transparent-achico.png"
+            src="/img/upscalemedia-transparent-achico.png"
             alt="Logo El Dorado"
             className="w-36 drop-shadow-lg"
           />
@@ -71,7 +71,6 @@ export default function AppLayout() {
   const handleAction = async (action, file) => {
     const routes = {
       index: "/api/index",
-      embed: "/api/embed", // Aunque 'embed' ya no se usa, lo dejamos por si acaso
       clear: "/api/clear",
       export: "/api/export",
       import: "/api/import",
@@ -90,7 +89,7 @@ export default function AppLayout() {
     if (file) formData.append("file", file);
     if (["upload", "import"].includes(action)) options.body = formData;
     
-    // 'embed' ya no se usa, 'index' y 'clear' sí
+    // 'index' y 'clear' sí
     if (["index", "clear"].includes(action)) {
       options.headers = { "Content-Type": "application/json" };
     }
@@ -106,8 +105,8 @@ export default function AppLayout() {
       // Lógica especial para exportar, que devuelve un archivo
       if (action === "export") {
         if (!res.ok) {
-           const data = await res.json();
-           throw new Error(data.error || "Error al exportar");
+          const data = await res.json();
+          throw new Error(data.error || "Error al exportar");
         }
         const blob = await res.blob();
         const downloadUrl = window.URL.createObjectURL(blob);

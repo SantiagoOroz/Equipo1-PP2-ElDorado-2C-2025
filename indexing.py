@@ -28,8 +28,8 @@ def limpiar_texto_documento(doc: Document) -> Document:
     de línea internos) en un objeto Document, asegurando texto continuo.
     """
     if not isinstance(doc, Document) or not hasattr(doc, 'page_content'):
-         print(f"Advertencia: Se recibió un objeto inesperado para limpiar: {type(doc)}")
-         return doc
+        print(f"Advertencia: Se recibió un objeto inesperado para limpiar: {type(doc)}")
+        return doc
 
     texto = doc.page_content
     
@@ -45,10 +45,6 @@ def limpiar_texto_documento(doc: Document) -> Document:
     doc.page_content = texto_limpio
     return doc
 
-
-#
-# AQUÍ ESTÁ LA FUNCIÓN QUE FALTABA
-#
 def load_documents(source_dirs: list) -> list:
     """Carga todos los documentos PDF de una lista de directorios."""
     all_docs = []

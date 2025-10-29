@@ -10,7 +10,7 @@ export default function Sidebar({ onAction, onLogout }) {
         {/* Logo */}
         <div className="flex justify-center mb-6">
           <img
-            src="static\img\upscalemedia-transparent-achico.png"
+            src="/img/upscalemedia-transparent-achico.png"
             alt="Logo El Dorado"
             className="w-36 drop-shadow-lg transition-transform hover:scale-105"
           />
@@ -37,13 +37,6 @@ export default function Sidebar({ onAction, onLogout }) {
             className="bg-gradient-to-r from-doradoLightBlue to-doradoBlue hover:from-doradoOrange hover:to-orange-500 px-4 py-2 rounded-lg text-sm font-medium shadow-md transition"
           >
             📑 Indexar PDFs
-          </button>
-
-          <button
-            onClick={() => onAction("embed")}
-            className="bg-gradient-to-r from-doradoOrange to-orange-500 hover:from-orange-400 hover:to-doradoOrange px-4 py-2 rounded-lg text-sm font-medium text-white shadow-md transition"
-          >
-            🧠 Generar Embeddings
           </button>
 
           <button

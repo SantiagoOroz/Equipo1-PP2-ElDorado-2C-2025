@@ -1,8 +1,0 @@
-    POST http://127.0.0.1:5000/chat
-    Content-Type: application/json
-
-    {
-        "question": "¿Cuál es el propósito principal del proyecto El Dorado, según la documentación cargada?"
-    }
-    ```
-    

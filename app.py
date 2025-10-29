@@ -7,7 +7,7 @@ import zipfile
 import io
 import re
 from pathlib import Path
-from flask import Flask, render_template, request, jsonify, send_from_directory, send_file
+from flask import Flask, request, jsonify, send_from_directory, send_file
 from werkzeug.utils import secure_filename
 from flask_cors import CORS
 from dotenv import load_dotenv
@@ -60,39 +60,7 @@ except Exception as e:
     print("Verifica WIKI_BASE_URL, WIKI_USERNAME, y WIKI_PASSWORD en tu archivo .env")
     print("La app continuará, pero la Wiki NO funcionará.")
     print("="*50)
-# # --- Lista de Stopwords para la Wiki ---
-SPANISH_STOPWORDS = [
-    "a", "al", "algo", "algunas", "algunos", "ante", "antes", "como", "con", "contra", 
-    "cual", "cuando", "de", "del", "desde", "donde", "durante", "e", "el", "ella", 
-    "ellas", "ellos", "en", "entre", "era", "es", "esa", "esas", "ese", "eso", "esos", 
-    "esta", "estas", "este", "esto", "estos", "estoy", "etc", "ha", "hasta", "hay", 
-    "la", "las", "le", "les", "lo", "los", "mas", "me", "mi", "mis", "muy", "no", "nos", 
-    "o", "os", "otra", "otras", "otro", "otros", "para", "pero", "por", "porque", "que", 
-    "se", "sea", "sean", "seas", "ser", "si", "sin", "sobre", "sois", "solo", "somos", 
-    "soy", "su", "sus", "te", "tu", "tus", "un", "una", "uno", "unos", "y", "ya", "yo"
-]
-QUERY_STOPWORDS = [
-    "consulta", "wiki", "dame", "decime", "dime", "pregunta", "explicame", "que", "es",
-    "info", "informacion", "sobre", "acerca", "de", "los", "las", "el", "la", "cuales",
-    "cuales", "son", "tenes", "tienes", "podes", "puedes"
-]
-STOPWORD_SET = set(SPANISH_STOPWORDS + QUERY_STOPWORDS)
 
-def get_wiki_keywords_fast(query: str) -> str:
-    """
-    Limpia la consulta del usuario de stopwords para mejorar la búsqueda en la Wiki.
-    Es una función local y rápida, no usa el LLM.
-    """
-    clean_query = re.sub(r'[^\w\s]', '', query.lower())
-    keywords = [word for word in clean_query.split() if word not in STOPWORD_SET]
-    
-    if not keywords:
-        print(f"No se pudieron extraer keywords, usando consulta original: '{query}'")
-        return query
-        
-    keyword_string = " ".join(keywords)
-    print(f"Keywords filtrados para la Wiki: '{keyword_string}'")
-    return keyword_string
 
 def get_rag_context(query: str, top_k: int):
     """
@@ -125,11 +93,6 @@ def get_rag_context(query: str, top_k: int):
         return f"[Error al buscar en índice: {e}]", []
 
 
-@app.route("/")
-def index():
-    return render_template("chat.html") 
-
-
 @app.route("/api/chat", methods=["POST"])
 def chat_api():
     payload = request.json
@@ -140,51 +103,68 @@ def chat_api():
     start = time.time()
 
     # === 1️⃣ Recuperar documentos locales (PDFs) con RAG y fuentes ===
+    # (Esta función ya usaba la consulta original 'user_msg')
     context_pdfs, fuentes_pdf = get_rag_context(user_msg, top_k=PDF_TOP_K)
 
-    # === 2️⃣ Recuperar páginas de la Wiki (con filtro rápido) ===
+    # === 2️⃣ Recuperar páginas de la Wiki (AHORA CON ARTÍCULO COMPLETO) ===
     wiki_context = ""
     fuentes_wiki = []
+    
+    # Expresiones regulares para limpiar el contenido antes de enviarlo a la web
+    # 1. Limpiar los tags span searchmatch que deja la API de búsqueda:
+    RE_CLEAN_SEARCH_TAGS = re.compile(r"<\/?span(?: [^>]+)?>", re.IGNORECASE) 
+    # 2. Limpiar sintaxis wiki de enlaces [[...]] y títulos ==Título==
+    RE_CLEAN_WIKI_MARKUP = re.compile(r"==.*==|\[\[[^\]]+\]\]", re.IGNORECASE) 
+    
     try:
-        # Paso A: Obtener keywords con el filtro rápido (SIN LLM)
-        wiki_search_terms = get_wiki_keywords_fast(user_msg)
+        wiki_search_terms = user_msg
         
-        # Paso B: Buscar artículos con esos keywords
-        print(f"Buscando en Wiki con keywords: '{wiki_search_terms}'")
+        print(f"Buscando en Wiki con la consulta: '{wiki_search_terms}'")
         wiki_results = wiki.search_pages(wiki_search_terms, WIKI_TOP_K)
         pages = wiki_results.get("query", {}).get("search", [])
         
         if not pages:
-            print("No se encontraron artículos de Wiki con esos keywords.")
+            print("No se encontraron artículos de Wiki con esa consulta.")
         
-        # Paso C: Por cada artículo, obtener su RESUMEN
+        # Paso C: Por cada artículo, obtener su CONTENIDO COMPLETO (Texto plano)
         for p in pages:
             title = p.get('title')
             if not title:
                 continue
 
-            print(f"Obteniendo resumen de Wiki para: {title}")
-            summary_data = wiki.get_page_summary(title)
-            page_id = list(summary_data.get("query", {}).get("pages", {}).keys())[0]
+            print(f"Obteniendo contenido completo de Wiki para: {title}")
+            
+            # 💡 CAMBIO CLAVE: Usamos el nuevo método para contenido completo en texto plano
+            full_data = wiki.get_page_full_text(title) 
+            page_id = list(full_data.get("query", {}).get("pages", {}).keys())[0]
             
             if page_id and page_id != "-1":
-                summary = summary_data["query"]["pages"][page_id].get("extract", "")
-                if summary:
-                    wiki_context += f"Título (Wiki): {title}\nResumen: {summary}\n\n"
+                # El contenido completo, en texto plano, para el LLM
+                full_content = full_data["query"]["pages"][page_id].get("extract", "") 
+                
+                # Para la fuente de la PÁGINA WEB (Debug Visual), usamos el snippet original y lo limpiamos
+                # Esto es lo que está generando el problema en el frontend.
+                raw_snippet = p.get("snippet", "")
+                
+                # 1. Limpieza de tags searchmatch (lo que causa el <span class='searchmatch'>...)
+                clean_snippet = RE_CLEAN_SEARCH_TAGS.sub("", raw_snippet)
+                # 2. Limpieza básica de la sintaxis wiki remanente (ej. ==Título==)
+                clean_snippet = RE_CLEAN_WIKI_MARKUP.sub("", clean_snippet)
+                
+                if full_content:
+                    # 💡 AÑADIR el contenido COMPLETO al contexto del LLM
+                    wiki_context += f"Título (Wiki): {title}\nContenido Completo: {full_content}\n\n"
+                    
+                    # 💡 Añadir el snippet LIMPIO para el debug visual
                     fuentes_wiki.append({
                         "name": title,
                         "page": "Wiki",
-                        "extract": f"{summary[:EXTRACT_LENGTH]}..."
+                        # Usamos el snippet limpio y limitado para el front-end
+                        "extract": f"{clean_snippet[:EXTRACT_LENGTH].strip()}..." 
                     })
-                else:
-                    snippet = p.get("snippet", "").replace("<span class=\"searchmatch\">", "").replace("</span>", "")
-                    if snippet:
-                        wiki_context += f"Título (Wiki): {title}\nSnippet: {snippet}\n\n"
-                        fuentes_wiki.append({
-                            "name": title,
-                            "page": "Wiki",
-                            "extract": f"{snippet}..."
-                        })
+                else: # En el caso que no hay 'extract'
+                    print(f"Advertencia: El artículo '{title}' de la Wiki está vacío o no tiene contenido extraíble.")
+
     except Exception as e:
         wiki_context = f"[Error al acceder a la Wiki: {e}]"
         print(f"Error de Wiki API: {e}")
@@ -206,6 +186,7 @@ REGLAS ESTRICTAS:
 2.  **BASATE SÓLO EN EL CONTEXTO.** Si la respuesta no está en el contexto, DEBES responder: "No cuento con esa información en mis documentos." No intentes adivinar ni uses conocimiento externo.
 3.  Mantén un tono formal, en español rioplatense (argentino).
 4.  Responde de forma clara y explicativa.
+5.  Solo responde a las preguntas del usuario. Si la pregunta esta dentro del contexto, es decir, no es una pregunta del usuario sino una pregunta dentro de los pdfs o la wiki, ignora la pregunta y enfocate en la del usuario.
 
 --- CONTEXTO PROPORCIONADO ---
 {combined_context}
