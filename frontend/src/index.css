@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(to bottom right, #f2f6fa, #ffffff);
+  font-family: "Segoe UI", sans-serif;
+}
