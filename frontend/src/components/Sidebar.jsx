@@ -1,9 +1,23 @@
 import React from "react";
+import { Loader2 } from 'lucide-react'; // 💡 Importar Loader2 para el spinner
 
-// {/* ---------MODIFICACIÓN INICIA-------- */}
 // Aceptamos la nueva propiedad 'onLogout'
-export default function Sidebar({ onAction, onLogout }) {
-// {/* ---------MODIFICACIÓN FINALIZA-------- */}
+// 💡 Aceptamos la nueva propiedad 'isIndexing'
+export default function Sidebar({ onAction, onLogout, isIndexing }) {
+  const handleIndexClick = () => {
+    if (window.confirm("¿Estás seguro de que quieres indexar? Esto borrará el índice anterior.")) {
+      onAction("index");
+    }
+  };
+    
+  // Función para manejar las acciones con confirmación de bloqueo
+  const handleSafeAction = (action, file = null) => {
+    if (isIndexing) {
+      alert("⚠️ El proceso de indexación está en curso. Por favor, espera a que termine.");
+      return;
+    }
+    onAction(action, file);
+  };
   return (
     <div className="bg-gradient-to-b from-doradoBlue to-[#0f172a] text-white w-72 p-6 flex flex-col justify-between shadow-2xl rounded-r-3xl">
       <div>
@@ -27,43 +41,56 @@ export default function Sidebar({ onAction, onLogout }) {
             <input
               type="file"
               accept=".pdf"
-              onChange={(e) => onAction("upload", e.target.files[0])}
+              onChange={(e) => handleSafeAction("upload", e.target.files[0])}
               className="hidden"
+              disabled={isIndexing}
             />
           </label>
 
           <button
-            onClick={() => onAction("index")}
-            className="bg-gradient-to-r from-doradoLightBlue to-doradoBlue hover:from-doradoOrange hover:to-orange-500 px-4 py-2 rounded-lg text-sm font-medium shadow-md transition"
+            onClick={handleIndexClick}
+            className={`bg-gradient-to-r from-doradoLightBlue to-doradoBlue px-4 py-2 rounded-lg text-sm font-medium shadow-md transition flex items-center justify-center gap-2 ${isIndexing ? 'opacity-50 cursor-not-allowed' : 'hover:from-doradoOrange hover:to-orange-500'}`}
+            disabled={isIndexing} // 💡 Deshabilitar durante la indexación
           >
-            📑 Indexar PDFs
+            {isIndexing ? (
+              <>
+                <Loader2 className="animate-spin" size={18} /> Indexando...
+              </>
+            ) : (
+              "📑 Indexar Conocimiento"
+            )}
           </button>
 
           <button
-            onClick={() => onAction("export")}
-            className="bg-gray-600 hover:bg-gray-500 px-4 py-2 rounded-lg text-sm font-medium shadow-sm transition"
+            onClick={() => handleSafeAction("export")}
+            className={`bg-gray-600 px-4 py-2 rounded-lg text-sm font-medium shadow-sm transition ${isIndexing ? 'opacity-50 cursor-not-allowed' : 'hover:bg-gray-500'}`}
+            disabled={isIndexing} // 💡 Deshabilitar durante la indexación
           >
             ⬇️ Exportar Índice
           </button>
 
-          <label className="cursor-pointer bg-gray-700 hover:bg-gray-600 px-4 py-2 rounded-lg text-sm font-medium text-center transition">
+          <label className={`cursor-pointer px-4 py-2 rounded-lg text-sm font-medium text-center transition ${isIndexing ? 'bg-gray-700 opacity-50 cursor-not-allowed' : 'bg-gray-700 hover:bg-gray-600'}`}>
             ⬆️ Importar Índice
             <input
               type="file"
-              accept=".json"
+              accept=".json, .zip, application/json, application/zip"
               onChange={(e) => onAction("import", e.target.files[0])}
               className="hidden"
             />
           </label>
 
           <button
-            onClick={() => onAction("clear")}
-            className="bg-red-600 hover:bg-red-700 px-4 py-2 rounded-lg text-sm font-medium shadow-md transition mt-2"
+            onClick={() => {
+              if (window.confirm("⚠️ ¿Estás seguro de borrar toda la base de datos vectorial?")) {
+                handleSafeAction("clear");
+              }
+            }}
+            className={`bg-red-600 px-4 py-2 rounded-lg text-sm font-medium shadow-md transition mt-2 ${isIndexing ? 'opacity-50 cursor-not-allowed' : 'hover:bg-red-700'}`}
+            disabled={isIndexing} // 💡 Deshabilitar
           >
             🗑️ Limpiar Colección
           </button>
 
-          {/* ---------MODIFICACIÓN INICIA-------- */}
           {/* Botón para "cerrar sesión" u ocultar el panel */}
           <button
             onClick={onLogout}
@@ -71,7 +98,6 @@ export default function Sidebar({ onAction, onLogout }) {
           >
             🔒 Ocultar Panel
           </button>
-          {/* ---------MODIFICACIÓN FINALIZA-------- */}
         </div>
       </div>
 

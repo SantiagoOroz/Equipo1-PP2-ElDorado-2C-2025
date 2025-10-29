@@ -56,7 +56,7 @@ export default function Chat() {
   };
 
   return (
-    <div className="flex flex-col w-full bg-gradient-to-b from-[#f8fafc] to-[#eef2f3] rounded-3xl shadow-2xl p-6 h-[90vh] backdrop-blur-md border border-gray-100">
+    <div className="flex flex-col w-full bg-gradient-to-b from-[#f8fafc] to-[#eef2f3] rounded-3xl shadow-2xl p-6 h-full backdrop-blur-md border border-gray-100">
       <h1 className="text-2xl font-bold text-doradoOrange mb-4 border-b border-doradoLightBlue pb-2 drop-shadow-sm">
         Asistente Técnico - El Dorado SRL
       </h1>
@@ -67,12 +67,11 @@ export default function Chat() {
         {/* Agregamos un mensaje de bienvenida inicial */}
         {messages.length === 0 && (
           <div className="flex justify-start">
-             <div className="px-4 py-3 rounded-2xl max-w-[80%] text-sm leading-relaxed shadow-md bg-gradient-to-r from-doradoLightBlue to-doradoBlue text-white rounded-bl-none">
+            <div className="px-4 py-3 rounded-2xl max-w-[80%] text-sm leading-relaxed shadow-md bg-gradient-to-r from-doradoLightBlue to-doradoBlue text-white rounded-bl-none">
               ¡Hola! Soy un asistente técnico especializado en el sistema de gestión de calidad de El Dorado SRL. Estoy aquí para ayudarte con cualquier pregunta o duda que tengas relacionada con los documentos y procedimientos de la empresa. ¿En qué puedo ayudarte?
-             </div>
+            </div>
           </div>
         )}
-        {/* {/* ---------MODIFICACIÓN FINALIZA-------- */}
 
         {messages.map((msg, i) => (
           <div
@@ -91,7 +90,6 @@ export default function Chat() {
               {/* 1. El texto de la respuesta */}
               {msg.text}
 
-              {/* ---------MODIFICACIÓN INICIA-------- */}
               {/* 2. Renderizado de las fuentes (si existen) */}
               {msg.sender === "bot" && msg.sources && (
                 <div className="mt-3 pt-3 border-t border-white/30 text-xs opacity-90">
@@ -106,9 +104,12 @@ export default function Chat() {
                             <FileText size={14} />
                             {source.name} (Pág: {source.page})
                           </strong>
-                          <blockquote className="border-l-2 border-white/50 pl-2 ml-1 italic text-white/80 mt-1">
-                            {source.extract}
-                          </blockquote>
+                          {/* 💡 Condición para mostrar el extracto/blockquote */}
+                          {source.extract && source.extract.length > 3 && ( 
+                            <blockquote className="border-l-2 border-white/50 pl-2 ml-1 italic text-white/80 mt-1">
+                              {source.extract}
+                            </blockquote>
+                          )}
                         </li>
                       ))}
                     
@@ -120,15 +121,17 @@ export default function Chat() {
                             <Globe size={14} />
                             {source.name} (Wiki)
                           </strong>
-                          <blockquote className="border-l-2 border-white/50 pl-2 ml-1 italic text-white/80 mt-1">
-                            {source.extract}
-                          </blockquote>
+                          {/* 💡 Condición para mostrar el extracto/blockquote */}
+                          {source.extract && source.extract.length > 3 && (
+                            <blockquote className="border-l-2 border-white/50 pl-2 ml-1 italic text-white/80 mt-1">
+                              {source.extract}
+                            </blockquote>
+                          )}
                         </li>
                       ))}
                   </ul>
                 </div>
               )}
-              {/* ---------MODIFICACIÓN FINALIZA-------- */}
 
             </div>
           </div>
