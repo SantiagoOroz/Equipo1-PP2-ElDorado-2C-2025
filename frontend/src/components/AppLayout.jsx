@@ -50,10 +50,25 @@ function AdminLogin({ onLoginSuccess }) {
           </button>
         </div>
       </div>
-      <footer className="text-center text-xs text-gray-400 mt-6">
-        © 2025 El Dorado SRL
-      </footer>
+    {/* ... (Tu contenido anterior) ... */}
+
+    {/* Enlace al Manual de Usuario */}
+    <div className="text-center mb-1">
+      <a 
+        href="https://cristiancouto.github.io/eldoradosrl.github.io/#/guia-usuario"
+        target="_blank" // Esto es buena práctica para abrir enlaces externos en una pestaña nueva
+        rel="noopener noreferrer" // Mejora la seguridad y rendimiento
+        className="text-sm text-blue-500 hover:text-blue-700 font-medium" // Estilo diferente al footer
+      >
+        📒 Manual de usuario
+      </a>
     </div>
+
+    {/* Footer de Copyright (el original) */}
+    <footer className="text-center text-xs text-gray-400 mt-6">
+      © 2025 El Dorado SRL
+    </footer>
+</div>
   );
 }
 
