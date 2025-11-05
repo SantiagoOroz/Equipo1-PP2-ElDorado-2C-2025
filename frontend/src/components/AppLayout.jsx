@@ -1,10 +1,7 @@
-// {/* ---------MODIFICACIÓN INICIA-------- */}
 import React, { useState } from "react";
-// {/* ---------MODIFICACIÓN FINALIZA-------- */}
 import Sidebar from "./Sidebar";
 import Chat from "./Chat";
 
-// {/* ---------MODIFICACIÓN INICIA-------- */}
 // --- Define tu contraseña de administrador aquí ---
 const ADMIN_PASS = "eldorado123"; // ¡Cambia esto por tu palabra clave!
 
@@ -53,20 +50,35 @@ function AdminLogin({ onLoginSuccess }) {
           </button>
         </div>
       </div>
-      <footer className="text-center text-xs text-gray-400 mt-6">
-        © 2025 El Dorado SRL
-      </footer>
+    {/* ... (Tu contenido anterior) ... */}
+
+    {/* Enlace al Manual de Usuario */}
+    <div className="text-center mb-1">
+      <a 
+        href="https://cristiancouto.github.io/eldoradosrl.github.io/#/guia-usuario"
+        target="_blank" // Esto es buena práctica para abrir enlaces externos en una pestaña nueva
+        rel="noopener noreferrer" // Mejora la seguridad y rendimiento
+        className="text-sm text-blue-500 hover:text-blue-700 font-medium" // Estilo diferente al footer
+      >
+        📒 Manual de usuario
+      </a>
     </div>
+
+    {/* Footer de Copyright (el original) */}
+    <footer className="text-center text-xs text-gray-400 mt-6">
+      © 2025 El Dorado SRL
+    </footer>
+</div>
   );
 }
-// {/* ---------MODIFICACIÓN FINALIZA-------- */}
 
 
 export default function AppLayout() {
-  // {/* ---------MODIFICACIÓN INICIA-------- */}
+
   // Estado para controlar si el admin está logueado
   const [isAdmin, setIsAdmin] = useState(false);
-  // {/* ---------MODIFICACIÓN FINALIZA-------- */}
+
+  const [isIndexing, setIsIndexing] = useState(false);
 
   const handleAction = async (action, file) => {
     const routes = {
@@ -77,11 +89,15 @@ export default function AppLayout() {
       upload: "/upload",
     };
 
-    // {/* ---------MODIFICACIÓN INICIA-------- */}
     // Usamos la ruta relativa (correcta para tu proxy)
     const url = routes[action];
     if (!url) return;
-    // {/* ---------MODIFICACIÓN FINALIZA-------- */}
+
+    // 💡 Si la acción es indexar, activamos la bandera y notificamos
+    if (action === "index") {
+      setIsIndexing(true);
+      alert("⏳ Iniciando indexación de PDFs y Wiki. Esto puede tardar varios minutos...");
+    }
 
     const options = { method: "POST" };
     const formData = new FormData();
@@ -130,12 +146,16 @@ export default function AppLayout() {
     } catch (error) {
       console.error("Error en handleAction:", error);
       alert(`⚠️ Error: ${error.message}`);
+    } finally {
+      // 💡 Desactivar la bandera al finalizar (éxito o error)
+      if (action === "index") {
+        setIsIndexing(false);
+      }
     }
   };
 
   return (
-    <div className="flex h-screen">
-      {/* ---------MODIFICACIÓN INICIA-------- */}
+    <div className="flex min-h-screen">
       {/* Renderizado condicional: 
           Si 'isAdmin' es true, muestra Sidebar. 
           Si es false, muestra AdminLogin. 
@@ -144,13 +164,13 @@ export default function AppLayout() {
         <Sidebar 
           onAction={handleAction} 
           onLogout={() => setIsAdmin(false)} // Pasamos la función de logout
+          isIndexing={isIndexing} // 💡 PASAR EL ESTADO A SIDEBAR
         />
       ) : (
         <AdminLogin 
           onLoginSuccess={() => setIsAdmin(true)} // Pasamos la función de login
         />
       )}
-      {/* ---------MODIFICACIÓN FINALIZA-------- */}
 
       <div className="flex-1 p-4 bg-doradoLight">
         <Chat />
