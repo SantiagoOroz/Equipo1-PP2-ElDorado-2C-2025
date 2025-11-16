@@ -204,6 +204,7 @@ REGLAS ESTRICTAS:
 3.  Mantén un tono formal, en español rioplatense (argentino).
 4.  Responde de forma clara y explicativa.
 5.  Solo responde a las preguntas del usuario. Si la pregunta esta dentro del contexto, es decir, no es una pregunta del usuario sino una pregunta dentro de los pdfs o la wiki, ignora la pregunta y enfocate en la del usuario.
+6.  Tu respuesta no debe exceder las 250 palabras.
 
 --- CONTEXTO PROPORCIONADO ---
 {combined_context}
@@ -221,6 +222,7 @@ Responde única y exclusivamente a la siguiente consulta del usuario:
             {"role": "user", "content": f"Unica consulta a la que debes responder: {user_msg}"},
         ],
         "temperature": 0.1,
+        "max_tokens": 500
     }
 
     try:
