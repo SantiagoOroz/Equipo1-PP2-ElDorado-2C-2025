@@ -78,6 +78,16 @@ cd santiagooroz-equipo1-pp2-eldorado-2c-2025
     pip install -r requirements.txt
     ```
 
+3.  **Rellenar credenciales de la wiki en el .env, opcional para integrar la wiki**:
+
+    ```bash
+    # Credenciales de la Wiki de El Dorado
+    WIKI_BASE_URL="https://objetivos.eldoradosrl.ar/wiki"
+    # Requerido para integrar la wiki. Rellenar credenciales
+    WIKI_USERNAME="" 
+    WIKI_PASSWORD=""
+    ```
+
 ### 4\. Configuración del Frontend (`/frontend`)
 
 1.  **Navegar a la carpeta del frontend**:
